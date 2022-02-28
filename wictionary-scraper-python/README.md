@@ -7,7 +7,7 @@
     "Hindi-Persian" : "https://en.m.wiktionary.org/wiki/Category:Hindi_terms_borrowed_from_Persian"
     }
 
-* run the scraper notebook as it is. The result will be as csv file in the results/ dir. Each line will have the borrowed word and the list of available IPAs for that word. 
+* run the scraper notebook as it is. The result file will contain the word in language 1 e.g hindi, the word borrowed from language 2, the IPAs as how the word is pronounced in language 1. 
 
 ## possible issues
 
