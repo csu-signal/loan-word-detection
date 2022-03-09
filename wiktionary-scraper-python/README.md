@@ -1,4 +1,4 @@
-# Wictionary scraper
+# Wiktionary scraper
 
 ## how to run
 
