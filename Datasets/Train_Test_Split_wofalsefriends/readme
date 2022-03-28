@@ -1,4 +1,7 @@
-This is the train-test split for our logistic regression classifier related experiments. train.shape, test.shape : ((4400, 11), (503, 11))
+This is the train-test split with labels for our logistic regression classifier related experiments. For training the classifier, we need the semantic similarities from Mbert(or XLM or ParsBERT) for 
+each of these word pairs(l1,l2) and the logits from the neural networks(CNNS, DNNs) as features only since the train/test splits already have the various normalized edit distances. 
+
+train.shape, test.shape : ((4400, 11), (503, 11))
 Train split:((1200, 11): loan words 
  
  (1200, 11): Equivalent words/synonyms 
