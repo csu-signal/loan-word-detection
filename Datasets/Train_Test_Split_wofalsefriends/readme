@@ -1,0 +1,19 @@
+This is the train-test split for our logistic regression classifier related experiments. train_.shape, test.shape : ((4400, 11), (503, 11))
+Train split:((1200, 11): loan words 
+ 
+ (1200, 11): Equivalent words/synonyms 
+ 
+ (1200, 11): Random shuffled words 
+ 
+ (800, 11): Hard Negatives 
+ 
+ Test split respectively:
+ 
+ (143, 11),
+ 
+ (140, 11),
+ 
+ (140, 11),
+ 
+ (80, 11))
+ 
