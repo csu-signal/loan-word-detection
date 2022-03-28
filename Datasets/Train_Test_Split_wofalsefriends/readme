@@ -1,4 +1,4 @@
-This is the train-test split for our logistic regression classifier related experiments. train_.shape, test.shape : ((4400, 11), (503, 11))
+This is the train-test split for our logistic regression classifier related experiments. train.shape, test.shape : ((4400, 11), (503, 11))
 Train split:((1200, 11): loan words 
  
  (1200, 11): Equivalent words/synonyms 
