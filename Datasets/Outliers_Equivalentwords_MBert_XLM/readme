@@ -1,0 +1,3 @@
+This file contains outliers calculated using z-scores for cosine similarities using bth XLM and M-BERT cross-lingual models. Outliers from both high cosine sim and low cosine sim are captured as csv files. 
+Cos similarities are calculated using embeddings from the first token of the text pairs(L1,L2) as it if often used as the CLS or classification token. 
+Check XLM_MBERT_cosim_logistic_regressor.ipynb file in https://github.com/csu-signal/loan-word-detection/tree/main/TorchClassifier_Panphon_features for details. 
