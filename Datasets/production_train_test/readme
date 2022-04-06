@@ -1,4 +1,4 @@
-For csv with suffix, --balanced: 
+For train_test csvs with suffix, --balanced: 
 loans_train.shape, loans_test.shape, equiv_train.shape, equiv_test.shape,random_train.shape, random_test.shape,hard_neg_train.shape,hard_neg_test.shape respectively:
 
 ((1200, 14),
@@ -9,3 +9,16 @@ loans_train.shape, loans_test.shape, equiv_train.shape, equiv_test.shape,random_
  (42, 14),
  (172, 14),
  (20, 14))
+
+For train_test csvs with suffix, --real_dist: 
+loans_train.shape, loans_test.shape, equiv_train.shape, equiv_test.shape,random_train.shape, random_test.shape,hard_neg_train.shape,hard_neg_test.shape respectively:
+
+
+((1200, 13),
+ (143, 13),
+ (1400, 13),
+ (140, 13),
+ (1200, 13),
+ (139, 13),
+ (400, 13),
+ (40, 13))
