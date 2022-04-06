@@ -10,7 +10,7 @@ loans_train.shape, loans_test.shape, equiv_train.shape, equiv_test.shape,random_
  (172, 14),
  (20, 14))
 
-For train_test csvs with suffix, --real_dist: 
+For train_test csvs with suffix, --realdist: 
 loans_train.shape, loans_test.shape, equiv_train.shape, equiv_test.shape,random_train.shape, random_test.shape,hard_neg_train.shape,hard_neg_test.shape respectively:
 
 
