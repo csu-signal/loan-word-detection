@@ -1,882 +1,5177 @@
-loan_word,original_word,loan_word_ipas,original_word_ipas
-à bas,à bas,"['/ɑ.ˈbɑ/', '/a.ˈba/', '/a.ˈbɑ/', '/a bɑ/']","['/ɑ.ˈbɑ/', '/a.ˈba/', '/a.ˈbɑ/', '/a bɑ/']"
-à bouche,à bouche,['/ɑˈbuʃ/'],"['/a/', '/aː/', '/ˈa˨/', '/a/', '/a(ː)/', '/ɑ(ː)/', '/a/', '/a/', '/aː/']"
-à contrecœur,à contrecœur,"['/ˌæ ˌkɒn.tɹəˈkɜː/', '/-ˌkɒ̃-/', '/-ˈkəː/', '/ˌɑ ˌkɑn.tɹəˈkɚ/', '/a kɔ̃.tʁə.kœʁ/']","['/ˌæ ˌkɒn.tɹəˈkɜː/', '/-ˌkɒ̃-/', '/-ˈkəː/', '/ˌɑ ˌkɑn.tɹəˈkɚ/', '/a kɔ̃.tʁə.kœʁ/']"
-à deux,à deux,[],"['/a/', '/aː/', '/ˈa˨/', '/a/', '/a(ː)/', '/ɑ(ː)/', '/a/', '/a/', '/aː/']"
-a go-go,à gogo,[],"['/əˈɡəʊ.ɡəʊ/', '/əˈɡoʊ.ɡoʊ/', '/a ɡɔ.ɡo/']"
-à gogo,à gogo,"['/əˈɡəʊ.ɡəʊ/', '/əˈɡoʊ.ɡoʊ/', '/a ɡɔ.ɡo/']","['/əˈɡəʊ.ɡəʊ/', '/əˈɡoʊ.ɡoʊ/', '/a ɡɔ.ɡo/']"
-a la,à la,"['/æ læ/', '/ɑ lɑ/', '/alːa/', '/aˈla/', '/a la/']","['/a la/', '/alːa/', '/aˈla/']"
-à la,à la,"['/a la/', '/alːa/', '/aˈla/']","['/a la/', '/alːa/', '/aˈla/']"
-à la carte,à la carte,"['/ˌæ.ləˈkɑːt/', '/ˌæ.læˈkɑːt/', '/ˌɑ.ləˈkɑɹt/', '/ˌɑ.lɑˈkɑɹt/', '/a la kaʁt/', '/a.laˈkaʈ/', '/a.laˈkaʁt/', '/ˌa.laˈkaʈː/']","['/ˌæ.ləˈkɑːt/', '/ˌæ.læˈkɑːt/', '/ˌɑ.ləˈkɑɹt/', '/ˌɑ.lɑˈkɑɹt/', '/a la kaʁt/', '/a.laˈkaʈ/', '/a.laˈkaʁt/', '/ˌa.laˈkaʈː/']"
-a la minute,à la minute,[],[]
-a la mode,à la mode,"['/ˌɑləˈməʊd/', '/ˌæləˈməʊd/']","['/ˈɑ ˈlɑ ˈmod/', '/a la mɔd/', '/a.laˈmɔːd/']"
-à la russe,à la russe,[],[]
-à outrance,à outrance,['/a u.tʁɑ̃s/'],['/a u.tʁɑ̃s/']
-à propos de bottes,à propos de bottes,"['/ˌæpɹəˌpəʊ də ˈbɒt(s)/', '/ˌæpɹəˌpoʊ də ˈbɑt(s)/']","['/ˌæpɹəˌpəʊ də ˈbɒt(s)/', '/ˌæpɹəˌpoʊ də ˈbɑt(s)/']"
-à trois,à trois,['/ɑ ˈtɹwɑ/'],"['/a/', '/aː/', '/ˈa˨/', '/a/', '/a(ː)/', '/ɑ(ː)/', '/a/', '/a/', '/aː/']"
--a-,à,['/a/'],"['/a/', '/aː/', '/ˈa˨/', '/a/', '/a(ː)/', '/ɑ(ː)/', '/a/', '/a/', '/aː/']"
-abacost,à bas,"['/ˈæ.bə.kɒst/', '/ˈæ.bə.kɑst/', '/a.ba.kɔst/']","['/ɑ.ˈbɑ/', '/a.ˈba/', '/a.ˈbɑ/', '/a bɑ/']"
-abaissé,abaissé,"['/əˈbeɪˌseɪ/', '/a.be.se/']","['/əˈbeɪˌseɪ/', '/a.be.se/']"
-abandon,abandoner,"['/əˈbæn.dən/', '/a.bɑ̃.dɔ̃/', '/abaŋˈdɔŋ/', '/abanˈdɔŋ/', '/aˈban.dɔn/']","['/əˈbændənɚ/', '/əˈbændənə/', '/abaŋˈdɔŋər/', '/abanˈdɔŋər/', '/abandɔˈneːr/']"
-abandonment,abandonnement,"['/əˈbæn.dn̩.mn̩t/', '/əˈbæn.dn̩.mn̩t/']",['/a.bɑ̃.dɔn.mɑ̃/']
-abaque,abaque,['/a.bak/'],['/a.bak/']
-abat-vent,abat-vent,"['/ɑ.ˌbɑ.ˈvɑ̃/', '/a.ba.vɑ̃/']","['/ɑ.ˌbɑ.ˈvɑ̃/', '/a.ba.vɑ̃/']"
-abat-voix,abat-voix,"['/ɑ.ˌbɑv.ˈwɑ/', '/ɑ.ˌbɑv.ˈwɑz/', '/a.ba.vwa/']","['/ɑ.ˌbɑv.ˈwɑ/', '/ɑ.ˌbɑv.ˈwɑz/', '/a.ba.vwa/']"
-abatis,abatis,"['/ˈæb.ə.tiː/', '/ˈæb.ə.ti/', '/ˈæb.ə.tɪs/', '/əˈba.tis/', '/aˈba.tis/', '/aˈbatis/']","['/ˈæb.ə.tiː/', '/ˈæb.ə.ti/', '/ˈæb.ə.tɪs/', '/əˈba.tis/', '/aˈba.tis/', '/aˈbatis/']"
-abatjour,abat-jour,"['/ˌɑˌbɑˈʒʊ.ɚ/', '/ˌɑˌbɑˈʒʊɹ/']","['/a.ba.ʒuʁ/', '/a.baˈʒur/', '/a.baˈd͡zur/']"
-abatsons,abatsons,"['/ˌɑˌbɑˈsɔ̃/', '/ˌɑˌbɑˈsɔ̃z/']","['/ˌɑˌbɑˈsɔ̃/', '/ˌɑˌbɑˈsɔ̃z/']"
-abattage,abattage,['/a.ba.taʒ/'],['/a.ba.taʒ/']
-abattoir,abattoir,"['/ˈæb.əˌtwɑː(ɹ)/', '/ˈæb.əˌtwɑɹ/', '/ˈæb.əˌtwɑ/', '/ˌaː.baːˈtʋaːr/', '/a.ba.twaʁ/', '/abatɔˈɑːr/']","['/ˈæb.əˌtwɑː(ɹ)/', '/ˈæb.əˌtwɑɹ/', '/ˈæb.əˌtwɑ/', '/ˌaː.baːˈtʋaːr/', '/a.ba.twaʁ/', '/abatɔˈɑːr/']"
-abbé,abbé,"['/æˈbeɪ/', '/ˈæb.eɪ/', '/a.be/', '/aˈbɛ/']","['/æˈbeɪ/', '/ˈæb.eɪ/', '/a.be/', '/aˈbɛ/']"
-Abbeville,Abbeville,"['/ˈæb.iˌvɪl/', '/ab.vil/', '/be.vil/']","['/ˈæb.iˌvɪl/', '/ab.vil/', '/be.vil/']"
-abduction,abductus,"['/əbˈdʌk.ʃn̩/', '/æbˈdʌk.ʃn̩/', '/æbˈdək.ʃn̩/', '/əbˈdək.ʃn̩/', '/ˈeɪ.ˈbiː.dʌk.ʃn̩/', '/ab.dyk.sjɔ̃/']",[]
-Abenaki,abénaqui,"['/ˌæbəˈnæ.ki/', '/ˌɑbəˈnɑki/']",[]
-abime,abime,"['/a.bim/', '/abime/']","['/a.bim/', '/abime/']"
-ablegate,ablégate,"['/ˈæb.lə.ɡeɪt/', '/ˈæb.lə.ɡət/']",[]
-ablet,ablet,[],[]
-abonné,abonné,"['/æˈbɔ.ne/', '/a.bɔ.ne/']","['/æˈbɔ.ne/', '/a.bɔ.ne/']"
-abonnement,abonnement,"['/æˈbɔn.mɑ̃/', '/abonəmanɡ/', '/abɔnəmanɡ/', '/ˌɑ.bɔ.nəˈmɛnt/', '/a.bɔn.mɑ̃/', '/abʊnəˈmaŋ/']","['/æˈbɔn.mɑ̃/', '/abonəmanɡ/', '/abɔnəmanɡ/', '/ˌɑ.bɔ.nəˈmɛnt/', '/a.bɔn.mɑ̃/', '/abʊnəˈmaŋ/']"
-abordage,abordage,"['/əˈbɔːɹd.ɪd͡ʒ/', '/əˈbɔɹd.ɪd͡ʒ/']","['/əˈbɔːɹd.ɪd͡ʒ/', '/əˈbɔɹd.ɪd͡ʒ/']"
-abracadabrant,abracadabrant,['/a.bʁa.ka.da.bʁɑ̃/'],['/a.bʁa.ka.da.bʁɑ̃/']
-abrasion,abrasion,['/əˈbɹeɪ.ʒn̩/'],['/əˈbɹeɪ.ʒn̩/']
-abreuvoir,abreuvoir,"['/əbɹuːˈvwɑː(ɹ)/', '/a.bʁœ.vwaʁ/', '/abrəvwar/']","['/əbɹuːˈvwɑː(ɹ)/', '/a.bʁœ.vwaʁ/', '/abrəvwar/']"
-abri,abri,"['/əˈbɹiː/', '/ɑːˈbɹiː/', '/əˈbɹi/', '/ɑˈbɹi/', '/æˈbɹi/', '/aːˈbri/', '/a.bʁi/', '/ˈa.bri/', '/abri/']","['/əˈbɹiː/', '/ɑːˈbɹiː/', '/əˈbɹi/', '/ɑˈbɹi/', '/æˈbɹi/', '/aːˈbri/', '/a.bʁi/', '/ˈa.bri/', '/abri/']"
-Abri Audit,Abri Audit,"['/ə.ˈbɹi/', '/ɑ.ˈbɹi/', '/æ.ˈbɹi/', '/a.ˈbɹi/', '/oʊ.ˈdi/']","['/ə.ˈbɹi/', '/ɑ.ˈbɹi/', '/æ.ˈbɹi/', '/a.ˈbɹi/', '/oʊ.ˈdi/']"
-absinthe,absinthe,"['/ˈæb.sɪnθ/', '/ˈæb.sænθ/', '/ˈæb.sɪnθ/', '/ˈæb.sæ̃θ/', '/ap.sɛ̃t/']","['/ˈæb.sɪnθ/', '/ˈæb.sænθ/', '/ˈæb.sɪnθ/', '/ˈæb.sæ̃θ/', '/ap.sɛ̃t/']"
-abstention,abstention,"['/əbˈstɛn.ʃn̩/', '/æbˈstɛn.ʃn̩/', '/əbˈstɛn.ʃn̩/', '/æbˈstɛn.t͡ʃn̩/', '/əbˈstɛn.t͡ʃn̩/', '/ap.stɑ̃.sjɔ̃/']","['/əbˈstɛn.ʃn̩/', '/æbˈstɛn.ʃn̩/', '/əbˈstɛn.ʃn̩/', '/æbˈstɛn.t͡ʃn̩/', '/əbˈstɛn.t͡ʃn̩/', '/ap.stɑ̃.sjɔ̃/']"
-abstruse,abstrus,"['/əbˈstɹuːs/', '/æbˈstɹus/', '/əb-/']",['/ap.stʁy/']
-academist,académiste,['/əˈkæd.ɪ.mɪst/'],['/a.ka.de.mist/']
-acajou,acajou,"['/ˈæ.kə.ʒuː/', '/ˈæ.kəˌʒu/', '/ˈæ.kəˌd͡ʒu/', '/a.kaˈʒu/', '/a.ka.ʒu/']","['/ˈæ.kə.ʒuː/', '/ˈæ.kəˌʒu/', '/ˈæ.kəˌd͡ʒu/', '/a.kaˈʒu/', '/a.ka.ʒu/']"
-acclimate,acclimater,"['/əˈklaɪ.mət/', '/ˈæk.lɪ.meɪt/', '/əˈklaɪ.mət/']","['/a.kli.ma.te/', '/a.kli.ma.tɑ̃/', '/a.kli.ma.te/', '/a.kli.mat/', '/a.kli.mat/', '/a.kli.mat/', '/a.kli.ma.tɔ̃/', '/a.kli.ma.te/', '/a.kli.mat/', '/a.kli.ma.tɛ/', '/a.kli.ma.tɛ/', '/a.kli.ma.tɛ/', '/a.kli.ma.tjɔ̃/', '/a.kli.ma.tje/', '/a.kli.ma.tɛ/', '/a.kli.ma.te/', '/a.kli.ma.ta/', '/a.kli.ma.ta/', '/a.kli.ma.tam/', '/a.kli.ma.tat/', '/a.kli.ma.tɛʁ/', '/a.kli.ma.tʁe/', '/a.kli.ma.tʁa/', '/a.kli.ma.tʁa/', '/a.kli.ma.tʁɔ̃/', '/a.kli.ma.tʁe/', '/a.kli.ma.tʁɔ̃/', '/a.kli.ma.tʁɛ/', '/a.kli.ma.tʁɛ/', '/a.kli.ma.tʁɛ/', '/a.kli.ma.tə.ʁjɔ̃/', '/a.kli.ma.tə.ʁje/', '/a.kli.ma.tʁɛ/', '/a.kli.mat/', '/a.kli.mat/', '/a.kli.mat/', '/a.kli.ma.tjɔ̃/', '/a.kli.ma.tje/', '/a.kli.mat/', '/a.kli.ma.tas/', '/a.kli.ma.tas/', '/a.kli.ma.ta/', '/a.kli.ma.ta.sjɔ̃/', '/a.kli.ma.ta.sje/', '/a.kli.ma.tas/', '/a.kli.mat/', '/a.kli.ma.tɔ̃/', '/a.kli.ma.te/']"
-accolade,accolade,"['/ˈæk.ə.ˌleɪd/', '/ˌæk.ə.ˈlɑd/', '/ɑkoːˈlaːdə/', '/a.kɔ.lad/']","['/ˈæk.ə.ˌleɪd/', '/ˌæk.ə.ˈlɑd/', '/ɑkoːˈlaːdə/', '/a.kɔ.lad/']"
-accolé,not comparable,['/a.kɔ.le/'],"['/l/', '/ɹ/', '/w/', '/j/', '/z/', '/s/', '/k/', '/o/', '/f/', '/s/', '/ʃ/', '/θ/', '/v/', '/z/', '/ʒ/', '/ð/', '/æ/', '/ɛ/', '/eɪ/', '/ɪ/', '/i/', '/ɹəɹ/', '/ɹ/', '/j/', '/ʂ/', '/ʐ/', '/t͡ɕ/', '/ɕː/', '/ʐ/', '/t͡ɕ/', '/ʐ/', '/e/', '/i/', '/j/', '/t/', '/d/', '/s/', '/z/', '/t͡ʃ/', '/d͡ʒ/', '/ʃ/', '/ʒ/', '/j/', '/j/', '/p/', '/t/', '/k/', '/b/', '/d/', '/ɡ/', '/k/', '/ɡ/', '/ŋ/', '/v/', '/z/', '/b/', '/d/', '/f/', '/s/', '/p/', '/t/']"
-accommodation,accommodation,"['/ə.ˌkɒm.ə.ˈdeɪ.ʃən/', '/ə.ˌkɑm.ə.ˈdeɪ.ʃən/', '/a.kɔ.mɔ.da.sjɔ̃/']","['/ə.ˌkɒm.ə.ˈdeɪ.ʃən/', '/ə.ˌkɑm.ə.ˈdeɪ.ʃən/', '/a.kɔ.mɔ.da.sjɔ̃/']"
-accomplishment,accomplissement,"['/ə.ˈkɒm.plɪʃ.mənt/', '/ə.ˈkʌm.plɪʃ.mənt/', '/ə.ˈkɑm.plɪʃ.mənt/']",['/a.kɔ̃.plis.mɑ̃/']
-accouchement,accouchement,"['/əˈkuːʃmənt/', '/a.kuʃ.mɑ̃/']","['/əˈkuːʃmənt/', '/a.kuʃ.mɑ̃/']"
-accoucheur,accoucheur,"['/ˌæ.ku.ˈʃɝ/', '/ˌæ.ku.ˈʃɜː/', '/a.ku.ʃœʁ/']","['/ˌæ.ku.ˈʃɝ/', '/ˌæ.ku.ˈʃɜː/', '/a.ku.ʃœʁ/']"
-accoucheuse,accoucheuse,['/a.ku.ʃøz/'],['/a.ku.ʃøz/']
-accouplement,accouplement,"['/əˈkʌpəlmənt/', '/a.ku.plə.mɑ̃/']","['/əˈkʌpəlmənt/', '/a.ku.plə.mɑ̃/']"
-accouter,accoutrer,['/əˈku tɚ/'],"['/a.ku.tʁe/', '/a.ku.tʁɑ̃/', '/a.ku.tʁe/', '/a.kutʁ/', '/a.kutʁ/', '/a.kutʁ/', '/a.ku.tʁɔ̃/', '/a.ku.tʁe/', '/a.kutʁ/', '/a.ku.tʁɛ/', '/a.ku.tʁɛ/', '/a.ku.tʁɛ/', '/a.ku.tʁi.jɔ̃/', '/a.ku.tʁi.je/', '/a.ku.tʁɛ/', '/a.ku.tʁe/', '/a.ku.tʁa/', '/a.ku.tʁa/', '/a.ku.tʁam/', '/a.ku.tʁat/', '/a.ku.tʁɛʁ/', '/a.ku.tʁə.ʁe/', '/a.ku.tʁə.ʁa/', '/a.ku.tʁə.ʁa/', '/a.ku.tʁə.ʁɔ̃/', '/a.ku.tʁə.ʁe/', '/a.ku.tʁə.ʁɔ̃/', '/a.ku.tʁə.ʁɛ/', '/a.ku.tʁə.ʁɛ/', '/a.ku.tʁə.ʁɛ/', '/a.ku.tʁə.ʁjɔ̃/', '/a.ku.tʁə.ʁje/', '/a.ku.tʁə.ʁɛ/', '/a.kutʁ/', '/a.kutʁ/', '/a.kutʁ/', '/a.ku.tʁi.jɔ̃/', '/a.ku.tʁi.je/', '/a.kutʁ/', '/a.ku.tʁas/', '/a.ku.tʁas/', '/a.ku.tʁa/', '/a.ku.tʁa.sjɔ̃/', '/a.ku.tʁa.sje/', '/a.ku.tʁas/', '/a.kutʁ/', '/a.ku.tʁɔ̃/', '/a.ku.tʁe/']"
-accusator,accusateur,"['/ak.kuːˈsaː.tor/', '/ak.kuˈsa.tor/']",[]
-acerbity,acerbité,"['/əˈsɜːbɪti/', '/əˈsɝbɪdi/']",[]
-acetylene,acétylène,"['/ə ˈsɛt əl ˌin/', '/asɛˈtyːlənə/']",['/a.se.ti.lɛn/']
-acid,acide,['/ˈæs.ɪd/'],"['/a.sid/', '/ˈa.t͡ʃi.de/', '/ˈa.ki.de/', '/ˈa.t͡ʃi.de/']"
-acidification,acidification,"['/əˌsɪdɪfɪˈkeɪʃən/', '/a.si.di.fi.ka.sjɔ̃/']","['/əˌsɪdɪfɪˈkeɪʃən/', '/a.si.di.fi.ka.sjɔ̃/']"
-acieration,acier,[],['/a.sje/']
-aconite,aconit,['/ˈæ.kə.naɪt/'],['/a.kɔ.ni/']
-acouchi,acouchi,[],[]
-acquiescence,acquiescence,['/ˌæk.wiːˈɛs.əns/'],['/ˌæk.wiːˈɛs.əns/']
-acquis,acquis,"['/aˈkiː/', '/ɑˈki/', '/ɑˈki/', '/aːˈki/', '/a.ki/']","['/aˈkiː/', '/ɑˈki/', '/ɑˈki/', '/aːˈki/', '/a.ki/']"
-acquis communautaire,acquis communautaire,"['/ɑˈki kɔ.my.noːˈtɛːr/', '/aːˈki kɔ.my.noːˈtɛːr/']","['/aˈkiː/', '/ɑˈki/', '/ɑˈki/', '/aːˈki/', '/a.ki/']"
-Acre,Acre,"['/ˈeɪ.kə/', '/ˈɑː.kə/', '/ˈɑː.kɹə/', '/ˈeɪkə(ɹ)/', '/akʁ/', '/ˈa.kɾi/', '/ˈa.kɾɨ/']","['/ˈeɪ.kə/', '/ˈɑː.kə/', '/ˈɑː.kɹə/', '/ˈeɪkə(ɹ)/', '/akʁ/', '/ˈa.kɾi/', '/ˈa.kɾɨ/']"
-acte clair,acte clair,[],"['/ˈak.tə/', '/ˈak.te/', '/ˈɑk.tə/', '/akt/', '/ˈak.teː/', '/ˈak.te/', '/ˈaːk.te/', '/ˈak.te/', '/ˈakt(ə)/']"
-acte gratuit,acte gratuit,['/ˈækt ɡɹætˈwi/'],"['/ˈak.tə/', '/ˈak.te/', '/ˈɑk.tə/', '/akt/', '/ˈak.teː/', '/ˈak.te/', '/ˈaːk.te/', '/ˈak.te/', '/ˈakt(ə)/']"
-actinium,actinium,"['/ækˈtɪniəm/', '/ɑkˈti.ni.ʏm/', '/ak.ti.njɔm/', '/akˈtiː.ni.um/', '/akˈti.ni.um/', '/akˈtiːnɪʉm/']","['/ækˈtɪniəm/', '/ɑkˈti.ni.ʏm/', '/ak.ti.njɔm/', '/akˈtiː.ni.um/', '/akˈti.ni.um/', '/akˈtiːnɪʉm/']"
-adaptation,adaptation,"['/ˌædæpˈteɪʃən/', '/a.dap.ta.sjɔ̃/']","['/ˌædæpˈteɪʃən/', '/a.dap.ta.sjɔ̃/']"
-adaptee,adaptée,[],[]
-Adelaide,Adélaïde,['/ˈæ.də.leɪd/'],['/a.de.la.id/']
-Adele,Adèle,"['/əˈdɛl/', '/aˈdeːlə/', '/aˈdɛ.le/']",['/a.dɛl/']
-adenoid,adénoïde,"['/ˈad.ɪn.ɔɪd/', '/ˈæd.əˌnɔɪd/', '/ˈædˌnɔɪd/']",['/a.de.nɔ.id/']
-admirative,admiratif,"['/ædˈmaɪ.ɹə.tɪv/', '/ədˈmaɪ.ɹə.tɪv/', '/ˈæd.məˌɹeɪ.tɪv/', '/ˌæd.məˈɹeɪ.tɪv/', '/ˈæd.mɪ.ɹə.tɪv/']",['/ad.mi.ʁa.tif/']
-adoptee,adoptée,[],[]
-adorable,adorable,"['/əˈdɔːɹəbəl/', '/ə.doˈɾa.blə/', '/ə.duˈɾa.blə/', '/a.doˈɾa.ble/', '/a.dɔ.ʁabl/', '/adoˈɾable/']","['/əˈdɔːɹəbəl/', '/ə.doˈɾa.blə/', '/ə.duˈɾa.blə/', '/a.doˈɾa.ble/', '/a.dɔ.ʁabl/', '/adoˈɾable/']"
-adret,adret,"['/ˈædɹeɪ/', '/əˈdɹeɪ/', '/əˈdɾət/', '/əˈdɾɛt/', '/aˈdɾet/', '/a.dʁɛ/']","['/ˈædɹeɪ/', '/əˈdɹeɪ/', '/əˈdɾət/', '/əˈdɾɛt/', '/aˈdɾet/', '/a.dʁɛ/']"
-Adrien,Adrien,['/a.dʁi.jɛ̃/'],['/a.dʁi.jɛ̃/']
-adroit,adroit,"['/əˈdɹɔɪt/', '/a.dʁwa/']","['/əˈdɹɔɪt/', '/a.dʁwa/']"
-aeronautics,aéronautique,[],['/a.e.ʁɔ.no.tik/']
-aeroplane,aéroplane,['/ˈeə.ɹə.pleɪn/'],['/a.e.ʁɔ.plan/']
-affaire d'honneur,affaire d'honneur,[],[]
-affiche,affiche,"['/ˌɑˈfi.ʃə/', '/a.fiʃ/']","['/ˌɑˈfi.ʃə/', '/a.fiʃ/']"
-affineur,affineur,[],[]
-affranchi,affranchi,[],[]
-affronté,affronté,[],[]
-agacerie,agacerie,[],[]
-agami,plural,"['/ˈæɡəmi/', '/a.ɡa.mi/', '/a.ɡaˈmi/', '/ɐˌɡaˈmi/', '/aɡǎːmi/']",[]
-agent provocateur,agent provocateur,['/ˈeɪ.dʒənt ˌpɹəʊ.vɒk.æ.tʊə(ɹ)/'],['/ˈeɪ.dʒənt ˌpɹəʊ.vɒk.æ.tʊə(ɹ)/']
-agente provocatrice,agente provocatrice,"['/ˌaʒɒ̃(t) pɹəvɒkəˈtɹiːs/', '/a.ʒɑ̃t.pʁɔ.vɔ.ka.tʁis/']","['/ˌaʒɒ̃(t) pɹəvɒkəˈtɹiːs/', '/a.ʒɑ̃t.pʁɔ.vɔ.ka.tʁis/']"
-agents provocateurs,agents provocateurs,[],[]
-agglutination,agglutination,[],[]
-aggrandize,agrandir,['/əˈɡɹændaɪ̯z/'],"['/a.ɡʁɑ̃.diʁ/', '/a.ɡʁɑ̃.di.sɑ̃/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di.sɔ̃/', '/a.ɡʁɑ̃.di.se/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.di.sɛ/', '/a.ɡʁɑ̃.di.sɛ/', '/a.ɡʁɑ̃.di.sɛ/', '/a.ɡʁɑ̃.di.sjɔ̃/', '/a.ɡʁɑ̃.di.sje/', '/a.ɡʁɑ̃.di.sɛ/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.dim/', '/a.ɡʁɑ̃.dit/', '/a.ɡʁɑ̃.diʁ/', '/a.ɡʁɑ̃.di.ʁe/', '/a.ɡʁɑ̃.di.ʁa/', '/a.ɡʁɑ̃.di.ʁa/', '/a.ɡʁɑ̃.di.ʁɔ̃/', '/a.ɡʁɑ̃.di.ʁe/', '/a.ɡʁɑ̃.di.ʁɔ̃/', '/a.ɡʁɑ̃.di.ʁɛ/', '/a.ɡʁɑ̃.di.ʁɛ/', '/a.ɡʁɑ̃.di.ʁɛ/', '/a.ɡʁɑ̃.di.ʁjɔ̃/', '/a.ɡʁɑ̃.di.ʁje/', '/a.ɡʁɑ̃.di.ʁɛ/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.di.sjɔ̃/', '/a.ɡʁɑ̃.di.sje/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di.sjɔ̃/', '/a.ɡʁɑ̃.di.sje/', '/a.ɡʁɑ̃.dis/', '/a.ɡʁɑ̃.di/', '/a.ɡʁɑ̃.di.sɔ̃/', '/a.ɡʁɑ̃.di.se/']"
-agiotage,agiotage,['/a.ʒjɔ.taʒ/'],['/a.ʒjɔ.taʒ/']
-agitation,agitation,"['/ad͡ʒɪˈteɪʃ(ə)n/', '/æ.d͡ʒɪˈteɪ.ʃən/', '/a.ʒi.ta.sjɔ̃/']","['/ad͡ʒɪˈteɪʃ(ə)n/', '/æ.d͡ʒɪˈteɪ.ʃən/', '/a.ʒi.ta.sjɔ̃/']"
-agonic,agonique,"['/əˈɡɒnɪk/', '/əˈɡɑnik/', '/ˈæɡənik/']",[]
-agraffe,agrafe,['/əˈɡɹæf/'],['/a.ɡʁaf/']
-agrément,agrément,['/a.ɡʁe.mɑ̃/'],['/a.ɡʁe.mɑ̃/']
-agrémens,agrémens,[],[]
-aide,aide,"['/eɪd/', '/ɛd/', '/aɛd/', '/ˈɛi̯d(ə)/', '/ˈai̯də/', '/ˈɛdə/']","['/eɪd/', '/ɛd/', '/aɛd/', '/ˈɛi̯d(ə)/', '/ˈai̯də/', '/ˈɛdə/']"
-aide-de-camp,aide-de-camp,"['/ˌeɪd dɪ ˈkæmp/', '/ˌeɪd dɪ ˈkɒmp/', '/ˌeɪd dɪ ˈkæmp/']","['/ˌeɪd dɪ ˈkæmp/', '/ˌeɪd dɪ ˈkɒmp/', '/ˌeɪd dɪ ˈkæmp/']"
-aide-mémoire,aide-mémoire,"['/ˌeɪd.mɛmˈwɑː/', '/ɛd.me.mwaʁ/']","['/ˌeɪd.mɛmˈwɑː/', '/ɛd.me.mwaʁ/']"
-aigrette,aigrette,"['/ˈeɪ.ɡɹɪt/', '/ɛ.ɡʁɛt/']","['/ˈeɪ.ɡɹɪt/', '/ɛ.ɡʁɛt/']"
-aiguille,aiguille,"['/ˈeɪ.ɡwiːl/', '/eɪˈɡwiːl/', '/ˈeɪ.ɡwiː/', '/ˈeɪ.ɡwil/', '/eɪˈɡwil/', '/eɪˈɡwi/', '/e.ɡɥij/', '/ɛ.ɡɥij/']","['/ˈeɪ.ɡwiːl/', '/eɪˈɡwiːl/', '/ˈeɪ.ɡwiː/', '/ˈeɪ.ɡwil/', '/eɪˈɡwil/', '/eɪˈɡwi/', '/e.ɡɥij/', '/ɛ.ɡɥij/']"
-aileron,aileron,"['/ˈeɪlərɒn/', '/ˌɛ.ləˈrɔn/', '/ɛl.ʁɔ̃/']","['/ˈeɪlərɒn/', '/ˌɛ.ləˈrɔn/', '/ɛl.ʁɔ̃/']"
-ailette,ailette,"['/eɪˈlɛt/', '/ɛ.lɛt/']","['/eɪˈlɛt/', '/ɛ.lɛt/']"
-Aimee,Aimée,[],"['/ɛ.me/', '/e.me/']"
-aioli,aïoli,"['/aɪˈəʊlɪ/', '/(ˌ)aɪˈoʊli/', '/(ˌ)eɪˈoʊ-/', '/ˈɑi̯oli/', '/ajˈoːlɪ/']","['/a.jɔ.li/', '/aˈjɔ.li/']"
-air de cour,air de cour,[],[]
-air du temps,air du temps,"['/ɛʁ dy tɑ̃/', '/ɛʁ dy tɑ̃/']","['/ɛʁ dy tɑ̃/', '/ɛʁ dy tɑ̃/']"
--aire,millionnaire,['/ɛʁ/'],['/mi.ljɔ.nɛʁ/']
-ajutage,ajutage,[],[]
-ala,à la,"['/ˈeɪ.lə/', '/ˈʌlʌ/', '/ʌˈlʌ/', '/ɑˈɫɑ/', '/ala/', '/ˈa.lə/', '/ˈa.la/', '/ˈɛaːla/', '/ˈɑlɑ/', '/ˈɑlɑˣ/', '/ˈa.la/', '/ˈaːla/', '/ˈalˠə/', '/ˈa.la/', '/ˈaː.la/', '/ˈa.la/', '/ˈa.la/', '/ɑːˈlɑː/', '/ˈala/', '/ˈala/', '/ˈa.la/', '/ˈa.lɐ/', '/alaa/', '/ǎla/', '/ǎːla/', '/ˈala/', '/a/', '/a/', '/ˈa.la/', '/ɑˈɫɑ/', '/à.là/', '/à.lá/']","['/a la/', '/alːa/', '/aˈla/']"
-alban,albane,"['/ˈalbən/', '/ˈalban/']",['/ˈalbeɪn/']
-Albertine,Albertine,['/al.bɛʁ.tin/'],['/al.bɛʁ.tin/']
-albicore,albicore,['/al.biˈkɔ.re/'],['/al.biˈkɔ.re/']
-albumin,albumine,"['/æl.ˈbjuː.mən/', '/ˈalbjʊmɪn/', '/albumiːn/']",[]
-Alcindor,Alcindor,[],[]
-alcool,alcool,"['/ˈæl.kuːl/', '/al.kɔl/', '/ˈal.kol/', '/ˈal.ko.ol/']","['/ˈæl.kuːl/', '/al.kɔl/', '/ˈal.kol/', '/ˈal.ko.ol/']"
-alcove,alcôve,['/ˈæl.kəʊv/'],['/al.kov/']
-alembic,alambic,['/əˈlɛmbɪk/'],[]
-Alençon,Alençon,['/a.lɑ̃.sɔ̃/'],['/a.lɑ̃.sɔ̃/']
-Alep,Alep,"['/əˈlɛp/', '/a.lɛp/']","['/əˈlɛp/', '/a.lɛp/']"
-alépine,alépine,[],[]
-alert,alerte,"['/əˈlɜːt/', '/əˈlɝt/', '/aːˈlɛrt/', '/ˈa.lɛrt/', '/aˈlæʈ/']",['/a.lɛʁt/']
-alevin,alevin,"['/ˈæl.ə.vən/', '/al.vɛ̃/']","['/ˈæl.ə.vən/', '/al.vɛ̃/']"
-alexanders,alisander,"['/ˌælɨɡˈzændɚz/', '/ˌælɨɡˈzɑːndəz/']",[]
-Alexandre,Alexandre,"['/ə.ləkˈsan.dɾə/', '/a.lekˈsan.dɾe/', '/a.lɛk.sɑ̃dʁ/', '/ˌa.leˈʃɐ̃.dɾi/', '/əɫɨˈʃə̃dɾɨ/']","['/ə.ləkˈsan.dɾə/', '/a.lekˈsan.dɾe/', '/a.lɛk.sɑ̃dʁ/', '/ˌa.leˈʃɐ̃.dɾi/', '/əɫɨˈʃə̃dɾɨ/']"
-Alexis,Alexis,['/a.lɛk.si/'],['/a.lɛk.si/']
-Algeria,Algérie,"['/ælˈdʒɪəɹi.ə/', '/ˈɑlɡeriɑ/', '/al.d͡ʒeˈri.a/']",['/al.ʒe.ʁi/']
-alidade,alidade,['/ˈæ.lɪ.deɪd/'],['/ˈæ.lɪ.deɪd/']
-aligot,aligot,"['/æ.li.ɡoʊ/', '/ɑ.li.ɡoʊ/', '/ə.liˈɡɔt/', '/a.liˈɡɔt/', '/a.li.ɡo/', '/aliˈɡo/']","['/æ.li.ɡoʊ/', '/ɑ.li.ɡoʊ/', '/ə.liˈɡɔt/', '/a.liˈɡɔt/', '/a.li.ɡo/', '/aliˈɡo/']"
-aligoté,plural,[],[]
-aliment,aliment,"['/ˈa.lɪ.mənt/', '/ə.liˈment/', '/ə.liˈmen/', '/a.liˈment/', '/a.li.mɑ̃/', '/a.liˈment/']","['/ˈa.lɪ.mənt/', '/ə.liˈment/', '/ə.liˈmen/', '/a.liˈment/', '/a.li.mɑ̃/', '/a.liˈment/']"
-alimentation,alimentation,['/a.li.mɑ̃.ta.sjɔ̃/'],['/a.li.mɑ̃.ta.sjɔ̃/']
-Alina,Aline,['/ˈɑlinɑ/'],"['/a.lin/', '/a.ˈli.ni/']"
-Aline,Aline,"['/a.lin/', '/a.ˈli.ni/']","['/a.lin/', '/a.ˈli.ni/']"
-alizari,alizari,[],[]
-alizarin,alizarine,['/əˈlɪzəɹɪn/'],[]
-allée,allée,"['/ˈa.leɪ/', '/a.le/']","['/ˈa.leɪ/', '/a.le/']"
-allemande,allemande,[],[]
-alley oop,allez-hop!,"['/alɪˈuːp/', '/alɪˈʊp/', '/ˌæliˈup/', '/ˌæliˈʊp/']",[]
-alloglot,alloglote,[],[]
-allonge,allonge,['/əˈlɒnʒ/'],['/əˈlɒnʒ/']
-allumette,plural,['/a.ly.mɛt/'],[]
-almadie,almadie,[],[]
-almucantar,almicantarat,"['/ælməˈkæntə/', '/ælməˈkæntɚ/']",[]
-alose,alose,['/a.loz/'],['/a.loz/']
-Alphonse,Alphonse,['/al.fɔ̃s/'],['/al.fɔ̃s/']
-alternat,feminine,"['/əl.təɾˈnat/', '/əl.tərˈnat/', '/al.teɾˈnat/', '/alˈtɛr.nat/']",[]
-altruism,altruisme,"['/ˈæl.tɹu.ɪz.əm/', '/ˌaltrɵˈɪsm/']","['/əl.tɾuˈiz.mə/', '/al.tɾuˈiz.me/', '/al.tʁɥizm/']"
-amaranth,amarante,"['/ˈæməɹænθ/', '/-ɹænt/', '/ˈæməˌɹænθ/']",['/a.ma.ʁɑ̃t/']
-amateur,amateur,"['/ˈæ.mə.tə/', '/ˈæ.mə.tɚ/', '/ˈæ.mə.tʃɚ/', '/ˈæ.mə.tʃʊɚ/', '/ə.məˈte/', '/ə.məˈter/', '/a.maˈteɾ/', '/ˌɑ.maːˈtøːr/', '/a.ma.tœʁ/', '/amaˈteɾ/']","['/ˈæ.mə.tə/', '/ˈæ.mə.tɚ/', '/ˈæ.mə.tʃɚ/', '/ˈæ.mə.tʃʊɚ/', '/ə.məˈte/', '/ə.məˈter/', '/a.maˈteɾ/', '/ˌɑ.maːˈtøːr/', '/a.ma.tœʁ/', '/amaˈteɾ/']"
-amatrice,amatrice,"['/a.ma.tʁis/', '/a.maːˈtriː.ke/', '/a.maˈtri.t͡ʃe/']","['/a.ma.tʁis/', '/a.maːˈtriː.ke/', '/a.maˈtri.t͡ʃe/']"
-ambassade,ambassade,"['/ˌɑm.bɑˈsaː.də/', '/ɑ̃.ba.sad/']","['/ˌɑm.bɑˈsaː.də/', '/ɑ̃.ba.sad/']"
-ambassadry,embassadrie,[],[]
-ambiance,ambiance,"['/ˈæm.bi.əns/', '/ˈɒm.bi.ɒns/', '/ˈæm.bi.əns/', '/ˈɑm.bi.ɑns/', '/ɑ̃.bjɑ̃s/']","['/ˈæm.bi.əns/', '/ˈɒm.bi.ɒns/', '/ˈæm.bi.əns/', '/ˈɑm.bi.ɑns/', '/ɑ̃.bjɑ̃s/']"
-ambigu,ambigu,"['/əmˈbi.ɡu/', '/amˈbi.ɡu/', '/ˌɑm.biˈɣy/', '/ɑ̃.bi.ɡy/']","['/əmˈbi.ɡu/', '/amˈbi.ɡu/', '/ˌɑm.biˈɣy/', '/ɑ̃.bi.ɡy/']"
-ambrette,ambrette,[],[]
-ambulance,ambulance,"['/ˈæm.bjə.ləns/', '/ˈæm.bjəˌlæns/', '/ˌɑm.byˈlɑn.sə/', '/ɑ̃.by.lɑ̃s/']","['/ˈæm.bjə.ləns/', '/ˈæm.bjəˌlæns/', '/ˌɑm.byˈlɑn.sə/', '/ɑ̃.by.lɑ̃s/']"
-ambulancier,ambulancier,[],[]
-ambuscade,embuscade,['/ˈæmbəsˌkeɪd/'],['/ɑ̃.bys.kad/']
-ameliorate,améliorer,['/əˈmiːli.əɹeɪt/'],"['/a.me.ljɔ.ʁe/', '/a.me.ljɔ.ʁɑ̃/', '/a.me.ljɔ.ʁe/', '/a.me.ljɔʁ/', '/a.me.ljɔʁ/', '/a.me.ljɔʁ/', '/a.me.ljɔ.ʁɔ̃/', '/a.me.ljɔ.ʁe/', '/a.me.ljɔʁ/', '/a.me.ljɔ.ʁɛ/', '/a.me.ljɔ.ʁɛ/', '/a.me.ljɔ.ʁɛ/', '/a.me.ljɔ.ʁjɔ̃/', '/a.me.ljɔ.ʁje/', '/a.me.ljɔ.ʁɛ/', '/a.me.ljɔ.ʁe/', '/a.me.ljɔ.ʁa/', '/a.me.ljɔ.ʁa/', '/a.me.ljɔ.ʁam/', '/a.me.ljɔ.ʁat/', '/a.me.ljɔ.ʁɛʁ/', '/a.me.ljɔ.ʁə.ʁe/', '/a.me.ljɔ.ʁə.ʁa/', '/a.me.ljɔ.ʁə.ʁa/', '/a.me.ljɔ.ʁə.ʁɔ̃/', '/a.me.ljɔ.ʁə.ʁe/', '/a.me.ljɔ.ʁə.ʁɔ̃/', '/a.me.ljɔ.ʁə.ʁɛ/', '/a.me.ljɔ.ʁə.ʁɛ/', '/a.me.ljɔ.ʁə.ʁɛ/', '/a.me.ljɔ.ʁə.ʁjɔ̃/', '/a.me.ljɔ.ʁə.ʁje/', '/a.me.ljɔ.ʁə.ʁɛ/', '/a.me.ljɔʁ/', '/a.me.ljɔʁ/', '/a.me.ljɔʁ/', '/a.me.ljɔ.ʁjɔ̃/', '/a.me.ljɔ.ʁje/', '/a.me.ljɔʁ/', '/a.me.ljɔ.ʁas/', '/a.me.ljɔ.ʁas/', '/a.me.ljɔ.ʁa/', '/a.me.ljɔ.ʁa.sjɔ̃/', '/a.me.ljɔ.ʁa.sje/', '/a.me.ljɔ.ʁas/', '/a.me.ljɔʁ/', '/a.me.ljɔ.ʁɔ̃/', '/a.me.ljɔ.ʁe/']"
-amelioration,amélioration,['/əˌmiːliəˈɹeɪʃən/'],['/a.me.ljɔ.ʁa.sjɔ̃/']
-amende,amende,"['/əˈmɒnd/', '/əˈmɑːnd/', '/a.mɑ̃d/']","['/əˈmɒnd/', '/əˈmɑːnd/', '/a.mɑ̃d/']"
-amende honorable,plural,[],[]
-amical,amical,"['/ˈa.mɪkl/', '/ˈa.mɪ.kəl/', '/a.mi.kal/', '/a.miˈkal/', '/amiˈkal/']","['/ˈa.mɪkl/', '/ˈa.mɪ.kəl/', '/a.mi.kal/', '/a.miˈkal/', '/amiˈkal/']"
-amidin,amidine,[],[]
-Amirault,Amirault,[],[]
-ammunition,amunition,['/ˌæmjuˈnɪʃən/'],[]
-amniotic,amniotique,"['/æmniˈɒtɪk/', '/æmniˈɑːtɪk/']",[]
-amollishment,amollissement,[],[]
-amour,amour,"['/əˈmʊər/', '/æˈmʊər/', '/ɑːˈmʊr/', '/a.muʁ/']","['/əˈmʊər/', '/æˈmʊər/', '/ɑːˈmʊr/', '/a.muʁ/']"
-amour propre,amour-propre,[],['/a.muʁ.pʁɔpʁ/']
-amourette,amourette,['/a.mu.ʁɛt/'],['/a.mu.ʁɛt/']
-ampère,ampère,"['/ɑmˈpɛːr(ə)/', '/ɑ̃.pɛʁ/']","['/ɑmˈpɛːr(ə)/', '/ɑ̃.pɛʁ/']"
-amphigory,amphigouri,['/ˈæm.fɪ.ɡɔ.ɹi/'],[]
-ampoule,ampoule,"['/ˈæm.puːl/', '/ˈæm.pjuːl/', '/ɑ̃.pul/']","['/ˈæm.puːl/', '/ˈæm.pjuːl/', '/ɑ̃.pul/']"
-amuse-bouche,amuse-bouche,['/a.myz.buʃ/'],['/a.myz.buʃ/']
-amusement,amusement,"['/əˈmjuzmənt/', '/ˌaː.my.zəˈmɛnt/', '/a.myz.mɑ̃/']","['/əˈmjuzmənt/', '/ˌaː.my.zəˈmɛnt/', '/a.myz.mɑ̃/']"
-amusette,amusette,['/a.my.zɛt/'],['/a.my.zɛt/']
-anacyclic,anacyclique,[],[]
-anagram,anagramme,"['/ˈæ.nə.ɡɹæm/', '/ˌaː.naːˈɣrɑm/', '/aˈnaɡ.ram/', '/anǎɡram/']",['/a.na.ɡʁam/']
-analphabete,analphabète,[],['/a.nal.fa.bɛt/']
-ananas,ananas,"['/əˈneɪnəs/', '/əˈnɑːnəs/', '/ˈananas/', '/ˈɑ.naː.nɑs/', '/ˈɑnɑnɑs/', '/a.na.nas/', '/a.na.na/', '/ˈaːna(ː)nas/', '/ˈa.na.nas/', '/a.naˈnas/', '/ananas/', '/ˈɑnːɑnɑs/', '/aˈna.nas/', '/ananas/', '/ânanas/', '/áːnanas/', '/ˈanaˌnas/', '/ˈanənas/']","['/əˈneɪnəs/', '/əˈnɑːnəs/', '/ˈananas/', '/ˈɑ.naː.nɑs/', '/ˈɑnɑnɑs/', '/a.na.nas/', '/a.na.na/', '/ˈaːna(ː)nas/', '/ˈa.na.nas/', '/a.naˈnas/', '/ananas/', '/ˈɑnːɑnɑs/', '/aˈna.nas/', '/ananas/', '/ânanas/', '/áːnanas/', '/ˈanaˌnas/', '/ˈanənas/']"
-anatase,anatase,"['/ˈænəˌteɪs/', '/ˈænəˌteɪz/']","['/ˈænəˌteɪs/', '/ˈænəˌteɪz/']"
-anatron,anatron,[],[]
-Ancien Régime,Ancien Régime,['/ɑ̃.sjɛ̃ ʁe.ʒim/'],['/ɑ̃.sjɛ̃ ʁe.ʒim/']
-ancien régime,ancien régime,"['/ɑ̃.sjɛ̃ ɹeɪˈʒim/', '/ɑ̃.sjɛ̃ ʁe.ʒim/']","['/ɑ̃.sjɛ̃ ɹeɪˈʒim/', '/ɑ̃.sjɛ̃ ʁe.ʒim/']"
-andouille,andouille,"['/ɒ̃ˈduːj/', '/ɒnˈduː.i/', '/ænˈdu.i/', '/ɑ̃.duj/']","['/ɒ̃ˈduːj/', '/ɒnˈduː.i/', '/ænˈdu.i/', '/ɑ̃.duj/']"
-anecdote,anecdote,"['/ˈæ.nɪk.doʊt/', '/a.nɛk.dɔt/']","['/ˈæ.nɪk.doʊt/', '/a.nɛk.dɔt/']"
-angary,angarie,['/ˈæŋ.ɡə.ɹi/'],[]
-Angeline,Angeline,['/ɑ̃ʒ.lin/'],['/ɑ̃ʒ.lin/']
-angelique,angélique,[],['/ɑ̃.ʒe.lik/']
-angélique,angélique,['/ɑ̃.ʒe.lik/'],['/ɑ̃.ʒe.lik/']
-Angelle,Angelle,[],[]
-angelot,angelot,"['/əɲ.ʒəˈlɔt/', '/aɲ.d͡ʒeˈlɔt/']","['/əɲ.ʒəˈlɔt/', '/aɲ.d͡ʒeˈlɔt/']"
-Angers,Angers,['/ɑ̃.ʒe/'],['/ɑ̃.ʒe/']
-Angevine,angevin,[],[]
-angiotenic,angioténique,['/ˌænd͡ʒioʊˈtɛnɪk/'],[]
-anhedonia,anhédonie,"['/ˌan.hɪˈdəʊ.nɪə/', '/ˌæn.hiˈdoʊ.ni.ə/', '/ˈɑnhedoniɑ/', '/an.xɛˈdɔ.ɲa/', '/aneˈdonja/']",['/a.ne.dɔ.ni/']
-animalier,animalier,[],[]
-animality,animalité,[],[]
-animateur,animateur,['/a.ni.ma.tœʁ/'],['/a.ni.ma.tœʁ/']
-animatrice,animatrice,['/a.ni.ma.tʁis/'],['/a.ni.ma.tʁis/']
-anime,animé,"['/ˈæn.ɪ.meɪ/', '/ˈæn.ɪ.mə/', '/ˈæn.ɪ.meɪ/', '/aˈɲi.mɛ/', '/anime/', '/a.nim/', '/ˈa.ni.me/', '/ˈa.ni.me/', '/ˈa.ni.me/', '/ˈa.ni.me/', '/aˈɲi.mɛ/', '/aˈnĩ.mi/', '/aˈni.mɨ/', '/aˈnĩ.mi/', '/ɐˈni.mɨ/', '/aˈnime/']","['/ˈæ.nɪ.meɪ/', '/a.ni.me/', '/aniˈme/']"
-animé,animé,"['/ˈæ.nɪ.meɪ/', '/a.ni.me/', '/aniˈme/']","['/ˈæ.nɪ.meɪ/', '/a.ni.me/', '/aniˈme/']"
-anisette,anisette,['/a.ni.zɛt/'],['/a.ni.zɛt/']
-Anjouan,Anjouan,[],[]
-annalist,annaliste,['/ˈænəlɪst/'],['/a.na.list/']
-Annam,Annam,"['/a.nam/', '/ˈanam/', '/anˈnam/']","['/a.nam/', '/ˈanam/', '/anˈnam/']"
-Annette,Annette,"['/əˈnɛt/', '/a.nɛt/']","['/əˈnɛt/', '/a.nɛt/']"
-annex,annexe,"['/ˈænɛks/', '/ˈænɛks/', '/əˈnɛks/', '/ˈænɛks/', '/əˈnɛks/', '/aˈnɛks/']",['/a.nɛks/']
-anomal,anomal,['/a.nɔ.mal/'],['/a.nɔ.mal/']
-anomie,anomie,"['/ˈæn.ə.mi/', '/a.noʊ̯.ˈmi/', '/ˌaː.noːˈmi/', '/a.nɔ.mi/']","['/ˈæn.ə.mi/', '/a.noʊ̯.ˈmi/', '/ˌaː.noːˈmi/', '/a.nɔ.mi/']"
-antibiotic,antibiotique,"['/ˌæn.ti.baɪˈɒt.ɪk/', '/ˌæn.taɪ.baɪˈɒt.ɪk/', '/ˌæn.taɪ.baɪˈɑ.tɪk/', '/ˌæn.tə.baɪˈɑ.tɪk/']",['/ɑ̃.ti.bjɔ.tik/']
-antipodism,antipodisme,[],[]
-antipodist,antipodiste,[],['/ɑ̃.ti.po.dist/']
-antique,antique,"['/ænˈtiːk/', '/ɑ̃.tik/']","['/ænˈtiːk/', '/ɑ̃.tik/']"
-Antoine,Antoine,['/ɑ̃.twan/'],['/ɑ̃.twan/']
-aoudad,audad,[],[]
-apanage,apanage,"['/ˈæpənɪdʒ/', '/apanaːsjə/']","['/ˈæpənɪdʒ/', '/apanaːsjə/']"
-apartment,appartement,"['/əˈpɑːt.mənt/', '/əˈpɑɹt.mənt/']","['/ɑˌpɑrtəˈmɛnt/', '/a.paʁ.tə.mɑ̃/']"
-aperçu,aperçu,"['/ˌa.pɛːˈsjuː/', '/ˌæ.pɚˈsuː/', '/a.pɛʁ.sy/']","['/ˌa.pɛːˈsjuː/', '/ˌæ.pɚˈsuː/', '/a.pɛʁ.sy/']"
-apéritif,apéritif,"['/ɑːˌpɛɹɪˈtiːf/', '/əˌpɛɹɪˈtiːf/', '/a.pe.ʁi.tif/']","['/ɑːˌpɛɹɪˈtiːf/', '/əˌpɛɹɪˈtiːf/', '/a.pe.ʁi.tif/']"
-aphylactic,aphylactique,[],[]
-aplomb,aplomb,"['/əˈplʌm/', '/əˈplɒm/', '/a.plɔ̃/']","['/əˈplʌm/', '/əˈplɒm/', '/a.plɔ̃/']"
-aplome,aplome,[],[]
-apogee,apogée,['/ˈæp.ə.dʒi/'],['/a.pɔ.ʒe/']
-apologue,apologue,[],[]
-apology,apologie,['/əˈpɒl.ə.dʒi/'],"['/ˌaː.poː.loːˈɣi/', '/a.pɔ.lɔ.ʒi/']"
-apoplectic,apoplectique,['/ˌæpəˈplɛktɪk/'],[]
-appaumé,not comparable,[],"['/l/', '/ɹ/', '/w/', '/j/', '/z/', '/s/', '/k/', '/o/', '/f/', '/s/', '/ʃ/', '/θ/', '/v/', '/z/', '/ʒ/', '/ð/', '/æ/', '/ɛ/', '/eɪ/', '/ɪ/', '/i/', '/ɹəɹ/', '/ɹ/', '/j/', '/ʂ/', '/ʐ/', '/t͡ɕ/', '/ɕː/', '/ʐ/', '/t͡ɕ/', '/ʐ/', '/e/', '/i/', '/j/', '/t/', '/d/', '/s/', '/z/', '/t͡ʃ/', '/d͡ʒ/', '/ʃ/', '/ʒ/', '/j/', '/j/', '/p/', '/t/', '/k/', '/b/', '/d/', '/ɡ/', '/k/', '/ɡ/', '/ŋ/', '/v/', '/z/', '/b/', '/d/', '/f/', '/s/', '/p/', '/t/']"
-appel,appel,"['/əˈpɛl/', '/əˈpɛl/', '/ɑˈpɛl/', '/ˈa.pəl/', '/ˈɑpəl/', '/ɑˈpɛl/', '/a.pɛl/', '/ˈapəl/', '/ˈɛpəl/', '/ˈɑp.pɑl/', '/ˈapəl/']","['/əˈpɛl/', '/əˈpɛl/', '/ɑˈpɛl/', '/ˈa.pəl/', '/ˈɑpəl/', '/ɑˈpɛl/', '/a.pɛl/', '/ˈapəl/', '/ˈɛpəl/', '/ˈɑp.pɑl/', '/ˈapəl/']"
-apperception,aperception,"['/ˌæpəˈsɛpʃən/', '/ˌæpɚˈsɛpʃən/']",[]
-appertisation,appertisation,['/a.pɛʁ.ti.za.sjɔ̃/'],['/a.pɛʁ.ti.za.sjɔ̃/']
-applique,appliqué,"['/əˈpliː.keɪ/', '/ˌæ.plɪˈ.keɪ/', '/ˈæ.plɪ.keɪ/']",['/a.pli.ke/']
-appui,appui,"['/əˈpwiː/', '/a.pɥi/']","['/əˈpwiː/', '/a.pɥi/']"
-apres,après,[],"['/əˈpɾəs/', '/əˈpɾɛs/', '/aˈpɾes/', '/a.pʁɛ/', '/a.pʁɛ.z‿/']"
-après,après,"['/əˈpɾəs/', '/əˈpɾɛs/', '/aˈpɾes/', '/a.pʁɛ/', '/a.pʁɛ.z‿/']","['/əˈpɾəs/', '/əˈpɾɛs/', '/aˈpɾes/', '/a.pʁɛ/', '/a.pʁɛ.z‿/']"
-après-,après,[],"['/əˈpɾəs/', '/əˈpɾɛs/', '/aˈpɾes/', '/a.pʁɛ/', '/a.pʁɛ.z‿/']"
-après-ski,après-ski,[],[]
-apropos,à propos,"['/ˌæp.ɹəˈpəʊ/', '/ˌæp.ɹəˈpoʊ/', '/apropo/']","['/a pʁɔ.po/', '/a.prɔˈpɔ/']"
-aquapharyngeal,aquo-pharyngien,[],[]
-aquarelle,aquarelle,['/a.kwa.ʁɛl/'],['/a.kwa.ʁɛl/']
-Aquitaine,Aquitaine,['/a.ki.tɛn/'],['/a.ki.tɛn/']
-arabesque,arabesque,"['/ˌæɹ.əˈbɛsk/', '/ˌæɹ.əˈbɛsk/', '/a.ʁa.bɛsk/']","['/ˌæɹ.əˈbɛsk/', '/ˌæɹ.əˈbɛsk/', '/a.ʁa.bɛsk/']"
-arachnid,arachnide,['/əˈɹæknɪd/'],['/a.ʁak.nid/']
-arbitrage,arbitrage,"['/ˈɑɹbɪˌtɹɑʒ/', '/ˈɑɹ.bɪ.tɹɪdʒ/', '/ˌɑr.biˈtraː.ʒə/', '/aʁ.bi.tʁaʒ/']","['/ˈɑɹbɪˌtɹɑʒ/', '/ˈɑɹ.bɪ.tɹɪdʒ/', '/ˌɑr.biˈtraː.ʒə/', '/aʁ.bi.tʁaʒ/']"
-arbitrager,arbitragiste,[],[]
-arbitrageur,arbitrageur,['/ˈɑː(ɹ)bɪtɹɑˈʒɝ(ɹ)/'],['/ˈɑː(ɹ)bɪtɹɑˈʒɝ(ɹ)/']
-arbitragist,arbitragiste,[],[]
-arbor,erbier,"['/ˈɑːbə/', '/ˈɑrbɚ/', '/ˈarbɔr/', '/ˈar.bor/', '/ˈar.bor/', '/ˈar.vər/', '/ˈarβor/']",[]
-arborescence,arborescence,[],[]
-arbust,arbuste,"['/əɾˈbust/', '/ərˈbust/', '/aɾˈbust/']","['/aʁ.byst/', '/arˈbus.te/', '/arˈbus.te/']"
-arc boutant,arc-boutant,[],['/aʁk.bu.tɑ̃/']
-Arc de Triomphe,Arc de Triomphe,[],[]
-arc-boutant,arc-boutant,['/aʁk.bu.tɑ̃/'],['/aʁk.bu.tɑ̃/']
-arcade,arcade,"['/ɑɹˈkeɪd/', '/ɑːˈkeɪd/', '/ˌɑrˈkaː.də/', '/aʁ.kad/']","['/ɑɹˈkeɪd/', '/ɑːˈkeɪd/', '/ˌɑrˈkaː.də/', '/aʁ.kad/']"
-arcature,arcature,[],[]
-archaeologue,archéologue,[],['/aʁ.ke.ɔ.lɔɡ/']
-archduchess,archiduchesse,[],['/aʁ.ʃi.dy.ʃɛs/']
-archetier,archetier,[],[]
-archiater,archiâtre,"['/ˈɑɹkiˌeɪtɚ/', '/ˈɑːkiˌeɪtə/', '/ar.kʰiːˈaː.ter/', '/ar.kiˈa.ter/']",[]
-archimandrite,archimandrite,"['/ˌɑːkɪˈmændɹaɪt/', '/aʁ.ʃi.mɑ̃.dʁit/']","['/ˌɑːkɪˈmændɹaɪt/', '/aʁ.ʃi.mɑ̃.dʁit/']"
-architecture,architecture,"['/ˈɑː.kɪ.ˌtɛk.tʃə/', '/ˈɑɹkɪtɛktʃɚ/', '/aʁ.ʃi.tɛk.tyʁ/']","['/ˈɑː.kɪ.ˌtɛk.tʃə/', '/ˈɑɹkɪtɛktʃɚ/', '/aʁ.ʃi.tɛk.tyʁ/']"
-areic,surfacique,[],['/syʁ.fa.sik/']
-areole,aréole,['/ˈæɹ.i.oʊl/'],['/a.ʁe.ɔl/']
-arête,arête,"['/əˈɹɛt/', '/əˈɹeɪt/', '/a.ʁɛt/']","['/əˈɹɛt/', '/əˈɹeɪt/', '/a.ʁɛt/']"
-argot,argot,"['/ˈɑːɡəʊ/', '/ˈɑɹɡoʊ/', '/ˈɑɹɡət/', '/aʁ.ɡo/', '/arˈɡɔ/', '/ˌaʁˈɡo/', '/ˌaʁˈɡo/', '/ˌaɾˈɡo/', '/ˌaʁˈɡo/', '/ˌaɾˈɡo/', '/aɾˈɡot/']","['/ˈɑːɡəʊ/', '/ˈɑɹɡoʊ/', '/ˈɑɹɡət/', '/aʁ.ɡo/', '/arˈɡɔ/', '/ˌaʁˈɡo/', '/ˌaʁˈɡo/', '/ˌaɾˈɡo/', '/ˌaʁˈɡo/', '/ˌaɾˈɡo/', '/aɾˈɡot/']"
-Ariane,Ariane,['/a.ʁjan/'],['/a.ʁjan/']
-ariette,ariette,[],[]
-Arkansas,Arcansas,"['/ˈɑɹ.kən.sɔ/', '/ɑɹˈkæn.zəs/', '/ˈɑɹkənsɔː/', '/ɑɹˈkænzəs/', '/ɑɹˈkænzəs/', '/ˈɑrkɑnsɑs/', '/ˈɑrkɑnsoː/', '/aʁˈkanzas/', '/ˈaʁkənˌsɔː/', '/aʁˈkɛnzəs/', '/əˈkɛnzəs/', '/arˈkan.sas/', '/ˈar.kan.zas/', '/arˈkan.zas/', '/ɐɾˈkɐ̃.sɐʃ/', '/aɾˈkansas/']",['/ɐɾˈkɐ̃.sɐʃ/']
-Arles,Arles,"['/ˈaɾ.ləs/', '/ˈar.ləs/', '/ˈaɾ.les/', '/aʁl/']","['/ˈaɾ.ləs/', '/ˈar.ləs/', '/ˈaɾ.les/', '/aʁl/']"
-Arlon,Arlon,"['/ˈɑ(ɹ).lɔːn/', '/aʁ.lɔ̃/']","['/ˈɑ(ɹ).lɔːn/', '/aʁ.lɔ̃/']"
-Armagnac,Armagnac,[],[]
-Armel,Armel,['/aʁ.mɛl/'],['/aʁ.mɛl/']
-armet,armet,"['/ˈɑː.mɛt/', '/ˈɑɹ.mɛt/', '/aʁ.mɛ/']","['/ˈɑː.mɛt/', '/ˈɑɹ.mɛt/', '/aʁ.mɛ/']"
-armoire,armoire,"['/ɑːmˈwɑː/', '/ɑɹmˈwɑɹ/', '/aʁ.mwaʁ/']","['/ɑːmˈwɑː/', '/ɑɹmˈwɑɹ/', '/aʁ.mwaʁ/']"
-armure,armure,"['/ɑːˈmjʊə/', '/ɑːˈmjɔː/', '/ɑːˈmjʊɹ/', '/ɑːˈmjɚ/', '/aʁ.myʁ/', '/armˈɛu̯r(ə)/', '/armˈiu̯r(ə)/', '/armˈuːr(ə)/', '/ˈarmur(ə)/', '/ˈarmər(ə)/']","['/ɑːˈmjʊə/', '/ɑːˈmjɔː/', '/ɑːˈmjʊɹ/', '/ɑːˈmjɚ/', '/aʁ.myʁ/', '/armˈɛu̯r(ə)/', '/armˈiu̯r(ə)/', '/armˈuːr(ə)/', '/ˈarmur(ə)/', '/ˈarmər(ə)/']"
-Arpajon,Arpajon,['/aʁ.pa.ʒɔ̃/'],['/aʁ.pa.ʒɔ̃/']
-arpent,arpent,['/aʁ.pɑ̃/'],['/aʁ.pɑ̃/']
-arquebusade,arquebusade,[],[]
-arrestation,arrestation,['/a.ʁɛs.ta.sjɔ̃/'],['/a.ʁɛs.ta.sjɔ̃/']
-arrière-garde,arrière-garde,['/a.ʁjɛʁ.ɡaʁd/'],['/a.ʁjɛʁ.ɡaʁd/']
-arrière-pensée,arrière-pensée,"['/a.ʁjɛʁ.pɑ̃.se/', '/arˌrjɛr.ponˈsɛ/']","['/a.ʁjɛʁ.pɑ̃.se/', '/arˌrjɛr.ponˈsɛ/']"
-arriviste,arriviste,"['/ˌæ.ɹɪˈviːst/', '/ar.riˈvi.ste/']","['/ˌæ.ɹɪˈviːst/', '/ar.riˈvi.ste/']"
-arrondissement,arrondissement,"['/əˈɹɒnˌdɪsˈmənt/', '/a.ʁɔ̃.dis.mɑ̃/']","['/əˈɹɒnˌdɪsˈmənt/', '/a.ʁɔ̃.dis.mɑ̃/']"
-Arsenault,Arsenault,[],[]
-Arseneau,Arseneau,[],[]
-Arseneault,Arseneault,[],[]
-Art Deco,Art déco,['/ɑːɹ(t) ˈdɛkəʊ/'],['/aʁ de.ko/']
-Art Nouveau,art nouveau,[],['/ˌɑr nuˈvoː/']
-Artagnan,Artagnan,['/aʁ.ta.ɲɑ̃/'],['/aʁ.ta.ɲɑ̃/']
-artisan,artisan,"['/ˈɑː(ɹ)tɪzən/', '/ˈɑː(ɹ)tɪzæn/', '/ˈɑɹtɪzən/', '/ˈɑɹtɪsən/', '/aʁ.ti.zɑ̃/']","['/ˈɑː(ɹ)tɪzən/', '/ˈɑː(ɹ)tɪzæn/', '/ˈɑɹtɪzən/', '/ˈɑɹtɪsən/', '/aʁ.ti.zɑ̃/']"
-artiste,artiste,"['/aʁ.tist/', '/aʁ.t͡sɪst/', '/arˈti.ste/']","['/aʁ.tist/', '/aʁ.t͡sɪst/', '/arˈti.ste/']"
-artistic,artistique,"['/ɑɹˈtɪstɪk/', '/ɑːˈtɪstɪk/', '/arˈtis.tik/']",['/aʁ.tis.tik/']
-ascendeur,ascendeur,[],[]
-aspic,aspic,"['/ˈæspɪk/', '/as.pik/']","['/ˈæspɪk/', '/as.pik/']"
-aspirant,aspirant,"['/ˈæspəɹənt/', '/əs.piˈɾant/', '/əs.piˈɾan/', '/as.piˈɾant/', '/as.pi.ʁɑ̃/', '/asˈpi.rant/']","['/ˈæspəɹənt/', '/əs.piˈɾant/', '/əs.piˈɾan/', '/as.piˈɾant/', '/as.pi.ʁɑ̃/', '/asˈpi.rant/']"
-assart,essart,['/əˈsɑː(ɹ)t/'],[]
-assassin,assassin,"['/əˈsæsɪn/', '/a.sa.sɛ̃/']","['/əˈsæsɪn/', '/a.sa.sɛ̃/']"
-assemblage,assemblage,"['/əˈsɛmblɪdʒ/', '/ˌɑ.sɛmˈblaː.ʒə/', '/a.sɑ̃.blaʒ/', '/a.samˈblaʂ/']","['/əˈsɛmblɪdʒ/', '/ˌɑ.sɛmˈblaː.ʒə/', '/a.sɑ̃.blaʒ/', '/a.samˈblaʂ/']"
-assiette,assiette,['/a.sjɛt/'],['/a.sjɛt/']
-Assiniboine,Assiniboine,[],[]
-assise,assise,"['/a.siz/', '/asˈsi.ze/', '/aˈsiːz(ə)/']","['/a.siz/', '/asˈsi.ze/', '/aˈsiːz(ə)/']"
-assonance,assonance,"['/ˈæsənəns/', '/ˈɛsɘnɘns/']","['/ˈæsənəns/', '/ˈɛsɘnɘns/']"
-Asterix,Astérix,[],['/as.te.ʁiks/']
-astrologue,astrologue,['/as.tʁɔ.lɔɡ/'],['/as.tʁɔ.lɔɡ/']
-atelier,atelier,"['/æ.təlˈjeɪ/', '/ˈæ.təl.jeɪ/', '/əˈtɛl.jeɪ/', '/əˈtɛl.i.eɪ/', '/ˌaː.təlˈjeː/', '/a.tə.lje/', '/a.teˈlje/', '/a.tɛˈljɛ/']","['/æ.təlˈjeɪ/', '/ˈæ.təl.jeɪ/', '/əˈtɛl.jeɪ/', '/əˈtɛl.i.eɪ/', '/ˌaː.təlˈjeː/', '/a.tə.lje/', '/a.teˈlje/', '/a.tɛˈljɛ/']"
-atmosphere,atmosphère,"['/ˈæt.məsˌfɪə(ɹ)/', '/ˈætməsˌfɪɹ/']",['/at.mɔs.fɛʁ/']
-atrophy,atrophie,['/ˈæ.tɹə.fi/'],['/a.tʁɔ.fi/']
-attaché,attaché,"['/əˈtæʃeɪ/', '/ˌætæˈʃeɪ/', '/a.ta.ʃe/', '/a.taˈʂɛ/']","['/əˈtæʃeɪ/', '/ˌætæˈʃeɪ/', '/a.ta.ʃe/', '/a.taˈʂɛ/']"
-attachment,attachement,"['/əˈtætʃmənt/', '/ɛˈtɛtʃmənt/', '/ɑˈtɛtʃmənt/']",['/a.taʃ.mɑ̃/']
-attaché case,attaché,[],"['/əˈtæʃeɪ/', '/ˌætæˈʃeɪ/', '/a.ta.ʃe/', '/a.taˈʂɛ/']"
-attack,attaque,"['/əˈtæk/', '/aˈtak/']",['/a.tak/']
-attentisme,attentisme,[],[]
-attic,attique,['/ˈætɪk/'],[]
-attitude,attitude,"['/ˈætɪˌtjuːd/', '/ˈætɪtud/', '/a.ti.tyd/']","['/ˈætɪˌtjuːd/', '/ˈætɪtud/', '/a.ti.tyd/']"
-au contraire,au contraire,"['/əʊ ˈkɒntɹɛː(ɹ)/', '/oʊ ˌkoʊnˈtɹɛ(ə)ɹ/', '/o kɔ̃.tʁɛʁ/']","['/əʊ ˈkɒntɹɛː(ɹ)/', '/oʊ ˌkoʊnˈtɹɛ(ə)ɹ/', '/o kɔ̃.tʁɛʁ/']"
-au courant,au courant,"['/əʊ kʊˈɹɒn(t)/', '/o ku.ʁɑ̃/']","['/əʊ kʊˈɹɒn(t)/', '/o ku.ʁɑ̃/']"
-au fait,au fait,"['/ˌəʊˈfeɪ/', '/ˌoʊˈfeɪ/', '/o fɛt/']","['/ˌəʊˈfeɪ/', '/ˌoʊˈfeɪ/', '/o fɛt/']"
-au gratin,au gratin,[],"['/æʊ/', '/ˈaw/', '/ɑu̯/', '/ˈɑu̯/', '/o/', '/ˈau̯/', '/au̯/', '/au̯/', '/æʉ/', '/aw/', '/ˈa.u/', '/aw/', '/ˈa.u/', '/a.u/', '/ˈa.u/']"
-au jus,au jus,[],[]
-au naturel,au naturel,['/o na.ty.ʁɛl/'],['/o na.ty.ʁɛl/']
-au pair,être au pair,"['/əʊ ˈpɛə/', '/ˈɑu̯pɑi̯r/', '/o pɛʁ/']","['/əʊ ˈpɛə/', '/ˈɑu̯pɑi̯r/', '/o pɛʁ/']"
-au revoir,au revoir,"['/ˌəʊ.ɹə.ˈvwɑː/', '/ɔːɹ.ˈvwɑː/', '/o.ʁə.ˈvwaʁ/', '/ɔʁ.ˈvwaʁ/', '/ˌoʊ.ɹə.ˈvwɑɹ/', '/o ʁə.vwaʁ/', '/ɔʁ.vwaʁ/']","['/ˌəʊ.ɹə.ˈvwɑː/', '/ɔːɹ.ˈvwɑː/', '/o.ʁə.ˈvwaʁ/', '/ɔʁ.ˈvwaʁ/', '/ˌoʊ.ɹə.ˈvwɑɹ/', '/o ʁə.vwaʁ/', '/ɔʁ.vwaʁ/']"
-aubade,aubade,"['/oʊˈbɑːd/', '/ˌoːˈbaː.də/', '/o.bad/']","['/oʊˈbɑːd/', '/ˌoːˈbaː.də/', '/o.bad/']"
-aubaine,aubain,['/o.bɛn/'],['/o.bɛ̃/']
-Aube,Aube,['/ob/'],['/ob/']
-auberge,auberge,['/o.bɛʁʒ/'],['/o.bɛʁʒ/']
-aubergine,aubergine,"['/ˈoʊbɚʒin/', '/ˈəʊbəʒiːn/', '/obɛrsjiːnə/', '/ˌoːbɛrˈʒinə/', '/ˌoːbərˈʒinə/', '/o.bɛʁ.ʒin/', '/ɔbɛrˈɕɪn/', '/ɔbɛrˈɕiːn/']","['/ˈoʊbɚʒin/', '/ˈəʊbəʒiːn/', '/obɛrsjiːnə/', '/ˌoːbɛrˈʒinə/', '/ˌoːbərˈʒinə/', '/o.bɛʁ.ʒin/', '/ɔbɛrˈɕɪn/', '/ɔbɛrˈɕiːn/']"
-aubergiste,aubergiste,['/o.bɛʁ.ʒist/'],['/o.bɛʁ.ʒist/']
-Aubin,Aubin,['/o.bɛ̃/'],['/o.bɛ̃/']
-Auble,Auble,[],[]
-Aucoin,Aucoin,['/o.kwɛ̃/'],['/o.kwɛ̃/']
-Aude,Aude,['/od/'],['/od/']
-Audet,Audet,['/o.dɛ/'],['/o.dɛ/']
-Audett,Audett,[],[]
-Audette,Audette,[],[]
-Auger,Auger,"['/ˈɔːʒɚ/', '/o.ʒe/']","['/ˈɔːʒɚ/', '/o.ʒe/']"
-Augier,Augier,['/o.ʒje/'],['/o.ʒje/']
-auguste,auguste,"['/ˈaʊɡʊst/', '/o.ɡyst/']","['/ˈaʊɡʊst/', '/o.ɡyst/']"
-Aurès,Aurès,[],[]
-Australasia,Australasie,"['/ˌɒstɹ(ə)lˈeɪʒə/', '/ˌɔstɹl̩ˈæɪʒɐ/']",[]
-auteur,auteur,"['/oʊˈtɝ/', '/ɔːˈtɜː/', '/əʊˈtɜː/', '/ɑu̯ˈtøːr/', '/oːˈtøːr/', '/o.tœʁ/']","['/oʊˈtɝ/', '/ɔːˈtɜː/', '/əʊˈtɜː/', '/ɑu̯ˈtøːr/', '/oːˈtøːr/', '/o.tœʁ/']"
-autoclave,autoclave,['/ˈɔtəˌkleɪv/'],['/ˈɔtəˌkleɪv/']
-autocrat,autocrate,[],['/o.tɔ.kʁat/']
-autofiction,autofiction,[],[]
-autogestion,autogestion,['/o.to.ʒɛs.tjɔ̃/'],['/o.to.ʒɛs.tjɔ̃/']
-automatic,automatique,"['/ˌɔː.təˈmæt.ɪk/', '/ˌɔː.təˈmæt.ɪk/', '/ˌɑː.təˈmæt.ɪk/']","['/o.tɔ.ma.tik/', '/ɔ.tɔ.ma.tik/']"
-automobile,automobile,"['/ˈɔː.tə.məˌbiːl/', '/ˈɔː.tə.məˌbil/', '/ˌɔː.tə.məˈbil/', '/ˌɔː.təˈmoʊ.bil/', '/ˌɔː.təˈməʊˌbaɪ.əl/', '/o.tɔ.mɔ.bil/', '/aw.toˈmɔ.bi.le/']","['/ˈɔː.tə.məˌbiːl/', '/ˈɔː.tə.məˌbil/', '/ˌɔː.tə.məˈbil/', '/ˌɔː.təˈmoʊ.bil/', '/ˌɔː.təˈməʊˌbaɪ.əl/', '/o.tɔ.mɔ.bil/', '/aw.toˈmɔ.bi.le/']"
-autoroute,autoroute,['/o.tɔ.ʁut/'],['/o.tɔ.ʁut/']
-autotomy,autotomie,['/ɔːˈtɒtəmi/'],[]
-Auvergne,Auvergne,['/o.vɛʁɲ/'],['/o.vɛʁɲ/']
-aval,aval,"['/ˈɑː.val/', '/a.val/', '/aˈvaw/', '/ɐˈval/', '/aˈbal/']","['/ˈɑː.val/', '/a.val/', '/aˈvaw/', '/ɐˈval/', '/aˈbal/']"
-avalanche,avalanche,"['/ˈævəlɑːnʃ/', '/ˈævəlæntʃ/', '/a.va.lɑ̃ʃ/', '/ˌa.vaˈlɐ̃.ʃi/', '/ɐ.vɐˈlɐ̃.ʃɨ/']","['/ˈævəlɑːnʃ/', '/ˈævəlæntʃ/', '/a.va.lɑ̃ʃ/', '/ˌa.vaˈlɐ̃.ʃi/', '/ɐ.vɐˈlɐ̃.ʃɨ/']"
-avalement,avalement,['/a.val.mɑ̃/'],['/a.val.mɑ̃/']
-avant la lettre,avant la lettre,['/a.vɑ̃ la lɛtʁ/'],['/a.vɑ̃ la lɛtʁ/']
-avant-garde,avant-garde,"['/æˈvɑ̃t.ɡɑːd/', '/æˈvɑ̃.ɡɑːd/', '/ˌæ.vɑ̃ˈɡɑːd/', '/ˈæ.vn̩t.ɡɑːd/', '/ˌɑˌvɑntˈɡɑɹd/', '/əˌvɑntˈɡɑɹd/', '/ˌæ.vɑntˈɡɑɹd/', '/ˌɑˌvæntˈɡɑɹd/', '/əˌvæntˈɡɑɹd/', '/ˌɑˌvɑ̃ˈɡɑɹd/', '/ˌæˌvɑ̃ˈɡɑɹd/', '/a.vɑ̃.ɡaʁd/']","['/æˈvɑ̃t.ɡɑːd/', '/æˈvɑ̃.ɡɑːd/', '/ˌæ.vɑ̃ˈɡɑːd/', '/ˈæ.vn̩t.ɡɑːd/', '/ˌɑˌvɑntˈɡɑɹd/', '/əˌvɑntˈɡɑɹd/', '/ˌæ.vɑntˈɡɑɹd/', '/ˌɑˌvæntˈɡɑɹd/', '/əˌvæntˈɡɑɹd/', '/ˌɑˌvɑ̃ˈɡɑɹd/', '/ˌæˌvɑ̃ˈɡɑɹd/', '/a.vɑ̃.ɡaʁd/']"
-avant-texte,uncountable,[],"['/l/', '/ɹ/', '/w/', '/j/', '/z/', '/s/', '/k/', '/o/', '/f/', '/s/', '/ʃ/', '/θ/', '/v/', '/z/', '/ʒ/', '/ð/', '/æ/', '/ɛ/', '/eɪ/', '/ɪ/', '/i/', '/ɹəɹ/', '/ɹ/', '/j/', '/ʂ/', '/ʐ/', '/t͡ɕ/', '/ɕː/', '/ʐ/', '/t͡ɕ/', '/ʐ/', '/e/', '/i/', '/j/', '/t/', '/d/', '/s/', '/z/', '/t͡ʃ/', '/d͡ʒ/', '/ʃ/', '/ʒ/', '/j/', '/j/', '/p/', '/t/', '/k/', '/b/', '/d/', '/ɡ/', '/k/', '/ɡ/', '/ŋ/', '/v/', '/z/', '/b/', '/d/', '/f/', '/s/', '/p/', '/t/']"
-aven,aven,"['/ˈɑː.ven/', '/a.vɛn/']","['/ˈɑː.ven/', '/a.vɛn/']"
-aventurine,aventurine,"['/əˈvɛn.t͡ʃə.ɹɪn/', '/əˈvɛn.tjʊə.ɹɪn/', '/əˈvɛn.t͡ʃə.ɹɪn/', '/əˈvɛn.t͡ʃəˌɹin/', '/a.vɑ̃.ty.ʁin/']","['/əˈvɛn.t͡ʃə.ɹɪn/', '/əˈvɛn.tjʊə.ɹɪn/', '/əˈvɛn.t͡ʃə.ɹɪn/', '/əˈvɛn.t͡ʃəˌɹin/', '/a.vɑ̃.ty.ʁin/']"
-avenue,avenue,"['/ˈæv.əˌnjuː/', '/ˈæv.əˌn(j)u/', '/avəny/', '/av.ny/']","['/ˈæv.əˌnjuː/', '/ˈæv.əˌn(j)u/', '/avəny/', '/av.ny/']"
-avertissement,avertissement,['/a.vɛʁ.tis.mɑ̃/'],['/a.vɛʁ.tis.mɑ̃/']
-avertissement nucléaire,avertissement nucléaire,['/yl.ti.ma.vɛʁ.tis.mɑ̃.ny.kle.ɛʁ/'],['/a.vɛʁ.tis.mɑ̃/']
-aviation,aviation,"['/ˌeɪ.viˈeɪ.ʃən/', '/a.vja.sjɔ̃/']","['/ˌeɪ.viˈeɪ.ʃən/', '/a.vja.sjɔ̃/']"
-aviator,aviateur,['/a.vi.aˈtor/'],"['/ˌaː.vi.aːˈtøːr/', '/a.vja.tœʁ/']"
-Avignon,Avignon,['/a.vi.ɲɔ̃/'],['/a.vi.ɲɔ̃/']
-avocat,avocat,"['/a.vɔ.ka/', '/avuˈkat/', '/a.voˈkat/']","['/a.vɔ.ka/', '/avuˈkat/', '/a.voˈkat/']"
-avoyer,avoyer,[],[]
-Avril,avril,"['/ˈævɹɪl/', '/a.vʁil/']","['/a.vʁil/', '/av.ɾi/']"
-axunge,axonge,['/ˈaksənd͡ʒ/'],['/ak.sɔ̃ʒ/']
-Aydelotte,Aydelotte,[],[]
-Ayn,Ayn,['/aɪn/'],['/aɪn/']
-azedarach,azédarach,[],['/a.ze.da.ʁak/']
-azote,azote,"['/ˈæzəʊt/', '/a.zɔt/', '/aˈθote/', '/aˈsote/']","['/ˈæzəʊt/', '/a.zɔt/', '/aˈθote/', '/aˈsote/']"
-baba au rhum,baba au rhum,['/ba.ba o ʁɔm/'],['/ba.ba o ʁɔm/']
-babiroussa,babiroussa,['/ba.bi.ʁu.sa/'],['/ba.bi.ʁu.sa/']
-babouche,babouche,"['/bəˈbuːʃ/', '/ba.buʃ/']","['/bəˈbuːʃ/', '/ba.buʃ/']"
-babul,baboul,['/bəˈbuːl/'],[]
-Baby,Baby,"['/ˈbeːbi/', '/ˈbɛɪ̯bi/']","['/ˈbeːbi/', '/ˈbɛɪ̯bi/']"
-bac,bac,"['/ˈbak/', '/bak/', '/bˠɑk/', '/bˠak/']","['/ˈbak/', '/bak/', '/bˠɑk/', '/bˠak/']"
-baccalaureat,baccalauréat,"['/bækəˈlɔːɹɪət/', '/bækəˈlɔːɹiæ/']",['/ba.ka.lo.ʁe.a/']
-baccalaureate,baccalauréat,['/bækəˈlɔːɹɪət/'],['/ba.ka.lo.ʁe.a/']
-baccarat,baccarat,"['/ˈbækəɹɑː/', '/ˈbɑːkəɹɑː/', '/bɑːkəˈrɑː/', '/ˈbækəɹæt/']","['/ˈbækəɹɑː/', '/ˈbɑːkəɹɑː/', '/bɑːkəˈrɑː/', '/ˈbækəɹæt/']"
-back,bac,"['/bæk/', '/bak/', '/bak/']","['/ˈbak/', '/bak/', '/bˠɑk/', '/bˠak/']"
-backet,baquet,[],['/ba.kɛ/']
-bacteriophage,bactériophage,['/bækˈtɪəɹ.ɪəʊˌfeɪdʒ/'],['/bak.te.ʁjɔ.faʒ/']
-badaud,badaud,['/ba.do/'],['/ba.do/']
-badelaire,badelaire,[],[]
-badian,badiane,"['/ˈbɑː.di.ɑn/', '/ˈba.djan/']",[]
-Badie,Badié,[],[]
-badigeon,badigeon,['/ba.di.ʒɔ̃/'],['/ba.di.ʒɔ̃/']
-badinage,badinage,"['/ˌbæd.ɪˈnɑːʒ/', '/ˌbæd.ɪ.ˈnɑːdʒ/', '/ˌbɑd.ɪˈnɑʒ/', '/ba.di.naʒ/']","['/ˌbæd.ɪˈnɑːʒ/', '/ˌbæd.ɪ.ˈnɑːdʒ/', '/ˌbɑd.ɪˈnɑʒ/', '/ba.di.naʒ/']"
-badine,badine,"['/bəˈdiːn/', '/ba.din/']","['/bəˈdiːn/', '/ba.din/']"
-badinerie,badinerie,['/ˈbæd.ɪn.ɹi/'],['/ˈbæd.ɪn.ɹi/']
-bagasse,bagasse,[],[]
-bagatelle,bagatelle,"['/ˌbæɡəˈtɛl/', '/ba.ɡa.tɛl/']","['/ˌbæɡəˈtɛl/', '/ba.ɡa.tɛl/']"
-Bagnères-de-Luchon,Bagnères-de-Luchon,['/ba.ɲɛʁ.də.ly.ʃɔ̃/'],['/ba.ɲɛʁ.də.ly.ʃɔ̃/']
-bague,bague,['/baɡ/'],['/baɡ/']
-baguette,baguette,"['/bæˈɡɛt/', '/ba.ɡɛt/', '/baˈɡet/']","['/bæˈɡɛt/', '/ba.ɡɛt/', '/baˈɡet/']"
-bahut,bahut,"['/bəˈhʊt/', '/bəˈhuːt/', '/ba.y/']","['/bəˈhʊt/', '/bəˈhuːt/', '/ba.y/']"
-baignoire,baignoire,"['/bɛnˈwɑː(ɹ)/', '/bɛ.ɲwaʁ/']","['/bɛnˈwɑː(ɹ)/', '/bɛ.ɲwaʁ/']"
-bail,bailler,"['/beɪ̯l/', '/pɐi˨˦/', '/baj/', '/bˠalʲ/']","['/ba.je/', '/ba.jɑ̃/', '/ba.je/', '/baj/', '/baj/', '/baj/', '/ba.jɔ̃/', '/ba.je/', '/baj/', '/ba.jɛ/', '/ba.jɛ/', '/ba.jɛ/', '/baj.jɔ̃/', '/baj.je/', '/ba.jɛ/', '/ba.je/', '/ba.ja/', '/ba.ja/', '/ba.jam/', '/ba.jat/', '/ba.jɛʁ/', '/baj.ʁe/', '/baj.ʁa/', '/baj.ʁa/', '/baj.ʁɔ̃/', '/baj.ʁe/', '/baj.ʁɔ̃/', '/baj.ʁɛ/', '/baj.ʁɛ/', '/baj.ʁɛ/', '/ba.jə.ʁjɔ̃/', '/ba.jə.ʁje/', '/baj.ʁɛ/', '/baj/', '/baj/', '/baj/', '/baj.jɔ̃/', '/baj.je/', '/baj/', '/ba.jas/', '/ba.jas/', '/ba.ja/', '/ba.ja.sjɔ̃/', '/ba.ja.sje/', '/ba.jas/', '/baj/', '/ba.jɔ̃/', '/ba.je/']"
-Bailly,Bailly,[],[]
-bain-marie,bain-marie,['/bɛ̃.ma.ʁi/'],['/bɛ̃.ma.ʁi/']
-baisemains,baisemains,[],[]
-bakeapple,"baie, qu'appelle",[],[]
-bal musette,bal musette,['/bal my.zɛt/'],['/bal my.zɛt/']
-balancelle,balancelle,['/ba.lɑ̃.sɛl/'],['/ba.lɑ̃.sɛl/']
-balayage,balayage,"['/ba.lɛ.jaʒ/', '/balɛ.jaʂ/']","['/ba.lɛ.jaʒ/', '/balɛ.jaʂ/']"
-balayeuse,balayeuse,['/ba.lɛ.jøz/'],['/ba.lɛ.jøz/']
-balcon,balcon,"['/bal.kɔ̃/', '/balˈkon/']","['/bal.kɔ̃/', '/balˈkon/']"
-baldacchin,baldaquin,['/ˈbaldəkɪn/'],"['/ˈbældəkɪn/', '/bal.da.kɛ̃/']"
-baldaquin,baldaquin,"['/ˈbældəkɪn/', '/bal.da.kɛ̃/']","['/ˈbældəkɪn/', '/bal.da.kɛ̃/']"
-Balduc,Balduc,['/bal.dyk/'],['/bal.dyk/']
-balise,balise,"['/bəˈliːz/', '/ba.liz/']","['/bəˈliːz/', '/ba.liz/']"
-ballad,ballade,['/ˈbæləd/'],['/ba.lad/']
-ballade,ballade,['/ba.lad/'],['/ba.lad/']
-balladine,balladine,[],[]
-ballet,ballet,"['/ˈbæleɪ/', '/bælɪ/', '/bælæe/', '/bɛlæe/', '/bɐleː/', '/bɐlɪː/', '/bæˈleɪ/', '/ˈbæ(ˌ)leɪ/', '/balɛt/', '/bɑˈlɛt/', '/ba.lɛ/', '/ˈbal.let/', '/ˈbal.let/', '/ˈpalleh(t)/', '/baˈle/']","['/ˈbæleɪ/', '/bælɪ/', '/bælæe/', '/bɛlæe/', '/bɐleː/', '/bɐlɪː/', '/bæˈleɪ/', '/ˈbæ(ˌ)leɪ/', '/balɛt/', '/bɑˈlɛt/', '/ba.lɛ/', '/ˈbal.let/', '/ˈbal.let/', '/ˈpalleh(t)/', '/baˈle/']"
-balletomane,balletomane,"['/bæˈlɛt.əˌmeɪn/', '/bəˈlɛt.əˌmeɪn/']","['/bæˈlɛt.əˌmeɪn/', '/bəˈlɛt.əˌmeɪn/']"
-ballon,ballon,"['/baˈlɔn/', '/balɔnɡ/', '/bɑˈlɔn/', '/ba.lɔ̃/', '/ˈpallon/']","['/baˈlɔn/', '/balɔnɡ/', '/bɑˈlɔn/', '/ba.lɔ̃/', '/ˈpallon/']"
-ballon d'essai,ballon d'essai,"['/ˌbalɒ̃ dɛˈseɪ/', '/ba.lɔ̃ d‿e.sɛ/']","['/ˌbalɒ̃ dɛˈseɪ/', '/ba.lɔ̃ d‿e.sɛ/']"
-ballonet,ballonnet,"['/ˈbalənɛt/', '/baləˈnɛt/', '/ˌbɑ.lɔˈnɛt/']",[]
-ballonnement,ballonnement,[],[]
-ballottement,ballottement,['/ba.lɔt.mɑ̃/'],['/ba.lɔt.mɑ̃/']
-balustrade,balustrade,"['/ˌbæl.əˈstɹeɪd/', '/ˈbæl.ə.stɹeɪd/', '/ˌbaː.lyˈstraː.də/', '/ba.lys.tʁad/']","['/ˌbæl.əˈstɹeɪd/', '/ˈbæl.ə.stɹeɪd/', '/ˌbaː.lyˈstraː.də/', '/ba.lys.tʁad/']"
-banal,banal,"['/bəˈnɑːl/', '/ˈbeɪnəl/', '/bəˈnæl/', '/baˈnal/', '/bəˈnal/', '/baˈnal/', '/ba.nal/', '/baˈnaːl/', '/banal/', '/baˈnaw/', '/bɐˈnal/', '/baˈnal/', '/baˈnal/']","['/bəˈnɑːl/', '/ˈbeɪnəl/', '/bəˈnæl/', '/baˈnal/', '/bəˈnal/', '/baˈnal/', '/ba.nal/', '/baˈnaːl/', '/banal/', '/baˈnaw/', '/bɐˈnal/', '/baˈnal/', '/baˈnal/']"
-banality,banalité,"['/bəˈnælɨti/', '/beɪˈnælɨti/']",[]
-bancassurance,bancassurance,['/bɑ̃.ka.sy.ʁɑ̃s/'],['/bɑ̃.ka.sy.ʁɑ̃s/']
-bandage,bandage,"['/ˈbændɪdʒ/', '/bandaːsjə/', '/ˌbɑnˈdaːʒə/', '/bɑ̃.daʒ/']","['/ˈbændɪdʒ/', '/bandaːsjə/', '/ˌbɑnˈdaːʒə/', '/bɑ̃.daʒ/']"
-bandeau,bandeau,"['/ˈbændəʊ/', '/ˈbandəʊ/', '/bɑ̃.do/']","['/ˈbændəʊ/', '/ˈbandəʊ/', '/bɑ̃.do/']"
-bandy,bander,['/ˈbændi/'],"['/bɑ̃.de/', '/bɑ̃.dɑ̃/', '/bɑ̃.de/', '/bɑ̃d/', '/bɑ̃d/', '/bɑ̃d/', '/bɑ̃.dɔ̃/', '/bɑ̃.de/', '/bɑ̃d/', '/bɑ̃.dɛ/', '/bɑ̃.dɛ/', '/bɑ̃.dɛ/', '/bɑ̃.djɔ̃/', '/bɑ̃.dje/', '/bɑ̃.dɛ/', '/bɑ̃.de/', '/bɑ̃.da/', '/bɑ̃.da/', '/bɑ̃.dam/', '/bɑ̃.dat/', '/bɑ̃.dɛʁ/', '/bɑ̃.dʁe/', '/bɑ̃.dʁa/', '/bɑ̃.dʁa/', '/bɑ̃.dʁɔ̃/', '/bɑ̃.dʁe/', '/bɑ̃.dʁɔ̃/', '/bɑ̃.dʁɛ/', '/bɑ̃.dʁɛ/', '/bɑ̃.dʁɛ/', '/bɑ̃.də.ʁjɔ̃/', '/bɑ̃.də.ʁje/', '/bɑ̃.dʁɛ/', '/bɑ̃d/', '/bɑ̃d/', '/bɑ̃d/', '/bɑ̃.djɔ̃/', '/bɑ̃.dje/', '/bɑ̃d/', '/bɑ̃.das/', '/bɑ̃.das/', '/bɑ̃.da/', '/bɑ̃.da.sjɔ̃/', '/bɑ̃.da.sje/', '/bɑ̃.das/', '/bɑ̃d/', '/bɑ̃.dɔ̃/', '/bɑ̃.de/']"
-Bankass,Bankass,['/bɑ̃.kas/'],['/bɑ̃.kas/']
-banlieue,banlieue,['/bɑ̃.ljø/'],['/bɑ̃.ljø/']
-banneret,banneret,['/ˌbænəɹˈet/'],['/ˌbænəɹˈet/']
-banneton,banneton,['/ban.tɔ̃/'],['/ban.tɔ̃/']
-banque,banque,['/bɑ̃k/'],['/bɑ̃k/']
-banquette,banquette,"['/baŋˈkɛt/', '/bɒ̃ˈkɛt/', '/bæŋˈkɛt/', '/bɑ̃.kɛt/']","['/baŋˈkɛt/', '/bɒ̃ˈkɛt/', '/bæŋˈkɛt/', '/bɑ̃.kɛt/']"
-Banville,Banville,[],[]
-Baptiste,Baptiste,['/ba.tist/'],['/ba.tist/']
-baragouin,baragouin,"['/ˈbæɹəɡwæ̃/', '/ˈbæɹəɡwæn/', '/ˈbɛɹəɡwæn/', '/ba.ʁa.ɡwɛ̃/']","['/ˈbæɹəɡwæ̃/', '/ˈbæɹəɡwæn/', '/ˈbɛɹəɡwæn/', '/ba.ʁa.ɡwɛ̃/']"
-barbastelle,barbastelle,[],[]
-barbet,barbe,[],['/baʁb/']
-barbette,barbette,"['/bɑːˈbɛt/', '/baʁ.bɛt/']","['/bɑːˈbɛt/', '/baʁ.bɛt/']"
-Barbin,Barbin,[],[]
-barbotine,barbotine,['/baʁ.bɔ.tin/'],['/baʁ.bɔ.tin/']
-barcarole,barcarolle,"['/ˈbɑːkəɹəʊl/', '/ˌbɑːkəˈɹəʊl/', '/ˈbɑɹkəˌɹoʊl/']",['/baʁ.ka.ʁɔl/']
-Bardet,Bardet,[],[]
-barège,barège,"['/bæɹˈeəʒ/', '/ba.ʁɛʒ/']","['/bæɹˈeəʒ/', '/ba.ʁɛʒ/']"
-Bareilles,Bareilles,[],[]
-Bargeron,Bargeron,[],[]
-bariolage,bariolage,[],[]
-Baroque,barroco,"['/bəˈɹɒk/', '/bəˈɹəʊk/', '/bəˈɹoʊk/']",['/baˈroko/']
-baroque,baroque,"['/bæˈɹɒk/', '/bəˈɹoʊk/', '/ba.ʁɔk/']","['/bæˈɹɒk/', '/bəˈɹoʊk/', '/ba.ʁɔk/']"
-barrack,baraque,['/ˈbæ.ɹək/'],['/ba.ʁak/']
-barrage,barrage,"['/ˈbæɹɑːʒ/', '/bəˈɹɑːʒ/', '/ba.ʁaʒ/', '/bɑ.ʁaʒ/']","['/ˈbæɹɑːʒ/', '/bəˈɹɑːʒ/', '/ba.ʁaʒ/', '/bɑ.ʁaʒ/']"
-barre,barre,"['/bare/', '/barə/', '/baʁ/', '/bɑʁ/']","['/bare/', '/barə/', '/baʁ/', '/bɑʁ/']"
-barre chord,barre,[],"['/bare/', '/barə/', '/baʁ/', '/bɑʁ/']"
-barret,barrette,"['/bəˈrət/', '/bəˈrɛt/', '/baˈret/']","['/bəˈɹɛt/', '/ba.ʁɛt/']"
-barrette,barrette,"['/bəˈɹɛt/', '/ba.ʁɛt/']","['/bəˈɹɛt/', '/ba.ʁɛt/']"
-barricade,barricade,"['/ˌbæɹɪˈkeɪd/', '/ˌbɑ.riˈkaː.də/', '/ba.ʁi.kad/']","['/ˌbæɹɪˈkeɪd/', '/ˌbɑ.riˈkaː.də/', '/ba.ʁi.kad/']"
-Barrilleaux,Barrilleaux,[],[]
-barrique,barrique,['/ba.ʁik/'],['/ba.ʁik/']
-Bas,Bas,[],[]
-bas-relief,bas-relief,"['/ˈbæs.ɹɪˌliːf/', '/ˈbɑː.ɹɪˌliːf/', '/ˈbɑs.ɹɪˌliːf/', '/ˌbɑ.ɹɪˈlif/', '/ˌbæs.ɹɪˈlif/', '/ˈbɑ.ɹɪˌlif/', '/ˈbæs.ɹɪˌlif/', '/bɑ.ʁə.ljɛf/']","['/ˈbæs.ɹɪˌliːf/', '/ˈbɑː.ɹɪˌliːf/', '/ˈbɑs.ɹɪˌliːf/', '/ˌbɑ.ɹɪˈlif/', '/ˌbæs.ɹɪˈlif/', '/ˈbɑ.ɹɪˌlif/', '/ˈbæs.ɹɪˌlif/', '/bɑ.ʁə.ljɛf/']"
-Bas-Rhin,Bas-Rhin,['/bɑ.ʁɛ̃/'],['/bɑ.ʁɛ̃/']
-basbleu,bas-bleu,[],"['/bɑ.blø/', '/ba.blø/']"
-bascule,basculer,"['/ˈbæskjuːl/', '/ˌbɑsˈky.lə/', '/bas.kyl/']","['/bas.ky.le/', '/bas.ky.lɑ̃/', '/bas.ky.le/', '/bas.kyl/', '/bas.kyl/', '/bas.kyl/', '/bas.ky.lɔ̃/', '/bas.ky.le/', '/bas.kyl/', '/bas.ky.lɛ/', '/bas.ky.lɛ/', '/bas.ky.lɛ/', '/bas.ky.ljɔ̃/', '/bas.ky.lje/', '/bas.ky.lɛ/', '/bas.ky.le/', '/bas.ky.la/', '/bas.ky.la/', '/bas.ky.lam/', '/bas.ky.lat/', '/bas.ky.lɛʁ/', '/bas.kyl.ʁe/', '/bas.kyl.ʁa/', '/bas.kyl.ʁa/', '/bas.kyl.ʁɔ̃/', '/bas.kyl.ʁe/', '/bas.kyl.ʁɔ̃/', '/bas.kyl.ʁɛ/', '/bas.kyl.ʁɛ/', '/bas.kyl.ʁɛ/', '/bas.ky.lə.ʁjɔ̃/', '/bas.ky.lə.ʁje/', '/bas.kyl.ʁɛ/', '/bas.kyl/', '/bas.kyl/', '/bas.kyl/', '/bas.ky.ljɔ̃/', '/bas.ky.lje/', '/bas.kyl/', '/bas.ky.las/', '/bas.ky.las/', '/bas.ky.la/', '/bas.ky.la.sjɔ̃/', '/bas.ky.la.sje/', '/bas.ky.las/', '/bas.kyl/', '/bas.ky.lɔ̃/', '/bas.ky.le/']"
-basilar,basilaire,"['/ˈbas.ɪl.ə/', '/ˈbæz.əl.ɚ/', '/ˈbæs.əl.ɚ/', '/ˈbeɪ.zəl.ɚ/', '/ˈbeɪ.səl.ɚ/', '/basiˈlaɾ/']",[]
-Basque,basque,"['/bɑːsk/', '/bæsk/', '/bask/']","['/bæsk/', '/bɑːsk/', '/bask/']"
-basque,basque,"['/bæsk/', '/bɑːsk/', '/bask/']","['/bæsk/', '/bɑːsk/', '/bask/']"
-Basquiat,Basquiat,[],[]
-Basse,Basse,[],[]
-Basset,Basset,[],[]
-Bassin,Bassin,[],[]
-bassoon,basson,"['/bəˈsuːn/', '/bəˈsun/']","['/bɑˈsɔn/', '/bɑ.sɔ̃/', '/ˈpasson/']"
-bastide,bastide,[],[]
-bastille,bastille,['/bas.tij/'],['/bas.tij/']
-bat,bât,"['/bæt/', '/bat/', '/ˈbat/', '/ba/', '/baːt/', '/ˈbat/', '/bat/', '/bat/', '/bɔt/', '/bɑːt/', '/bad/', '/v(ʲ)-/', '/bat/', '/bât/', '/bâːt/', '/bâːt/', '/ˈbat/', '/ɓätʰ/', '/paːt˧˥/']","['/bɑ/', '/ba/']"
-batardeau,batardeau,[],[]
-bateau,bateau,"['/bæˈtoʊ/', '/ba.to/']","['/bæˈtoʊ/', '/ba.to/']"
-bateleur,bateleur,"['/ˌbætəˈlɜː/', '/ba.tlœʁ/']","['/ˌbætəˈlɜː/', '/ba.tlœʁ/']"
-bathyscaphe,bathyscaphe,"['/ˈbæθɪˌskeɪv/', '/ˈbæθɪˌskæf/']","['/ˈbæθɪˌskeɪv/', '/ˈbæθɪˌskæf/']"
-baton,bâton,"['/ˈbætɒn/', '/bəˈtɑn/', '/ˈba.tɔn/', '/baˈton/']",['/bɑ.tɔ̃/']
-battement,battement,[],[]
-batterie,batterie,"['/ˈbætəɹi/', '/ba.tʁi/']","['/ˈbætəɹi/', '/ba.tʁi/']"
-batterie de cuisine,batterie de cuisine,[],"['/ˈbætəɹi/', '/ba.tʁi/']"
-battu,battu,[],[]
-battue,battue,"['/bəˈt(j)uː/', '/bæ-/', '/bæˈtu/']","['/bəˈt(j)uː/', '/bæ-/', '/bæˈtu/']"
-Bau,Bau,"['/baʊ̯/', '/bæu̯/']","['/baʊ̯/', '/bæu̯/']"
-baud,baud,"['/bɔːd/', '/bo/']","['/bɔːd/', '/bo/']"
-Baumé,Baumé,['/bo.me/'],['/bo.me/']
-bauxite,-ite,['/ˈbɔːksaɪt/'],"['/-aɪt/', '/-aɪt/', '/-ɪt/', '/it/', '/ˈite/', '/ˈiː.teː/', '/ˈi.te/', '/-iˈteː/', '/-iteː/']"
-bavardage,bavardage,['/ba.vaʁ.daʒ/'],['/ba.vaʁ.daʒ/']
-bavaroise,bavarois,"['/bævəɹˈwɑz/', '/ˈbɑʋɑruɑːs/']","['/ˌbævə(ɹ)ˈwɑː/', '/ˌbɑvɚˈwɑ/', '/ˌbaː.vaːˈrʋaː/', '/ˈbɑʋɑruɑː/', '/ba.va.ʁwa/']"
-bavette,bavette,"['/bæˈvɛt/', '/ba.vɛt/']","['/bæˈvɛt/', '/ba.vɛt/']"
-bayadère,bayadère,"['/baɪəˈdɛː/', '/ba.ja.dɛʁ/']","['/baɪəˈdɛː/', '/ba.ja.dɛʁ/']"
-bayard,bayard,[],[]
-Bayle,Bayle,[],[]
-Bazil,Bazil,[],[]
-BD,BD,['/be.de/'],['/be.de/']
-BEA,BEA,[],[]
-Beacham,Beauchamp,[],"['/ˈbiːtʃəm/', '/bo.ʃɑ̃/']"
-Béarnais,Béarnais,[],[]
-beau,beau,"['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']","['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']"
-beau geste,beau geste,[],"['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']"
-beau idéal,beau idéal,['/bo ideal/'],"['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']"
-beau joueur,beau,[],"['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']"
-beau monde,beau monde,['/bo mɔ̃d/'],"['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']"
-beau sabreur,beau,['/bəʊ saˈbɹəː/'],"['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']"
-Beauchamp,Beauchamp,"['/ˈbiːtʃəm/', '/bo.ʃɑ̃/']","['/ˈbiːtʃəm/', '/bo.ʃɑ̃/']"
-Beauchemin,Beauchemin,[],[]
-beaucoup,beaucoup,"['/boʊ.ku/', '/bu.ku/', '/bo.ku/']","['/boʊ.ku/', '/bu.ku/', '/bo.ku/']"
-Beaudoin,Beaudoin,[],[]
-Beaudreau,Beaudreau,[],[]
-Beaudry,Beaudry,[],[]
-Beaujolais,Beaujolais,"['/ˌboʊ.ʒəˈleɪ/', '/bo.ʒɔ.lɛ/']","['/ˌboʊ.ʒəˈleɪ/', '/bo.ʒɔ.lɛ/']"
-Beaulieu,beau + lieu,['/ˈbjuːli/'],"['/bəʊ/', '/boʊ/', '/bo/', '/bɛu̯/']"
-Beauregard,Beauregard,['/ˈboʊɹəɡɑɹd/'],['/ˈboʊɹəɡɑɹd/']
-beaux-arts,beaux-arts,"['/boʊˈzɑɹ/', '/bəʊˈzɑː/', '/bo.z‿aʁ/']","['/boʊˈzɑɹ/', '/bəʊˈzɑː/', '/bo.z‿aʁ/']"
-becard,bécard,[],[]
-béchamel,béchamel,['/be.ʃa.mɛl/'],['/be.ʃa.mɛl/']
-béchamel sauce,sauce béchamel,[],[]
-bêche-de-mer,bêche-de-mer,['/bɛʃ.də.mɛʁ/'],['/bɛʃ.də.mɛʁ/']
-becquerel,becquerel,['/bɛ.kʁɛl/'],['/bɛ.kʁɛl/']
-Bedard,Bédard,[],[]
-bedeguar,bédégar,[],[]
-Bedel,Bedel,[],[]
-bedlamer,bête de la mer,['/ˈbɛdləmɚ/'],"['/bɛt/', '/bɛːt/', '/beit/', '/bøit/', '/bɛːt/', '/bwɛːt/']"
-Beecham,Beauchamp,[],"['/ˈbiːtʃəm/', '/bo.ʃɑ̃/']"
-beef bourguignon,bœuf bourguignon,[],['/bœf buʁ.ɡi.ɲɔ̃/']
-beef olive,alouette,[],"['/æluˈɛt/', '/a.lwɛt/']"
-Beghard,bégard,['/bəˈɡɑːɹd/'],[]
-begonia,bégonia,"['/bəˈɡəʊniː.ə/', '/bəˈɡoʊni.ə/', '/bəˈɣoː.niˌaː/', '/bɛˈɡɔɲ.ja/', '/beˈɡonja/']",['/be.ɡɔ.nja/']
-béguin,béguin,"['/beɡiːn/', '/be.ɡɛ̃/']","['/beɡiːn/', '/be.ɡɛ̃/']"
-beguinage,béguinage,[],[]
-beige,(dialectal) beige,"['/ˈbeɪʒ/', '/ˈbeɪdʒ/', '/ˈbɛːʒə/', '/bɛʒ/', '/beːʃ/', '/bɛːʃ/', '/beːʒə/', '/bɛːʒə/', '/beːʃə/', '/bɛːʃə/', '/ˈbaɪ̯ɡə/', '/ˈbeːʃ/', '/ˈbeiʃ/', '/ˈbeis/', '/beːɧ/', '/bɛːɧ/']","['/ˈbeɪʒ/', '/ˈbeɪdʒ/', '/ˈbɛːʒə/', '/bɛʒ/', '/beːʃ/', '/bɛːʃ/', '/beːʒə/', '/bɛːʒə/', '/beːʃə/', '/bɛːʃə/', '/ˈbaɪ̯ɡə/', '/ˈbeːʃ/', '/ˈbeiʃ/', '/ˈbeis/', '/beːɧ/', '/bɛːɧ/']"
-beignet,beignet,"['/ˈbɛn.jeɪ/', '/bɛnˈjeɪ/', '/ˈbenjeː/', '/bɛ.ɲɛ/']","['/ˈbɛn.jeɪ/', '/bɛnˈjeɪ/', '/ˈbenjeː/', '/bɛ.ɲɛ/']"
-Bejaia,Béjaïa,['/bɪ.ˈdʒaɪ.ə/'],['/beʒaja/']
-Béjaïa,Béjaïa,['/beʒaja/'],['/beʒaja/']
-bel esprit,bel esprit,"['/bɛlɛˈspɹi/', '/bɛ.l‿ɛs.pʁi/']","['/bɛlɛˈspɹi/', '/bɛ.l‿ɛs.pʁi/']"
-Belainsky,Belainsky,[],[]
-Beland,Beland,[],[]
-belandre,belandre,[],[]
-Belcourt,Belcourt,[],[]
-Beliveau,Béliveau,[],[]
-Belle Époque,Belle Époque,[],[]
-belle sabreuse,belle,[],"['/bɛl/', '/bɛl/', '/ˈbɛl.le/', '/ˈbel.le/']"
-Belleau,Belleau,[],[]
-Bellefontaine,Bellefontaine,"['/ˌbɛl.fɒnˈtɛn/', '/bɛlˈfaʊntən/', '/ˈbɛlfaʊntən/', '/bɛl.fɔ̃.tɛn/']","['/ˌbɛl.fɒnˈtɛn/', '/bɛlˈfaʊntən/', '/ˈbɛlfaʊntən/', '/bɛl.fɔ̃.tɛn/']"
-Bellegarde,Bellegarde,['/bɛl.ɡaʁd/'],['/bɛl.ɡaʁd/']
-Bellerose,Bellerose,[],[]
-belles-lettres,belles-lettres,['/ˌbɛlˈlɛtɹ/'],['/ˌbɛlˈlɛtɹ/']
-Belliard,Belliard,[],[]
-Bellot,Bellot,[],[]
-Bellotte,Bellotte,[],[]
-belote,belote,"['/bəˈlɒt/', '/bə.lɔt/']","['/bəˈlɒt/', '/bə.lɔt/']"
-Belux,Belux,[],[]
-Benedictine,bénédictin,[],[]
-bengaline,bengaline,['/ˈbɛŋɡəliːn/'],['/ˈbɛŋɡəliːn/']
-Beninois,béninois,[],[]
-benitier,bénitier,[],['/be.ni.tje/']
-Benne,Benne,[],[]
-Benoist,Benoist,[],[]
-berceuse,berceuse,"['/bɛɹˈsuz/', '/ˌbɛrˈsøː.zə/', '/bɛʁ.søz/']","['/bɛɹˈsuz/', '/ˌbɛrˈsøː.zə/', '/bɛʁ.søz/']"
-Bercier,Bercier,[],[]
-berdache,bardache,"['/bəˈdaʃ/', '/bəɹˈdæʃ/']",['/baʁ.daʃ/']
-beret,béret,"['/ˈbɛɹ.eɪ/', '/bəˈɹeɪ/', '/ˈbɛ.rɛt/']",['/be.ʁɛ/']
-bergamot,bergamote,"['/ˈbɝɡəˌmɑt/', '/ˈbɜːɡəˌmɒt/', '/ˌbɛr.ɣaːˈmɔt/']",['/bɛʁ.ɡa.mɔt/']
-Berger Picard,berger picard,"['/bɛəˌʒeɪ pɪˈkɑː/', '/bɛɹˌʒeɪ pɪˈkɑɹ/']","['/bɛʁ.ʒe/', '/ˈbərɡər/']"
-bergerette,bergerette,['/bɛʁ.ʒə.ʁɛt/'],['/bɛʁ.ʒə.ʁɛt/']
-Bergeron,Bergeron,[],[]
-Beringer,Béringer,[],[]
-Berland,Berland,[],[]
-berline,berline,['/bɛʁ.lin/'],['/bɛʁ.lin/']
-berlingot,berlingot,['/bɛʁ.lɛ̃.ɡo/'],['/bɛʁ.lɛ̃.ɡo/']
-berm,berme,['/bɛrm/'],"['/ˈbɛrm(ə)/', '/ˈbarm(ə)/']"
-Bernardin,Bernardin,[],[]
-Bernardy,Bernardy,[],[]
-Bernet,Bernet,[],[]
-Bernier,Bernier,[],[]
-Berrien,Berrien,[],[]
-Berry,Berry,['/bɛ.ʁi/'],['/bɛ.ʁi/']
-besaiel,bisaïeul,"['/bɪˈseɪ.əl/', '/bɪˈseɪl/']",['/bi.za.jœl/']
-Besançon,Besançon,"['/bəˈzænsən/', '/bə.zɑ̃.sɔ̃/']","['/bəˈzænsən/', '/bə.zɑ̃.sɔ̃/']"
-Besson,Besson,[],[]
-bête de scène,bête de scène,['/beɪt də sɛn/'],"['/bɛt/', '/bɛːt/', '/beit/', '/bøit/', '/bɛːt/', '/bwɛːt/']"
-bête noire,bête noire,"['/beɪtˈnwɑː/', '/bɛt ˈnwɑɹ/', '/bɛt nwaʁ/']","['/beɪtˈnwɑː/', '/bɛt ˈnwɑɹ/', '/bɛt nwaʁ/']"
-bêtise,bêtise,"['/beɪˈtiːz/', '/bɛˈtiːz/', '/be.tiz/']","['/beɪˈtiːz/', '/bɛˈtiːz/', '/be.tiz/']"
-Bettencourt,Bettencourt,[],[]
-beurrage,beurrage,[],[]
-Beurré,beurré,[],['/bœ.ʁe/']
-beurre manié,beurre manié,[],['/bœʁ/']
-Bézier,Bézier,['/be.zje/'],['/be.zje/']
-bezique,bésigue,[],[]
-bezoar,bézoard,"['/ˈbi.zɔɹ/', '/ˈbiː.zɔː/', '/beθoˈaɾ/', '/besoˈaɾ/']",['/be.zɔ.aʁ/']
-biandry,biandrie,[],['/ˌbi.ɑnˈdri/']
-bias,biais,"['/ˈbaɪəs/', '/v(ʲ)-/']","['/bjɛ/', '/bjajs/']"
-Bibeau,Bibeau,[],[]
-bibelot,bibelot,"['/bib(ə)loʊ/', '/bib(ə)ləʊ/', '/bi.blo/', '/biˈbɛ.lɔt/']","['/bib(ə)loʊ/', '/bib(ə)ləʊ/', '/bi.blo/', '/biˈbɛ.lɔt/']"
-bibliotheke,bibliothèque,[],['/bi.bli.jɔ.tɛk/']
-bichon,bichon,"['/biʃɔn/', '/bi.ʃɔ̃/']","['/biʃɔn/', '/bi.ʃɔ̃/']"
-Bichon Frisé,bichon (à poil) frisé,['/ˈbiːʃɒn fɹiːˈzeɪ/'],['/bi.ʃɔ̃ a pwal fʁi.ze/']
-bicycle,bicycle,"['/ˈbaɪsɪkl̩/', '/bi.sikl/']","['/ˈbaɪsɪkl̩/', '/bi.sikl/']"
-bidon,bidon,"['/biˈdɔn/', '/bi.dɔ̃/', '/ˈbidon/', '/ˈbi.dɔn/', '/biˈdon/']","['/biˈdɔn/', '/bi.dɔ̃/', '/ˈbidon/', '/ˈbi.dɔn/', '/biˈdon/']"
-bien pensant,bien-pensant,['/ˌbjæ̃ pɒ̃ˈsɒ̃/'],[]
-Bienaime,Bienaimé,[],[]
-bienséance,bienséance,['/bjɛ̃.se.ɑ̃s/'],['/bjɛ̃.se.ɑ̃s/']
-Bièvre,Bièvre,['/bjɛvʁ/'],['/bjɛvʁ/']
-bigarade,bigarade,['/bi.ɡa.ʁad/'],['/bi.ɡa.ʁad/']
-bigot,bigot,"['/ˈbɪɡət/', '/biˈɣɔt/', '/biˈʒɔt/', '/bi.ɡo/', '/ˈbi.ɡɔt/', '/bǐɡot/']","['/ˈbɪɡət/', '/biˈɣɔt/', '/biˈʒɔt/', '/bi.ɡo/', '/ˈbi.ɡɔt/', '/bǐɡot/']"
-bijection,bijection,"['/baɪ.dʒɛk.ʃən/', '/bi.ʒɛk.sjɔ̃/']","['/baɪ.dʒɛk.ʃən/', '/bi.ʒɛk.sjɔ̃/']"
-bijou,bijou,"['/biˈʒuː/', '/biˈʒu/', '/bi.ʒu/']","['/biˈʒuː/', '/biˈʒu/', '/bi.ʒu/']"
-bikini,bikini,"['/bɪˈkiːni/', '/biˈki.ni/', '/bi.ki.ni/', '/biˈkini/', '/biˈki.ni/', '/biˈki.ɲi/', '/bǐkiːni/', '/biˈkini/', '/bɪˈkiːnɪ/']","['/bɪˈkiːni/', '/biˈki.ni/', '/bi.ki.ni/', '/biˈkini/', '/biˈki.ni/', '/biˈki.ɲi/', '/bǐkiːni/', '/biˈkini/', '/bɪˈkiːnɪ/']"
-bilboquet,bilboquet,['/bil.bɔ.kɛ/'],['/bil.bɔ.kɛ/']
-billet-doux,billet doux,[],['/bi.jɛ du/']
-billeté,billeté,[],[]
-billiard,billiard,"['/ˈbɪl.i.ə(ɹ)d/', '/ˈbɪl.i.ɑː(ɹ)d/', '/bi.ljaʁ/']","['/ˈbɪl.i.ə(ɹ)d/', '/ˈbɪl.i.ɑː(ɹ)d/', '/bi.ljaʁ/']"
-billiards,billard,"['/ˈbɪlɪədz/', '/ˈbɪl.jɚdz/']",['/bi.jaʁ/']
-billion,billion,"['/ˈbɪljən/', '/bi.ljɔ̃/']","['/ˈbɪljən/', '/bi.ljɔ̃/']"
-billon,billon,['/bi.jɔ̃/'],['/bi.jɔ̃/']
-billot,billot,['/bi.jo/'],['/bi.jo/']
-Binedama,Binedama,['/bi.ne.da.ma/'],['/bi.ne.da.ma/']
-binette,binette,['/bi.nɛt/'],['/bi.nɛt/']
-binocular,binoculaire,"['/bɪˈnɒkjʊlə(ɹ)/', '/bi.no.cu.ˈlaʁ/', '/bi.no.cu.ˈla(ʁ)/']",['/bi.nɔ.ky.lɛʁ/']
-biopsy,biopsie,['/ˈbaɪɑpsi/'],"['/ˌbi.ɔpˈsi/', '/bjɔp.si/']"
-Biot,Biot,[],[]
-Biscaichipy,Biscaïchipy,[],['/bis.ka.i.ʃi.pi/']
-biscornu,biscornu,[],[]
-biscotin,biscotin,['/bis.kɔ.tɛ̃/'],['/bis.kɔ.tɛ̃/']
-Bisel,Bisel,[],[]
-biset,biset,[],[]
-bisque,bisque,"['/bɪsk/', '/bisk/']","['/bɪsk/', '/bisk/']"
-Bisson,Bisson,[],[]
-Bissonnet,Bissonnet,[],[]
-Bissonnette,Bissonnette,[],[]
-bistoury,bistouri,['/ˈbɪstʊɹi/'],['/bis.tu.ʁi/']
-bistre,bistre,"['/ˈbɪstə(ɹ)/', '/ˈbɪstɚ/', '/bistʁ/']","['/ˈbɪstə(ɹ)/', '/ˈbɪstɚ/', '/bistʁ/']"
-bistro,bistro(t),"['/ˈbiːstɹəʊ/', '/ˈbɪstɹəʊ/', '/ˈbiːstɹoʊ/', '/ˈbɪstɹoʊ/', '/bis.tʁo/', '/ˈbis.trɔ/']","['/ˈbiːstɹəʊ/', '/ˈbɪstɹəʊ/', '/ˈbiːstɹoʊ/', '/ˈbɪstɹoʊ/', '/bis.tʁo/', '/ˈbis.trɔ/']"
-bivouac,bivouac,"['/ˈbɪv.u.æk/', '/ˈbɪv.wæk/', '/bi.vwak/']","['/ˈbɪv.u.æk/', '/ˈbɪv.wæk/', '/bi.vwak/']"
-bizarre,bizarre,"['/bɪˈzɑː(ɹ)/', '/bəˈzɑː(ɹ)/', '/bɪˈzɑɹ/', '/bəˈzɑɹ/', '/bi.zaʁ/']","['/bɪˈzɑː(ɹ)/', '/bəˈzɑː(ɹ)/', '/bɪˈzɑɹ/', '/bəˈzɑɹ/', '/bi.zaʁ/']"
-bizarrerie,bizarrerie,['/bɪˈzɑːɹəɹi/'],['/bɪˈzɑːɹəɹi/']
-blague,blague,['/blaɡ/'],['/blaɡ/']
-blanc,blanc,"['/ˈblaŋk/', '/ˈblaŋ/', '/blɑ̃/', '/blaŋk/', '/blɑnk/', '/blank/']","['/ˈblaŋk/', '/ˈblaŋ/', '/blɑ̃/', '/blaŋk/', '/blɑnk/', '/blank/']"
-Blanc de Hotot,Blanc de Hotot,[],[]
-Blanchard,Blanchard,[],[]
-Blanchet,Blanchet,[],[]
-Blanchett,Blanchett,[],[]
-Blanchette,Blanchette,[],[]
-blanquette,blanquette,"['/blɒ̃ˈkɛt/', '/blɑ̃ˈkɛt/', '/blɑŋˈkɛt/', '/blɑ̃.kɛt/']","['/blɒ̃ˈkɛt/', '/blɑ̃ˈkɛt/', '/blɑŋˈkɛt/', '/blɑ̃.kɛt/']"
-blasé,blasé,"['/ˈblɑːzeɪ/', '/blɑˈzeɪ/', '/blɑ.ze/']","['/ˈblɑːzeɪ/', '/blɑˈzeɪ/', '/blɑ.ze/']"
-bled,bled,"['/ˈblɛd/', '/blɛt/', '/blɛd/', '/bleːd/', '/blêːd/']","['/ˈblɛd/', '/blɛt/', '/blɛd/', '/bleːd/', '/blêːd/']"
-blessure,blessure,"['/ˈblɛsjʊə(ɹ)/', '/ˈblɛʃə(ɹ)/', '/blɛˈsyːrə/', '/ble.syʁ/']","['/ˈblɛsjʊə(ɹ)/', '/ˈblɛʃə(ɹ)/', '/blɛˈsyːrə/', '/ble.syʁ/']"
-blet,blettir,"['/blɛt/', '/ˈblət/', '/ˈblɛt/', '/ˈblet/']","['/blɛ.ti.sɑ̃/', '/blɛ.ti/', '/blɛ.ti/', '/blɛ.ti/', '/blɛ.ti/', '/blɛ.ti.sɔ̃/', '/blɛ.ti.se/', '/blɛ.tis/', '/blɛ.ti.sɛ/', '/blɛ.ti.sɛ/', '/blɛ.ti.sɛ/', '/blɛ.ti.sjɔ̃/', '/blɛ.ti.sje/', '/blɛ.ti.sɛ/', '/blɛ.ti/', '/blɛ.ti/', '/blɛ.ti/', '/blɛ.tim/', '/blɛ.tit/', '/blɛ.tiʁ/', '/blɛ.ti.ʁe/', '/blɛ.ti.ʁa/', '/blɛ.ti.ʁa/', '/blɛ.ti.ʁɔ̃/', '/blɛ.ti.ʁe/', '/blɛ.ti.ʁɔ̃/', '/blɛ.ti.ʁɛ/', '/blɛ.ti.ʁɛ/', '/blɛ.ti.ʁɛ/', '/blɛ.ti.ʁjɔ̃/', '/blɛ.ti.ʁje/', '/blɛ.ti.ʁɛ/', '/blɛ.tis/', '/blɛ.tis/', '/blɛ.tis/', '/blɛ.ti.sjɔ̃/', '/blɛ.ti.sje/', '/blɛ.tis/', '/blɛ.tis/', '/blɛ.tis/', '/blɛ.ti/', '/blɛ.ti.sjɔ̃/', '/blɛ.ti.sje/', '/blɛ.tis/', '/blɛ.ti/', '/blɛ.ti.sɔ̃/', '/blɛ.ti.se/']"
-bleu celeste,bleu céleste,[],[]
-bliaut,bliaut,"['/ˈbliːˌoʊ/', '/bli.jo/']","['/ˈbliːˌoʊ/', '/bli.jo/']"
-blindage,blindage,[],[]
-bloc,bloc,"['/blɑk/', '/blɒk/', '/ˈblɔk/', '/blɔk/', '/blok/', '/ˈblok/']","['/blɑk/', '/blɒk/', '/ˈblɔk/', '/blɔk/', '/blok/', '/ˈblok/']"
-blocage,blocage,['/blɔ.kaʒ/'],['/blɔ.kaʒ/']
-Blois,Blois,"['/blwɑː/', '/blwa/', '/blwɑ/']","['/blwɑː/', '/blwa/', '/blwɑ/']"
-Blon,Blon,[],[]
-blondine,blondine,"['/blɔnˈdiːnə/', '/blɔ̃.din/']","['/blɔnˈdiːnə/', '/blɔ̃.din/']"
-Blouin,Blouin,[],[]
-blouson,blouson,['/blu.zɔ̃/'],['/blu.zɔ̃/']
-bobbin,bobine,[],"['/bɔ.bin/', '/bɔ.ˈbi.n(ə)/']"
-bobèche,bobèche,"['/boʊˈbɛʃ/', '/bɔ.bɛʃ/']","['/boʊˈbɛʃ/', '/bɔ.bɛʃ/']"
-bobo,bobo,"['/ˈboʊboʊ/', '/bɔ.bɔ/', '/ˈboː.boː/', '/bo.bo/', '/bɔˈbɔ/', '/ˈbɔbɐ/', '/ˈbɔ.bɔ/', '/ˈbo.bu/', '/ˈbo.bu/', '/ˈbobo/', '/ˈbobo/', '/ˈbo.bo/']","['/ˈboʊboʊ/', '/bɔ.bɔ/', '/ˈboː.boː/', '/bo.bo/', '/bɔˈbɔ/', '/ˈbɔbɐ/', '/ˈbɔ.bɔ/', '/ˈbo.bu/', '/ˈbo.bu/', '/ˈbobo/', '/ˈbobo/', '/ˈbo.bo/']"
-bocal,bocal,"['/ˈboʊkəl/', '/boʊˈkæl/', '/bɔ.kal/', '/boˈkaw/', '/buˈkal/']","['/ˈboʊkəl/', '/boʊˈkæl/', '/bɔ.kal/', '/boˈkaw/', '/buˈkal/']"
-bocasine,bocassin,[],[]
-Boche,boche,"['/bɒʃ/', '/bɔʃ/']","['/bɔʃ/', '/ˈbɔt͡ʃe̝/', '/ˈbutʃə/', '/ˈbuʃə/', '/ˈboke/']"
-Boileau,Boileau,['/bwa.lo/'],['/bwa.lo/']
-Boiron,Boiron,[],[]
-Bois,Bois,[],[]
-Bois Caïman,Bois Caïman,[],[]
-bois d'arc,bois d'arc,[],[]
-bois durci,bois durci,[],[]
-Boisbriand,Boisbriand,['/bwa.bʁi.jɑ̃/'],['/bwa.bʁi.jɑ̃/']
-Boisclair,Boisclair,[],[]
-boiserie,boiserie,['/bwaz.ʁi/'],['/bwaz.ʁi/']
-bolide,bolide,"['/ˈboʊ.laɪd/', '/ˈboʊ.lɪd/', '/bɔ.lid/']","['/ˈboʊ.laɪd/', '/ˈboʊ.lɪd/', '/bɔ.lid/']"
-Bollé,Bollé,['/bɔ.le/'],['/bɔ.le/']
-bolognaise,bolognaise,[],[]
-bomb,bombe,"['/bɒm/', '/bɑm/', '/bomˀb/', '/bumb/']","['/bɒm(b)/', '/bombə/', '/bɔ̃b/', '/ˈbom.be/', '/ˈbom.be/', '/ˈbom.be/']"
-bombard,bombarde,"['/ˌbɒmˈbɑːd/', '/ˌbɑmˈbɑɹd/', '/bəmˈbɑɹd/', '/ˈbɒmˌbɑːd/', '/ˈbɑmˌbɑɹd/', '/ˈbumbard/']",[]
-Bombardier,Bombardier,"['/bɑmˈbɑɹdiˌeɪ/', '/bɑmbɑɹdiˈeɪ/', '/bɒmˈbɑːdiˌeɪ/']","['/bɑmˈbɑɹdiˌeɪ/', '/bɑmbɑɹdiˈeɪ/', '/bɒmˈbɑːdiˌeɪ/']"
-bombardon,bombardon,"['/ˌbɔm.bɑrˈdɔn/', '/bɔ̃.baʁ.dɔ̃/']","['/ˌbɔm.bɑrˈdɔn/', '/bɔ̃.baʁ.dɔ̃/']"
-bombe,bombe,"['/bɒm(b)/', '/bombə/', '/bɔ̃b/', '/ˈbom.be/', '/ˈbom.be/', '/ˈbom.be/']","['/bɒm(b)/', '/bombə/', '/bɔ̃b/', '/ˈbom.be/', '/ˈbom.be/', '/ˈbom.be/']"
-bombé,bombé,"['/ˈbɒmbeɪ/', '/bɒmˈbeɪ/', '/bɔ̃.be/']","['/ˈbɒmbeɪ/', '/bɒmˈbeɪ/', '/bɔ̃.be/']"
-Bon Accord,bon accord,[],"['/ˈbɔn/', '/bɔn/', '/bɔ̃/', '/bɔ̃/', '/bɔ.n‿/', '/ˈbɔn/', '/bɔːn/', '/baːn/', '/buːn/', '/boːn/', '/bun/', '/bɔn/', '/bóːn/', '/buːn/']"
-bon appétit,bon appétit,"['/ˌbɒn apəˈtiː/', '/ˌboʊn æpəˈti(t)/', '/ˌbɔː.næ.peɪˈtiː/', '/ˌbɒn apɛˈtiː/', '/ˈbɔn ˌæpəˈti/', '/ˌboʊn æpəˈtit/', '/ˌboʊn æpəˈti/', '/ˌbo(ʊ).næ.pəˈti/', '/bɔ.n‿a.pe.ti/']","['/ˌbɒn apəˈtiː/', '/ˌboʊn æpəˈti(t)/', '/ˌbɔː.næ.peɪˈtiː/', '/ˌbɒn apɛˈtiː/', '/ˈbɔn ˌæpəˈti/', '/ˌboʊn æpəˈtit/', '/ˌboʊn æpəˈti/', '/ˌbo(ʊ).næ.pəˈti/', '/bɔ.n‿a.pe.ti/']"
-bon mot,bon mot,"['/bɒn məʊ/', '/bɒ̃ məʊ/', '/bɑn moʊ/', '/bɔn ˈmoː/', '/bɔ̃ ˈmoː/', '/bɔ̃ mo/']","['/bɒn məʊ/', '/bɒ̃ məʊ/', '/bɑn moʊ/', '/bɔn ˈmoː/', '/bɔ̃ ˈmoː/', '/bɔ̃ mo/']"
-bon ton,bon ton,[],"['/ˈbɔn/', '/bɔn/', '/bɔ̃/', '/bɔ̃/', '/bɔ.n‿/', '/ˈbɔn/', '/bɔːn/', '/baːn/', '/buːn/', '/boːn/', '/bun/', '/bɔn/', '/bóːn/', '/buːn/']"
-bon vivant,bon vivant,"['/ˌbɑn viˈvɑnt/', '/ˌbɒ̃ viːˈvɒ̃/', '/bɔ̃ vi.vɑ̃/']","['/ˌbɑn viˈvɑnt/', '/ˌbɒ̃ viːˈvɒ̃/', '/bɔ̃ vi.vɑ̃/']"
-bon voyage,bon voyage,"['/ˌbɒn vwaɪˈɑːʒ/', '/ˌbɒn vɔɪˈɑːʒ/', '/bɔ̃ vwa.jaʒ/']","['/ˌbɒn vwaɪˈɑːʒ/', '/ˌbɒn vɔɪˈɑːʒ/', '/bɔ̃ vwa.jaʒ/']"
-bonbon,bonbon,"['/bɔnˈbɔn/', '/m/', '/p/', '/b/', '/bɔ̃.bɔ̃/']","['/bɔnˈbɔn/', '/m/', '/p/', '/b/', '/bɔ̃.bɔ̃/']"
-bonbonniere,bonbonnière,[],['/bɔ̃.bɔ.njɛʁ/']
-Bonchrétien,plural,[],[]
-bondieuserie,bondieuserie,"['/bɒnˈdɪəzəɹi/', '/bɔ̃.djøz.ʁi/']","['/bɒnˈdɪəzəɹi/', '/bɔ̃.djøz.ʁi/']"
-bonduc,bonduc,[],[]
-bone,bornoyer,"['/ˈboʊn/', '/bəʊn/', '/bəʉn/', '/bɐʉn/', '/ˈbo.ne/', '/bone/', '/ˈbone/', '/ˈpone/', '/ˈbu.nə/', '/bo.ˈne/']",[]
-Bône,Bône,[],[]
-Bonenfant,Bonenfant,[],[]
-Bongard,Bongard,[],[]
-bonheur du jour,bonheur-du-jour,"['/bɒˌnɜː d(j)uː ˈʒʊə/', '/bəˌnɝ d(j)u ˈʒʊɹ/', '/bəˌnɝ də ˈʒʊɹ/']",['/bɔ.nœʁ.dy.ʒuʁ/']
-bonhomie,bonhomie,"['/ˈbɒnəmiː/', '/ˈbɑnəmi/', '/ˌbɑnəˈmi/', '/ˌboʊ-/']","['/ˈbɒnəmiː/', '/ˈbɑnəmi/', '/ˌbɑnəˈmi/', '/ˌboʊ-/']"
-Bonjour,Bonjour,['/bɔ̃.ʒuʁ/'],['/bɔ̃.ʒuʁ/']
-bonne,bonne,['/bɔn/'],['/bɔn/']
-bonne bouche,bonne bouche,[],['/bɔn/']
-bonze,bonze,"['/ˈbɔn.zə/', '/bɔ̃z/']","['/ˈbɔn.zə/', '/bɔ̃z/']"
-boo-boo,bobo,['/ˈbuːˌbuː/'],"['/ˈboʊboʊ/', '/bɔ.bɔ/', '/ˈboː.boː/', '/bo.bo/', '/bɔˈbɔ/', '/ˈbɔbɐ/', '/ˈbɔ.bɔ/', '/ˈbo.bu/', '/ˈbo.bu/', '/ˈbobo/', '/ˈbobo/', '/ˈbo.bo/']"
-bookoo,beaucoup,[],"['/boʊ.ku/', '/bu.ku/', '/bo.ku/']"
-borborygm,borborygme,"['/ˌbɔːbəˈɹɪɡm̩/', '/ˈbɔːbəɹɪm/', '/ˌbɔɹbəˈɹiɡm̩/', '/ˈbɔɹbəɹim/']",[]
-Bordeaux,Bordeaux,"['/bɔɹˈdoʊ/', '/bɔːˈdəʊ/', '/ˈbordoː/', '/bɔʁ.do/']","['/bɔɹˈdoʊ/', '/bɔːˈdəʊ/', '/ˈbordoː/', '/bɔʁ.do/']"
-Bordelais,Bordelais,[],[]
-bordelaise,bordelaise,"['/ˌbɔːdəˈleɪz/', '/ˌbɔɹdəˈleɪz/', '/bɔʁ.də.lɛz/']",[]
-Bordenet,Bordenet,['/bɔʁ.də.nɛ/'],['/bɔʁ.də.nɛ/']
-bordereau,bordereau,[],[]
-Bordes,Bordes,[],[]
-bosket,bosquet,['/ˈbɒskɪt/'],['/bɔs.kɛ/']
-bossale,bossale,['/bɔ.sal/'],['/bɔ.sal/']
-Bossard,Bossard,[],[]
-Bosse,Bosse,['/ˈbɔsə/'],['/ˈbɔsə/']
-bottine,bottine,"['/bɒˈtiːn/', '/bɔ.tin/']","['/bɒˈtiːn/', '/bɔ.tin/']"
-boubou,boubou,[],[]
-Bouchard,Bouchard,['/bu.ʃaʁ/'],['/bu.ʃaʁ/']
-bouche,bouche,['/buʃ/'],['/buʃ/']
-bouchée,bouchée,[],[]
-Boucher,Boucher,['/bu.ʃe/'],['/bu.ʃe/']
-boudin,boudin,"['/buːˈdæ̃/', '/ˈbuː.dæ̃/', '/buˈdæ̃/', '/bu.dɛ̃/']","['/buːˈdæ̃/', '/ˈbuː.dæ̃/', '/buˈdæ̃/', '/bu.dɛ̃/']"
-boudinage,boudinage,[],[]
-boudoir,boudoir,"['/buˈdwɑɹ/', '/ˈbuːdwɑː/', '/bu.dwaʁ/']","['/buˈdwɑɹ/', '/ˈbuːdwɑː/', '/bu.dwaʁ/']"
-Boudreaux,Boudreaux,[],[]
-bouffage,plural,[],[]
-bouffant,bouffant,"['/ˈbuːfɑ̃/', '/buˈfɑːnt/', '/ˈbufɑːnt/']","['/ˈbuːfɑ̃/', '/buˈfɑːnt/', '/ˈbufɑːnt/']"
-bouffe,bouffe,"['/buf/', '/buf/']","['/buf/', '/buf/']"
-bouffée délirante,uncountable,[],"['/l/', '/ɹ/', '/w/', '/j/', '/z/', '/s/', '/k/', '/o/', '/f/', '/s/', '/ʃ/', '/θ/', '/v/', '/z/', '/ʒ/', '/ð/', '/æ/', '/ɛ/', '/eɪ/', '/ɪ/', '/i/', '/ɹəɹ/', '/ɹ/', '/j/', '/ʂ/', '/ʐ/', '/t͡ɕ/', '/ɕː/', '/ʐ/', '/t͡ɕ/', '/ʐ/', '/e/', '/i/', '/j/', '/t/', '/d/', '/s/', '/z/', '/t͡ʃ/', '/d͡ʒ/', '/ʃ/', '/ʒ/', '/j/', '/j/', '/p/', '/t/', '/k/', '/b/', '/d/', '/ɡ/', '/k/', '/ɡ/', '/ŋ/', '/v/', '/z/', '/b/', '/d/', '/f/', '/s/', '/p/', '/t/']"
-Bougainville,Bougainville,"['/ˈboʊɡənˌvɪl/', '/ˈbəʊɡənˌvɪl/', '/bu.ɡɛ̃.vil/']","['/ˈboʊɡənˌvɪl/', '/ˈbəʊɡənˌvɪl/', '/bu.ɡɛ̃.vil/']"
-bougie,bougie,"['/ˈbuːʒi/', '/bu.ʒi/']","['/ˈbuːʒi/', '/bu.ʒi/']"
-bouillabaisse,bouillabaisse,"['/ˈbuːjəˌbeɪs/', '/-ˌbɛs/', '/ˌbuːjəˈbeɪs/', '/ˈbujəˌbeɪs/', '/ˌbujəˈbeɪs/', '/bu.ja.bɛs/']","['/ˈbuːjəˌbeɪs/', '/-ˌbɛs/', '/ˌbuːjəˈbeɪs/', '/ˈbujəˌbeɪs/', '/ˌbujəˈbeɪs/', '/bu.ja.bɛs/']"
-bouilli,bouilli,['/bu.ji/'],['/bu.ji/']
-bouillon,bouillon,"['/ˈbuː.jɒn/', '/ˈbuː.jɒ̃/', '/ˈbʊlˌjɑn/', '/ˈbʊljən/', '/ˈbuˌjɑn/', '/bu(l)ˈjɔn/', '/bu.jɔ̃/']","['/ˈbuː.jɒn/', '/ˈbuː.jɒ̃/', '/ˈbʊlˌjɑn/', '/ˈbʊljən/', '/ˈbuˌjɑn/', '/bu(l)ˈjɔn/', '/bu.jɔ̃/']"
-boulangerie,boulangerie,"['/buˈlɑ̃ʒɚˌri/', '/bu.lɑ̃ʒ.ʁi/']","['/buˈlɑ̃ʒɚˌri/', '/bu.lɑ̃ʒ.ʁi/']"
-boule,boule,"['/buːl/', '/bul/']","['/buːl/', '/bul/']"
-Boulenger,Boulenger,[],[]
-Boulet,Boulet,[],[]
-boulevard,boulevard,"['/ˈbuː.ləˌvɑːd/', '/ˈbʊləvɑɹd/', '/ˌbu.ləˈvaːr/', '/bul.vaʁ/', '/bu.leˈvar/', '/bulˈvar/', '/buleˈbaɾd/']","['/ˈbuː.ləˌvɑːd/', '/ˈbʊləvɑɹd/', '/ˌbu.ləˈvaːr/', '/bul.vaʁ/', '/bu.leˈvar/', '/bulˈvar/', '/buleˈbaɾd/']"
-boulevardier,boulevardier,[],[]
-bouleversement,bouleversement,['/bul.vɛʁ.sə.mɑ̃/'],['/bul.vɛʁ.sə.mɑ̃/']
-bouquet,bouquet,"['/boʊˈkeɪ/', '/buˈkeɪ/', '/bukɛ/', '/buke/', '/bu.kɛ/']","['/boʊˈkeɪ/', '/buˈkeɪ/', '/bukɛ/', '/buke/', '/bu.kɛ/']"
-Bouquet,Bouquet,['/buˈkeː/'],['/buˈkeː/']
-bouquet garni,bouquet garni,['/bu.kɛ ɡaʁ.ni/'],['/bu.kɛ ɡaʁ.ni/']
-bouquetin,bouquetin,['/buk.tɛ̃/'],['/buk.tɛ̃/']
-Bourdain,Bourdain,[],[]
-Bourdin,Bourdin,['/buʁ.dɛ̃/'],['/buʁ.dɛ̃/']
-bourgeois,bourgeois,"['/ˈbɔːʒ.wɑː/', '/ˈbʊəʒ.wɑː/', '/bʊɹʒˈwɑː/', '/ˈbʊəʒ.wɑː/', '/bəːˈdʒɔɪs/', '/bəɹˈdʒɔɪs/', '/burˈʒʋaː/', '/buʁ.ʒwa/', '/bʊrˈʒu̯aː/', '/bʊrˈʒu̯aːz-/', '/bʊrˈʃu̯aː(s-)/']","['/ˈbɔːʒ.wɑː/', '/ˈbʊəʒ.wɑː/', '/bʊɹʒˈwɑː/', '/ˈbʊəʒ.wɑː/', '/bəːˈdʒɔɪs/', '/bəɹˈdʒɔɪs/', '/burˈʒʋaː/', '/buʁ.ʒwa/', '/bʊrˈʒu̯aː/', '/bʊrˈʒu̯aːz-/', '/bʊrˈʃu̯aː(s-)/']"
-bourgeoise,bourgeoise,[],[]
-bourgeoisie,bourgeoisie,"['/ˌbʊə(ɹ)ʒwɑːˈziː/', '/ˌbur.ʒʋaːˈzi/', '/buʁ.ʒwa.zi/', '/bɔɕɔ̯asiː/']","['/ˌbʊə(ɹ)ʒwɑːˈziː/', '/ˌbur.ʒʋaːˈzi/', '/buʁ.ʒwa.zi/', '/bɔɕɔ̯asiː/']"
-Bourget,Bourget,[],[]
-Bourguignon,bourguignon,[],['/buʁ.ɡi.ɲɔ̃/']
-bourn,borne,"['/bɔːn/', '/bɔɹn/', '/bʊɹn/', '/bo(ː)ɹn/', '/boən/']","['/bɔːn/', '/bɔɹn/', '/bo(ː)ɹn/', '/boən/', '/bɔʁn/']"
-bourne,bourne,[],[]
-bourrée,bourrée,[],[]
-bourse,bourse,"['/bɔːs/', '/bʊəs/', '/buʁs/']","['/bɔːs/', '/bʊəs/', '/buʁs/']"
-Boursiquot,Boursiquot,[],[]
-bousillage,bousillage,[],[]
-boutade,boutade,"['/ˌbuˈtaː.də/', '/bu.tad/', '/buˈtad/']","['/ˌbuˈtaː.də/', '/bu.tad/', '/buˈtad/']"
-Boutilier,Boutilier,[],[]
-boutique,boutique,"['/buːˈtiːk/', '/boʊˈtik/', '/bu.tik/', '/buˈtik/', '/buˈtik/']","['/buːˈtiːk/', '/boʊˈtik/', '/bu.tik/', '/buˈtik/', '/buˈtik/']"
-bouton,bouton,['/bu.tɔ̃/'],['/bu.tɔ̃/']
-boutonniere,boutonnière,"['/ˌbuːtənˈiːɚ/', '/ˌbuːtənˈjɛɹ/']",[]
-boutonnière,boutonnière,[],[]
-bouts-rimés,bout,[],"['/ˈbaʊt/', '/bʌʊt/', '/bɑu̯t/', '/bu/', '/but/']"
-Bouvier,Bouvier,['/bu.vje/'],['/bu.vje/']
-bouvier des Flandres,bouvier des Flandres,[],['/bu.vje/']
-boyau,boyau,"['/ˈbwɑːjəʊ/', '/ˈbɔɪəʊ/', '/bwa.jo/']","['/ˈbwɑːjəʊ/', '/ˈbɔɪəʊ/', '/bwa.jo/']"
-braconniere,braconnière,['/bɹækənjɛəɹ/'],['/bʁa.kɔ.njɛʁ/']
-braggart,bragard,"['/ˈbɹæɡɑːt/', '/ˈbɹæɡɚt/']",[]
-braille,braille,"['/bɹeɪl/', '/ˈbraːi̯ə/', '/bʁaj/']","['/bɹeɪl/', '/ˈbraːi̯ə/', '/bʁaj/']"
-braise,braise,"['/bɹeɪz/', '/bʁɛz/']","['/bɹeɪz/', '/bʁɛz/']"
-bralette,bralette,[],[]
-brancard,brancard,"['/brɑŋˈkaːr/', '/bʁɑ̃.kaʁ/']","['/brɑŋˈkaːr/', '/bʁɑ̃.kaʁ/']"
-branchage,branchage,[],[]
-braquemard,braquemard,[],[]
-bras d'honneur,bras d’honneur,"['/ˌbɹɑː dɒˈnɜː/', '/ˌbɹɑ dɑˈnɝ/', '/bʁɑ d‿ɔ.nœʁ/']","['/ˌbɹɑː dɒˈnɜː/', '/ˌbɹɑ dɑˈnɝ/', '/bʁɑ d‿ɔ.nœʁ/']"
-brassard,brassard,"['/bɹəˈsɑːd/', '/bɹəˈsɑɹd/', '/ˈbɹæs.ɑɹd/', '/bʁa.saʁ/']","['/bɹəˈsɑːd/', '/bɹəˈsɑɹd/', '/ˈbɹæs.ɑɹd/', '/bʁa.saʁ/']"
-Brasselle,Brasselle,[],[]
-brasserie,brasserie,"['/ˈbrɑsːeriː/', '/bʁa.sʁi/']","['/ˈbrɑsːeriː/', '/bʁa.sʁi/']"
-brassiere,brassière,"['/ˈbɹæzɪɛə/', '/ˈbɹæsɪɛə/', '/bɹəˈzɪɹ/']",['/bʁa.sjɛʁ/']
-braze,braser,['/bɹeɪz/'],"['/bʁɑ.ze/', '/bʁɑ.zɑ̃/', '/bʁɑ.ze/', '/bʁɑz/', '/bʁɑz/', '/bʁɑz/', '/bʁɑ.zɔ̃/', '/bʁɑ.ze/', '/bʁɑz/', '/bʁɑ.zɛ/', '/bʁɑ.zɛ/', '/bʁɑ.zɛ/', '/bʁɑ.zjɔ̃/', '/bʁɑ.zje/', '/bʁɑ.zɛ/', '/bʁɑ.ze/', '/bʁɑ.za/', '/bʁɑ.za/', '/bʁɑ.zam/', '/bʁɑ.zat/', '/bʁɑ.zɛʁ/', '/bʁɑz.ʁe/', '/bʁɑz.ʁa/', '/bʁɑz.ʁa/', '/bʁɑz.ʁɔ̃/', '/bʁɑz.ʁe/', '/bʁɑz.ʁɔ̃/', '/bʁɑz.ʁɛ/', '/bʁɑz.ʁɛ/', '/bʁɑz.ʁɛ/', '/bʁɑ.zə.ʁjɔ̃/', '/bʁɑ.zə.ʁje/', '/bʁɑz.ʁɛ/', '/bʁɑz/', '/bʁɑz/', '/bʁɑz/', '/bʁɑ.zjɔ̃/', '/bʁɑ.zje/', '/bʁɑz/', '/bʁɑ.zas/', '/bʁɑ.zas/', '/bʁɑ.za/', '/bʁɑ.za.sjɔ̃/', '/bʁɑ.za.sje/', '/bʁɑ.zas/', '/bʁɑz/', '/bʁɑ.zɔ̃/', '/bʁɑ.ze/']"
-Brazeau,Brazeau,[],[]
-brazier,brasier,"['/ˈbɹeɪʒəɹ/', '/ˈbɹeɪ.ʒə(ɹ)/', '/ˈbɹeɪ.zjə(ɹ)/', '/ˈbɹeɪ.ʒɚ/']","['/bʁɑ.zje/', '/bʁa.zje/', '/bɾaˈsjeɾ/']"
-Breau,Bréau,[],[]
-brelan,brelan,['/bʁə.lɑ̃/'],['/bʁə.lɑ̃/']
-breloque,breloque,"['/bɹəˈləʊk/', '/bʁə.lɔk/']","['/bɹəˈləʊk/', '/bʁə.lɔk/']"
-bretelle,bretelle,"['/bʁə.tɛl/', '/breˈtɛl.le/']","['/bʁə.tɛl/', '/breˈtɛl.le/']"
-bretessé,bretessé,"['/bɹɛ.təˈseɪ/', '/bɹɛ.tɛˈseɪ/']","['/bɹɛ.təˈseɪ/', '/bɹɛ.tɛˈseɪ/']"
-Briançon,Briançon,['/bʁi.jɑ̃.sɔ̃/'],['/bʁi.jɑ̃.sɔ̃/']
-briar,bruyère,"['/bɹʌɪə/', '/ˈbɹaɪə(ɹ)/']",['/bʁɥi.jɛʁ/']
-bric-a-brac,bric-à-brac,['/ˈbɹɪkəˌbɹæk/'],['/bʁi.ka.bʁak/']
-bric-à-brac,bric-à-brac,['/bʁi.ka.bʁak/'],['/bʁi.ka.bʁak/']
-bricolage,bricolage,"['/ˌbɹi.kəʊˈlɑːʒ/', '/bʁi.kɔ.laʒ/']","['/ˌbɹi.kəʊˈlɑːʒ/', '/bʁi.kɔ.laʒ/']"
-bricole,bricole,"['/bɹɪˈkəʊl/', '/ˈbɹɪkəl/', '/bʁi.kɔl/']","['/bɹɪˈkəʊl/', '/ˈbɹɪkəl/', '/bʁi.kɔl/']"
-bricoleur,bricoleur,[],[]
-bride,bride,"['/bɹaɪd/', '/bʁid/', '/briːd/', '/ˈbɾide/']","['/bɹaɪd/', '/bʁid/', '/briːd/', '/ˈbɾide/']"
-brie,brie,"['/bɹiː/', '/bri/', '/ˈbriː/', '/bʁi/', '/bri/']","['/bɹiː/', '/bri/', '/ˈbriː/', '/bʁi/', '/bri/']"
-Brie,Brie,[],[]
-Brienne,Brienne,[],[]
-brigade,brigade,"['/bɹɪˈɡeɪd/', '/ˌbriˈɣaː.də/', '/bʁi.ɡad/']","['/bɹɪˈɡeɪd/', '/ˌbriˈɣaː.də/', '/bʁi.ɡad/']"
-brigadier,brigadier,"['/bɹɪɡəˈdɪə(ɹ)/', '/ˈbri.ɣaːˈdiːr/', '/bʁi.ɡa.dje/', '/bri.ɡa.diˈer/']","['/bɹɪɡəˈdɪə(ɹ)/', '/ˈbri.ɣaːˈdiːr/', '/bʁi.ɡa.dje/', '/bri.ɡa.diˈer/']"
-brigue,brigue,['/bɹiːɡ/'],['/bɹiːɡ/']
-brilliance,brillance,['/ˈbɹɪljən(t)s/'],"['/ˈbɹɪləns/', '/bʁi.jɑ̃s/']"
-brilliant,brillant,['/ˈbɹɪljənt/'],"['/bɾiˈʎant/', '/bɾiˈʎan/', '/briljant/', '/briliant/', '/bʁi.jɑ̃/', '/brɪlˈjant/']"
-brioche,brioche,"['/ˈbriːɒʃ/', '/briːˈɒʃ/', '/bʁi.jɔʃ/', '/briˈɔʃ/']","['/ˈbriːɒʃ/', '/briːˈɒʃ/', '/bʁi.jɔʃ/', '/briˈɔʃ/']"
-briolette,briolette,[],[]
-briquet,briquet,"['/bʁi.kɛ/', '/bɾiˈket/']","['/bʁi.kɛ/', '/bɾiˈket/']"
-briquetage,briquetage,[],[]
-briquette,briquette,['/bɹɪˈkɛt/'],['/bɹɪˈkɛt/']
-brise soleil,brise-soleil,['/ˌbɹiːz.soʊˈleɪ/'],[]
-brise-bise,brise-bise,['/bʁiz.biz/'],['/bʁiz.biz/']
-brisement,brisement,[],[]
-brisque,brisque,['/bʁisk/'],['/bʁisk/']
-brisure,brisure,"['/bɹɪˈzjʊə(ɹ)/', '/bɹɪˈʒʊə(ɹ)/', '/bʁi.zyʁ/']","['/bɹɪˈzjʊə(ɹ)/', '/bɹɪˈʒʊə(ɹ)/', '/bʁi.zyʁ/']"
-Broca,Broca,[],[]
-brocard,brocard,"['/ˈbɹəʊkəd/', '/ˈbɹəʊkɑːd/', '/ˈbɹoʊkɚd/', '/ˈbɹoʊkɑːd/', '/bʁɔ.kaʁ/']","['/ˈbɹəʊkəd/', '/ˈbɹəʊkɑːd/', '/ˈbɹoʊkɚd/', '/ˈbɹoʊkɑːd/', '/bʁɔ.kaʁ/']"
-brocatel,brocatelle,[],[]
-brocatelle,brocatelle,[],[]
-broche,broche,"['/brɔʃ/', '/bʁɔʃ/', '/ˈbrɔːtʃ(ə)/', '/ˈbɾɔ.ʃi/', '/ˈbɾɔ.ʃɨ/', '/ˈbɾot͡ʃe/']","['/brɔʃ/', '/bʁɔʃ/', '/ˈbrɔːtʃ(ə)/', '/ˈbɾɔ.ʃi/', '/ˈbɾɔ.ʃɨ/', '/ˈbɾot͡ʃe/']"
-brochette,brochette,"['/bɹəʊˈʃɛt/', '/bʁɔ.ʃɛt/']","['/bɹəʊˈʃɛt/', '/bʁɔ.ʃɛt/']"
-brochure,brochure,"['/bɹoʊˈʃʊɚ/', '/bɹoʊˈʃɝ/', '/ˈbɹəʊ.ʃə(ɹ)/', '/ˌbrɔˈʃyː.rə/', '/bʁɔ.ʃyʁ/']","['/bɹoʊˈʃʊɚ/', '/bɹoʊˈʃɝ/', '/ˈbɹəʊ.ʃə(ɹ)/', '/ˌbrɔˈʃyː.rə/', '/bʁɔ.ʃyʁ/']"
-broché,broché,['/bʁɔ.ʃe/'],['/bʁɔ.ʃe/']
-brodequin,brodequin,['/bʁɔd.kɛ̃/'],['/bʁɔd.kɛ̃/']
-broderie,broderie,[],[]
-Broglie,Broglie,"['/bʁɔj/', '/bʁo.ɡli/']","['/bʁɔj/', '/bʁo.ɡli/']"
-bronze,bronze,"['/bɹɒnz/', '/bɹɑnz/', '/ˈbɾon.zə/', '/ˈbɾon.ze/', '/bʁɔ̃z/', '/ˈbɾõ.zi/', '/ˈbɾõ.ze/', '/ˈbɾõ.zɨ/']","['/bɹɒnz/', '/bɹɑnz/', '/ˈbɾon.zə/', '/ˈbɾon.ze/', '/bʁɔ̃z/', '/ˈbɾõ.zi/', '/ˈbɾõ.ze/', '/ˈbɾõ.zɨ/']"
-Brossard,Brossard,[],[]
-Brossart,Brossart,[],[]
-brouhaha,brouhaha,"['/ˈbɹuː.hɑː.hɑː/', '/bʁu.a.a/']","['/ˈbɹuː.hɑː.hɑː/', '/bʁu.a.a/']"
-Broussard,Broussard,['/bʁu.saʁ/'],['/bʁu.saʁ/']
-Bruges,Bruges,"['/bɹuːʒ/', '/ˈbɾu.ʒəs/', '/ˈbɾu.d͡ʒes/', '/bʁyʒ/', '/ˈbɾu.ʒɨ(ʃ)/', '/ˈbɾu.ʒi(s)/']","['/bɹuːʒ/', '/ˈbɾu.ʒəs/', '/ˈbɾu.d͡ʒes/', '/bʁyʒ/', '/ˈbɾu.ʒɨ(ʃ)/', '/ˈbɾu.ʒi(s)/']"
-bruit,bruit,"['/bɹuːt/', '/bɹut/', '/ˈbɹuːi/', '/bɹuːˈiː/', '/bɹuːt/', '/ˈbɹui/', '/bɹuˈi/', '/bɹut/', '/bʁɥi/']","['/bɹuːt/', '/bɹut/', '/ˈbɹuːi/', '/bɹuːˈiː/', '/bɹuːt/', '/ˈbɹui/', '/bɹuˈi/', '/bɹut/', '/bʁɥi/']"
-Bruley,Bruley,[],[]
-Brumaire,brumaire,"['/bɹuːˈmɛː/', '/bɹʊˈmɛəɹ/']",['/bʁy.mɛʁ/']
-brume,brume,"['/bɹuːm/', '/bʁym/']","['/bɹuːm/', '/bʁym/']"
-brunaille,brunaille,[],[]
-brunet,brunet,"['/bryˈnɛt/', '/ˈbru.nɛt/']","['/bryˈnɛt/', '/ˈbru.nɛt/']"
-brunette,brunette,"['/bɹuˈnɛt/', '/bɹuːnɛt/', '/brunɛtə/', '/ˌbryˈnɛ.tə/']","['/bɹuˈnɛt/', '/bɹuːnɛt/', '/brunɛtə/', '/ˌbryˈnɛ.tə/']"
-brunion,brugnon,[],[]
-brunoise,brunoise,"['/bɹʊˈnwɑːz/', '/bɹuːˈnwɑːz/', '/bɹuˈnwɑz/', '/bʁy.nwaz/']","['/bɹʊˈnwɑːz/', '/bɹuːˈnwɑːz/', '/bɹuˈnwɑz/', '/bʁy.nwaz/']"
-brusque,brusque,"['/bɹuːsk/', '/bɹʊsk/', '/bɹʌsk/', '/bɹʌsk/', '/bʁysk/']","['/bɹuːsk/', '/bɹʊsk/', '/bɹʌsk/', '/bɹʌsk/', '/bʁysk/']"
-brusquerie,brusquerie,[],[]
-Brussels,Bruxelles,"['/ˈbɹʌsəlz/', '/ˈbrʏ.səls/']","['/bʁy.sɛl/', '/bʁyk.sɛl/', '/brukˈsɛl/', '/brusˈsɛl/', '/brysˈsɛl/']"
-brut,brut,"['/ˈbɾut/', '/bʁyt/', '/²brʉːt/', '/²breʊ̯ːt/', '/²brɞʊ̯ːt/']","['/ˈbɾut/', '/bʁyt/', '/²brʉːt/', '/²breʊ̯ːt/', '/²brɞʊ̯ːt/']"
-buccan,boucan,[],['/bu.kɑ̃/']
-buccaneer,boucanier,['/ˌbʌkəˈnɪə(ɹ)/'],['/bu.ka.nje/']
-buffet,buffet,"['/ˈbʊfeɪ/', '/ˈbʌfeɪ/', '/bəˈfeɪ/', '/ˈbʌfɪt/', '/ˈbʌfɪt/', '/ˈbyfːeː/', '/ˈbufːetːi/', '/by.fɛ/', '/bufˈfɛ/', '/bufˈfe/', '/byfˈfɛ/', '/buˈfe/', '/buˈfet/']","['/ˈbʊfeɪ/', '/ˈbʌfeɪ/', '/bəˈfeɪ/', '/ˈbʌfɪt/', '/ˈbʌfɪt/', '/ˈbyfːeː/', '/ˈbufːetːi/', '/by.fɛ/', '/bufˈfɛ/', '/bufˈfe/', '/byfˈfɛ/', '/buˈfe/', '/buˈfet/']"
-buffont,bouffant,['/ˈbʌf.ənt/'],"['/ˈbuːfɑ̃/', '/buˈfɑːnt/', '/ˈbufɑːnt/']"
-buisson,buisson,['/bɥi.sɔ̃/'],['/bɥi.sɔ̃/']
-bulletin,bulletin,"['/ˈbʊlɪtɪn/', '/ˈbʊlətɪn/', '/byl.tɛ̃/']","['/ˈbʊlɪtɪn/', '/ˈbʊlətɪn/', '/byl.tɛ̃/']"
-burbot,barbote,['/ˈbɜ(ɹ).bət/'],[]
-bureau,bureau,"['/ˈbjʊɹ.əʊ/', '/ˈbjʊɹ.ə/', '/ˈbjʊɹ.oʊ/', '/ˈbjʊɹ.ə/', '/byˈroː/', '/by.ʁo/']","['/ˈbjʊɹ.əʊ/', '/ˈbjʊɹ.ə/', '/ˈbjʊɹ.oʊ/', '/ˈbjʊɹ.ə/', '/byˈroː/', '/by.ʁo/']"
-bureau de change,bureau de change,"['/ˈbjʊəɹ.əʊ.dəˌʃɒ̃ʒ/', '/by.ʁo d(ə) ʃɑ̃ʒ/']","['/ˈbjʊəɹ.əʊ.dəˌʃɒ̃ʒ/', '/by.ʁo d(ə) ʃɑ̃ʒ/']"
-burette,burette,[],[]
-burin,burin,"['/ˈbjʊɚ.ɪn/', '/ˈbɝ.ɪn/', '/by.ʁɛ̃/']","['/ˈbjʊɚ.ɪn/', '/ˈbɝ.ɪn/', '/by.ʁɛ̃/']"
-burlesque,burlesque,"['/bə(ɹ)ˈlɛsk/', '/byʁ.lɛsk/']","['/bə(ɹ)ˈlɛsk/', '/byʁ.lɛsk/']"
-burnoose,burnous,"['/bɝˈnus/', '/bɜːˈnuːs/']","['/byʁ.nu/', '/byʁ.nus/']"
-buro,bureau,"['/byˈrʊə̯/', '/byˈroː/', '/ˈbu.rɔ/']","['/ˈbjʊɹ.əʊ/', '/ˈbjʊɹ.ə/', '/ˈbjʊɹ.oʊ/', '/ˈbjʊɹ.ə/', '/byˈroː/', '/by.ʁo/']"
-buron,buron,['/burɔn/'],['/burɔn/']
-bushwah,bouchois,[],[]
-busk,busc,"['/bʌsk/', '/bus̠k/']",['/bysk/']
-bustier,bustier,"['/ˈbuːstieɪ/', '/ˈbʌsti.ə(ɹ)/', '/bys.tje/']","['/ˈbuːstieɪ/', '/ˈbʌsti.ə(ɹ)/', '/bys.tje/']"
-butte,butte,"['/ˈbjuːt/', '/byt/']","['/ˈbjuːt/', '/byt/']"
-butyric,butyrique,[],[]
-Buzançais,Buzançais,"['/by.zɑ̃.sɛ/', '/by.zɑ̃.se/']","['/by.zɑ̃.sɛ/', '/by.zɑ̃.se/']"
+loan_word,original_word
+à bas,à bas
+à bouche,à bouche
+à contrecœur,à contrecœur
+à deux,à deux
+a go-go,à gogo
+à gogo,à gogo
+a la,à la
+à la,à la
+à la carte,à la carte
+a la minute,à la minute
+a la mode,à la mode
+à la russe,à la russe
+à outrance,à outrance
+à propos de bottes,à propos de bottes
+à trois,à trois
+-a-,à
+abacost,à bas
+abaissé,abaissé
+abandon,abandoner
+abandonment,abandonnement
+abaque,abaque
+abat-vent,abat-vent
+abat-voix,abat-voix
+abatis,abatis
+abatjour,abat-jour
+abatsons,abatsons
+abattage,abattage
+abattoir,abattoir
+abbé,abbé
+Abbeville,Abbeville
+abduction,abductus
+Abenaki,abénaqui
+abime,abime
+ablegate,ablégate
+ablet,ablet
+abonné,abonné
+abonnement,abonnement
+abordage,abordage
+abracadabrant,abracadabrant
+abrasion,abrasion
+abreuvoir,abreuvoir
+abri,abri
+Abri Audit,Abri Audit
+absinthe,absinthe
+abstention,abstention
+abstruse,abstrus
+academist,académiste
+acajou,acajou
+acclimate,acclimater
+accolade,accolade
+accolé,not comparable
+accommodation,accommodation
+accomplishment,accomplissement
+accouchement,accouchement
+accoucheur,accoucheur
+accoucheuse,accoucheuse
+accouplement,accouplement
+accouter,accoutrer
+accusator,accusateur
+acerbity,acerbité
+acetylene,acétylène
+acid,acide
+acidification,acidification
+acieration,acier
+aconite,aconit
+acouchi,acouchi
+acquiescence,acquiescence
+acquis,acquis
+acquis communautaire,acquis communautaire
+Acre,Acre
+acte clair,acte clair
+acte gratuit,acte gratuit
+actinium,actinium
+adaptation,adaptation
+adaptee,adaptée
+Adelaide,Adélaïde
+Adele,Adèle
+adenoid,adénoïde
+admirative,admiratif
+adoptee,adoptée
+adorable,adorable
+adret,adret
+Adrien,Adrien
+adroit,adroit
+aeronautics,aéronautique
+aeroplane,aéroplane
+affaire d'honneur,affaire d'honneur
+affiche,affiche
+affineur,affineur
+affranchi,affranchi
+affronté,affronté
+agacerie,agacerie
+agami,plural
+agent provocateur,agent provocateur
+agente provocatrice,agente provocatrice
+agents provocateurs,agents provocateurs
+agglutination,agglutination
+aggrandize,agrandir
+agiotage,agiotage
+agitation,agitation
+agonic,agonique
+agraffe,agrafe
+agrément,agrément
+agrémens,agrémens
+aide,aide
+aide-de-camp,aide-de-camp
+aide-mémoire,aide-mémoire
+aigrette,aigrette
+aiguille,aiguille
+aileron,aileron
+ailette,ailette
+Aimee,Aimée
+aioli,aïoli
+air de cour,air de cour
+air du temps,air du temps
+-aire,millionnaire
+ajutage,ajutage
+ala,à la
+alban,albane
+Albertine,Albertine
+albicore,albicore
+albumin,albumine
+Alcindor,Alcindor
+alcool,alcool
+alcove,alcôve
+alembic,alambic
+Alençon,Alençon
+Alep,Alep
+alépine,alépine
+alert,alerte
+alevin,alevin
+alexanders,alisander
+Alexandre,Alexandre
+Alexis,Alexis
+Algeria,Algérie
+alidade,alidade
+aligot,aligot
+aligoté,plural
+aliment,aliment
+alimentation,alimentation
+Alina,Aline
+Aline,Aline
+alizari,alizari
+alizarin,alizarine
+allée,allée
+allemande,allemande
+alley oop,allez-hop!
+alloglot,alloglote
+allonge,allonge
+allumette,plural
+almadie,almadie
+almucantar,almicantarat
+alose,alose
+Alphonse,Alphonse
+alternat,feminine
+altruism,altruisme
+amaranth,amarante
+amateur,amateur
+amatrice,amatrice
+ambassade,ambassade
+ambassadry,embassadrie
+ambiance,ambiance
+ambigu,ambigu
+ambrette,ambrette
+ambulance,ambulance
+ambulancier,ambulancier
+ambuscade,embuscade
+ameliorate,améliorer
+amelioration,amélioration
+amende,amende
+amende honorable,plural
+amical,amical
+amidin,amidine
+Amirault,Amirault
+ammunition,amunition
+amniotic,amniotique
+amollishment,amollissement
+amour,amour
+amour propre,amour-propre
+amourette,amourette
+ampère,ampère
+amphigory,amphigouri
+ampoule,ampoule
+amuse-bouche,amuse-bouche
+amusement,amusement
+amusette,amusette
+anacyclic,anacyclique
+anagram,anagramme
+analphabete,analphabète
+ananas,ananas
+anatase,anatase
+anatron,anatron
+Ancien Régime,Ancien Régime
+ancien régime,ancien régime
+andouille,andouille
+anecdote,anecdote
+angary,angarie
+Angeline,Angeline
+angelique,angélique
+angélique,angélique
+Angelle,Angelle
+angelot,angelot
+Angers,Angers
+Angevine,angevin
+angiotenic,angioténique
+anhedonia,anhédonie
+animalier,animalier
+animality,animalité
+animateur,animateur
+animatrice,animatrice
+anime,animé
+animé,animé
+anisette,anisette
+Anjouan,Anjouan
+annalist,annaliste
+Annam,Annam
+Annette,Annette
+annex,annexe
+anomal,anomal
+anomie,anomie
+antibiotic,antibiotique
+antipodism,antipodisme
+antipodist,antipodiste
+antique,antique
+Antoine,Antoine
+aoudad,audad
+apanage,apanage
+apartment,appartement
+aperçu,aperçu
+apéritif,apéritif
+aphylactic,aphylactique
+aplomb,aplomb
+aplome,aplome
+apogee,apogée
+apologue,apologue
+apology,apologie
+apoplectic,apoplectique
+appaumé,not comparable
+appel,appel
+apperception,aperception
+appertisation,appertisation
+applique,appliqué
+appui,appui
+apres,après
+après,après
+après-,après
+après-ski,après-ski
+apropos,à propos
+aquapharyngeal,aquo-pharyngien
+aquarelle,aquarelle
+Aquitaine,Aquitaine
+arabesque,arabesque
+arachnid,arachnide
+arbitrage,arbitrage
+arbitrager,arbitragiste
+arbitrageur,arbitrageur
+arbitragist,arbitragiste
+arbor,erbier
+arborescence,arborescence
+arbust,arbuste
+arc boutant,arc-boutant
+Arc de Triomphe,Arc de Triomphe
+arc-boutant,arc-boutant
+arcade,arcade
+arcature,arcature
+archaeologue,archéologue
+archduchess,archiduchesse
+archetier,archetier
+archiater,archiâtre
+archimandrite,archimandrite
+architecture,architecture
+areic,surfacique
+areole,aréole
+arête,arête
+argot,argot
+Ariane,Ariane
+ariette,ariette
+Arkansas,Arcansas
+Arles,Arles
+Arlon,Arlon
+Armagnac,Armagnac
+Armel,Armel
+armet,armet
+armoire,armoire
+armure,armure
+Arpajon,Arpajon
+arpent,arpent
+arquebusade,arquebusade
+arrestation,arrestation
+arrière-garde,arrière-garde
+arrière-pensée,arrière-pensée
+arriviste,arriviste
+arrondissement,arrondissement
+Arsenault,Arsenault
+Arseneau,Arseneau
+Arseneault,Arseneault
+Art Deco,Art déco
+Art Nouveau,art nouveau
+Artagnan,Artagnan
+artisan,artisan
+artiste,artiste
+artistic,artistique
+ascendeur,ascendeur
+aspic,aspic
+aspirant,aspirant
+assart,essart
+assassin,assassin
+assemblage,assemblage
+assiette,assiette
+Assiniboine,Assiniboine
+assise,assise
+assonance,assonance
+Asterix,Astérix
+astrologue,astrologue
+atelier,atelier
+atmosphere,atmosphère
+atrophy,atrophie
+attaché,attaché
+attachment,attachement
+attaché case,attaché
+attack,attaque
+attentisme,attentisme
+attic,attique
+attitude,attitude
+au contraire,au contraire
+au courant,au courant
+au fait,au fait
+au gratin,au gratin
+au jus,au jus
+au naturel,au naturel
+au pair,être au pair
+au revoir,au revoir
+aubade,aubade
+aubaine,aubain
+Aube,Aube
+auberge,auberge
+aubergine,aubergine
+aubergiste,aubergiste
+Aubin,Aubin
+Auble,Auble
+Aucoin,Aucoin
+Aude,Aude
+Audet,Audet
+Audett,Audett
+Audette,Audette
+Auger,Auger
+Augier,Augier
+auguste,auguste
+Aurès,Aurès
+Australasia,Australasie
+auteur,auteur
+autoclave,autoclave
+autocrat,autocrate
+autofiction,autofiction
+autogestion,autogestion
+automatic,automatique
+automobile,automobile
+autoroute,autoroute
+autotomy,autotomie
+Auvergne,Auvergne
+aval,aval
+avalanche,avalanche
+avalement,avalement
+avant la lettre,avant la lettre
+avant-garde,avant-garde
+avant-texte,uncountable
+aven,aven
+aventurine,aventurine
+avenue,avenue
+avertissement,avertissement
+avertissement nucléaire,avertissement nucléaire
+aviation,aviation
+aviator,aviateur
+Avignon,Avignon
+avocat,avocat
+avoyer,avoyer
+Avril,avril
+axunge,axonge
+Aydelotte,Aydelotte
+Ayn,Ayn
+azedarach,azédarach
+azote,azote
+baba au rhum,baba au rhum
+babiroussa,babiroussa
+babouche,babouche
+babul,baboul
+Baby,Baby
+bac,bac
+baccalaureat,baccalauréat
+baccalaureate,baccalauréat
+baccarat,baccarat
+back,bac
+backet,baquet
+bacteriophage,bactériophage
+badaud,badaud
+badelaire,badelaire
+badian,badiane
+Badie,Badié
+badigeon,badigeon
+badinage,badinage
+badine,badine
+badinerie,badinerie
+bagasse,bagasse
+bagatelle,bagatelle
+Bagnères-de-Luchon,Bagnères-de-Luchon
+bague,bague
+baguette,baguette
+bahut,bahut
+baignoire,baignoire
+bail,bailler
+Bailly,Bailly
+bain-marie,bain-marie
+baisemains,baisemains
+bakeapple,"baie, qu'appelle"
+bal musette,bal musette
+balancelle,balancelle
+balayage,balayage
+balayeuse,balayeuse
+balcon,balcon
+baldacchin,baldaquin
+baldaquin,baldaquin
+Balduc,Balduc
+balise,balise
+ballad,ballade
+ballade,ballade
+balladine,balladine
+ballet,ballet
+balletomane,balletomane
+ballon,ballon
+ballon d'essai,ballon d'essai
+ballonet,ballonnet
+ballonnement,ballonnement
+ballottement,ballottement
+balustrade,balustrade
+banal,banal
+banality,banalité
+bancassurance,bancassurance
+bandage,bandage
+bandeau,bandeau
+bandy,bander
+Bankass,Bankass
+banlieue,banlieue
+banneret,banneret
+banneton,banneton
+banque,banque
+banquette,banquette
+Banville,Banville
+Baptiste,Baptiste
+baragouin,baragouin
+barbastelle,barbastelle
+barbet,barbe
+barbette,barbette
+Barbin,Barbin
+barbotine,barbotine
+barcarole,barcarolle
+Bardet,Bardet
+barège,barège
+Bareilles,Bareilles
+Bargeron,Bargeron
+bariolage,bariolage
+Baroque,barroco
+baroque,baroque
+barrack,baraque
+barrage,barrage
+barre,barre
+barre chord,barre
+barret,barrette
+barrette,barrette
+barricade,barricade
+Barrilleaux,Barrilleaux
+barrique,barrique
+Bas,Bas
+bas-relief,bas-relief
+Bas-Rhin,Bas-Rhin
+basbleu,bas-bleu
+bascule,basculer
+basilar,basilaire
+Basque,basque
+basque,basque
+Basquiat,Basquiat
+Basse,Basse
+Basset,Basset
+Bassin,Bassin
+bassoon,basson
+bastide,bastide
+bastille,bastille
+bat,bât
+batardeau,batardeau
+bateau,bateau
+bateleur,bateleur
+bathyscaphe,bathyscaphe
+baton,bâton
+battement,battement
+batterie,batterie
+batterie de cuisine,batterie de cuisine
+battu,battu
+battue,battue
+Bau,Bau
+baud,baud
+Baumé,Baumé
+bauxite,-ite
+bavardage,bavardage
+bavaroise,bavarois
+bavette,bavette
+bayadère,bayadère
+bayard,bayard
+Bayle,Bayle
+Bazil,Bazil
+BD,BD
+BEA,BEA
+Beacham,Beauchamp
+Béarnais,Béarnais
+beau,beau
+beau geste,beau geste
+beau idéal,beau idéal
+beau joueur,beau
+beau monde,beau monde
+beau sabreur,beau
+Beauchamp,Beauchamp
+Beauchemin,Beauchemin
+beaucoup,beaucoup
+Beaudoin,Beaudoin
+Beaudreau,Beaudreau
+Beaudry,Beaudry
+Beaujolais,Beaujolais
+Beaulieu,beau + lieu
+Beauregard,Beauregard
+beaux-arts,beaux-arts
+becard,bécard
+béchamel,béchamel
+béchamel sauce,sauce béchamel
+bêche-de-mer,bêche-de-mer
+becquerel,becquerel
+Bedard,Bédard
+bedeguar,bédégar
+Bedel,Bedel
+bedlamer,bête de la mer
+Beecham,Beauchamp
+beef bourguignon,bœuf bourguignon
+beef olive,alouette
+Beghard,bégard
+begonia,bégonia
+béguin,béguin
+beguinage,béguinage
+beige,(dialectal) beige
+beignet,beignet
+Bejaia,Béjaïa
+Béjaïa,Béjaïa
+bel esprit,bel esprit
+Belainsky,Belainsky
+Beland,Beland
+belandre,belandre
+Belcourt,Belcourt
+Beliveau,Béliveau
+Belle Époque,Belle Époque
+belle sabreuse,belle
+Belleau,Belleau
+Bellefontaine,Bellefontaine
+Bellegarde,Bellegarde
+Bellerose,Bellerose
+belles-lettres,belles-lettres
+Belliard,Belliard
+Bellot,Bellot
+Bellotte,Bellotte
+belote,belote
+Belux,Belux
+Benedictine,bénédictin
+bengaline,bengaline
+Beninois,béninois
+benitier,bénitier
+Benne,Benne
+Benoist,Benoist
+berceuse,berceuse
+Bercier,Bercier
+berdache,bardache
+beret,béret
+bergamot,bergamote
+Berger Picard,berger picard
+bergerette,bergerette
+Bergeron,Bergeron
+Beringer,Béringer
+Berland,Berland
+berline,berline
+berlingot,berlingot
+berm,berme
+Bernardin,Bernardin
+Bernardy,Bernardy
+Bernet,Bernet
+Bernier,Bernier
+Berrien,Berrien
+Berry,Berry
+besaiel,bisaïeul
+Besançon,Besançon
+Besson,Besson
+bête de scène,bête de scène
+bête noire,bête noire
+bêtise,bêtise
+Bettencourt,Bettencourt
+beurrage,beurrage
+Beurré,beurré
+beurre manié,beurre manié
+Bézier,Bézier
+bezique,bésigue
+bezoar,bézoard
+biandry,biandrie
+bias,biais
+Bibeau,Bibeau
+bibelot,bibelot
+bibliotheke,bibliothèque
+bichon,bichon
+Bichon Frisé,bichon (à poil) frisé
+bicycle,bicycle
+bidon,bidon
+bien pensant,bien-pensant
+Bienaime,Bienaimé
+bienséance,bienséance
+Bièvre,Bièvre
+bigarade,bigarade
+bigot,bigot
+bijection,bijection
+bijou,bijou
+bikini,bikini
+bilboquet,bilboquet
+billet-doux,billet doux
+billeté,billeté
+billiard,billiard
+billiards,billard
+billion,billion
+billon,billon
+billot,billot
+Binedama,Binedama
+binette,binette
+binocular,binoculaire
+biopsy,biopsie
+Biot,Biot
+Biscaichipy,Biscaïchipy
+biscornu,biscornu
+biscotin,biscotin
+Bisel,Bisel
+biset,biset
+bisque,bisque
+Bisson,Bisson
+Bissonnet,Bissonnet
+Bissonnette,Bissonnette
+bistoury,bistouri
+bistre,bistre
+bistro,bistro(t)
+bivouac,bivouac
+bizarre,bizarre
+bizarrerie,bizarrerie
+blague,blague
+blanc,blanc
+Blanc de Hotot,Blanc de Hotot
+Blanchard,Blanchard
+Blanchet,Blanchet
+Blanchett,Blanchett
+Blanchette,Blanchette
+blanquette,blanquette
+blasé,blasé
+bled,bled
+blessure,blessure
+blet,blettir
+bleu celeste,bleu céleste
+bliaut,bliaut
+blindage,blindage
+bloc,bloc
+blocage,blocage
+Blois,Blois
+Blon,Blon
+blondine,blondine
+Blouin,Blouin
+blouson,blouson
+bobbin,bobine
+bobèche,bobèche
+bobo,bobo
+bocal,bocal
+bocasine,bocassin
+Boche,boche
+Boileau,Boileau
+Boiron,Boiron
+Bois,Bois
+Bois Caïman,Bois Caïman
+bois d'arc,bois d'arc
+bois durci,bois durci
+Boisbriand,Boisbriand
+Boisclair,Boisclair
+boiserie,boiserie
+bolide,bolide
+Bollé,Bollé
+bolognaise,bolognaise
+bomb,bombe
+bombard,bombarde
+Bombardier,Bombardier
+bombardon,bombardon
+bombe,bombe
+bombé,bombé
+Bon Accord,bon accord
+bon appétit,bon appétit
+bon mot,bon mot
+bon ton,bon ton
+bon vivant,bon vivant
+bon voyage,bon voyage
+bonbon,bonbon
+bonbonniere,bonbonnière
+Bonchrétien,plural
+bondieuserie,bondieuserie
+bonduc,bonduc
+bone,bornoyer
+Bône,Bône
+Bonenfant,Bonenfant
+Bongard,Bongard
+bonheur du jour,bonheur-du-jour
+bonhomie,bonhomie
+Bonjour,Bonjour
+bonne,bonne
+bonne bouche,bonne bouche
+bonze,bonze
+boo-boo,bobo
+bookoo,beaucoup
+borborygm,borborygme
+Bordeaux,Bordeaux
+Bordelais,Bordelais
+bordelaise,bordelaise
+Bordenet,Bordenet
+bordereau,bordereau
+Bordes,Bordes
+bosket,bosquet
+bossale,bossale
+Bossard,Bossard
+Bosse,Bosse
+bottine,bottine
+boubou,boubou
+Bouchard,Bouchard
+bouche,bouche
+bouchée,bouchée
+Boucher,Boucher
+boudin,boudin
+boudinage,boudinage
+boudoir,boudoir
+Boudreaux,Boudreaux
+bouffage,plural
+bouffant,bouffant
+bouffe,bouffe
+bouffée délirante,uncountable
+Bougainville,Bougainville
+bougie,bougie
+bouillabaisse,bouillabaisse
+bouilli,bouilli
+bouillon,bouillon
+boulangerie,boulangerie
+boule,boule
+Boulenger,Boulenger
+Boulet,Boulet
+boulevard,boulevard
+boulevardier,boulevardier
+bouleversement,bouleversement
+bouquet,bouquet
+Bouquet,Bouquet
+bouquet garni,bouquet garni
+bouquetin,bouquetin
+Bourdain,Bourdain
+Bourdin,Bourdin
+bourgeois,bourgeois
+bourgeoise,bourgeoise
+bourgeoisie,bourgeoisie
+Bourget,Bourget
+Bourguignon,bourguignon
+bourn,borne
+bourne,bourne
+bourrée,bourrée
+bourse,bourse
+Boursiquot,Boursiquot
+bousillage,bousillage
+boutade,boutade
+Boutilier,Boutilier
+boutique,boutique
+bouton,bouton
+boutonniere,boutonnière
+boutonnière,boutonnière
+bouts-rimés,bout
+Bouvier,Bouvier
+bouvier des Flandres,bouvier des Flandres
+boyau,boyau
+braconniere,braconnière
+braggart,bragard
+braille,braille
+braise,braise
+bralette,bralette
+brancard,brancard
+branchage,branchage
+braquemard,braquemard
+bras d'honneur,bras d’honneur
+brassard,brassard
+Brasselle,Brasselle
+brasserie,brasserie
+brassiere,brassière
+braze,braser
+Brazeau,Brazeau
+brazier,brasier
+Breau,Bréau
+brelan,brelan
+breloque,breloque
+bretelle,bretelle
+bretessé,bretessé
+Briançon,Briançon
+briar,bruyère
+bric-a-brac,bric-à-brac
+bric-à-brac,bric-à-brac
+bricolage,bricolage
+bricole,bricole
+bricoleur,bricoleur
+bride,bride
+brie,brie
+Brie,Brie
+Brienne,Brienne
+brigade,brigade
+brigadier,brigadier
+brigue,brigue
+brilliance,brillance
+brilliant,brillant
+brioche,brioche
+briolette,briolette
+briquet,briquet
+briquetage,briquetage
+briquette,briquette
+brise soleil,brise-soleil
+brise-bise,brise-bise
+brisement,brisement
+brisque,brisque
+brisure,brisure
+Broca,Broca
+brocard,brocard
+brocatel,brocatelle
+brocatelle,brocatelle
+broche,broche
+brochette,brochette
+brochure,brochure
+broché,broché
+brodequin,brodequin
+broderie,broderie
+Broglie,Broglie
+bronze,bronze
+Brossard,Brossard
+Brossart,Brossart
+brouhaha,brouhaha
+Broussard,Broussard
+Bruges,Bruges
+bruit,bruit
+Bruley,Bruley
+Brumaire,brumaire
+brume,brume
+brunaille,brunaille
+brunet,brunet
+brunette,brunette
+brunion,brugnon
+brunoise,brunoise
+brusque,brusque
+brusquerie,brusquerie
+Brussels,Bruxelles
+brut,brut
+buccan,boucan
+buccaneer,boucanier
+buffet,buffet
+buffont,bouffant
+buisson,buisson
+bulletin,bulletin
+burbot,barbote
+bureau,bureau
+bureau de change,bureau de change
+burette,burette
+burin,burin
+burlesque,burlesque
+burnoose,burnous
+buro,bureau
+buron,buron
+bushwah,bouchois
+busk,busc
+bustier,bustier
+butte,butte
+butyric,butyrique
+Buzançais,Buzançais
+béarnaise,
+cabaret,cabaret
+cabas,cabas
+cabécou,cabécou
+cabernet,cabernet
+cabochon,cabochon
+cabotage,cabotage
+cabotinage,cabotinage
+cabré,cabré
+cabriole,cabriole
+Cabriole leg,cabriole
+cabriolet,cabriolet
+cachalot,cachalot
+cache,cache
+cache-sexe,cache-sexe
+cachepot,cache-pot
+cachet,cachet
+cachou,cachou
+cadastral,cadastral
+cadastre,cadastre
+cadet,cadet
+Cadillac,Cadillac
+cadis,cadis
+cadre,cadre
+cafard,cafard
+café,café
+café au lait,café au lait
+café noir,café noir
+café noisette,café noisette
+café-chantant,café-chantant
+caféteria,caféteria
+cafétéria,cafétéria
+cafetière,cafetière
+caffeine,caféine
+café liégeois,
+cagoule,cagoule
+cahier,cahier
+cahoot,cahute
+cahoots,cahute
+Caillat,Caillat
+Caillouet,Caillouet
+caique,caïque
+caïquejee,caïquejee
+caisson,caisson
+cajole,cajoler
+Cajuste,Cajuste
+calade,calade
+Calais,Calais
+calambac,calambac
+calamine,calamine
+calamint,calament
+calamitous,calamiteux
+calander,calandre
+calcule,calcul
+calèche,calèche
+calembour,calembour
+calin,calin
+calk,calque
+calligram,calligramme
+calligraphy,calligraphie
+Callovian,callovien
+calorie,calorie
+calorifere,calorifère
+calotte,calotte
+caloyer,caloyer
+calque,calque
+camaieu,camaïeu
+camail,camail
+camaraderie,camaraderie
+cambré,cambré
+camion,camion
+camisole,camisole
+camouflage,camouflage
+camouflet,camouflet
+Campagne,Campagne
+campagnol,campagnol
+Canada,Canada
+canapé,canapé
+canapés,
+canard,canard
+canary,canarie
+cancan,cancan
+cancaneuse,cancaneuse
+candidature,candidature
+canelé,canelé
+canelés,
+Canigou,Canigou
+cannelure,cannelure
+Cannes,Cannes
+cantatrice,cantatrice
+canteen,cantine
+cantinière,cantinière
+caouk,caouk
+caoutchouc,caoutchouc
+cape,cap
+capharnaum,capharnaüm
+capillaire,capillaire
+capilotade,capilotade
+capitalism,capitalisme
+capitalist,capitaliste
+capitoulat,capitoulat
+caporal,caporal
+capot,capot
+capote,capote
+Cappe,Cappé
+caprice,caprice
+capricious,capricieux
+capriole,capriole
+capsule,capsule
+capuchin,capuchin
+caracal,caracal
+caracole,caracole
+carafe,carafe
+caramel,caramel
+carapace,carapace
+carbon,carbone
+carcajou,carcajou
+careen,carene
+caress,caresse
+caret,caret
+cargason,cargaison
+caricature,caricature
+caricaturesque,caricaturesque
+carillon,carillon
+carillonneur,carillonneur
+cariole,carriole
+carmagnole,carmagnole
+carnet,carnet
+carnivore,carnivore
+caroche,caroche
+carotid,carotide
+carotte,carotte
+caroubier,caroubier
+carousel,carrousel
+Carpentier,Carpentier
+Carré de l'Est,Carré de l'Est
+carte,carte
+carte anglaise,carte anglaise
+carte blanche,carte blanche
+carte de visite,carte de visite
+carte soleil,carte soleil
+cartel,cartel
+cartilage,cartilage
+cartilagineous,cartilagineux
+carton,carton
+carton-pierre,carton-pierre
+cartouche,cartouche
+cartridge,cartouche
+casaquin,casaquin
+casein,caséine
+casemate,casemate
+casern,caserne
+cashew,acajou
+cashier,casser
+casque,casque
+cassation,cassation
+casse,casse
+casse-croute,casse-croûte
+casserole,casserole
+cassette,cassette
+cassis,cassis
+cassolette,cassolette
+cassonade,cassonade
+cassoulet,cassoulet
+cataclysm,cataclysme
+catafalque,catafalque
+catalogue raisonné,catalogue raisonné
+catechumen,catéchumène
+category,catégorie
+Catherine,Catherine
+catheter,cathéter
+causeuse,plural
+Cavalaire-sur-Mer,Cavalaire-sur-Mer
+cavalcade,cavalcade
+cavesson,caveçon
+caviar,caviar
+cavin,cavin
+Caya,Caya
+Cayenne,Cayenne
+Cayes,Cayes
+Cazeau,Cazeau
+CCITT,CCITT
+Cecile,Cécile
+cédille,cédille
+cedule,cédule
+ceinture,ceinture
+celadon,céladon
+celerifere,célérifère
+celeripede,céléripede
+celery,céleri
+celesta,célesta
+celeste,céleste
+Celestin,Célestin
+celibate,célibat
+Celine,Céline
+cellulose,cellulose
+Celtic,celtique
+cendrée,cendré
+cenotaph,cénotaphe
+centime,centime
+centimetre,centimètre
+centrifuge,centrifuge
+cep,cèpe
+cépage,cépage
+cephalopod,céphalopode
+-cephaly,-céphalie
+cerclage,cerclage
+cereal,céréale
+cerebral,cérébral
+cerebral hemorrhage,cérébral
+cerement,cirement
+Cerf,Cerf
+cerise,cerise
+cervical,cervical
+c'est la vie,c'est la vie
+CH,CH
+Chabert,Chabert
+chabot,chabot
+chabrette,chabrette
+chaconne,chaconne
+chacun à son goût,à chacun son goût
+chadon beni,chardon béni
+chagrin,chagrin
+chainon,chaînon
+chaise,chaise
+chaise longue,chaise longue
+chaldron,chaudron
+chalet,chalet
+châlet,châlet
+chalumeau,chalumeau
+cham,cham
+chamade,chamade
+Chambord,Chambord
+chambranle,chambranle
+chambré,chambré
+chamotte,chamotte
+champ,champ
+champ clos,champ clos
+Champagne,Champagne
+champagne,champagne
+Champenois,champenois
+champignon,champignon
+Champlain,Champlain
+champlevé,champlevé
+champlevés,
+Champoux,Champoux
+chancre,chancre
+chandelier,chandelier
+chandelle,chandelle
+Chanel,Chanel
+chanson,chanson
+chansonnette,chansonnette
+chansonnier,chansonnier
+chant royal,chant royal
+chantage,chantage
+Chantal,Chantal
+chantefable,chantefable
+chanterelle,chanterelle
+chanteur,chanteur
+chanteuse,chanteuse
+Chantilly,Chantilly
+Chaource,Chaource
+chapeau,chapeau
+chapel de fer,chapel de fer
+chappe,chappe
+chapé,échapper
+charabanc,char-à-bancs
+charade,charade
+charbon,charbon
+charbonnier,charbonnier
+charcuterie,charcuterie
+charcutier,charcutier
+chard,carde
+Chardon,Chardon
+chargé d'affaires,chargé d'affaires
+chargés d'affaires,
+charivari,charivari
+Charlebois,Charlebois
+Charleroi,Charleroi
+Charline,Charline
+Charlotte,Charlotte
+charlotte,charlotte
+charlotte russe,charlotte russe
+charmeuse,charmeuse
+Charpentier,Charpentier
+charrette,charrette
+Charron,Charron
+charterhouse,chartreuse
+Chartres,Chartres
+chartreuse,chartreuse
+Chartreux,Chartreux
+chasse,chassé
+chassé,chassé
+chasse-café,chasse-café
+chasse-marée,chasse-marée
+chasseur,chasseur
+chassis,châssis
+château,château
+chateaubriand,chateaubriand
+Châteauroux,Châteauroux
+Châtelaillon-Plage,Châtelaillon-Plage
+chatelain,châtelain
+chatelaine,châtelaine
+chaton,plural
+chatoyment,chatoiement
+chaud-froid,chaud-froid
+Chaudoin,Chaudoin
+chauffeur,chauffeur
+chauffeuse,chauffeuse
+chausse,chausse
+Chausse,Chausse
+chaussé,chaussé
+chausson,chausson
+chaussure,chaussure
+chaussée,chaussée
+chauvinism,chauvinisme
+chef,chef
+chef de cuisine,chef de cuisine
+chef de mission,chef de mission
+chef de partie,chef de partie
+chef de rang,chef de rang
+chef d'oeuvre,chef-d’œuvre
+chef d'œuvre,chef-d'œuvre
+chelem,chelem
+chemin de fer,chemin de fer
+chemin de ronde,chemin de ronde
+chemise,chemise
+chemisette,chemisette
+chemist,chimiste
+Chenard,Chenard
+Chenault,Chenault
+chenier,chêne
+chenille,chenille
+chétif,chétif
+cheval,cheval
+cheval de frise,cheval de frise
+chevalier d'industrie,plural
+chevauchée,
+chevelure,chevelure
+cheville,cheville
+chèvre,chèvre
+chevrette,chevrette
+chevreuil,chevreuil
+Chevrolet,Chevrolet
+chevron,chevron
+chevrotain,chevrotain
+Cheyenne,Cheyenne
+chez,chez
+chiaoux,chiaoux
+Chiasson,Chiasson
+chibouk,chibouque
+chic,chic
+Chicago,Chécagou
+chicane,chicane
+chichi,chichi
+chicon,chicon
+chicotte,chicotte
+chiffon,chiffon
+chiffonade,chiffonade
+chiffonier,chiffonnier
+chiffre,chiffre
+chignon,chignon
+Childeric,Childéric
+chiné,chiné
+chinois,chinois
+chinoiserie,chinoiserie
+Chinoiserie,chinoiserie
+chipolata,chipolata
+chitin,chitine
+Chleuh,Chleuh
+chloroform,chloroforme
+chlorophyll,chlorophylle
+chocolatier,chocolatier
+chocolatine,chocolatine
+cholesterine,cholesterine
+chomage,chômage
+chômeur,chômeur
+Chopin,Chopin
+choreography,chorégraphie
+chose jugée,chose jugée
+choses jugées,
+chott,chott
+chou,chou
+Chouinard,Chouinard
+chowder,chaudière
+Christine,Christine
+christophine,christophine
+chromatic,chromatique
+chrome,chrome
+chronique scandaleuse,chronique scandaleuse
+CHSLD,CHSLD
+chuchotage,chuchotage
+chute,chute
+chyle,chȳlus
+ci-devant,ci-devant
+cigarette,cigarette
+cimier,plural
+cineast,cinéaste
+cinema,cinéma
+cinéma du look,cinéma du look
+cinéma vérité,cinéma vérité
+cinephile,cinéphile
+cinetization,cinétisation
+cinquain,cinquain
+ciné film,
+ciné films,
+cinéfilm,
+cinéfilms,
+cirque,cirque
+citadel,citadelle
+Citroën,Citroën
+citron,citron
+citronella,citronnelle
+civilisation,civilisation
+civilité,(caractères de) civilité
+civilization,civilisation
+civilize,civiliser
+clafoutis,clafoutis
+clair de lune,clair de lune
+clairaudience,clair
+clairaudient,clair
+Claire,Claire
+clairvoyance,clairvoyance
+clapper,clapier
+claque,claque
+claqueur,claqueur
+clarain,clarain
+Clarin,Clarin
+classic,classique
+classification,classification
+clavecin,clavecin
+clavier,clavier
+cleché,not comparable
+Clemenceau,Clemenceau
+clementine,clémentine
+Clermont,Clermont
+cliché,cliché
+clichés,
+clientele,clientèle
+clientèle,clientèle
+clinician,clinicien
+clique,clique
+cliquet,cliquet
+clochard,clochard
+cloche,cloche
+cloison,cloison
+cloisonné,cloisonné
+cloque,cloqué
+Clos,Clos
+close,clos
+cloture,clôture
+clou,clou
+Clouseau,Clouseau
+CLSC,CLSC
+cléché,not comparable
+clôture,closture
+coalition,coalition
+Cobee,Cobée
+cochineal,cochenille
+cockamamie,décalcomanie
+coco-de-mer,coco de mer
+cocotte,cocotte
+cognac,cognac
+Cognac,Cognac
+cohesion,cohésion
+coiffeur,coiffeur
+coiffeuse,coiffeuse
+coiffure,coiffure
+Coin,Coin
+coincide,coïncider
+coincident,coïncident
+col,col
+-cole,-cole
+colic,colique
+colin,colin
+collaboration,collaboration
+collaborator,collaborateur
+collage,collage
+collagen,collagène
+colline,colline
+collogue,colloque
+Cologne,Cologne
+colonnade,colonnade
+colonnette,colonnette
+colporteur,colporteur
+combat,combatre
+combattant,combattant
+Comeaux,Comeaux
+comedienne,comédienne
+commandery,commanderie
+comme ci comme ça,comme ci comme ça
+comme il faut,comme il faut
+commencement,commencement
+commercial,commercial
+Comminges,Comminges
+commissaire,commissaire
+commissariat,commissariat
+commode,commode
+communal,communal
+communard,communard
+communiqué,communiqué
+communiqués,
+Comoros,Comores
+compensable,compensable
+compensatory,compensatoire
+compense,compenser
+compere,compère
+compère,compère
+compersion,compère
+competence,compétence
+competition,compétition
+complex,complexe
+complicity,complicité
+compliment,compliment
+componé,
+compositor,compositeur
+compote,compote
+compôte,compôte
+compte rendu,compte rendu
+compulsive,compulsif
+compute,computer
+comtal,comtal
+comte,comte
+concassé,concassé
+concert,concert
+concessionaire,concessionnaire
+conche,conche
+concierge,concierge
+concision,concision
+conclave,conclave
+conclavist,conclaviste
+concord,concorde
+concourse,concours
+concretion,concrétion
+concubinage,concubinage
+conferencier,conférencier
+confidant,confident
+confinement,confinement
+confit,confit
+confiture,confiture
+confrerie,confrérie
+confronté,confronté
+congé,congé
+Congis-sur-Thérouanne,Congis-sur-Thérouanne
+Congolese,congolais
+conjuncture,conjoncture
+connoisseur,connoisseur
+consanguine,consanguin
+conservatoire,conservatoire
+conservatory,conservatoire
+consigne,consigne
+console,console
+consommé,consommé
+constatation,constatation
+constate,constater
+consternation,consternation
+contiguity,contiguïté
+contour,contour
+contourné,
+contrast,contraster
+contrecoup,contrecoup
+contredanse,contredanse
+contretemps,contretemps
+conventionnel,conventionnel
+convive,convive
+convivial,convivial
+cooperation,cooperation
+copist,copiste
+Coppee,Coppée
+coprolalia,coprolalie
+coquecigrue,coquecigrue
+coquelicot,coquelicot
+coqueluche,coqueluche
+coquet,coquet
+coquette,coquette
+coquille,coquille
+cor anglais,cor anglais
+corbeau,corbeau
+Corbeau,Corbeau
+corbeille,corbeille
+Corbet,Corbet
+cordage,cordage
+cordon bleu,cordon bleu
+cordon sanitaire,cordon sanitaire
+cordonnet,cordonnet
+Core,Coré
+cornemuse,cornemuse
+cornichon,cornichon
+Cornier,Cornier
+corporeity,corporéité
+corps de garde,corps de garde
+corps-a-corps,corps-à-corps
+correct,correct
+corrective,correctif
+corridor,corridor
+corruption,corruption
+corsage,corsage
+corsair,corsaire
+Corse-du-Sud,Corse-du-Sud
+cortege,cortège
+corticine,corticine
+corvee,corvée
+corvette,corvette
+corvées,
+coryphée,coryphée
+coryphées,
+cosmopolite,cosmopolite
+Costa,Costa
+costal,costal
+costumier,costumier
+Cotard,Cotard
+cotarnine,cotarnine
+Cote,Côté
+Côte d'Azur,Côte d'Azur
+Côte d'Ivoire,Côte d'Ivoire
+Côte d'Or,Côte d'Or
+coteau,coteau
+coterie,coterie
+Côtes-du-Nord,Côtes-du-Nord
+cotillion,cotillon
+Cotnoir,Cotnoir
+Coton de Tulear,plural
+cottage orné,
+coua,coua
+couchette,couchette
+couché,couché
+coudé,coudé
+coudiere,coudière
+cougar,couguar
+coulé,coulé
+coulee,coulée
+couleur,couleur
+coulis,coulis
+coulisse,coulisse
+couloir,couloir
+coulomb,coulomb
+coulure,coulure
+countermure,contremurer
+coup,coup
+coup d'états,
+coup d'arret,coup d'arrêt
+coup de force,coup de force
+coup de foudre,coup de foudre
+coup de grâce,coup de grâce
+coup de main,coup de main
+coup de maitre,coup de maître
+coup de théâtre,coup de théâtre
+coup d'état,coup d'État
+coup d'œil,coup d'œil
+coupe,coupe
+coupé,coupé
+coupe-gorge,coupe-gorge
+coupon,coupon
+coups d'état,
+coups de théâtre,
+coupés,
+courante,courante
+courbette,courbette
+coureur de bois,coureur des bois
+courgette,courgette
+course landaise,course
+Courseulles-sur-Mer,Courseulles-sur-Mer
+courtesan,courtisane
+Courtois,Courtois
+couscous,couscous
+Couserans,Couserans
+Cousy,Cousy
+couteau de chasse,couteau de chasse
+couter,coudière
+coutil,coutil
+Couture,Couture
+couturier,couturier
+couturière,couturière
+couvert,couvert
+couverture,couverture
+couveuse,couveuse
+CQ,sécurité
+cracovienne,cracovienne
+cramoisie,cramoisie
+crampon,crampon
+crancelin,crancelin
+crapaud,crapaud
+crapaudine,crapaudine
+craquelure,craquelure
+crayon,crayon
+creamery,crémerie
+crèche,crèche
+Crecy,Crécy
+credibility,crédibilité
+Creecy,Creecy
+crémaillère,crémaillère
+crème,crème
+crème anglaise,crème anglaise
+crème brûlée,crème brûlée
+crème caramel,crème caramel
+crème de cassis,crème de cassis
+crème de la crème,crème de la crème
+crème de menthe,crème de menthe
+crème fraîche,crème fraîche
+Creole,créole
+crepe,crêpe
+crêpe,crêpe
+crêpe de Chine,crêpe de Chine
+crêpe Suzette,crêpe Suzette
+creperie,crêperie
+crepier,crêpier
+crépinette,crépinette
+crepon,crépon
+cretin,crétin
+creton,creton
+cretonne,cretonne
+Creve Coeur,crève-cœur
+crevette,crevette
+Crevier,Crévier
+cri de coeur,cri du cœur
+cri du chat,cri du chat
+cribble,crible
+crime passionnel,crime passionnel
+crin,crin
+crinoline,crinoline
+criterium,critérium
+critique,critique
+Cro-Magnon,Cro-Magnon
+crochet,crochet
+croisade,croisade
+croisé,croisé
+croissant,croissant
+cromorna,cromorne
+croque-madame,croque-madame
+croquembouche,croquembouche
+croquette,croquette
+croquis,croquis
+crosne,crosne
+cross pattée,
+crossette,crossette
+Croteau,Croteau
+crottin,crottin
+croupier,croupier
+croupiere,croupière
+croustade,croustade
+croûton,croûton
+Crow,gens
+cru,cru
+crucial,crucial
+crudites,crudités
+crudités,crudités
+cubage,cubage
+cubism,cubisme
+cubitiere,cubitière
+cucurbit,cucurbite
+cue,queue
+cueillette,cueillette
+cuir bouilli,cuir bouilli
+cuirasse,cuirasse
+cuirassement,cuirassement
+cuirassier,cuirassier
+cuisine,cuisine
+cuisinier,cuisinier
+cuisse,cuisse
+cul-de-four,cul-de-four
+cul-de-lampe,
+cul-de-sac,cul-de-sac
+culinary,culinaire
+culminant,culminant
+culmination,culmination
+culotte,culotte
+culottes,culottes
+cultivation,cultivation
+cummer,commère
+cuneiform,cunéiforme
+Cuny,Cuny
+cupel,coupelle
+curettage,curettage
+curette,curette
+curie,curie
+Curie,Curie
+currant,raisin de Corinthe
+curtein,plural
+custode,custode
+cuvée,cuvée
+cuvette,cuvette
+cuvier,cuvier
+cyme,cime
+cynism,cynisme
+cynosure,cynosure
+cégep,cégep
+cépages,
+dadaism,dadaïsme
+Dague,Dague
+Daignault,Daignault
+Daigneault,Daigneault
+Daigre,Daigre
+Daillencourt,Daillencourt
+dalles,dalle
+damassé,damassé
+dame de compagnie,dame de compagnie
+d'Amour,d'Amour
+Danault,Danault
+dancette,denché
+dancetté,danché
+Danielle,Danielle
+Danlos,Danlos
+Danna,D'Anna
+danse macabre,danse macabre
+danseuse,danseuse
+Dantin,Dantin
+Daoust,Daoust
+dartre,dartre
+daube,daube
+Dauphin,dauphin
+dauphine,dauphine
+daurade,daurade
+de Brienne,de Brienne
+de Broglie,de Broglie
+de Grasse,de Grasse
+de haut en bas,de haut en bas
+de Havilland,plural
+de Lesseps,de Lesseps
+De Lesseps,de Lesseps
+de luxe,de luxe
+De Pass,De Pass
+de rigueur,de rigueur
+de son tort,de
+de trop,de trop
+debacle,débâcle
+déblai,déblai
+débouché,débouché
+debride,débrider
+debridement,débridement
+debris,débris
+débris,débris
+Debrosse,Debrosse
+debuscope,debuscope
+debut,début
+début,début
+débutant,débutant
+debutante,débutante
+débutante,débutante
+decalcomanie,décalcomanie
+decameter,décamètre
+decametre,décamètre
+decant,décanter
+decantation,décantation
+decapitate,décapiter
+decapod,décapode
+decate,décatir
+decatize,décatir
+decime,décime
+decistere,décistère
+déclassé,déclassé
+décollage,décollage
+décollement,décollement
+décolletage,décolletage
+décolleté,décolleté
+décolletée,décolletée
+decolorant,décolorant
+décor,décor
+decoupage,découpage
+decuple,décuple
+dedans,dedans
+deess,déesse
+defeatism,défaitisme
+defeatist,défaitiste
+defense,défense
+defiant,défiant
+deforestation,déforestation
+defrock,défroquer
+dégagé,dégagé
+Degazon,Degazon
+degenerescence,dégénérescence
+deglutition,déglutition
+DeGrace,de Grâce
+degringolade,dégringolade
+Deguire,Deguire
+degustation,dégustation
+dehors,dehors
+deism,déisme
+déjà vu,déjà vu
+Delage,Delage
+delaine,de laine
+Delaine,Delaine
+Delcambre,Delcambre
+Delcamp,Delcamp
+Delfosse,Delfosse
+Delfour,Delfour
+deliminate,délimiter
+delimit,délimiter
+delimitate,délimiter
+Delisle,Delisle
+delvauxite,delvauxite
+demagogic,démagogique
+demandeur,demandeur
+démarche,démarche
+demark,démarquer
+DeMary,Demary
+demi-sec,demi-sec
+demibastion,demi-bastion
+demibrigade,demi-brigade
+demicadence,demi-cadence
+demiglace,demi-glace
+demigorge,demi-gorge
+DeMille,De Mille
+demilune,demi-lune
+demimondaine,demi-mondaine
+demimonde,demi-monde
+demipointe,demi
+demirelief,demi-relief
+demitasse,demi-tasse
+demitint,demi-teinte
+démodé,démodé
+demoiselle,demoiselle
+Demont,Demont
+Demorest,Desmarais
+denature,dénaturer
+Deneau,Deneau
+dénouement,dénouement
+dent,dēns
+dentelle,dentelle
+dentist,dentiste
+département,département
+department,département
+departmental,départemental
+dependant,dépendant
+deplace,déplacer
+depliage,dépliage
+deplorable,déplorable
+deploy,déployer
+deplume,déplumer
+deport,déporter
+deportment,déportement
+depot,dépôt
+depreciation,dépréciation
+depucelage,dépucelage
+deracine,déraciné
+derailleur,dérailleur
+derailment,déraillement
+derangement,dérangement
+dérive,dérive
+dermabrase,dermabraser
+dernier,dernier
+dernier cri,dernier cri
+Derousse,Derousse
+Deroy,Deroy
+derrière,derrière
+Deruelle,Deruelle
+Des Moines,Rivière des Moines
+Desaulniers,Desaulniers
+Desbiens,Desbiens
+Descemet,Descemet
+desert,deserte
+deshabille,déshabillé
+desinence,désinence
+desman,desman
+Desmarais,Desmarais
+Desnoyers,Desnoyers
+Desper,Desper
+despotism,despotisme
+Despres,Després
+Desrochers,Desrochers
+dessert,dessert
+dessin d'enfant,dessin d'enfant
+destin,destin
+Desvarieux,Desvarieux
+detachment,détachement
+detent,détente
+détente,détente
+detergent,détergent
+deterioration,détérioration
+determinant,déterminant
+detonation,détonation
+detour,détour
+detournement,détournement
+détraqué,détraqué
+detrempe,détrempe
+Detroit,détroit
+Deveaux,Deveaux
+develop,développer
+developpe,développé
+Devere,Devere
+deviance,déviance
+deviant,déviant
+Deville,Deville
+dextrochere,dextrochère
+dey,dey
+dhimmi,dhimmi
+diabase,diabase
+diablerie,diablerie
+diablo,diable
+diabologue,-logue
+Diakite,Diakité
+diamantaire,diamantaire
+diamante,diamanté
+diamanté,diamanté
+diaphanie,diaphanie
+diatribe,diatribe
+dictature,dictature
+Dien Bien,Diên Biên
+Dien Bien Phu,Diên Biên Phu
+différance,différance
+diffix,diffixe
+digestif,digestif
+diligence,diligence
+Dilly,Dilly
+dinanderie,dinanderie
+Dionne,Dionne
+diopside,diopside
+diorama,diorama
+diorite,diorite
+diphtheria,diphtérie
+diplomacy,diplomatie
+directeur sportif,directeur sportif
+directive,directif
+dirigisme,dirigisme
+dirigiste,dirigiste
+disc,disque
+discotheque,discothèque
+disinfectant,désinfectant
+disinter,désenterrer
+disorient,désorienter
+displacement,déplacement
+dispone,disponĕre
+disponible,disponible
+dispose,disposer
+dispositif,dispositif
+disquaire,disquaire
+disquette,disquette
+disquisition,disquisition
+dissociation,dissociation
+distrait,distrait
+district,district
+disyllabic,dissyllabique
+divan,دیوان
+diversion,diversion
+divorcé,divorcé
+divorcee,divorcée
+divorcée,divorcée
+divorcées,
+divorcés,
+dizain,dizain
+Dizangue,Dizangué
+djellaba,djellaba
+djembe,djembé
+djembé,djembé
+Djerba,Djerba
+Dnieper,Dnieper
+doctrinaire,doctrinaire
+documentary,documentaire
+dogmatic,dogmatique
+dolerite,dolérite
+dolmen,dolmen
+doloire,doloire
+dolomite,dolomite
+domaine,domaine
+domanial,domanial
+Domdaniel,
+Dome,Dome
+domestique,domestique
+Dominguois,dominguois
+domino,domino
+dompt,dompter
+donnée,donnée
+Donze,Donze
+Dorce,Dorcé
+Dorcely,Dorcély
+Dordogne,Dordogne
+dortoir,dortour
+dossard,dossard
+dosseret,dosseret
+dossier,dossier
+dossière,dossière
+dot,dot
+Douai,Douai
+douane,douane
+douanier,douanier
+douar,douar
+doublé,doublé
+doublure,doublure
+Doubs,Doubs
+douceur,douceur
+douche,douche
+doum,plural
+Doumbouya,Doumbouya
+doux,doux
+douzaine,douzaine
+douzenier,
+doyen,doyen
+doyenne,doyenne
+drachme,drachme
+drageoir,drageoir
+dragonnade,dragonnade
+dragonné,dragonné
+dragoon,dragon
+dragée,dragée
+draisienne,draisienne
+dramaturge,dramaturge
+dramaturgy,dramaturgie
+drap,drap
+drap d'été,uncountable
+drap de Berry,drap de Berry
+dressage,dressage
+droguet,droguet
+droit de seigneur,droit du seigneur
+drollery,drôlerie
+Drôme,Drôme
+dronte,dronte
+drophead coupé,
+druid,druide
+du jour,du jour
+Dubas,Dubas
+Dubeau,Dubeau
+Dubois,Dubois
+Dubonnet,Dubonnet
+dubonnet,dubonnet
+Ducasse,Ducasse
+Ducat,ducat
+Ducoing,Ducoing
+Ducre,Ducré
+Ducuing,Ducuing
+Dufaur,Dufaur
+Dufaux,Dufaux
+Dufort,Dufort
+Dufour,Dufour
+Dugal,Dugal
+Dujardin,Dujardin
+Dujour,Dujour
+Dulong,Dulong
+Dulude,Dulude
+Dumais,Dumais
+Dumoulin,Dumoulin
+dune,dune
+Dunkerque,Dunkerque
+duo,duo
+dupe,duper
+dupion,doupion
+Dupont,Dupont
+Dupuis,Dupuis
+Dupuit,Dupuit
+Dupuy,Dupuy
+Dupuytren,Dupuytren
+Duquesne,Duquesne
+duramenisation,duramenisation
+durant,durant
+Dury,Dury
+Duteil,Duteil
+Dutil,Dutil
+duvet,duvet
+dysphemism,dysphémisme
+débridements,
+débutantes,
+débuts,
+débâcle,
+décime,décime
+déclassée,
+décolletages,
+déculassement,countable and uncountable
+déjeuné,déjeuné
+dép,
+dépanneur,dépanneur
+départements,
+dépôts,
+eau Créole,eau Créole
+eau de Cologne,eau de Cologne
+eau de nil,eau de nil
+eau de toilette,eau de toilette
+eau de vie,eau-de-vie
+eau forte,eau forte
+éboulement,éboulement
+écarté,écarté
+ecarteur,écarteur
+ecdotic,ecdotique
+échappé,escapee
+echelle,échelle
+echelon,échelon
+éclair,éclair
+eclaircise,éclaircissement
+éclat,éclat
+eclatant,éclatant
+eclosion,éclosion
+écorché,écorché
+écossaise,plural
+ecranche,cran
+écrasement,écrasement
+ecraseur,écraseur
+ecrasite,écrasite
+écru,écru
+écu,écu
+écuelle,écuelle
+Ecurie,Écurie
+Edinbourgeois,Edimbourgeois
+effacement,effacement
+effervescence,effervescence
+effigy,effigie
+effleurage,effleurage
+efflorescence,efflorescence
+efflower,effleurer
+effrontery,effronterie
+egoist,égoïste
+Eiffel,Eiffel
+élan,élan
+élan vital,élan vital
+elegante,élégante
+Elise,Élise
+élite,élite
+-elle,-elle
+ellipse,ellipse
+eloge,éloge
+Eloise,Éloïse
+Élysée,Élysée
+emancipation,émancipation
+emballage,emballage
+embarcadère,embarcadère
+embarrass,embarrasser
+emblematic,emblématique
+emboîtement,emboîtement
+embonpoint,embonpoint
+embouchement,embouchement
+embouchure,embouchure
+embourgeoise,embourgeoiser
+embourgeoisé,embourgeoisé
+embourgeoisement,embourgeoisement
+embroil,embrouiller
+embusqué,embusqué
+emergence,émergence
+emery,émeri
+emetic,émétique
+émeute,plural
+emigre,émigré
+emigré,émigré
+émigré,émigré
+éminence grise,éminence grise
+emissary,émissaire
+emollient,émollient
+empennage,empennage
+employée,employée
+employé,
+employés,
+emulsion,émulsion
+en banc,en banc
+en bloc,en bloc
+en brosse,en brosse
+en cabochon,en
+en clair,en clair
+en coup de sabre,en coup de sabre
+en face,en face
+en famille,en famille
+en femme,en femme
+en flute,en flûte
+en garde,en garde
+en homme,en homme
+en masse,en masse
+en passant,en passant
+en pied,en pied
+en plein,en plein
+en plein air,en plein air
+en pointe,en pointe
+en rapport,en rapport
+en route,en route
+en ventre sa mere,en
+en-papillote,en
+énarque,énarque
+encasserole,en casserole
+enceinte,enceinte
+enclave,enclave
+encoignure,encoignure
+encolure,encolure
+encore,encore
+encoubert,encoubert
+enculade,enculade
+endimanched,endimancher
+endocrine,endocrine
+endocrinology,endocrinologie
+endoctrine,endoctriner
+endorphin,endorphine
+endothermic,endothermique
+enfant de coeur,enfant de chœur
+enfant terrible,enfant terrible
+enfantement,enfantement
+enfilade,enfilade
+enfile,enfiler
+enfleurage,enfleurage
+engagé,engagé
+engobe,engobe
+engouement,engouement
+engoulée,engoulée
+enguiché,enguiché
+enjamb,enjamber
+enjambment,enjambement
+enlevement,enlèvement
+enmanché,not comparable
+ennui,ennui
+ennuyé,ennuyé
+ennuyée,plural
+ennuyées,
+ensemble,ensemble
+ensile,ensiler
+ensuite,en suite
+entablement,entablement
+entente,entente
+entente cordiale,entente cordiale
+entier,entier
+entourage,entourage
+entr'acte,entracte
+entrant,entrant
+entrechat,entrechat
+entrecôte,entrecôte
+entrée,entrée
+entrelac,entrelac
+Entrelacs,Entrelacs
+entremets,entremets
+entrepas,entrepas
+entrepôt,entrepôt
+entrepreneur,entrepreneur
+entrepreneuse,entrepreneuse
+entresol,entresol
+entryism,entrisme
+envelope,enveloppe
+environs,environs
+envoi,envoi
+épater la bourgeoisie,épater
+épater le bourgeois,épater
+epaulet,épaulette
+epaulette,épaulette
+epauliere,épaulière
+epee,épée
+épée,épée
+épicier,épicier
+epidote,épidote
+epilepsy,épilepsie
+epinglette,épinglette
+epistemé,
+epistolary,épistolaire
+epluchage,épluchage
+épopée,épopée
+equipment,équipement
+equipollent,équipollent
+erg,erg
+ergot,ergot
+Erny,Erny
+erode,éroder
+erudit,érudit
+escadrille,escadrille
+escalade,escalade
+escalope,escalope
+escamoterie,escamoterie
+escapade,escapade
+escargatoire,escargatoire
+escargot,escargot
+escarmouche,escarmouche
+escarole,escarole
+escarp,escarpe
+escarpment,escarpement
+Escaut,Escaut
+escort,escorte
+escroc,escroc
+Esmee,Esmée or Esmé
+espadon,espadon
+espadrille,espadrille
+espagnole,countable and uncountable
+espagnolette,espagnolette
+espalier,espalier
+espaliere,espalière
+esparcet,esparcet
+espieglerie,espièglerie
+espionage,espionnage
+esplanade,esplanade
+esprit,esprit
+esprit de corps,esprit de corps
+esprit fort,esprit fort
+-esque,-esque
+esquisse,esquisse
+essencier,essencier
+estafette,estafette
+estaminet,estaminet
+estampage,estampage
+estampie,estampie
+estouffade,estouffade
+estrade,estrade
+estragon,estragon
+estramacon,estramaçon
+estrapade,estrapade
+etagere,étagère
+etalon,étalon
+etamine,étamine
+étape,étape
+état major,état
+étatisme,étatisme
+etendue,étendue
+ethmoid,ethmoïde
+ethnie,ethnie
+ethography,éthographie
+etiquette,étiquette
+étoile,étoile
+etouffee,
+étourderie,étourderie
+étrier,étrier
+etude,étude
+etui,étui
+étui,étui
+eucalyptus,eucalyptus
+eukaryote,eucaryote
+euphonious,euphonie
+Eure,Evreux
+Eure-et-Loir,
+European,Européen
+Eustache,Eustache
+evanescent,évanescent
+evangile,évangile
+evenemential,événementiel
+evidement,évidement
+evince,évincer
+évolué,évolué
+exactitude,exactitude
+exergue,exergue
+exigeant,exigeant
+exigeante,exigeante
+exigence,exigence
+existentialism,existentialisme
+Exocet,Exocet
+exoreic,exorrhéisme
+expansion,expansion
+expatriation,expatriation
+expertise,expertise
+exploitation,exploitation
+exposé,exposé
+exposés,
+extermine,exterminer
+externat,externat
+externe,externe
+extincteur,extincteur
+extraordinaire,extraordinaire
+extravagance,extravagance
+extrinsic,extrinsèque
+fabric,fabrique
+facade,façade
+facet,facette
+facetious,facétieux
+facette,facette
+facture,facture
+fadaise,fadaise
+fainéant,
+fainéants,
+fait accompli,fait accompli
+faites vos jeux,faites vos jeux
+falbala,falbala
+Fallot,Fallot
+faluche,faluche
+fanal,fanal
+Faneuil,Faneuil
+Fanfan,Fanfan
+fanfare,fanfare
+fanfaronade,fanfaronnade
+Fanguy,Fanguy
+fanion,plural
+fantastique,fantastique
+farandole,farandole
+farceur,farceur
+fardage,fardage
+farouche,farouche
+fasciation,fasciation
+fascine,fascine
+Faubert,Faubert
+faubourg,faubourg
+Fauch,Fauch
+Faucheux,Faucheux
+Faure,Faure
+faussebraye,fausse-braie
+faute de mieux,faute de mieux
+fauteuil,fauteuil
+fauvette,fauvette
+fauvism,fauvisme
+fauvist,fauviste
+faux,faux
+Faux,Faux
+faux ami,faux-ami
+faux bois,faux bois
+faux pas,faux pas
+favori,favori
+façade pattern,
+façade patterns,
+façades,
+façon de parler,façon de parler
+façonné,façonné
+façons de parler,
+federation,fédération
+feint,feint
+feminism,féminisme
+femme,femme
+femme fatale,femme fatale
+femme incomprise,femme incomprise
+Fenelon,Fénelon
+fenestron,fenestron
+Fenouillet,fenouillet
+fer-de-lance,fer de lance
+fermeture,fermeture
+ferriprive,ferriprive
+Fervidor,fervidor
+festoon,feston
+fete,fête
+fête,fête
+fetish,fétiche
+feu de joie,feu de joie
+feu-de-joie,feu de joie
+feuillemorte,feuille-morte
+feuilleté,feuilleté
+feuilletine,feuilletine
+feuilleton,feuilleton
+feuilletonist,feuilletoniste
+fiacre,fiacre
+fiancé,fiancé
+fiancée,fiancée
+fiancées,
+fiancés,
+fiber,fibre
+fiche,fiche
+fichu,fichu
+fiché,
+figurine,figurine
+filasse,filasse
+filet mignon,filet
+filiation,filiation
+Filion,Filion
+fille de joie,fille de joie
+Filles du Roi,Filles du Roi
+film blanc,film blanc
+film noir,film noir
+filtration,filtration
+filé,filé
+fin,fin
+fin de siècle,fin-de-siècle
+financier,financier
+Finistère,finis terrae
+fisc,fisc
+fish,fiche
+fisher,fichet
+fisher cat,fiche
+fitché,fiché
+fixed head coupé,
+fixed head coupés,
+flacon,flacon
+flageolet,flageolet
+flambé,flambé
+flambeau,flambeau
+flamboyant,flamboyant
+flamboyer,flamboyer
+flambéed,
+flambés,
+flan,flan
+flanconade,flanconade
+flânerie,flânerie
+flasque,flasque
+flatulence,flatulence
+flèche,flèche
+fletch,flèche
+fleur de sel,fleur de sel
+fleur-de-lis,fleur de lys
+Fleurant,Fleurant
+Fleury,Fleury
+flibustier,flibustier
+floc,floc
+Floch,Floc'h
+floral,floral
+Floréal,floréal
+Florence,Florence
+florentine,florentin
+floss,floche
+fluidity,fluidité
+flutist,flûtiste
+Foch,Foch
+foie gras,foie gras
+Foix,Foix
+folie à familie,plural
+folie du doute,folie du doute
+folie à deux,folie à deux
+Fonder,Fonder
+fondu,fondu
+fondue,fondue
+fonio,fonio
+Fontaine,Fontaine
+fontanelle,fontanelle
+Fontenay-aux-Roses,Fontenay-aux-Roses
+Fontenot,Fontenot
+foraminifer,foraminifère
+Forand,Forand
+force majeure,force majeure
+forcené,forcené
+Forgette,Forgette
+forme fruste,forme fruste
+formule,formule
+fortin,fortin
+Fortin,Fortin
+Foucault,Foucault
+foudroyant,foudroyant
+Fouesnant,Fouesnant
+fouetté,fouetté
+fougasse,fougasse
+Fougères,Fougères
+foulage,foulage
+foulard,foulard
+foulé,
+foundry,fonderie
+fourbe,fourbe
+fourbery,fourberie
+fourche,fourché
+fourchette,fourchette
+fourgon,fourgon
+Fourier,Fourier
+fourneau,fourneau
+Fourrage,Fourrage
+fourrier,fourrier
+fouter,foutre
+foyer,foyer
+fracas,fracas
+fragrance,fragrance
+fraise,fraise
+Fralin,Fralin
+framboise,framboise
+franc,franc
+Francien,francien
+Franco-Provençal,
+François,François
+frangipane,frangipane
+Franglais,franglais
+Fransaskois,Fransaskois
+frappe,frappé
+frappé,frappé
+Frechette,Fréchette
+Freemantle,Fromental
+Fremont,Frémont
+Frémont,Frémont
+fricassee,fricassée
+fricot,fricot
+frigate,frégate
+Frimaire,frimaire
+frisket,frisquette
+frisson,frisson
+frisure,frisure
+frisée,
+frivol,frivole
+froideur,froideur
+fromage,fromage
+fromage blanc,fromage blanc
+fromage frais,countable and uncountable
+fromager,fromager
+Fromager,Fromager
+fromagophile,fromagophile
+frondeur,frondeur
+frotteur,frotteur
+frou-frou,frou-frou
+Fructidor,fructidor
+fuchsine,fuchsine
+fugue,fugue
+fulminant,fulminant
+fulmine,fulminer
+fumoir,fumoir
+fund,fond
+furniment,fourniment
+furtive,furtif
+fusain,fusain
+fusarole,fusarolle
+fuselage,fuselage
+Fusilier,Fusilier
+fusillade,fusillade
+fusilly,fusillé
+fustet,fustet
+féerie,féerie
+féeries,
+félibre,félibre
+gabel,gabelle
+gabelle,gabelle
+Gaby,Gaby
+gadroon,godron
+Gaetan,Gaëtan
+gaffe,gaffe
+Gagne,Gagne
+Gagnon,Gagnon
+gaieté de cœur,gaieté de cœur
+gaiter,guêtre
+Galant,galant
+galette,galette
+galimatias,galimatias
+galipot,galipot
+gall,galle
+gallantry,galanterie
+Gallicism,gallicisme
+gallinule,gallinule
+galop,galop
+galuchat,galuchat
+galvanize,galvaniser
+gamahe,gamahé
+gambade,gambade
+gambet,gambette
+Gamel,Gamel
+gamin,gamin
+gamine,gamine
+gaminerie,gaminerie
+ganache,ganache
+gangrene,gangrène
+gangue,gangue
+ganté,ganté
+Gap,Gap
+garage,garage
+Garand,Garand
+Garant,Garant
+garbure,garbure
+Garcon,Garçon
+Gard,Gard
+garde de rein,garde des reins
+gardebras,garde-bras
+garderobe,garde-robe
+Gardinier,Gardinier
+Garonne,Garonne
+Garron,Garron
+garrot,garrot
+garçon,garçon
+garçonnière,garçonnière
+garçonnières,
+gaspereau,gaspereau
+gastrique,gastrique
+gastronome,gastronome
+gateau,gâteau
+Gatineau,Gatineau
+gauche,gauche
+Gaucher,Gaucher
+gaucherie,gaucherie
+gauffer,gaufrer
+gaufrette,gaufrette
+Gaul,Gaule
+Gaumond,Gaumond
+gauze,gaze
+gavage,gavage
+gazelle,gazelle
+gazette,gazette
+gazon,gazon
+gégène,gégène
+gelatin,gélatine
+gelee,gelée
+Gelineau,Gelineau
+gemmule,gemmule
+-gen,-gène
+gendarme,gendarme
+gendarmerie,gendarmerie
+genealogical,généalogique
+Genet,Genet
+Genevieve,Geneviève
+-genic,-gène
+genie,génie
+genocidaire,génocidaire
+genouillère,genouillère
+genre,genre
+Genson,Genson
+genteel,gentil
+gentile,gentil
+Gentile,gentil
+geode,géode
+geodesy,géodésie
+geomatics,géomatique
+gerbil,gerbille
+Germinal,germinal
+Germond,Germond
+Gers,Gers
+geste antagoniste,geste antagoniste
+ghassoul,ghassoul
+Ghislaine,Ghislaine
+Giard,Giard
+gibbon,gibbon
+giclée,giclée
+gigantesque,gigantesco
+Gigi,Gigi
+gigolo,gigolo
+gigot,gigot
+gigue,gigue
+gilet,gilet
+Gilly,Gilly
+Gimbert,Gimbert
+gimp,guimpe
+Gingras,Gingras
+giraffe,giraffe
+girandole,girandole
+Girardeau,Girardeau
+Girardot,Girardot
+Giroir,Giroir
+girolle,girolle
+girouettism,girouette
+Giselle,Giselle
+gîte,gîte
+glacé,glacé
+glacier,glacier
+glacis,glacis
+gland,glande
+glandular,glandulaire
+glissade,glissade
+globular,globulaire
+globule,globule
+gloriette,gloriette
+glumelle,glumelle
+gluten,gluten
+glutin,glutine
+glycogen,glycogène
+gnomic,gnomique
+gnomon,gnomon
+gnossienne,gnossienne
+gobe-mouche,gobe-mouche
+Gobelin,Kobold
+gobemouche,gobemouche
+Godard,Godard
+goddam,goddam
+goeland,goéland
+goelette,goélette
+goffer,gaufrer
+Goh,Gôh
+goitre,goitron
+gorgeret,gorgeret
+gorgerette,gorgerette
+gorgerin,gorgerin
+gorgerine,gorgerin
+gorgière,gorgière
+gouache,gouache
+goudron,goudron
+goujon,goujon
+Goulart,Goulart
+gour,gour
+gourde,goud
+gourmandise,gourmandise
+gourmet,gourmet
+gousset,gousset
+gout,gote
+gouvernante,gouvernante
+gradation,gradation
+grade,grade
+Grall,Grall
+grammaticalization,grammaticalisation
+grammatist,grammatiste
+grand cru,grand cru
+Grand Est,Grand Est
+Grand Isle,Grande-Isle
+grand mal,grand mal
+Grand Prix,Grand Prix
+grand seigneur,grand seigneur
+Grand Teton,grand
+grandam,grand dame
+Grande Comore,Grande Comore
+grande finale,grande finale
+Grande Ile,"Grande Île, Grande-Île"
+grande madame,grande madame
+Grande-Ile,"Grande-Île, Grande Île"
+grandes écoles,"But the effort is being met with concerns from the grandes écoles, who fear it could dilute standards, and is stirring anger among the French at large, who fear it runs counter to a French ideal of a meritocracy blind to race, religion and ethnicity."
+grandiose,grandiose
+Grandon,Grandon
+granite,granit
+granulopexy,granulopexie
+graphy,graphie
+Gras,Gras
+Grasse,Grasse
+gratify,gratifier
+gratin,gratin
+gratitude,gratitude
+grattage,grattage
+greige,grège
+grenache,grenache
+grenade,grenade
+grenadine,grenadine
+Grenier,Grenier
+greviere,grevière
+griffe,griffe
+Grignon,Grignon
+grill,gril
+grille,grille
+grimace,grimace
+grimoire,grimoire
+griot,griot
+grippe,grippe
+grisaille,grisaille
+grisette,grisette
+Grisons,Grisons
+grocery,grosserie
+grognard,grognard
+grogram,gros-grain
+Grondin,Grondin
+grosgrain,gros-grain
+Grosjean,Grosjean
+grot,grotte
+group,groupe
+groupuscule,groupuscule
+Guadeloupe,Guadeloupe
+guenon,guenon
+guepard,guépard
+Guerette,Guerette
+gueridon,guéridon
+Guerin,Guérin
+guerite,guérite
+Guerrant,Guerrant
+Guerry,Guerry
+Guichard,Guichard
+guidon,guidon
+Guilbeau,Guilbeau
+Guilbeaux,Guilbeaux
+Guilbert,Guilbert
+Guile,guile
+guillemet,guillemet
+Guillet,Guillet
+guilloché,guilloché
+guillotine,guillotine
+guimpe,guimpe
+Guindon,Guindon
+guinguette,guinguette
+Guion,Guion
+guipure,guipure
+gumbo,gombo
+GUNT,GUNT
+gutter rabbit,lapin de gouttière
+Guyon,Guyon
+Guyot,Guyot
+gypse,gypse
+gyroscope,gyroscope
+habitacle,habitacle
+habitué,habitué
+Habs,Habs
+hachereau,hacher
+hadal,hadal
+haha,haha
+Haïti,Haïti
+Hamlet,Hamlet
+hanap,hanap
+hangar,hangar
+harfang,harfang
+Harki,Harki
+Harle,Harlé
+harmonium,harmonium
+harmonize,harmoniser
+Haury,Haury
+hausse,hausse
+hausse-col,hausse-col
+haut gout,haut goût
+hautbois,hautbois
+haute,comparative
+haute couture,haute couture
+haute cuisine,haute
+haute piece,haute pièce
+Haute-Corse,Haute-Corse
+Hautes-Alpes,Hautes-Alpes
+hauteur,hauteur
+haversack,havresac
+Havre,Le Havre
+Hayer,Hayer
+Hebert,Hébert
+hectare,hectare
+helicopter,hélicoptère
+hemistich,hémistiche
+Henard,Hénard
+Henriette,Henriette
+Herard,Hérard
+Hérault,Hérault
+herbes de Provence,herbes de Provence
+heresiarch,hérésiarque
+heroism,héroïsme
+hersage,hersage
+hieroglyphic,hiéroglyphique
+hippodrome,hippodrome
+hippogriff,hippogriffe
+historiette,historiette
+hivernant,hivernant
+Hogue,Hogue
+hollandaise,hollandaise
+hollandaise sauce,sauce hollandaise
+Holocene,Holocène
+homme de lettres,homme de lettres
+homolog,homologue
+homologue,homologue
+horizontal,horizontal
+hors categorie,hors catégorie
+hors catégorie,hors catégorie
+hors de combat,hors de combat
+hors d'oeuvre,hors-d'œuvre
+hors-texte,hors-texte
+hospice,hospice
+hotel,hôtel
+hôtel,hôtel
+hôtel-Dieu,hôtel-Dieu
+hotelier,hôtelier
+houbara bustard,houbara
+Houle,Houle
+Houp,Houp
+houri,houri
+huissier,huissier
+huissier de justice,huissier de justice
+Huot,Huot
+Huron,Huron
+hussar,hussard
+Hyblaean,Hybléen
+hydrate,hydrate
+hydraulic,hydraulique
+hydrocele,hydrocèle
+hygienic,hygiénique
+hymen,hymen
+hyoid,hyoïde
+iamb,iambe
+Icard,Icard
+iconoclast,iconoclaste
+ide,ide
+idée,idée
+idée fixe,idée fixe
+identic,identique
+identify,identifier
+ideologue,idéologue
+ideology,idéologie
+idiot savant,idiot savant
+idée reçue,idée reçue
+-ienne,-ienne
+ignominy,ignominie
+illegal,illégal
+-illiard,-illiard
+illicit,illicite
+Illinois,ilenweewa
+immanence,immanence
+immortelle,immortelle
+impasse,impasse
+impastation,impastation
+impermeability,imperméabilité
+impermeable,imperméable
+impersonal,impersonnel
+impromptu,impromptu
+improvisation,improvisation
+improvise,improviser
+in-,in-
+inaction,inaction
+inaptitude,inaptitude
+incandescence,incandescence
+inceptive,inceptif
+incompetent,incompétent
+incunable,incunable
+individualism,individualisme
+indolent,indolent
+industrialize,industrialiser
+inenarrable,inénarrable
+inexperience,inexpérience
+infrastructure,infrastructure
+ingenu,ingénu
+ingenue,ingénue
+inox,inox
+INRIA,INRIA
+insectivore,insectivore
+insipid,insipide
+insolation,insolation
+insouciant,insouciant
+instant,instant
+integrable,intégrable
+intercalant,intercalant
+interlocutrice,interlocutrice
+intern,interner
+intertextuality,intertextualité
+interventionist,interventionniste
+interversion,interversion
+intonation,intonation
+intransigent,intransigeant
+intrepid,intrépide
+intrication,intrication
+intrigante,intrigante
+intrigue,intrigue
+intussusception,intussusception
+involucre,involucre
+Iowa,Aiouez
+Irene,Irène
+Iroquois,Iroquois
+irreproachable,irréprochable
+irresolute,irrésolu
+irritable,irritable
+Isère,Isère
+isochimenal,isochimène
+isolated,isolé
+isolation,isolation
+isothere,isothère
+Izard,Izard
+jabot,jabot
+jackal,chacal
+Jacmel,Jacmel
+Jacot,Jacot
+Jacque,Jacque
+jactance,jactance
+jade,le jade
+j'adoube,j'adoube
+jalousie,jalousie
+jamais vu,jamais
+jambon,jambon
+Janelle,Janelle
+japonaiserie,japonaiserie
+jardin,jardin
+jardinière,jardinière
+jargoon,jargon
+jasmine,jasmin
+jaspé,jaspé
+Jaudon,Jaudon
+java,java
+javanais,javanais
+je ne sais quoi,je ne sais quoi
+jequirity,jéquirity
+jeremiad,jérémiade
+jet,jet
+jete,jeté
+jeton,jeton
+jeu de paume,jeu de paume
+jeu d'esprit,jeu d'esprit
+jeune premier,jeune premier
+jeunesse dorée,jeunesse dorée
+joie de vivre,joie de vivre
+Joigny,Joigny
+jongleur,jongleur
+Jonquière,Jonquière
+jonquil,jonquille
+jougs,jougs
+jour fixe,jour fixe
+journal,jornel
+journalism,journalisme
+journaux,journaux
+Jouy-en-Josas,Jouy-en-Josas
+jovial,jovial
+joviality,jovialité
+jube,jubé
+Judeo-Provençal,
+juju,joujou
+jujube,jujube
+Junod,Junod
+Jurassic,Jurassique
+jus,jus
+Jutras,Jutras
+juxtapose,juxtaposer
+juxtaposition,juxtaposition
+kamagraphy,kamagraphie
+kamichi,kamichi
+Kanak,canaque
+kaolin,kaolin
+Kasserine,Kasserine
+kepi,képi
+Kerguelen,Kerguelen
+kermes,kermès
+Khe Sanh,Khe Sanh
+khedive,khédive
+kilogram,kilogramme
+kilometrage,kilométrage
+kilometre,kilomètre
+kinkajou,quincajou
+kiosk,kiosque
+kir,kir
+kirsch,kirsch
+Kloetzer,Kloetzer
+Koala,Koala
+konzo,konzo
+la nouvelle manga,la nouvelle manga
+La Rochelle,La Rochelle
+La Salle,La Salle
+La Tache,La Tâche
+La Tène,La Tène
+La Tuque,La Tuque
+Labarre,Labarre
+Labatt,Labatt
+Labbe,Labbé
+Labelle,Labelle
+Labonte,Labonté
+Labrecque,Labrecque
+labyrinth,labyrinthe
+Lacaille,Lacaille
+lacert,lacerte
+Lacombe,Lacombe
+lacquer,lacque
+Lacroix,Lacroix
+lactose,lactose
+Lafargue,Lafargue
+Laffont,Laffont
+Lafitte,Lafitte
+Laflamme,Laflamme
+Lafleur,Lafleur
+Lafont,Lafont
+Lafontaine,Lafontaine
+Lafosse,Lafosse
+Lagace,Lagace
+lagoon,lagune
+Lague,Lague
+lagune,lagune
+laïcité,laïcité
+laicity,laïcité
+laisse,laisse
+laissez faire,laissez faire
+laissez-passer,laissez-passer
+Lajoie,Lajoie
+Lalanne,Lalanne
+Lally,L'Ally
+Lalonde,Lalonde
+Lamartinian,lamartinien
+lambdoid,lambdoïde
+lambel,lambel
+lambrequin,lambrequin
+lamé,lamé
+lamellicorn,lamellicorne
+lames,lame
+Lamotte,Lamotte
+Lamour,Lamour
+Lamoureux,Lamoureux
+lampas,countable and uncountable
+Lampron,Lampron
+lancer,lancier
+Lancon,Lançon
+Langevin,Langevin
+Langlois,Langlois
+langouste,langouste
+langoustine,langoustine
+langue,langue
+langue d'oïl,langue d'oïl
+Languedoc,Languedoc
+lansquenet,lansquenet
+lanterloo,lanturlu
+lanterne rouge,lanterne rouge
+Laos,Laos
+lapalissade,lapalissade
+Laperle,Laperle
+Lapierre,Lapierre
+lapin,lapin
+lapinize,lapiniser
+Laplace,Laplace
+LaPlace,La Place
+Lapointe,Lapointe
+Laporte,Laporte
+LaPrise,Laprise
+Lasalle,Lasalle
+LaSalle,La Salle
+Lassalle,Lassalle
+lassitude,lassitude
+lateen,latine
+lative,latif
+Latour,Latour
+Latourette,Latourette
+Latty,Latty
+Laude,Laude
+Laurier,Laurier
+Lausanne,Lausanne
+Lauture,Lauture
+lavage,lavage
+Laval,Laval
+Lavallee,Lavallée
+Lavallée,Lavallée
+Laverdiere,Laverdière
+Laverdure,Laverdure
+Lavoie,Lavoie
+lazaret,lazaret
+le,le
+Le Havre,Le Havre
+Le Lamentin,Le Lamentin
+Le Mans,Le Mans
+Le Pen,Le Pen
+Le Tache,Le Tâche
+Le Vauclin,Le Vauclin
+Lebaron,LeBaron
+Lebeau,Lebeau
+Leblanc,Leblanc
+Lebon,LeBon
+lecithin,lécithine
+Leclere,Leclère
+Lecuyer,Lécuyer
+Lefebvre,Lefebvre
+Lefort,Lefort
+Legault,Legault
+leger,léger
+legerity,léger
+legionnaire,légionnaire
+Legrand,Legrand
+Legros,Legros
+legume,légume
+Lemaire,Lemaire
+Lemans,Le Mans
+Lengrand,Lengrand
+Leonie,Léonie
+Lepage,Lepage
+Leparmentier,Leparmentier
+Leroux,Leroux
+les jeux sont faits,les jeux sont faits
+Les Sables-d'Olonne,Les Sables-d'Olonne
+Lescroart,Lescroart
+lèse majesté,lèse majesté
+lese majesty,lèse-majesté
+l'esprit de l'escalier,esprit de l’escalier
+Lessard,Lessard
+Lesseps,Lesseps
+Letellier,Letellier
+Lettrism,Lettrisme
+Levallois,Levallois
+Levant,levant
+Level,Level
+lever,leveor
+Levesque,Lévesque
+Levier,Levier
+Ley,Ley
+liaison,liaison
+liard,liard
+libelle,libelle
+liberticide,liberticide
+libertinage,libertinage
+libre,libre
+Libreville,Libreville
+licorne,licorne
+Liège,Liège
+lieu,lieu
+lieu jaune,lieu jaune
+lieu-dit,lieu-dit
+Lieuchieu,Liúqiú
+lignite,lignite
+Ligue 1,ligue
+lilac,lilac
+Lille,Lille
+limaille,limaille
+limaçon,limaçon
+limbat,limbat
+limitrophe,limitrophe
+Limoges,Limoges
+Limours,Limours
+Limousin,Limousin
+limousin,limousine
+limousine,limousine
+Limoux,Limoux
+lineic,linéique
+lingerie,lingerie
+linget,lingot
+lingot,lingot
+Linne,Linné
+lipase,lipase
+lipid,lipide
+liqueur,liqueur
+Lisle,Lisle
+lisse,lisse
+lissoir,lissoir
+lithofracteur,lithofracteur
+litre,litre
+litterateur,littérateur
+litteratrice,littératrice
+Livernois,Livernois
+livraison,livraison
+livre,livre
+locket,loquet
+-logic,-logique
+logistic,logistique
+logistics,logistique
+-logue,-logue
+Loir,Loir
+Loire,Loire
+Long Sault,Long Sault
+longeron,longeron
+longue durée,longue
+Longueil,Longueil
+Longueuil,Longueuil
+Longueuillois,Longueuillois
+Loranger,Loranger
+lorette,lorette
+Lorge,Lorge
+lorgnette,lorgnette
+lorgnon,lorgnon
+Lormand,Lormand
+Lorraine,Lorraine
+Lortie,Lortie
+lotte,lotte
+louche,louche
+Louis,Louis
+louis,louis
+louis d'or,louis d'or
+Louis-Quinze,not comparable
+Louisbourg,Louisbourg
+Louisjean,Louisjean
+loup-cervier,loup-cervier
+loup-garou,loup-garou
+loupe,loupe
+Louvain,Louvain
+Louvre,Louvre
+Loyal,Loyal
+lucarne,lucarne
+lucerne,luzerne
+lucrative,lucratif
+luminaire,luminaire
+luminosity,luminosité
+lunel,lunel
+lunette,lunette
+lunule,lunule
+lurch,lâcher
+lutherie,lutherie
+luthier,luthier
+luxe,luxe
+lycée,lycée
+lymph,lymphe
+Lyon,Lyon
+Lyons,Lyons
+lyric,lyrique
+macabre,macabre
+macaque,macaque
+macaron,macaron
+macaronage,macaronage
+macaroon,macaron
+macedoine,Macédoine
+macédoine,macédoine
+mâche,mâche
+machination,machination
+macle,macle
+Mâcon,Mâcon
+macramé,macramé
+madame,madame
+madeleine,madeleine
+Madeleine,Madeleine
+mademoiselle,mademoiselle
+magicienne,magicienne
+Magloire,Magloire
+magneton,magnéton
+Magnon,Magnon
+magot,magot
+Magot,Magot
+magret,magret
+Mahé,Mahé
+Mahorais,Mahorais
+maigre,maigre
+maillot,maillot
+Mailloux,Mailloux
+Maine,Maine
+Maire,Maire
+Maison,Maison
+maison de passe,maison de passe
+maison de tolérance,maison de tolérance
+maisonette,maisonnette
+Maisonneuve,Maisonneuve
+maîtresse en titre,maîtresse en titre
+majorant,majorant
+majorat,majorat
+majoration,majoration
+majuscule,majuscule
+maki,maki
+mal,mal
+mal du siècle,mal du siècle
+mal mariée,mal mariée
+maladroit,maladroit
+malaise,malaise
+Malakoff,Malakoff
+malgré lui,malgré
+malinger,malingrer
+Maltais,Maltais
+Maltese sauce,sauce maltaise
+Malveaux,Malveaux
+mamelière,mamelière
+mamelon,mamelon
+mamuque,plural
+Manche,Manche
+manche,manche
+manchette,manchette
+Mandchou,Mandchou
+-mane,-mane
+manège,manège
+Maneval,Maneval
+manganese,manganèse
+mange-tout,mange-tout
+mangetout,mangetout
+maniac,maniaque
+manicure,manucure
+maniguette,maniguette
+manipulation,manipulation
+Manne,Manne
+mannequin,mannequin
+manoir,manoir
+manometer,manomètre
+manqué,manqué
+mansard,mansarde
+Manseau,Manseau
+Many,Many
+maquette,maquette
+maquillage,maquillage
+maquis,maquis
+maquisard,maquisard
+marabou,marabou
+maraud,marauder
+Marc,Marc
+marcassin,marcassin
+Marceau,Marceau
+Marcel,Marcel
+Marchand,Marchand
+marchand de vin,marchand de vin
+Marchessault,Marchessault
+Marciac,Marciac
+Mardi Gras,mardi gras
+Marechal,Maréchal
+maréchaussée,maréchaussée
+margarine,margarine
+Margaux,Margaux
+Margot,Margot
+Marguerite,Marguerite
+marguerite,marguerite
+mari complaisant,mari
+Marie,Marie
+Marie-Galante,Marie-Galante
+Marien,Marien
+Marieval,Marieval
+marigot,marigot
+marinade,marinade
+marionette,marionnette
+marmite,marmite
+marocain,marocain
+Marocain,Marocain
+maroon,marron
+Marquand,Marquand
+marque,marque
+marquis,marquis
+Marquis,Marquis
+marquise,marquise
+Marrakech,Marrakech
+Marrant,Marrant
+Marron,Marron
+marron glacé,marron glacé
+Marseillais,Marseillais
+Marseillaise,Marseillaise
+Marseille,Marseille
+Marseilles,Marseille
+Martineau,Martineau
+martinet,martinet
+marxisant,comparative
+mas,mas
+Maschino,Maschino
+Mascon,Mascon
+mascot,mascotte
+mashrabiyya,moucharaby
+masque,masque
+massage,massage
+Masse,Masse
+massé,massé
+masseur,masseur
+masseuse,masseuse
+massicot,massicot
+massif,massif
+masturbation,masturbation
+matelote,matelote
+materialism,matérialisme
+materiel,matériel
+Mathais,Mathais
+Matheny,Matheny
+Mathey,Mathey
+matinal,matinal
+matinée,matinée
+Maton,Maton
+matricide,matricide
+matte,mat
+Maura,Maura
+Maurice,Maurice
+Maurrassian,maurrassien
+mauvais quart d'heure,mauvais quart d'heure
+mauvaise langue,mauvaise langue
+mauve,mauve
+mauvette,plural
+mayonnaise,mayonnaise
+Mayotte,Mayotte
+mazagran,mazagran
+Mazingarbe,Mazingarbe
+medaillon,médaillon
+medallion,médaillon
+medicamentous,médicamenteux
+mediology,médiologie
+megalomania,mégalomanie
+Meknes,Meknès
+Melanesia,Mélanésie
+melee,mêlée
+mêlée,mêlée
+melo-,mélo-
+melodeon,mélodium
+melodic,mélodique
+melodrame,mélodrame
+melomane,mélomane
+melongene,mélongène
+ménage,ménage
+ménage à trois,ménage à trois
+Menard,Ménard
+mendiant,mendiant
+menhir,menhir
+mentalité,mentalité
+menu,menu
+mercantile,mercantile
+Mercy,Mercy
+merde,merde
+merguez,merguez
+meridian,meridien
+méridienne,méridienne
+Mérigon,Mérigon
+meringue,meringue
+meringue glacé,meringue glacé
+Merle,Merle
+merlon,merlon
+Merovingian,mérovingien
+Mersereau,Mersereau
+Merveilleuse,Merveilleuse
+merveilleux,merveilleux
+mesail,muçaille
+mésalliance,mésalliance
+mesclun,mesclun
+mesoscaphe,mésoscaphe
+Messidor,messidor
+metallurgy,métallurgie
+metamorphose,métamorphoser
+meter,mètre
+méthode champenoise,méthode champenoise
+methodology,méthodologie
+métier,métier
+Metis,métis
+metis,métis
+metoclopramide,métoclopramide
+metre,mètre
+-metric,-métrique
+metro,métro
+Metz,Metz
+Meunier,Meunier
+Meuse,Meuse
+Mèze,Mèze
+mezzanine,mezzanine
+microfiche,microfiche
+Midi,Midi
+midinette,midinette
+Miglos,Miglos
+migniardise,mignardise
+mignon,mignon
+mignonette,mignonnette
+mignonette sauce,mignonnette
+Mijanès,Mijanès
+Milan,Milan
+milieu,milieu
+mille-feuille,mille-feuille
+millepore,millépore
+milliardaire,milliardaire
+millime,millime
+millionaire,millionnaire
+Milot,Milot
+minaret,minaret
+minauderie,minauderie
+minaudière,minaudière
+mine,mine
+minim,minime
+Minitel,Minitel
+mirabelle plum,mirabelle
+mirage,mirage
+mirepoix,mirepoix
+Mirepoix,Mirepoix
+miscellany,miscellanées
+miscible,miscible
+mise,mise
+mise en abyme,mise en abyme
+mise en place,mise en place
+mise en scène,mise en scène
+mise-en-page,mise en page
+misère,misère
+Mississauga,Mississague
+Misson,Misson
+Missouri,wimihsoorita
+mistelle,mistelle
+mistral,mistral
+Mistral,Mistral
+Mistralian,mistralien
+mitraillade,mitraillade
+mitrailleuse,mitrailleuse
+mixity,mixité
+mixte,mixte
+modernization,modernisation
+modification,modification
+modist,modiste
+module,module
+moellon,moellon
+moeurs,mœurs
+Mohéli,Mohéli
+moi,moi
+moil,moillier
+moire,moire
+moiré,moiré
+molecule,molécule
+Molle,Molle
+monarchism,monarchisme
+Mondor,Mondor
+Monestime,Monestime
+monitrice,monitrice
+monocle,monocle
+monokini,monokini
+monolith,monolithe
+monorail,monorail
+monoxyle,monoxyle
+monsieur,monsieur
+Monsieur,monsieur
+Monsieur de Paris,monsieur
+monstre sacré,monstre sacré
+mont,mont
+Mont,Mont
+Mont Blanc,mont Blanc
+montage,montage
+Montagnais,montagnais
+Montagnard,montagnard
+Montagne,Montagne
+Montaigne,Montaigne
+Montferrat,Montferrat
+Montferrer,Montferrer
+Montgolfier,Montgolfier
+Montlhéry,Montlhéry
+Montreal,Montréal
+monture,monture
+Monville,Monville
+Mopti,Mopti
+moquette,moquette
+moraine,moraine
+morale,moral
+morceau,morceau
+More,mooré
+morel,morille
+morelle,morelle
+morganatic,morganatique
+morgue,morgue
+morion,morion
+Morneau,Morneau
+Morneault,Morneault
+Moroni,Moroni
+morpheme,morphème
+morphine,morphine
+Morre,Morre
+morsure,morsure
+mort,mort
+mortier,mortier
+Moselle,Moselle
+mot juste,mot juste
+motard,motard
+mother sauces,sauces mères
+motif,motif
+moucharaby,moucharaby
+mouchard,mouchard
+mouche,mouche
+mouchoir,mouchoir
+moue,moue
+mouflon,mouflon
+mouillé,mouillé
+moulage,moulage
+moulin,moulin
+Moulin,Moulin
+moulinage,moulinage
+moulinette,moulinette
+Moulins,Moulins
+mousse,mousse
+mousseline de laine,mousseline de laine
+mousseux,mousseux
+moustache,moustache
+mouton,mouton
+mouton enragé,mouton enragé
+mouvementé,mouvementé
+muid,muid
+mulard,mulard
+Mule,Mule
+muleteer,muletier
+municipal,municipal
+municipality,municipalité
+munition,munition
+Mura,Mura
+mural,mural
+Murat,Murat
+muscadin,muscadin
+muscat,muscat
+musculature,musculature
+museau,museau
+musette,musette
+musique concrète,musique concrète
+muskellunge,masque allongé
+musrole,muserolle
+myria-,myria-
+myriare,myriare
+mystique,mystique
+mythomane,mythomane
+mythomaniac,mythomane
+ménage à quatre,ménage à trois
+nacelle,nacelle
+Nadal,Nadal
+Nadeau,Nadeau
+naïf,naïf
+naissant,naissant
+naive,naïve
+naïveté,naïveté
+Nanterre,Nanterre
+Nantes,Nantes
+nap,napper
+Naples,Naples
+Napoleon,Napoléon
+napoleon,Napoléon
+Naquin,Naquin
+Narbonne,Narbonne
+narcolepsy,narcolepsie
+narghile,narghilé
+nationalism,nationalisme
+nationalize,nationaliser
+natron,natron
+nattes,nattes
+nature morte,nature morte
+naturism,naturisme
+navarin,navarin
+Navarre,Navarre
+Navarrenx,Navarrenx
+Naves,Naves
+nécessaire,nécessaire
+Necker,Necker
+nee,née
+née,née
+nef,nef
+négligée,négligée
+negociant,négociant
+nepotism,népotisme
+Nérac,Nérac
+neroli,néroli
+Neron,Néron
+nervure,nervure
+n'est-ce pas,n'est-ce pas ?
+Neuchâtel,Neuchâtel
+neuroleptic,neuroleptique
+neutralization,neutralisation
+névé,névé
+Nevers,Nevers
+Neveu,Neveu
+Nice,Nice
+niche,niche
+Niçois,Niçois
+nicotine,nicotine
+Niel,Niel
+nielle,nielle
+niellure,niellure
+nigger,nègre
+nihilism,nihilisme
+Nissard,nissard
+nitrate,nitrate
+nitrogen,nitrogène
+Nivôse,nivôse
+Niçoise salad,
+noblesse oblige,noblesse oblige
+nocturne,nocturne
+noeud vital,nœud vital
+noir,noir
+Nolet,Nolet
+nom de guerre,nom de guerre
+nombril,nombril
+nome,nome
+nominable,nominable
+nonchalant,nonchalant
+noosphere,noosphère
+Nordic,nordique
+norman,normand
+Normandin,Normandin
+nostalgie de la boue,nostalgie de la boue
+note verbale,note verbale
+Notre Dame,
+nougatine,nougatine
+nouveau,nouveau
+nouveau riche,nouveau riche
+nouveau roman,nouveau roman
+nouvelle cuisine,nouvelle cuisine
+nouvelle vague,nouvelle vague
+Nouvelle-Aquitaine,Nouvelle-Aquitaine
+noyau,noyau
+nuance,nuance
+nubile,nubile
+nuée ardente,nuée ardente
+nuit blanche,nuit blanche
+numeric,numérique
+numismatic,numismatique
+numismatics,numismatique
+Nyon,Nyon
+objective,objectif
+objet d'art,objet
+obole,obolus
+observant,observant
+observation,observacion
+observatory,observatoire
+Occitanie,Occitanie
+odalisque,odalisque
+œil-de-bœuf,œil-de-bœuf
+œil-de-perdrix,œil-de-perdrix
+oeillade,œillade
+oeuf,œuf
+oeuf en cocotte,œuf en cocotte
+oeuvre,œuvre
+Ogier,Ogier
+Ogossagou,Ogossagou
+ogre,ogre
+oignon vert,oignon vert
+oillet,œillet
+okoume,okoumé
+oleaginous,oléagineux
+Oléron,Oléron
+oligarch,oligarque
+Ollivier,Ollivier
+ombre,hombre
+ombré,ombré
+omoplate,omoplate
+on dit,on-dit
+ondes martenot,ondes Martenot
+onglet,onglet
+onguent,onguent
+opal,opale
+opiniatre,opiniâtre
+optician,opticien
+Orange,Orange
+orchestration,orchestration
+ordinaire,ordinaire
+ordonnance,ordonnance
+oreille de crisse,oreille de crisse
+oreillette,oreillette
+Orgeron,Orgeron
+orgueil,orgueil
+orgy,orgies
+orientalism,orientalisme
+orientation,orientation
+orignal,orignal
+Oriol,Oriol
+Orly,Orly
+ormolu,or moulu
+Orne,Orne
+orpailleur,orpailleur
+orpheline,orphelin
+orthopedic,orthopédique
+orvet,orvet
+orvietan,orviétan
+osier,osier
+Osier,Osier
+ostensible,ostensible
+ostensibly,ostensible
+ostensoir,plural
+-otic,-otique
+Ouachita,Ouachita
+Ouarzazate,Ouarzazate
+oubliette,oubliette
+Oudet,Oudet
+ouguiya,ouguiya
+Outaouais,Outaouais
+outremer,outremer
+Outremont,Outremont
+ouvert,ouvert
+ouvrier,ouvrier
+ouvrière,ouvrière
+ovule,ovule
+oxalate,oxalate
+oxalic,oxalique
+oxidant,oxydant
+oxide,oxide
+oxygen,oxygène
+Ozier,Ozier
+Pabon,Pabon
+pachyderm,pachyderme
+pachytene,pachytène
+pacifist,pacifiste
+pagne,pagne
+paillard,paillard
+paillasson,paillasson
+paillette,paillette
+pain au chocolat,pain au chocolat
+pain aux raisins,pain aux raisins
+pain de mie,pain de mie
+pain d'épices,pain d'épices
+paladin,paladin
+palatial,palatial
+palatine,palatin
+Paleocene,Paléocène
+paleotestamentary,paléotestamentaire
+paletot,paletot
+palette,palette
+palmier,palmier
+paludism,paludisme
+pampelmoes,pamplemousse
+panache,panache
+panda,panda
+panisse,panisse
+panne,panne
+pannier,panier
+pantaloon,pantalon
+pantaloons,pantalon
+pantoum,pantoum
+papa,papa
+papier-mâché,papier mâché
+papillon,papillon
+papillote,papillote
+Papin,Papin
+paquebot,paquebot
+par,par
+par avion,not comparable
+par excellence,par excellence
+parachute,parachute
+parade,parade
+parados,parados
+paralysant,paralysant
+paravent,paravent
+pareil,pareil
+parelle,parelle
+parfait,parfait
+parfilage,parfilage
+parfum,parfum
+Parisienne,Parisienne
+Parizeau,Parizeau
+Parmentier,Parmentier
+parmesan,parmesan
+Parmeter,Parmeter
+paroxysm,paroxysme
+parquet,parquet
+parquetage,parquetage
+Parrau,Parrau
+Parraut,Parraut
+parterre,parterre
+partisan,partisan
+parvenu,parvenu
+parvenue,parvenue
+pas,pas
+pas de chat,pas de chat
+pas de deux,pas de deux
+pascal,pascal
+pasquinade,pasquinade
+passé,passé
+passe-partout,passe-partout
+passéist,passéiste
+passepied,passepied
+passerelle,passerelle
+pastel,pastel
+pasteurise,pasteuriser
+pasteurize,pasteuriser
+pastiche,pastiche
+pastillage,pastillage
+pastille,pastel
+pastis,pastis
+pataphysician,pataphysicien
+pataphysics,pataphysique
+patchouli,patchouli
+pate,patene
+pâté,pâté
+pâte brisée,pâte brisée
+pâté chinois,pâté chinois
+pâté de foie gras,pâté de foie gras
+pate feuilletee,pâte feuilletée
+Patenaude,Patenaude
+pathology,pathologie
+patine,patine
+patisserie,patisserie
+patissier,pâtissier
+patois,patois
+Patriote,Patriote
+patrol,patrouille
+patte,patte
+patty,pâté
+Pauline,Pauline
+paupiette,paupiette
+pavane,pavane
+Pavie,Pavie
+Pawnee,Pani
+Payen,Payen
+Payette,Payette
+paysage,paysage
+peau d'orange,peau d'orange
+pecan,pacane
+pedal,pédale
+pederast,pédéraste
+peignoir,peignoir
+Peking,Péking
+Pelissier,Pélissier
+pell-mell,pêle-mêle
+Pelland,Pelland
+Pellegrin,Pellegrin
+Pellerin,Pellerin
+Peloquin,Peloquin
+Pelot,Pelot
+peloton,peloton
+pelure,pelure
+penchant,penchant
+pendentive,pendentif
+Penelopegate,Penelopegate
+pensée,pensée
+Pequin,Pequin
+perception,perception
+percuteur,percuteur
+perdricide,perdrix
+Pere,Péré
+père,père
+peridot,perido
+Périgord,Périgord
+Périllos,Périllos
+peripatetic,péripatétique
+peristyle,péristyle
+Peron,Péron
+Perpignan,Perpignan
+Perrau,Perrau
+Perrault,Perrault
+Perraut,Perraut
+Perret,Perret
+Perrodin,Perrodin
+persiflage,persiflage
+persillade,persillade
+personnel,personnel
+pertinence,pertinence
+pertinent,pertinent
+Perusse,Pérusse
+pétillant naturel,countable and uncountable
+petiole,pétiole
+Petion,Petion
+petit final,petite finale
+petit four,petit four
+petit mal,petit mal
+petite,petite
+petite bourgeoisie,petite bourgeoisie
+petroglyph,pétroglyphe
+petrol,(essence de) pétrole
+petroleur,pétroleur
+petun,pétun
+Peugeot,Peugeot
+Peyraud,Peyraud
+Peyrehorade,Peyrehorade
+phaeton,phaéton
+phantasmagoria,phantasmagorie
+phantasmagory,phantasmagorie
+phare,phare
+pharmacopoeia,pharmacopée
+phenakistoscope,phénakistiscope
+phenol,phène
+phenyl,phényle
+philately,philatélie
+philharmonic,philharmonique
+Philippines,Philippines
+Philippon,Philippon
+Philippot,Philippot
+Philippou,Philippou
+philosophe,philosophe
+pholerite,pholérite
+phosphure,phosphure
+photography,photographie
+pianiste,pianiste
+piastre,piastre
+Picardy,Picardie
+picayune,picaillon
+Piccard,Piccard
+Pichon,Pichon
+picnic,pique-nique
+picon,picon
+picot,picot
+Picquet,Picquet
+pièce de résistance,pièce de résistance
+pièce d'occasion,pièce d'occasion
+pièce montée,pièce montée
+pied-à-terre,pied-à-terre
+piedouche,piédouche
+pierre perdu,pierre perdue
+pierrotage,pierrotage
+Piffard,Piffard
+pigache,pigache
+pika,piika
+Pille,Pille
+piloti,pilotis
+piment,piment
+Pinard,Pinard
+pince-nez,pince-nez
+pineau,pineau
+Pinel,Pinel
+pinion,pignon
+pinot,pinot
+piolet,piolet
+Piot,Piot
+pique,piquer
+piqué,piqué
+Piquet,Piquet
+piquette,piquette
+pirogue,pirogue
+pirouette,pirouette
+pis aller,pis-aller
+pis-en-deux,uncountable
+piscine,plural
+pissaladière,pissaladière
+piste,piste
+pistil,pistil
+pistole,pistole
+piston,piston
+piton,piton
+pivot,pivot
+placket,plaquer
+plafond,plafond
+plaidoyer,plaidoyer
+plainchant,plain-chant
+plan,plan
+planche,planche
+planchette,planchette
+plant-animal,plant-animal
+plantigrade,plantigrade
+plaque,plaque
+plaquette,plaquette
+Plasse,Plasse
+plat du jour,plat du jour
+plateau,plateau
+platitude,platitude
+Plauche,Plauche
+plaçage,countable and uncountable
+pleasantry,plaisanterie
+plein air,plein air
+plié,plié
+plique-à-jour,plique-à-jour
+plisse,plissé
+plissé,plissé
+plongée,plongée
+plumassier,plumassier
+plurisecular,pluriséculaire
+plus ça change,"plus ça change, plus c'est la même chose"
+pluvial,pluvial
+Pluviôse,pluviôse
+pochade,pochade
+poché,poché
+pochette,pochette
+pochoir,pochoir
+pococurante,pococurante
+poilu,poilu
+Poincaré,Poincaré
+point d'appui,point d'appui
+point-device,point-devisé
+pointe,pointe
+pointillé,pointillé
+pointillism,pointillisme
+Poirier,Poirier
+Poissant,Poissant
+Poitevin,poitevin
+Poitier,Poitier
+Poitiers,Poitiers
+Poitou,Poitou
+Poitou-Charentes,Poitou-Charentes
+poitrine,poitrine
+poivrade,poivrade
+polatouche,polatouche
+Poliquin,Poliquin
+polissoir,polissoir
+politesse,politesse
+Pollet,Pollet
+polonaise,polonaise
+Polynesia,polynésie
+Polynice,Polynice
+Polypheme,Polyphème
+pomme,pomme
+pomme frite,pomme frite
+pomme puree,pomme purée
+pomme purée,pomme purée
+pommecythere,pomme cythère
+pommée,pommée
+pommes frites,pommes frites
+Pommier,Pommier
+Pompey,Pompey
+pompier,pompier
+ponce,alphonse
+ponceau,ponceau
+poniard,poignard
+pontil,pontil
+Ponton,Ponton
+pool,poule
+poontang,putain
+poplin,papeline
+populosity,populosité
+portatif,portatif
+porte cochère,porte cochère
+porte-épée,porte-épée
+porte-monnaie,porte-monnaie
+Portier,Portier
+portmanteau,portemanteau
+portraiture,portraiture
+posé,posé
+poseur,poseur
+positivism,positivisme
+positivist,positiviste
+post,plural
+poste restante,poste restante
+postulant,postulant
+pot-au-feu,pot-au-feu
+potage,potage
+potiche,potiche
+Potier,Potier
+potin,potin
+potpourri,pot-pourri
+pouding chômeur,pouding chômeur
+poudrette,poudrette
+Poulain,Poulain
+poule,poule
+Poulin,Poulin
+Poullard,Poullard
+poulpe,poulpe
+pounce,ponce
+pourboire,pourboire
+pourparler,pourparler
+pourpointerie,pourpointerie
+pourpointing,pourpointerie
+pousse-café,pousse-café
+poussin,poussin
+Pousson,Pousson
+powder-douce,poudre-douce
+Prairial,prairial
+prairie,prairie
+praline,praline
+pratique,pratique
+précis,précis
+precoce,précoce
+predilection,prédilection
+Pree,Prée
+prehensile,préhensile
+preliminary,préliminaire
+prender,prendre
+prepose,préposer
+presidentiable,présidentiable
+presque vu,presque
+prestidigitation,prestidigitation
+prestidigitator,prestidigitateur
+prestige,prestige
+prêt-à-porter,prêt-à-porter
+prevoyant,prévoyant
+priant,priant
+Prieur,Prieur
+primate,primate
+prime,prime
+Princeville,Princeville
+printanier,printanier
+prix fixe,prix
+procedure,procédure
+procureur,procureur
+profile,profil
+profiterole,profiterole
+proletaire,prolétaire
+Prolog,Prolog
+promenade,promenade
+prononcé,prononcé
+propension,propension
+prosateur,prosateur
+prospectus,prospectus
+protectionism,protectionnisme
+protégé,protégé
+protégée,protégée
+protein,protéine
+Protestant,protestant
+provenance,provenance
+Provence,Provence
+Provençal,provenceal
+provocateur,provocateur
+prude,prude
+Prudhomme,Prudhomme
+Prunier,Prunier
+PSG,PSG
+psychology,psychologie
+pterion,ptérion
+pterodactyl,ptérodactyle
+pterygopalatine,ptérygo-palatin
+ptilocerque,ptilocerque
+publicist,publiciste
+pudeur,pudeur
+puit,puits
+pule,piauler
+pulsion,pulsion
+pulverise,pulvériser
+punt,pointe
+pupe,pupe
+pur et dur,pur et dur
+pur sang,pur-sang
+pure laine,pure laine
+puree,purée
+purist,puriste
+putois,putois
+putty,potée
+puy,puy
+Pyrénées-Orientales,Pyrénées-Orientales
+pyrogravure,pyrogravure
+pyroxene,pyroxène
+quadrat,cadrat
+quadratic,quadratique
+quadrilliard,quadrilliard
+quadruped,quadrupède
+qualify,qualifier
+quarte,quarte
+quarter,cartayer
+quartet,quartette
+quartier,quartier
+quatorze,quatorze
+quatrain,quatrain
+quatre,quatre
+quatre quart,quatre-quarts
+Quebec,Québec
+Quebecism,québécisme
+Quebedeaux,Quebedeaux
+quelle surprise,quelle surprise
+quenelle,quenelle
+Quenneville,Quenneville
+quenouille,quenouille
+questionnaire,questionnaire
+quetsch,quetsche
+qui vive,qui vive
+quiche,quiche
+quinine,quinine
+quintilliard,quintilliard
+Quintin,Quintin
+quinzaine,quinzaine
+quinze,quinze
+Quirin,Quirin
+rabat,rabat
+Raboin,Raboin
+rabot,rabot
+racahout,racahout
+racemic,racémique
+Racicot,Racicot
+racism,racisme
+raclette,raclette
+racloir,racloir
+raconteur,raconteur
+raconteuse,raconteuse
+racquet,raquette
+radeau,radeau
+radioactive,radio-actif
+radiodiffusion,radiodiffusion
+radium,radium
+radoub,radoub
+rafale,rafale
+ragout,ragoût
+raï,raï
+Raiche,Raîche
+rail,reille
+raillery,raillerie
+railleur,railleur
+Rainier,Rainier
+raison d'être,raison d'être
+Rambin,Rambin
+ramier,ramier
+ramollissement,ramollissement
+ramp,rampe
+Rancourt,Rancourt
+Randon,Randon
+rapid,rapide
+rappel,rappeler
+rapport,rapport
+rapportage,rapportage
+rapporteur,rapporteur
+rapprochement,rapprochement
+Ras,Ras
+rasant,rasant
+rastaquouère,rastaquouère
+ratafia,ratafia
+ratatouille,ratatouille
+ratiocination,ratiocination
+Ravenel,Ravenel
+ravier,ravier
+ravine,ravin
+razzia,razzia
+reactionary,réactionnaire
+realize,réaliser
+reblochon,reblocher
+recalcitrant,récalcitrant
+recamier,récamier
+réchauffé,réchauffé
+recherché,recherché
+recherche du temps perdu,recherche du temps perdu
+recit,récit
+recollection,récollection
+reconnaissance,reconnaissance
+recoup,récupérer
+recoupé,recoupé
+redingote,redingote
+redoubtable,redoutable
+reflet,reflet
+refoulment,refoulement
+regime,régime
+reglementary,réglementaire
+reglet,réglet
+reinette,reinette
+Rejean,Réjean
+Rejeanne,Réjeanne
+rejection,réjection
+relais,relais
+religieuse,religieuse
+religieux,religieux
+reliquaire,reliquaire
+remarque,remarque
+remblai,remblai
+remis,remis
+remontant,remontant
+remontoir,remontoir
+remoulade,rémoulade
+rempli,rempli
+remplissage,remplissage
+renaissance,renaissance
+Renaissance,renaissance
+Renaud,Renaud
+Renault,Renault
+rendezvous,rendez-vous
+rendition,rendition
+Rendu,Rendu
+Rene,René
+Rennes,Rennes
+Rennes-le-Château,Rennes-le-Château
+renter,rentraire
+rentier,rentier
+repartee,repartie
+repertible,repertible
+repertoire,répertoire
+répertoire,répertoire
+repique,plural
+reportage,reportage
+repoussage,repoussage
+repoussé,repoussé
+repoussoir,repoussoir
+repêchage,
+requin,requin
+réseau,réseau
+resonant,résonnant
+ressaut,ressaut
+restaurant,restaurant
+restaurateur,restaurateur
+restaurateuse,restaurateuse
+restauratrice,restauratrice
+restavec,reste-avec
+resume,resumer
+retable,retable
+reticule,réticule
+retro,rétro
+revanche,revanche
+revanchisme,revanchisme
+revere,révérer
+reverie,rêverie
+revers,revers
+revet,revêtir
+revision,révision
+Revoir,Revoir
+revolt,révolter
+revue,revue
+Rhodes,Rhodes
+Rhône,Rhône
+riante,riante
+Richardot,Richardot
+ricochet,ricochet
+rideau,rideau
+ridicule,ridicule
+rien ne va plus,rien ne va plus
+Riendeau,Riendeau
+Rigaud,Rigaud
+rimaye,rimaye
+Rimbaud,Rimbaud
+risque,risqué
+risqué,risqué
+rissole,rissole
+Rivard,Rivard
+Rive,Rive
+riverain,riverain
+rivière,rivière
+rob,rober
+Robar,Robar
+robe de chambre,robe de chambre
+robe decollete,robe décolletée
+robe montante,robe montante
+Roberge,Roberge
+Robichaux,Robichaux
+Robicheau,Robicheau
+Robideau,Robideau
+Robillard,Robillard
+robinet,robinet
+rocaille,rocaille
+rocambole,rocambole
+rocambolesque,rocambolesque
+Rochefort,Rochefort
+rocket,roquette
+rococo,rococo
+Rodier,Rodier
+rodomont,rodomont
+rodomontade,rodomontade
+rogatory,rogatoire
+roitelet,roitelet
+role,rôle
+romaine,romaine
+Romaine,Romaine
+roman à clef,roman à clef
+roman à thèse,roman à thèse
+Romandy,Romandie
+rompu,rompu
+Romulus,Romulus
+rondelle,rondelle
+rondure,rondeur
+rongeur,rongeur
+Roquefort-sur-Soulzon,Roquefort-sur-Soulzon
+roquette,roquette
+rosbif,rosbif
+rosé,rosé
+Rosemont,Rosemont
+rosette,rosette
+rotonde,rotonde
+roucou,roucou
+roué,roué
+rouelle,rouelle
+Rouen,Rouen
+rouerie,rouerie
+rouet,rouet volant
+rouge,rouge
+Rougeau,Rougeau
+rouget,rouget
+rouille,rouille
+roulade,roulade
+roulette,roulette
+rouleur,rouleur
+Rousse,Rousse
+Rousseau,Rousseau
+Rousselle,Rousselle
+Roussin,Roussin
+routine,routine
+roux,roux
+Rozier,Rozier
+RPA,RPA
+RSVP,RSVP
+ruche,ruche
+rudenture,rudenture
+ruelle,ruelle
+ruse de guerre,ruse de guerre
+S.I.,S.I.
+Sabat,Sabat
+sabayon,sabayon
+sabot,sabot
+sabotage,sabotage
+saboteur,saboteur
+sabrage,sabrage
+sabre,sabre
+sabretache,sabre-tache
+sabretasche,sabretache
+sac,sac
+saccade,saccade
+sachet,sachet
+sagacity,sagacité
+sagesse,sagesse
+Sagueneen,Saguenéen
+Sagueneenne,Saguenéenne
+saic,saïque
+Saïda,Saïda
+saignée,saignée
+sainfoin,sainfoin
+Saint Apollinaire,Saint-Apollinaire
+Saint Louis,Saint-Louis
+Saint Onge,Saint Onge
+Saint-Dominguois,saint-dominguois
+Saint-Florent,Saint-Florent
+Saint-Girons,Saint-Girons
+Saint-Julien,Saint-Julien
+Saint-Lizier,Saint-Lizier
+Saint-Louis,Saint-Louis
+Saint-Pastous,Saint-Pastous
+Saint-Pierre-des-Corps,Saint-Pierre-des-Corps
+Saint-Priest,Saint-Priest
+Sainte-Geneviève-des-Bois,Sainte-Geneviève-des-Bois
+Saintes,Saintes
+Saintonge,Saintonge
+saison,saison
+saker,sacre
+salariat,salariat
+salep,salep
+salle,salle
+Salles,Salles
+sally,saillie
+salon,salon
+Salon des Refusés,Salon des Refusés
+Salon-de-Provence,Salon-de-Provence
+salp,salpe
+saltimbanque,saltimbanque
+salut des armes,salut des armes
+Samothracian,Samothracien
+san fairy ann,ça ne fait rien
+Sancerre,Sancerre
+sandre,sandre
+sang froid,sang-froid
+sangfroid,sang-froid
+sanglier,sanglier
+sanitary,sanitaire
+sans doute,sans doute
+sans gêne,sans gêne
+sans nombre,sans nombre
+sans-culottide,sans-culottide
+sans-souci,sans-souci
+santon,santon
+Santy,Santy
+Saône,Saône
+sap,saper
+sapeur,sapeur
+saponule,saponule
+sappare,sappare
+sarabande,sarabande
+sarbacane,sarbacane
+Sarchet,Sarchet
+sardine,sardine
+sarigue,sarigue
+Sarraute,Sarraute
+satin,satin
+satin de chine,satin de Chine
+satin de laine,satin de laine
+satiné,satiné
+Satre,Satre
+satyr,satyre
+saucier,saucier
+saucisse,saucisse
+saucisson,saucisson
+saucisson sec,saucisson sec
+Sault Ste. Marie,Sault Ste. Marie
+Saurier,Saurier
+sauté,sauté
+sauter,sauter
+sauterelle,sauterelle
+sautoire,sautoire
+sauvignon,sauvignon
+savant,savant
+savarin,savarin
+Savary,Savary
+savate,savate
+Savoie,Savoie
+savoir-faire,savoir-faire
+savoir-vivre,savoir-vivre
+Savoyard,Savoyard
+saxophone,saxophone
+Scaramouche,Scaramouche
+scatch,escache
+scelerat,scélérat
+scène à faire,scène à faire
+sciage,sciage
+season,"seson, saison"
+secret of Polichinelle,secret de Polichinelle
+secretariat,secrétariat
+Ségou,Ségou
+seigneuresse,seigneuresse
+seigneurie,seigneurie
+selenium,sélénium
+sell,selle
+semantic,sémantique
+semaphore,sémaphore
+semblant,semblant
+semé,semé
+Senatus,Senatus
+Senechal,Sénéchal
+senile,sénile
+senteur,senteur
+sentiment du fer,sentiment du fer
+septillion,septillion
+sequence,sequence
+sequin,sequin
+Seraphine,Séraphine
+Serbin,Serbin
+Sercquiais,sercquiais
+serein,serein
+serenade,sérénade
+serge,serge
+sericulture,sériculture
+serimeter,sérimètre
+serin,serin
+serpette,serpette
+serpolet,serpolet
+serrefine,serre fine
+Serres,Serres
+serry,serré
+serval,serval
+service à la française,service à la française
+service à la russe,service à la russe
+serviette,serviette
+sesban,sesban
+Sète,Sète
+seton,séton
+Sette,Sette
+Sèvres,Sèvres
+Seychellois,seychellois
+shagreen,chagrin
+shako,shako
+shallop,chaloupe
+shallot,échalote
+shingle,chingler
+shivaree,charivari
+siffle,siffler
+sifflet,sifflet
+silhouette,silhouette
+sillometer,siller
+sillon,sillon
+simar,simarre
+Simoneau,Simoneau
+Simoneaux,Simoneaux
+Simonet,Simonet
+singerie,singerie
+singulative,singulatif
+Sion,Sion
+Sioux,Sioux
+sirvente,sirvente
+skeptic,sceptique
+sobriquet,sobriquet
+socca,socca
+socialism,socialisme
+sofa,sofa
+soi-disant,soi-disant
+soigné,soigné
+soignée,soignée
+soigneur,soigneur
+soiree,soirée
+soirée,soirée
+soixante-huitard,soixante-huitard
+soixante-neuf,soixante-neuf
+solecism,solécisme
+solenoid,solénoïde
+solfège,solfège
+solidification,solidification
+solitaire,solitaire
+solive,solive
+solmisation,solmisation
+sombre,sombre
+sommelier,sommelier
+somnambule,somnambule
+somnambulist,somnambuliste
+somnolent,somnolent
+son et lumière,sound and light
+sondage,sondage
+sonde,sonde
+sorbet,sorbet
+Sorbon,Sorbon
+Sorbonne,Sorbonne
+Sorel,Sorel
+sortie,sortie
+sou,sou
+soubresaut,soubresaut
+soubrette,soubrette
+soucoupe,soucoupe
+souffle,souffle
+soufflé,soufflé
+soul,souler
+Soulier,Soulier
+soupçon,soupçon
+soupçons,
+sourdeline,sourdeline
+sous-chef,sous-chef
+sous-vide,sous-vide
+soutache,soutache
+soutane,soutane
+souterrain,souterrain
+souvenir,souvenir
+Soyer,Soyer
+spadassin,spadassin
+spadille,spadille
+spahi,spahi
+sparadrap,sparadrap
+specialist,spécialiste
+sphene,sphène
+spirituelle,spirituelle
+SPVM,SPVM
+squad,escouade
+squill,scille
+St. Andre,St. André
+St. Jacques,plural
+stagiaire,stagiaire
+stagnant,stagnant
+Stains,Stains
+stasiology,stasiologie
+statuesque,statuesque
+statuette,statuette
+steak Diane,Diane
+stere,stère
+stereotype,stéréotype
+stethoscope,stéthoscope
+strass,strass
+succès de scandale,succès de scandale
+succès fou,succès fou
+succulent,succulent
+suede,(gants de) Suède
+suint,suint
+supermotard,supermotard
+suppliant,suppliant
+suprême,suprême
+suraddition,suraddition
+Suresnes,Suresnes
+Sûreté,Sûreté
+suricate,suricate
+surmoulage,surmoulage
+surmulot,surmulot
+surveillance,surveillance
+svelte,svelte
+syllabe,syllabe
+sylphid,sylphide
+sympathize,sympathiser
+symphoniette,symphoniette
+syndic,syndic
+syndical,syndical
+syntax,syntaxe
+syrah,syrah
+syringe,seringue
+table d'hôte,table d'hôte
+tableau,tableau
+tableau vivant,tableau vivant
+tablier,tablier
+tac-au-tac,riposter du tac au tac
+tacahout,tacahout
+Tâche,Tâche
+Tadjoura,Tadjourah
+Tadjourah,Tadjourah
+taille,taille
+Taillon,Taillon
+talapoin,talapoin
+talisman,talisman
+tallapoi,talapoin
+talmouse,talmouse
+talus,talus
+tamanoir,tamanoir
+tamarin,tamarin
+tambour,tambour
+tambourine,tambourin
+tamis,tamis
+tammy,tamise
+tampon,tampon
+tan,tan
+Tana,Tana
+tant mieux,tant mieux
+tant pis,tant pis
+tantième,tantième
+tapenade,tapenade
+tapir,tapir
+Tarascon-sur-Ariège,Tarascon-sur-Ariège
+Tardif,Tardif
+tardy,tardif
+tarot,tarot
+Taroudant,Taroudant
+tarse,tarse
+tartan,tartarin
+tarte flambée,tarte flambée
+tarte Tatin,tarte Tatin
+tasset,tassette
+tassie,tasse
+Tataouine,Tataouine
+tatonnement,tâtonnement
+taupe,taupe
+Tauzin,Tauzin
+taximeter,taximètre
+taxonomy,taxonomie
+technique,technique
+teinture,teinture
+telecabin,télécabine
+telecommunication,télécommunication
+telegraph,télégraphe
+teleocracy,télécratie
+telephone,téléphone
+television,télévision
+Telotte,Telotte
+tenace,tenace
+tendon,tendon
+teosinte,téosinte
+tercine,tercine
+teredine,térédine
+termite,termite
+terne,terne
+terrace,terrasse
+terrain,terrain
+Terral,Terral
+terre-plein,terre-plein
+terreplein,terreplein
+Terrien,Terrien
+terrine,terrine
+terroir,terroir
+tête-à-tête,tête-à-tête
+tête-bêche,tête-bêche
+tetraples,tétraples
+Tetreault,Tétreault
+Tetreaultville,Tétreaultville
+TGV,TGV
+The Hague,Den Haag
+Theberge,Théberge
+theine,théine
+theodicy,théodicée
+Therien,Thérien
+Thermidor,thermidor
+thermometer,thermomètre
+Therrien,Therrien
+Thibeaux,Thibeaux
+Thibert,Thibert
+Thibodeau,Thibodeau
+Thibodeaux,Thibodeaux
+thieboudienne,thiéboudiène
+Thiers,Thiers
+Thivierge,Thivierge
+thymol,thymol
+thyrse,thyrse
+tic,tic
+tierce de Picardie,tierce de Picardie
+tierceron,tierceron
+tige,tige
+tignon,tignon
+tilleul,tilleul
+timbale,timbale
+timbre,timbre
+tinamou,tinamou
+tiqueur,tiqueur
+tirade,tirade
+tirailleur,tirailler
+Tissot,Tissot
+titre,titre
+titubant,titubant
+Tocqueville,Tocqueville
+toile,toile
+toilette,toilette
+toise,toise
+toison,toison
+tole,tôle
+tombé,tombé
+tombo,tombe
+Tomme,tomme
+ton,tonne
+Tondreau,Tondreau
+Tonkin,Tonkin
+tonne,tonne
+tonneau,tonneau
+tonsil,tonsille
+tontine,tontine
+toot suite,tout de suite
+toot sweet,tout de suite
+torchon,torchon
+torrent,torrent
+torsade,torsade
+torsion,"torsio, torsionem"
+tortillon,tortillon
+touché,touché
+Toulouse,Toulouse
+toupee,toupet
+Toupin,Toupin
+Toups,Toups
+tour de force,tour de force
+Tour de France,Tour de France
+tour d'horizon,tour d'horizon
+Tourane,Tourane
+tourbillon,tourbillon
+Tourcoing,Tourcoing
+tourelle,tourelle
+tourmaline,tourmaline
+tournedos,tournedos
+tourniquet,tourniquet
+tout court,tout court
+tout de suite,tout de suite
+tout ensemble,tout ensemble
+tout le monde,tout le monde
+toxic,toxique
+traceur,traceur
+traceuse,traceuse
+traductology,traductologie
+tragedienne,tragédienne
+Trahan,Trahan
+trahison,trahison
+trahison des clercs,trahison des clercs
+traipse,trépasser
+traiteur,traiteur
+tranche,tranche
+transfuge,transfuge
+transhuman,trans-humain
+transhumance,transhumance
+transmanche,transmanche
+traumatize,traumatiser
+travers,travers
+tréflé,tréflé
+treillage,treillage
+trema,tréma
+Tremblay,Tremblay
+Trepanier,Trépanier
+Trépanier,Trépanier
+trephine,tréphine
+très chic,très chic
+Treves,Trèves
+triage,triage
+Trianon,Trianon
+trichome,trichome
+tricot,tricot
+tricotée,tricotée
+tricoteuse,tricoteuse
+tricycle,tricycle
+trilliard,trilliard
+trillion,trillion
+tringle,tringle
+triolet,triolet
+triple sec,triple sec
+triskele,triskèle
+triskeles,triskèle
+tristesse,tristesse
+trochee,trochée
+Trois-Rivières,Trois-Rivières
+trompe l'oeil,trompe-l’œil
+trompe l'œil,trompe-l'œil
+tronc,tronc des pauvres
+troposphere,troposphère
+-tropy,-tropie
+trottoir,trottoir
+troupe,troupe
+trousseau,trousseau
+trouvaille,trouvaille
+trouvère,trouvère
+Troyes,Troyes
+Trudeau,Trudeau
+Trudel,Trudel
+truffière,truffière
+truffle,truffe
+trumeau,trumeau
+trumpery,tromperie
+Truteau,Truteau
+tuff,tuffe
+tuile,tuile
+tulip,tulipe
+tulle,tulle
+Tullier,Tullier
+tumescence,tumescence
+turbine,turbine
+tureen,terrine
+Turlupin,Turlupin
+tuteur,tuteur
+tutoy,tutoyer
+tutoyer,tutoyer
+tutu,tutu
+tuyere,tuyère
+tyrolienne,tyrolienne
+tzigane,tzigane
+tête-de-pont,tête de pont
+têtes-de-pont,tête-de-pont
+ubac,ubac
+uhlan,uhlan
+ultime,ultime
+unique,unique
+uric,urique
+usure,usure
+utilize,utiliser
+utricle,utricule
+vacherin,vacherin
+vachette,vachette
+Vachon,Vachon
+vagabondage,vagabondage
+Vaillancourt,Vaillancourt
+Val Marie,Val Marie
+Val-de-Marne,Val-de-Marne
+Valade,Valade
+Valais,Valais
+Valerie,Valérie
+valet-de-chambre,valet de chambre
+valet-de-place,plural
+Valiquette,Valiquette
+valise,valise
+valse,valse
+vancourier,avant-courier
+vandalism,vandalisme
+Vanier,Vanier
+Vannes,Vannes
+vansire,vansire
+vareuse,vareuse
+Varin,Varin
+vasquine,vasquine
+Vaucluse,Vaucluse
+vaudeville,vaudeville
+Vaudois,vaudois
+vaunt,vanter
+vaurien,vaurien
+vedette,vedette
+vehicle,véhicule
+velocipede,vélocipède
+velour,velours
+velouté,velouté
+velte,velte
+venal,vénal
+vend,vendre
+vendange,vendange
+Vendée,Vendée
+Vendémiaire,vendémiaire
+veneur,veneur
+vennel,venelle
+vent,vent
+Ventôse,ventôse
+ventouse,ventouse
+ventre à terre,ventre à terre
+Venus de Milo,Vénus de Milo
+verbiage,verbiage
+Verdier,Verdier
+verdigris,vert-de-gris
+Verges,Vergès
+verglas,verglas
+verjus,verjus
+verlan,verlan
+vermouth,vermout
+Verne,Verne
+Vernet,Vernet
+vernier,vernier
+vernissage,vernissage
+Veron,Véron
+Verove,Vérove
+Verret,Verret
+verrillon,verrillon
+verrine,verrine
+Versailles,Versailles
+versant,versant
+verve,verve
+vervelle,vervelle
+vespasienne,vespasienne
+vestibule,vestibule
+vestige,vestige
+vetiver,vétyver
+Vialatte,Vialatte
+Viau,Viau
+Vibert,Vibert
+vibration,vibration
+Vichy,Vichy
+vichyssoise,vichyssoise
+Vieau,Vieau
+Vienna,Vienne
+viennoiserie,viennoiserie
+Vientiane,Vientiane
+vieux jeu,vieux jeu
+vieux riche,vieux riche
+Vigneault,Vigneault
+vigneron,vigneron
+Vigneron,Vigneron
+vignette,vignette
+villanelle,villanelle
+-ville,ville
+Villeneuve,Villeneuve
+vinage,vinage
+vinaigrette,vinaigrette
+vinasse,vinasse
+Vincennes,Vincennes
+Violette,Violette
+virement,virement
+virion,virion
+Virtel,Virtel
+vis-à-vis,vis-à-vis
+visagiste,visagiste
+visé,visé
+visier,visière
+visiere,visière
+visite,visite
+vison,Neovison vison
+vitrail,vitrail
+vitraux,vitraux
+vitrine,vitrine
+vivandier,vivandier
+vivandière,vivandière
+vivant,vivant
+vive la différence,vive
+viveur,viveur
+vocable,vocable
+vocabulary,vocabulaire
+voilà,voilà
+voile,voile
+voiture,voiture
+voiturette,voiturette
+vol,vol
+vol-au-vent,vol-au-vent
+vole,vole
+volet,volet
+Voltaire,Voltaire
+volte-face,volte-face
+voltigeur,voltigeur
+voluptuary,voluptuaire
+Vosges,Vosges
+voulgier,voulgier
+voussoir,voussoir
+vouvoy,vouvoyer
+voyeur,voyeur
+vraisemblance,vraisemblance
+Walcourt,Walcourt
+Walloon,wallon
+Watremez,Watremez
+wattman,wattman
+Wendat,Wendat
+with the manner,main
+witzchoura,vitchoura
+xanthein,xantheine
+xenism,xénisme
+xenoglossy,xénoglossie
+xylography,xylographie
+xylotheque,xylothèque
+Yannick,Yannick
+yaourt,yaourt
+yé-yé,yéyé
+yogourt,yogourt
+Yon,Yon
+yurt,yourte
+Zaghouan,Zaghouan
+zain,zain
+Zecco,Zecco
+zemidjan,zémidjan
+zero,zéro
+zest,zeste
+zgougou,zgougou
+zigzag,zigzag
+Zouave,زَوَاوِيّ
+à propos,à propos
+échappés,
+échelon,
+éclaircissement,
+éclairs,
+écorchés,
+écrasements,
+écraseur,
+écus,
+égalitarian,
+égalitarianism,
+élitist,
+élitists,
+éloge,
+éminence grises,
+énarques,
+épaulières,
+épopées,
+épéeist,
+épéeists,
+épées,
+étage,étage
+étendue,
+étincellé,
+étoiles,
+étouffées,
+étude,estude
+études,
+étuis,
+アパートメント,appartement
