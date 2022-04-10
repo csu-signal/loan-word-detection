@@ -1,204 +1,823 @@
-loan_word,original_word,loan_word_ipas,original_word_ipas
-abalone,abalone,"['/æb.əˈləʊ.ni/', '/æb.əˈloʊ.ni/', '/a.ba.lɔn/']","['/æb.əˈləʊ.ni/', '/æb.əˈloʊ.ni/', '/a.ba.lɔn/']"
-Abby,Abby,"['/ˈæb.i/', '/a.bi/']","['/ˈæb.i/', '/a.bi/']"
-Aberdeen,Aberdeen,"['/æbə(ɹ)ˈdiːn/', '/ˌæb.ɚˈdin/', '/ˈæb.ɚˌdin/', '/a.bɛʁ.din/']","['/æbə(ɹ)ˈdiːn/', '/ˌæb.ɚˈdin/', '/ˈæb.ɚˌdin/', '/a.bɛʁ.din/']"
-AC45,AC45,['/a se ka.ʁɑ̃t.sɛ̃k/'],['/a se ka.ʁɑ̃t.sɛ̃k/']
-AC72,AC72,"['/a se swa.sɑ̃t.duz/', '/a se sɛp.tɑ̃t.dø/']","['/a se swa.sɑ̃t.duz/', '/a se sɛp.tɑ̃t.dø/']"
-AC90,AC90,['/a.se.ka.tʁə.vɛ̃.dis/'],['/a.se.ka.tʁə.vɛ̃.dis/']
-addiction,addiction,"['/əˈdɪkʃən/', '/a.dik.sjɔ̃/']","['/əˈdɪkʃən/', '/a.dik.sjɔ̃/']"
-adrénaline,adrenaline,['/a.dʁe.na.lin/'],"['/əˈdɹɛnəlɪn/', '/ɑ.dreː.naːˈli.nə/', '/aː.dreː.naːˈli.nə/']"
-afforder,afford,"['/a.fɔʁ.de/', '/a.fɔʁ.dɑ̃/', '/a.fɔʁ.de/', '/a.fɔʁd/', '/a.fɔʁd/', '/a.fɔʁd/', '/a.fɔʁ.dɔ̃/', '/a.fɔʁ.de/', '/a.fɔʁd/', '/a.fɔʁ.dɛ/', '/a.fɔʁ.dɛ/', '/a.fɔʁ.dɛ/', '/a.fɔʁ.djɔ̃/', '/a.fɔʁ.dje/', '/a.fɔʁ.dɛ/', '/a.fɔʁ.de/', '/a.fɔʁ.da/', '/a.fɔʁ.da/', '/a.fɔʁ.dam/', '/a.fɔʁ.dat/', '/a.fɔʁ.dɛʁ/', '/a.fɔʁ.də.ʁe/', '/a.fɔʁ.də.ʁa/', '/a.fɔʁ.də.ʁa/', '/a.fɔʁ.də.ʁɔ̃/', '/a.fɔʁ.də.ʁe/', '/a.fɔʁ.də.ʁɔ̃/', '/a.fɔʁ.də.ʁɛ/', '/a.fɔʁ.də.ʁɛ/', '/a.fɔʁ.də.ʁɛ/', '/a.fɔʁ.də.ʁjɔ̃/', '/a.fɔʁ.də.ʁje/', '/a.fɔʁ.də.ʁɛ/', '/a.fɔʁd/', '/a.fɔʁd/', '/a.fɔʁd/', '/a.fɔʁ.djɔ̃/', '/a.fɔʁ.dje/', '/a.fɔʁd/', '/a.fɔʁ.das/', '/a.fɔʁ.das/', '/a.fɔʁ.da/', '/a.fɔʁ.da.sjɔ̃/', '/a.fɔʁ.da.sje/', '/a.fɔʁ.das/', '/a.fɔʁd/', '/a.fɔʁ.dɔ̃/', '/a.fɔʁ.de/']","['/əˈfoɹd/', '/əˈfɔɹd/', '/əˈfɔːd/', '/əˈfo(ː)ɹd/', '/əˈfoəd/']"
-AFM,AFM,['/a.ɛ.fɛm/'],['/a.ɛ.fɛm/']
-after-dinner,after dinner,['/af.təʁ.di.nəʁ/'],"['/ˈɑːf.tə(ɹ)/', '/ˈaf.tə(ɹ)/', '/ˈæf.tɚ/', '/ˈaf.ter/', '/ˈafən/', '/ˈafteɾ/']"
-agnostique,agnostic,['/aɡ.nɔs.tik/'],"['/aɡˈnɒstɪk/', '/æɡˈnɑstɪk/']"
-airbag,airbag,"['/ˈɛːr.bɛɡ/', '/ɛʁ.baɡ/', '/erˈbɛɡ/', '/ˈɛr.beɡ/', '/ɛɾ.ˈbɛ.ɡi/', '/aiɾˈbaɡ/', '/eɾˈbaɡ/', '/e.iɾ.bɛɟ/']","['/ˈɛːr.bɛɡ/', '/ɛʁ.baɡ/', '/erˈbɛɡ/', '/ˈɛr.beɡ/', '/ɛɾ.ˈbɛ.ɡi/', '/aiɾˈbaɡ/', '/eɾˈbaɡ/', '/e.iɾ.bɛɟ/']"
-albatros,albatross,"['/əlˈba.tɾos/', '/əlˈba.tɾus/', '/alˈba.tɾos/', '/ˈalbaˌtʁʌs/', '/ˈɑl.baːˌtrɔs/', '/al.ba.tʁɔs/', '/alˈbat.rɔs/', '/al.baˈtros/', '/ǎlbatros/', '/alˈbatɾos/', '/aɫbaˈtros/']","['/ˈæl.bəˌtɹɒs/', '/ˈæl.bəˌtɹɔs/', '/ˈæl.bəˌtɹɑs/', '/ˈæl.bəˌtɹɒs/', '/ˈæl.bəˌtɹɔs/', '/ˈæl.bəˌtɹɑs/', '/ˈalbatrɔs/', '/ˈalbatˌrɔs/', '/ˌalbatˈrɔs/']"
-all dressed,all-dressed,['/ɔl.dʁɛst/'],[]
-aluminium,aluminium,"['/ˌæl.(j)ʊˈmɪn.i.əm/', '/ˌæl.(j)ʊˈmɪn.jəm/', '/ˌæl.(j)uˈmɪn.i.əm/', '/ˌæl.(j)uˈmɪn.jəm/', '/əˈluːmɪnəm/', '/ˌɛl.(j)ɘˈmɘn.jɘm/', '/aluminjɔm/', '/ˌaː.lyˈmi.ni.ʏm/', '/a.ly.mi.njɔm/', '/a.luːˈmi.ni.um/', '/a.luˈmi.ni.um/', '/aluminiom/', '/a.luˈmi.ɲum/', '/alɵˈmiːnɪɵm/']","['/ˌæl.(j)ʊˈmɪn.i.əm/', '/ˌæl.(j)ʊˈmɪn.jəm/', '/ˌæl.(j)uˈmɪn.i.əm/', '/ˌæl.(j)uˈmɪn.jəm/', '/əˈluːmɪnəm/', '/ˌɛl.(j)ɘˈmɘn.jɘm/', '/aluminjɔm/', '/ˌaː.lyˈmi.ni.ʏm/', '/a.ly.mi.njɔm/', '/a.luːˈmi.ni.um/', '/a.luˈmi.ni.um/', '/aluminiom/', '/a.luˈmi.ɲum/', '/alɵˈmiːnɪɵm/']"
-anode,anode,"['/ˈæn.əʊd/', '/ˈæn.oʊd/', '/ˌaːˈnoː.də/', '/a.nɔd/', '/a.no.də/', '/ano.də/']","['/ˈæn.əʊd/', '/ˈæn.oʊd/', '/ˌaːˈnoː.də/', '/a.nɔd/', '/a.no.də/', '/ano.də/']"
-API,API,"['/ˌeɪˌpiˈaɪ/', '/a.pe.i/', '/ˈa ˌpe ˈi/']","['/ˌeɪˌpiˈaɪ/', '/a.pe.i/', '/ˈa ˌpe ˈi/']"
-appendicite,appendicitis,['/a.pɛ̃.di.sit/'],['/əˈpɛnd.ɪ.saɪt.əs/']
-aquafaba,aquafaba,"['/ˌɑːkwəˈfɑːbə/', '/ˌækwəˈfɑːbə/', '/a.kwa.fa.ba/']","['/ˌɑːkwəˈfɑːbə/', '/ˌækwəˈfɑːbə/', '/a.kwa.fa.ba/']"
-aquaplaning,aquaplaning,"['/a.kwa.pla.niŋ/', '/akwaˈpleinin/']","['/a.kwa.pla.niŋ/', '/akwaˈpleinin/']"
-Asbestos,asbestos,[],"['/æsˈbɛs.tɒs/', '/æsˈbɛs.təs/', '/æzˈbɛs.təs/', '/æzˈbɛs.təs/']"
-Auckland,ak,"['/ˈɔːklənd/', '/o.klɑ̃d/', '/ˈɔk.lant/']","['/ak/', '/ɑk/', '/ak/', '/ɰæk/', '/ˈaːk/', '/ak/', '/ɑk/', '/aːk/']"
-audit,audit,"['/ˈɔː.dɪt/', '/ˈɔ.dɪt/', '/o.di/', '/o.dit/', '/ˈau̯.dit/', '/ˈau̯.dit/']","['/ˈɔː.dɪt/', '/ˈɔ.dɪt/', '/o.di/', '/o.dit/', '/ˈau̯.dit/', '/ˈau̯.dit/']"
-Audrey,Æþelþryþ,"['/ˈɔːdɹi/', '/o.dʁɛ/', '/o.dʁe/', '/o.dʁi/', '/ˈʔaudɾei/']",[]
-auto-stop,stop,['/o.tɔs.tɔp/'],"['/stɒp/', '/stɑp/', '/stɔp/', '/stɔp/', '/sˠt̪ˠɔpˠ/', '/ˈstɔp/', '/stɔp/', '/ˈstɔp/', '/ˈstɔ.pi/', '/ˈstɔ.pɨ/', '/esˈtop/']"
-ba,where,"['/ba/', '/ˈbaː/', '/ˈba/', '/ˈbaː/', '/ɓa/', '/ba/', '/pa˥˧/', '/bˠa/', '/bˠɑh/', '/bˠə/', '/ˈba/', '/bɑː/', '/ba/', '/ba/', '/bɑː/', '/ba/', '/ba/', '/ˈbaʔ/', '/ba/', '/ba/', '/ba˦/', '/ba˩/', '/ba˧/', '/ba˧˩/']","['/ʍɛə(ɹ)/', '/wɛə(ɹ)/', '/ʍɛɚ/', '/wɛɚ/']"
-baby-sitter,baby-sitter,['/be.bi.si.tœʁ/'],['/be.bi.si.tœʁ/']
-babyboom,baby boom,"['/ˈbeː.biˌbuːm/', '/ba.bi.bum/', '/be.bi.bum/']",['/bebiˈbum/']
-bachelor,bacheler,"['/ˈbæt͡ʃ.ə.lə(ɹ)/', '/ˈbæt͡ʃ.ə.lɚ/', '/ˈbæt͡ʃ.lɚ/', '/baʃ.lɔʁ/']","['/batʃəˈlɛːr/', '/ba.tʃə.ˈleːr/']"
-back,bak,"['/bæk/', '/bak/', '/bak/']","['/bak/', '/bɑk/', '/paːk/', '/bak/', '/bɑk/', '/bak/', '/bak/', '/bak/', '/bɑːk/', '/ˈbɑk/', '/bak/', '/bak/', '/bɑːk/', '/ɓäkʰ/', '/paːk˧˥/']"
-backgammon,gamen,"['/ˈbæk.ɡæm.ən/', '/ˈbækɡɑm(ː)on/', '/bak.ɡa.mɔn/']","['/ˈɡeːmə(n)/', '/ˈɡeːmən/', '/ˈɡɛɪ̯mən/', '/ˈɡaːmən/', '/ˈɡamən/', '/ˈɡaːm(ə)nən/', '/ˈɡam(ə)nən/', '/ˈɡɔːmən/', '/ˈɡɔːm(ə)nən/', '/ˈɡɑ.men/']"
-backside,frontside,['/ˈbækˌsaɪd/'],[]
-bader,bad,"['/baːdər/', '/ˈbaː.dər/', '/ba.de/', '/ba.dɑ̃/', '/ba.de/', '/bad/', '/bad/', '/bad/', '/ba.dɔ̃/', '/ba.de/', '/bad/', '/ba.dɛ/', '/ba.dɛ/', '/ba.dɛ/', '/ba.djɔ̃/', '/ba.dje/', '/ba.dɛ/', '/ba.de/', '/ba.da/', '/ba.da/', '/ba.dam/', '/ba.dat/', '/ba.dɛʁ/', '/ba.dʁe/', '/ba.dʁa/', '/ba.dʁa/', '/ba.dʁɔ̃/', '/ba.dʁe/', '/ba.dʁɔ̃/', '/ba.dʁɛ/', '/ba.dʁɛ/', '/ba.dʁɛ/', '/ba.də.ʁjɔ̃/', '/ba.də.ʁje/', '/ba.dʁɛ/', '/bad/', '/bad/', '/bad/', '/ba.djɔ̃/', '/ba.dje/', '/bad/', '/ba.das/', '/ba.das/', '/ba.da/', '/ba.da.sjɔ̃/', '/ba.da.sje/', '/ba.das/', '/bad/', '/ba.dɔ̃/', '/ba.de/']","['/bæd/', '/bæːd/', '/bɛd/', '/baːd/', '/bɛəd/', '/ˈbʌd/', '/bɑt/', '/bɑːd/', '/bɑː/', '/bɑːd/', '/bað/', '/v(ʲ)-/', '/bað/', '/bat/', '/bɑːd/', '/baːd/']"
-badge,badge,"['/bædʒ/', '/bædʒ/', '/badʒ/']","['/bædʒ/', '/bædʒ/', '/badʒ/']"
-badlands,badlands,"['/ˈbæd.lændz/', '/ba.dlɑ̃d/', '/ˈbadlands/']","['/ˈbæd.lændz/', '/ba.dlɑ̃d/', '/ˈbadlands/']"
-badminton,badminton,"['/ˈbæd.mɪn.tən/', '/ˈbæd.mɪtn̩/', '/badməntɔn/', '/ˈbɛt.mɪnˌtɔn/', '/ˈbɛt.mɪnˌtən/', '/bad.min.tɔn/', '/badˈmin.tɔn/', '/ˌbadminˈton/', '/badminˈton/', '/bɛd.min.t(ɯ)n/']","['/ˈbæd.mɪn.tən/', '/ˈbæd.mɪtn̩/', '/badməntɔn/', '/ˈbɛt.mɪnˌtɔn/', '/ˈbɛt.mɪnˌtən/', '/bad.min.tɔn/', '/badˈmin.tɔn/', '/ˌbadminˈton/', '/badminˈton/', '/bɛd.min.t(ɯ)n/']"
-baffle,baffle,"['/ˈbæfl̩/', '/bafl/']","['/ˈbæfl̩/', '/bafl/']"
-bagel,bee,"['/ˈbeɪɡl̩/', '/ˈbɛɡl̩/', '/ˈbæɡl̩/', '/ˈbeː.ɡəl/', '/ˈbei̯ɡel/', '/ba.ɡɛl/', '/be.ɡœl/', '/ˈbaɡəl/', '/ˈbɛj.ɡew/', '/ˈbɛj.ɡɐl/', '/baˈɡel/']","['/ˈbiː/', '/ˈbeː/', '/ᵐbe/', '/ˈbeː/', '/beʔe/', '/ˈbe.e/', '/ˈbe.e/', '/beː/', '/biː/', '/beː/', '/bøː/', '/pèː/', '/beː/']"
-baggy,baggy,"['/ˈbæɡi/', '/ba.ɡi/']","['/ˈbæɡi/', '/ba.ɡi/']"
-balloune,balloon,['/ba.lun/'],"['/bəˈluːn/', '/bəˈlun/']"
-bar,barre,"['/bɑː/', '/bɑɹ/', '/ˈbʌɾ/', '/baɾ/', '/bar/', '/ˈbaːˀr/', '/bɑr/', '/baʁ/', '/paːr/', '/ˈbar/', '/pˠærˠ/', '/bɑːɾ/', '/bɑːr/', '/bɑːr/', '/bar/', '/var/', '/bar/', '/ˈbaʁ/', '/ˈbaʁ/', '/ˈbaɾ/', '/ˈbaʁ/', '/ˈbaɾ/', '/bâːr/', '/bâːr/', '/bâr/', '/bâːr/', '/báːr/', '/báːr/', '/báːr/', '/báːr/', '/ˈbaɾ/', '/bɑːr/']","['/bare/', '/barə/', '/baʁ/', '/bɑʁ/']"
-barbecue,barbecue,"['/ˈbɑːbɪˌkjuː/', '/ˈbɑɹbɪˌkju/', '/ˈbɑrbəkju/', '/baʁ.bə.kju/', '/ˈbar.bɛ.kju/']","['/ˈbɑːbɪˌkjuː/', '/ˈbɑɹbɪˌkju/', '/ˈbɑrbəkju/', '/baʁ.bə.kju/', '/ˈbar.bɛ.kju/']"
-barmaid,barmaid,"['/ˈbɑː(ɹ)meɪd/', '/baʁ.mɛjd/']","['/ˈbɑː(ɹ)meɪd/', '/baʁ.mɛjd/']"
-barman,barman,"['/ˈbɑːmən/', '/ˈbɑɹmæn/', '/ˈbɑɹmən/', '/ˈbɑr.mɑn/', '/baʁ.man/', '/ˈbar.man/', '/baʁˈmẽj̃/', '/baʁˈmẽj̃/', '/baɾˈmẽj̃/', '/baʁˈmẽj̃/', '/ˌbaɾˈmɛn/', '/ˈbar.man/', '/ˈbaɾman/']","['/ˈbɑːmən/', '/ˈbɑɹmæn/', '/ˈbɑɹmən/', '/ˈbɑr.mɑn/', '/baʁ.man/', '/ˈbar.man/', '/baʁˈmẽj̃/', '/baʁˈmẽj̃/', '/baɾˈmẽj̃/', '/baʁˈmẽj̃/', '/ˌbaɾˈmɛn/', '/ˈbar.man/', '/ˈbaɾman/']"
-barrel,barel,"['/ˈbæɹəl/', '/ˈbæɹəl/', '/ˈbɛɚɹəl/', '/ba.ʁɛl/']","['/ˈbarɛl/', '/bǎrel/']"
-base-ball,base-ball,['/bɛz.bɔl/'],['/bɛz.bɔl/']
-baseball,baseball,"['/ˈbeɪs.bɔːl/', '/ˈbeɪs.bɔl/', '/ˈbeɪs.bɑl/', '/ˈbei̯sboːl/', '/bɛz.bɔl/', '/ˈbɛ.zbol/', '/ˈbɛj.zbɔl/']","['/ˈbeɪs.bɔːl/', '/ˈbeɪs.bɔl/', '/ˈbeɪs.bɑl/', '/ˈbei̯sboːl/', '/bɛz.bɔl/', '/ˈbɛ.zbol/', '/ˈbɛj.zbɔl/']"
-basket-ball,basketball,['/bas.kɛt.bol/'],"['/ˈbɑːs.kɪt.bɔːl/', '/ˈbæs.kɪt.bɔːl/', '/baːskətbaːl/']"
-baud,bold,"['/bɔːd/', '/bo/']","['/bəʊld/', '/boʊld/', '/bold/']"
-bazooka,bazooka,"['/bəˈzuːkə/', '/ˌbaːˈzu.kaː/', '/ˈbɑsukɑ/', '/ba.zu.ka/']","['/bəˈzuːkə/', '/ˌbaːˈzu.kaː/', '/ˈbɑsukɑ/', '/ba.zu.ka/']"
-be-bop,bebop,['/bi.bɔp/'],"['/ˈbiːbɒp/', '/ˈbiːbɔp/']"
-beach,"bache, bæcche","['/bit͡ʃ/', '/biːt͡ʃ/', '/bitʃ/', '/bʲax/', '/pɛx/']","['/ˈbat͡ʃe/', '/ˈbaʃə/']"
-beatnik,beatnik,"['/ˈbiːtnɪk/', '/ˈbiːtnik/', '/ˈbiːtnikːi/', '/bit.nik/']","['/ˈbiːtnɪk/', '/ˈbiːtnik/', '/ˈbiːtnikːi/', '/bit.nik/']"
-bébé-boumeur,baby boomer,['/be.be.bu.mœʁ/'],['/ˈbej.bi ˈbu.meʁ/']
-bécosses,backhouse,['/be.kɔs/'],[]
-beefsteak,beefsteak,"['/ˈbiːfˌsteɪk/', '/bif.stɛk/']","['/ˈbiːfˌsteɪk/', '/bif.stɛk/']"
-bendo,bando,"['/bɛn.do/', '/ˈbɛn.do/', '/ˈben.do/']","['/ˈbando̝/', '/ˈbando̝/', '/ˈban.do/', '/ˈbɐ̃.du/', '/ˈbando/']"
-best-seller,best-seller,"['/ˌbɛs ˈsɛ.lə/', '/ˌbɛs ˈsɛ.leɾ/', '/bɛst.sɛ.lœʁ/', '/ˌbɛstˈsɛl.ler/', '/ˌbɛsˈsɛl.ler/', '/ˈbɛst ˈsɛ.leʁ/', '/ˈbɛst͡ʃ ˈsɛ.leʁ/']","['/ˌbɛs ˈsɛ.lə/', '/ˌbɛs ˈsɛ.leɾ/', '/bɛst.sɛ.lœʁ/', '/ˌbɛstˈsɛl.ler/', '/ˌbɛsˈsɛl.ler/', '/ˈbɛst ˈsɛ.leʁ/', '/ˈbɛst͡ʃ ˈsɛ.leʁ/']"
-bicurieux,bicurious,['/bi.ky.ʁjø/'],[]
-bifteck,beefsteak,['/bif.tɛk/'],"['/ˈbiːfˌsteɪk/', '/bif.stɛk/']"
-big air,big air,['/biɡ ɛʁ/'],['/biɡ ɛʁ/']
-Big Apple,Big Apple,['/bi.ɡ‿a.pœl/'],['/bi.ɡ‿a.pœl/']
-Big Mac,Big Mac,"['/bɪɡ mæk/', '/ˌbɪkˈmɛk/', '/ˈbiɡ ˈmæk/', '/biɡ mak/', '/ˈbiɡ.mak/', '/ˌbiɡ ˈmak/']","['/bɪɡ mæk/', '/ˌbɪkˈmɛk/', '/ˈbiɡ ˈmæk/', '/biɡ mak/', '/ˈbiɡ.mak/', '/ˌbiɡ ˈmak/']"
-biker,biker,"['/ˈbaɪkɚ/', '/baj.kœʁ/', '/ˈbaj.ker/', '/ˈbaikeɾ/']","['/ˈbaɪkɚ/', '/baj.kœʁ/', '/ˈbaj.ker/', '/ˈbaikeɾ/']"
-bikeur,biker,['/baj.kœʁ/'],"['/ˈbaɪkɚ/', '/baj.kœʁ/', '/ˈbaj.ker/', '/ˈbaikeɾ/']"
-bill,bill,"['/bɪl/', '/bil/', '/bɪl/']","['/bɪl/', '/bil/', '/bɪl/']"
-binge-watcher,binge-watcher,"['/bin.ʒwɔt.ʃœʁ/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔt.ʃɑ̃/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃɔ̃/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃjɔ̃/', '/bin.ʒwɔt.ʃje/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔt.ʃa/', '/bin.ʒwɔt.ʃa/', '/bin.ʒwɔt.ʃam/', '/bin.ʒwɔt.ʃat/', '/bin.ʒwɔt.ʃɛʁ/', '/bin.ʒwɔt.ʃə.ʁe/', '/bin.ʒwɔt.ʃə.ʁa/', '/bin.ʒwɔt.ʃə.ʁa/', '/bin.ʒwɔt.ʃə.ʁɔ̃/', '/bin.ʒwɔt.ʃə.ʁe/', '/bin.ʒwɔt.ʃə.ʁɔ̃/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔt.ʃə.ʁjɔ̃/', '/bin.ʒwɔt.ʃə.ʁje/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃjɔ̃/', '/bin.ʒwɔt.ʃje/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃas/', '/bin.ʒwɔt.ʃas/', '/bin.ʒwɔt.ʃa/', '/bin.ʒwɔt.ʃa.sjɔ̃/', '/bin.ʒwɔt.ʃa.sje/', '/bin.ʒwɔt.ʃas/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃɔ̃/', '/bin.ʒwɔt.ʃe/']","['/bin.ʒwɔt.ʃœʁ/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔt.ʃɑ̃/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃɔ̃/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃjɔ̃/', '/bin.ʒwɔt.ʃje/', '/bin.ʒwɔt.ʃɛ/', '/bin.ʒwɔt.ʃe/', '/bin.ʒwɔt.ʃa/', '/bin.ʒwɔt.ʃa/', '/bin.ʒwɔt.ʃam/', '/bin.ʒwɔt.ʃat/', '/bin.ʒwɔt.ʃɛʁ/', '/bin.ʒwɔt.ʃə.ʁe/', '/bin.ʒwɔt.ʃə.ʁa/', '/bin.ʒwɔt.ʃə.ʁa/', '/bin.ʒwɔt.ʃə.ʁɔ̃/', '/bin.ʒwɔt.ʃə.ʁe/', '/bin.ʒwɔt.ʃə.ʁɔ̃/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔt.ʃə.ʁjɔ̃/', '/bin.ʒwɔt.ʃə.ʁje/', '/bin.ʒwɔt.ʃə.ʁɛ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃjɔ̃/', '/bin.ʒwɔt.ʃje/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃas/', '/bin.ʒwɔt.ʃas/', '/bin.ʒwɔt.ʃa/', '/bin.ʒwɔt.ʃa.sjɔ̃/', '/bin.ʒwɔt.ʃa.sje/', '/bin.ʒwɔt.ʃas/', '/bin.ʒwɔtʃ/', '/bin.ʒwɔt.ʃɔ̃/', '/bin.ʒwɔt.ʃe/']"
-biopic,biopic,"['/ˈbaɪ.əʊ.pɪk/', '/ˈbaɪ.oʊ.pɪk/', '/baɪ.ˈɑ.pɪk/', '/bjɔ.pik/', '/bjoˈpik/']","['/ˈbaɪ.əʊ.pɪk/', '/ˈbaɪ.oʊ.pɪk/', '/baɪ.ˈɑ.pɪk/', '/bjɔ.pik/', '/bjoˈpik/']"
-BIP,BIP,[],[]
-birdie,birdie,"['/ˈbɝdi/', '/ˈbɜːdi/', '/ˈbʏr.di/', '/bœʁ.di/']","['/ˈbɝdi/', '/ˈbɜːdi/', '/ˈbʏr.di/', '/bœʁ.di/']"
-bitch,biche,"['/bɪt͡ʃ/', '/bɪt͡s/', '/bɪtʃ/', '/bitʃ/']","['/biʃ/', '/bice/']"
-bitcoin,bitcoin,"['/ˈbɪtˌkɔɪn/', '/bit.kɔjn/', '/ˈbit.kɔjn/', '/bi.teˈkɔ.ĩ/', '/bi.tɨˈkɔj.nɨ/', '/ˈbidkoin/']","['/ˈbɪtˌkɔɪn/', '/bit.kɔjn/', '/ˈbit.kɔjn/', '/bi.teˈkɔ.ĩ/', '/bi.tɨˈkɔj.nɨ/', '/ˈbidkoin/']"
-black,blak,"['/blæk/', '/blak/', '/blak/']","['/plɛaːk/', '/plaːk/', '/blak/', '/blaːk/']"
-blockbuster,blockbuster,"['/ˈblɒkˌbʌstə(ɹ)/', '/blɔk.bys.tœʁ/', '/blɔk.bœs.tœʁ/', '/bloɡˈbasteɾ/']","['/ˈblɒkˌbʌstə(ɹ)/', '/blɔk.bys.tœʁ/', '/blɔk.bœs.tœʁ/', '/bloɡˈbasteɾ/']"
-blog,blog,"['/blɒɡ/', '/blɑɡ/', '/ˈblɔk/', '/blɔx/', '/blɔɡ/', '/blɔk/', '/ˈbloɡ/', '/blɔɡ/']","['/blɒɡ/', '/blɑɡ/', '/ˈblɔk/', '/blɔx/', '/blɔɡ/', '/blɔk/', '/ˈbloɡ/', '/blɔɡ/']"
-bloody mary,bloody mary,['/blœ.di mɛ.ʁi/'],['/blœ.di mɛ.ʁi/']
-blues,blues,"['/bluːz/', '/ˈblus/', '/bluːs/', '/bluz/', '/ˈbluz/', '/ˈbluws/', '/ˈblus/']","['/bluːz/', '/ˈblus/', '/bluːs/', '/bluz/', '/ˈbluz/', '/ˈbluws/', '/ˈblus/']"
-bluff,bluff,"['/blʌf/', '/blœf/']","['/blʌf/', '/blœf/']"
-bluffer,bluff,"['/ˈblʌfɚ/', '/ˈblʌfə/', '/blœ.fe/', '/blœ.fɑ̃/', '/blœ.fe/', '/blœf/', '/blœf/', '/blœf/', '/blœ.fɔ̃/', '/blœ.fe/', '/blœf/', '/blœ.fɛ/', '/blœ.fɛ/', '/blœ.fɛ/', '/blœ.fjɔ̃/', '/blœ.fje/', '/blœ.fɛ/', '/blœ.fe/', '/blœ.fa/', '/blœ.fa/', '/blœ.fam/', '/blœ.fat/', '/blœ.fɛʁ/', '/blœ.fʁe/', '/blœ.fʁa/', '/blœ.fʁa/', '/blœ.fʁɔ̃/', '/blœ.fʁe/', '/blœ.fʁɔ̃/', '/blœ.fʁɛ/', '/blœ.fʁɛ/', '/blœ.fʁɛ/', '/blœ.fə.ʁjɔ̃/', '/blœ.fə.ʁje/', '/blœ.fʁɛ/', '/blœf/', '/blœf/', '/blœf/', '/blœ.fjɔ̃/', '/blœ.fje/', '/blœf/', '/blœ.fas/', '/blœ.fas/', '/blœ.fa/', '/blœ.fa.sjɔ̃/', '/blœ.fa.sje/', '/blœ.fas/', '/blœf/', '/blœ.fɔ̃/', '/blœ.fe/']","['/blʌf/', '/blœf/']"
-blush,blusshen,"['/blʌʃ/', '/blœʃ/', '/ˈblɐʃ/', '/ˈblɐ.ʃi/', '/ˈblɐʃ/', '/ˈblɐ.ʃɨ/']",[]
-boat-people,boat people,"['/bot.pi.pɔl/', '/bot.pi.pœl/']",[]
-bob,bobben,"['/bɒb/', '/bɑb/', '/bɔp/', '/bɔb/', '/bɔp/', '/ˈbɔ.bi/', '/bôb/', '/bôb/', '/boːb/']",[]
-bodybuilding,bodybuilding,"['/ˈbɒdiˌbɪldɪŋ/', '/ˈbɑːdiˌbɪldɪŋ/', '/ˈbɔ.diˌbɪl.dɪŋ/', '/ˈbɑdiˌbildiŋ/', '/ˈbodiˌbildiŋ/', '/bɔ.di.bil.diŋ/']","['/ˈbɒdiˌbɪldɪŋ/', '/ˈbɑːdiˌbɪldɪŋ/', '/ˈbɔ.diˌbɪl.dɪŋ/', '/ˈbɑdiˌbildiŋ/', '/ˈbodiˌbildiŋ/', '/bɔ.di.bil.diŋ/']"
-bogey,bugge,"['/bəʊɡi/', '/boʊɡi/', '/ˈboɡi/', '/bɔ.ɡɛ/']",[]
-bogue,bug,['/bɔɡ/'],"['/bʌɡ/', '/buk/', '/bak/', '/buːˀɣ/', '/bʏɡ/', '/bɑɡ/', '/bœɡ/', '/bɔɡ/', '/ˈbuɡ/', '/ˈbɐɡ/', '/ˈbɐ.ɡi/', '/ˈbuɡ/', '/ˈbu.ɡi/', '/ˈbaɡ/', '/ˈboɡ/', '/ˈbuɡ/']"
-boiler,boiler,"['/ˈbɔɪlə/', '/ˈbɔɪlɚ/', '/ˈbɔi̯.lər/', '/bɔjlœʁ/', '/bwalɛʁ/']","['/ˈbɔɪlə/', '/ˈbɔɪlɚ/', '/ˈbɔi̯.lər/', '/bɔjlœʁ/', '/bwalɛʁ/']"
-bol,ball,"['/bɔl/', '/boɫ/', '/ˈbɔl/', '/bɔl/', '/bɔl/', '/bol/', '/buːl/', '/buːɽ/', '/bôːl/', '/ˈbol/', '/bɔl/', '/buːɽ/', '/bouːɽ/', '/bɒuːɽ/']","['/bɔːl/', '/bɑl/', '/ˈbaʎ/', '/palː/', '/bˠɑul̪ˠ/', '/bˠɑːl̪ˠ/', '/bˠal̪ˠ/', '/bˠal̪ˠ/', '/bal͈/', '/v(ʲ)-/', '/paul̪ˠ/', '/ˈbalː/']"
-bomber,bomber,"['/ˈbɑmɚ/', '/bom.ˈbeɾ/', '/bom.ˈbe/', '/bombər/', '/bɔ̃.be/', '/bɔ̃.bɑ̃/', '/bɔ̃.be/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃.bɔ̃/', '/bɔ̃.be/', '/bɔ̃b/', '/bɔ̃.bɛ/', '/bɔ̃.bɛ/', '/bɔ̃.bɛ/', '/bɔ̃.bjɔ̃/', '/bɔ̃.bje/', '/bɔ̃.bɛ/', '/bɔ̃.be/', '/bɔ̃.ba/', '/bɔ̃.ba/', '/bɔ̃.bam/', '/bɔ̃.bat/', '/bɔ̃.bɛʁ/', '/bɔ̃.bʁe/', '/bɔ̃.bʁa/', '/bɔ̃.bʁa/', '/bɔ̃.bʁɔ̃/', '/bɔ̃.bʁe/', '/bɔ̃.bʁɔ̃/', '/bɔ̃.bʁɛ/', '/bɔ̃.bʁɛ/', '/bɔ̃.bʁɛ/', '/bɔ̃.bə.ʁjɔ̃/', '/bɔ̃.bə.ʁje/', '/bɔ̃.bʁɛ/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃.bjɔ̃/', '/bɔ̃.bje/', '/bɔ̃b/', '/bɔ̃.bas/', '/bɔ̃.bas/', '/bɔ̃.ba/', '/bɔ̃.ba.sjɔ̃/', '/bɔ̃.ba.sje/', '/bɔ̃.bas/', '/bɔ̃b/', '/bɔ̃.bɔ̃/', '/bɔ̃.be/', '/bɔ̃.bœʁ/', '/ˈbɔm.ber/']","['/ˈbɑmɚ/', '/bom.ˈbeɾ/', '/bom.ˈbe/', '/bombər/', '/bɔ̃.be/', '/bɔ̃.bɑ̃/', '/bɔ̃.be/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃.bɔ̃/', '/bɔ̃.be/', '/bɔ̃b/', '/bɔ̃.bɛ/', '/bɔ̃.bɛ/', '/bɔ̃.bɛ/', '/bɔ̃.bjɔ̃/', '/bɔ̃.bje/', '/bɔ̃.bɛ/', '/bɔ̃.be/', '/bɔ̃.ba/', '/bɔ̃.ba/', '/bɔ̃.bam/', '/bɔ̃.bat/', '/bɔ̃.bɛʁ/', '/bɔ̃.bʁe/', '/bɔ̃.bʁa/', '/bɔ̃.bʁa/', '/bɔ̃.bʁɔ̃/', '/bɔ̃.bʁe/', '/bɔ̃.bʁɔ̃/', '/bɔ̃.bʁɛ/', '/bɔ̃.bʁɛ/', '/bɔ̃.bʁɛ/', '/bɔ̃.bə.ʁjɔ̃/', '/bɔ̃.bə.ʁje/', '/bɔ̃.bʁɛ/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃b/', '/bɔ̃.bjɔ̃/', '/bɔ̃.bje/', '/bɔ̃b/', '/bɔ̃.bas/', '/bɔ̃.bas/', '/bɔ̃.ba/', '/bɔ̃.ba.sjɔ̃/', '/bɔ̃.ba.sje/', '/bɔ̃.bas/', '/bɔ̃b/', '/bɔ̃.bɔ̃/', '/bɔ̃.be/', '/bɔ̃.bœʁ/', '/ˈbɔm.ber/']"
-bonus,bonus,"['/ˈbəʊ.nəs/', '/ˈboʊ.nəs/', '/ˈboː.nʏs/', '/bɔ.nys/', '/ˈbɔ.nus/', '/ˈbo.nus/', '/ˈbo.nus/', '/ˈbonus/']","['/ˈbəʊ.nəs/', '/ˈboʊ.nəs/', '/ˈboː.nʏs/', '/bɔ.nys/', '/ˈbɔ.nus/', '/ˈbo.nus/', '/ˈbo.nus/', '/ˈbonus/']"
-boob,boob,"['/ˈbuːb/', '/bub/']","['/ˈbuːb/', '/bub/']"
-booker,bokere,"['/bu.ke/', '/bu.kɑ̃/', '/bu.ke/', '/buk/', '/buk/', '/buk/', '/bu.kɔ̃/', '/bu.ke/', '/buk/', '/bu.kɛ/', '/bu.kɛ/', '/bu.kɛ/', '/bu.kjɔ̃/', '/bu.kje/', '/bu.kɛ/', '/bu.ke/', '/bu.ka/', '/bu.ka/', '/bu.kam/', '/bu.kat/', '/bu.kɛʁ/', '/bu.kʁe/', '/bu.kʁa/', '/bu.kʁa/', '/bu.kʁɔ̃/', '/bu.kʁe/', '/bu.kʁɔ̃/', '/bu.kʁɛ/', '/bu.kʁɛ/', '/bu.kʁɛ/', '/bu.kə.ʁjɔ̃/', '/bu.kə.ʁje/', '/bu.kʁɛ/', '/buk/', '/buk/', '/buk/', '/bu.kjɔ̃/', '/bu.kje/', '/buk/', '/bu.kas/', '/bu.kas/', '/bu.ka/', '/bu.ka.sjɔ̃/', '/bu.ka.sje/', '/bu.kas/', '/buk/', '/bu.kɔ̃/', '/bu.ke/']",[]
-bookmaker,bokmakere,"['/ˈbʊkmeɪkəɹ/', '/buk.mɛ.kœʁ/', '/bukˈmɛ.ker/']",[]
-boom,boom,"['/buːm/', '/bum/', '/bʊəm/', '/boːm/', '/buːm/', '/bum/', '/ˈbum/', '/bum/', '/ˈbum/']","['/buːm/', '/bum/', '/bʊəm/', '/boːm/', '/buːm/', '/bum/', '/ˈbum/', '/bum/', '/ˈbum/']"
-boomer,boomer,"['/ˈbuːmə(ɹ)/', '/ˈbuːmə/', '/ˈbumɚ/', '/ˈbʉːmə/', '/ˈbuː.mər/', '/bu.mœʁ/', '/ˈbu.mɛr/', '/buː.m(ɯ)ɾ/']","['/ˈbuːmə(ɹ)/', '/ˈbuːmə/', '/ˈbumɚ/', '/ˈbʉːmə/', '/ˈbuː.mər/', '/bu.mœʁ/', '/ˈbu.mɛr/', '/buː.m(ɯ)ɾ/']"
-boomerang,boomerang,"['/ˈbuːməɹæŋ/', '/ˈbuməɹæŋ/', '/bum.ʁɑ̃ɡ/']","['/ˈbuːməɹæŋ/', '/ˈbuməɹæŋ/', '/bum.ʁɑ̃ɡ/']"
-bootlegger,bootlegger,['/bɔ.ɔ.tlɛɡ.ʒe/'],['/bɔ.ɔ.tlɛɡ.ʒe/']
-boss,bos,"['/bɒs/', '/bɔs/', '/bɑs/', '/bɔs/', '/ˈbɔs/', '/bɔsː/', '/bɔs/', '/bos/']","['/bɔs/', '/ˈbɔːz/', '/bɔs/', '/boːs/', '/bos/', '/boːs/', '/ˈboːs/', '/ˈbos/', '/bôːs/', '/bóːs/', '/bɔ́s/', '/bos/']"
-bottom,botme,"['/ˈbɒtəm/', '/ˈbɑtəm/', '/bɔ.tɔm/']","['/ˈbɔtəm/', '/ˈbɔðəm/']"
-bouledogue,bulldog,['/bul.dɔɡ/'],"['/ˈbʊldɔɡ/', '/ˈbʊldɒɡ/', '/ˈbʊldɑɡ/', '/ˈbul.dɔɡ/', '/bul.dɔɡ/', '/bulˈdoɡ/']"
-bowling,bowling,"['/ˈbəʊlɪŋ/', '/ˈboʊliŋ/', '/bɔwleŋ/', '/bu.liŋ/', '/ˈbɔw.liŋk/', '/ˈboulin/', '/ˈbolin/']","['/ˈbəʊlɪŋ/', '/ˈboʊliŋ/', '/bɔwleŋ/', '/bu.liŋ/', '/ˈbɔw.liŋk/', '/ˈboulin/', '/ˈbolin/']"
-box-office,box office,['/bɔk.sɔ.fis/'],"['/ˈbɒksˌɒfɪs/', '/ˈbɑksˌɑfɪs/']"
-boy,boy,"['/bɔɪ/', '/bɔːə/', '/boj/', '/βoi/', '/βoɨ/', '/bɔi̯/', '/bɔj/', '/ˈbɔj/', '/ˈboi/', '/boi̯/', '/boi/', '/buːy/']","['/bɔɪ/', '/bɔːə/', '/boj/', '/βoi/', '/βoɨ/', '/bɔi̯/', '/bɔj/', '/ˈbɔj/', '/ˈboi/', '/boi̯/', '/boi/', '/buːy/']"
-boycott,boycott,"['/ˈbɔɪkɒt/', '/ˈbɔɪkɑt/', '/bɔj.kɔt/']","['/ˈbɔɪkɒt/', '/ˈbɔɪkɑt/', '/bɔj.kɔt/']"
-break,breken,"['/bɹeɪk/', '/bʁɛk/', '/ˈbrɛk/']","['/ˈbreːkə(n)/', '/ˈbrɛːkən/']"
-Brexit,Brexit,"['/ˈbɹɛɡzɪt/', '/ˈbɹɛksɪt/', '/ˈbrɛk.sɪt/', '/bʁɛk.sit/', '/ˈbrɛksɪt/', '/ˈbɾeɡsit/', '/ˈbrɛksɪt/']","['/ˈbɹɛɡzɪt/', '/ˈbɹɛksɪt/', '/ˈbrɛk.sɪt/', '/bʁɛk.sit/', '/ˈbrɛksɪt/', '/ˈbɾeɡsit/', '/ˈbrɛksɪt/']"
-Brian,Brian,"['/ˈbɹaɪən/', '/bʁa.jɑ̃/']","['/ˈbɹaɪən/', '/bʁa.jɑ̃/']"
-briefing,briefing,"['/ˈbɹiːfɪŋ/', '/ˈbri(ː).fɪŋ/', '/bʁi.fiŋ/', '/ˈbri.finɡ/', '/ˈbri.finɡ/', '/ˈbri.fin/', '/ˈbri.fiŋk/', '/ˈbɾifin/']","['/ˈbɹiːfɪŋ/', '/ˈbri(ː).fɪŋ/', '/bʁi.fiŋ/', '/ˈbri.finɡ/', '/ˈbri.finɡ/', '/ˈbri.fin/', '/ˈbri.fiŋk/', '/ˈbɾifin/']"
-Brixton,Brixton,"['/bɹɪkstən/', '/bʁiks.tɔn/']","['/bɹɪkstən/', '/bʁiks.tɔn/']"
-Broadway,Broadway,"['/ˈbɹɔdweɪ/', '/bʁɔdwe/', '/bʁodwe/', '/bʁodwɛ/', '/ˈbʁɔːdwɛɪ̯/', '/ˈbʁoːtveː/']","['/ˈbɹɔdweɪ/', '/bʁɔdwe/', '/bʁodwe/', '/bʁodwɛ/', '/ˈbʁɔːdwɛɪ̯/', '/ˈbʁoːtveː/']"
-Brown,Brown,"['/bʁawn/', '/bʁɔwn/']","['/bʁawn/', '/bʁɔwn/']"
-brownie,brownie,"['/ˈbɹaʊni/', '/bʁo.ni/', '/bʁɔ.ni/', '/ˈbɾauni/']","['/ˈbɹaʊni/', '/bʁo.ni/', '/bʁɔ.ni/', '/ˈbɾauni/']"
-brunch,brunch,"['/bɹʌntʃ/', '/bɹʌnʃ/', '/brɔnsj/', '/brɔnˀsj/', '/ˈbrʏnʃ/', '/bʁœnʃ/', '/bʁɔnʃ/', '/brant͡ʂ/', '/ˈbɾɐ̃.t͡ʃi/', '/ˈbɾɐ̃.t͡ʃɨ/', '/ˈbɾant͡ʃ/', '/brɵnɧ/']","['/bɹʌntʃ/', '/bɹʌnʃ/', '/brɔnsj/', '/brɔnˀsj/', '/ˈbrʏnʃ/', '/bʁœnʃ/', '/bʁɔnʃ/', '/brant͡ʂ/', '/ˈbɾɐ̃.t͡ʃi/', '/ˈbɾɐ̃.t͡ʃɨ/', '/ˈbɾant͡ʃ/', '/brɵnɧ/']"
-budget,bogett,"['/ˈbʌdʒ.ɪt/', '/bʏˈdʒɛt/', '/bʏtˈʃɛt/', '/by.dʒɛ/', '/ˈbad.d͡ʒet/']",[]
-bugle,bugle,"['/ˈbjuːɡəl/', '/byɡl/']","['/ˈbjuːɡəl/', '/byɡl/']"
-building,bildyng,"['/ˈbɪl.dɪŋ/', '/bil.diŋ/', '/bɪl.dɪŋ/']","['/ˈbiːldinɡ/', '/ˈbildinɡ/', '/ˈbyːldinɡ/', '/ˈbyldinɡ/']"
-bulldog,bulldog,"['/ˈbʊldɔɡ/', '/ˈbʊldɒɡ/', '/ˈbʊldɑɡ/', '/ˈbul.dɔɡ/', '/bul.dɔɡ/', '/bulˈdoɡ/']","['/ˈbʊldɔɡ/', '/ˈbʊldɒɡ/', '/ˈbʊldɑɡ/', '/ˈbul.dɔɡ/', '/bul.dɔɡ/', '/bulˈdoɡ/']"
-bullshit,bullshit,"['/ˈbʊlʃɪt/', '/bul.ʃit/', '/bɔl.ʃit/']","['/ˈbʊlʃɪt/', '/bul.ʃit/', '/bɔl.ʃit/']"
-bullshitter,bullshit,"['/bul.ʃi.te/', '/bɔl.ʃi.te/', '/bul.ʃi.tɑ̃/', '/bɔl.ʃi.tɑ̃/', '/bul.ʃi.te/', '/bɔl.ʃi.te/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃi.tɔ̃/', '/bɔl.ʃi.tɔ̃/', '/bul.ʃi.te/', '/bɔl.ʃi.te/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃi.tɛ/', '/bɔl.ʃi.tɛ/', '/bul.ʃi.tɛ/', '/bɔl.ʃi.tɛ/', '/bul.ʃi.tɛ/', '/bɔl.ʃi.tɛ/', '/bul.ʃi.tjɔ̃/', '/bɔl.ʃi.tjɔ̃/', '/bul.ʃi.tje/', '/bɔl.ʃi.tje/', '/bul.ʃi.tɛ/', '/bɔl.ʃi.tɛ/', '/bul.ʃi.te/', '/bɔl.ʃi.te/', '/bul.ʃi.ta/', '/bɔl.ʃi.ta/', '/bul.ʃi.ta/', '/bɔl.ʃi.ta/', '/bul.ʃi.tam/', '/bɔl.ʃi.tam/', '/bul.ʃi.tat/', '/bɔl.ʃi.tat/', '/bul.ʃi.tɛʁ/', '/bɔl.ʃi.tɛʁ/', '/bul.ʃi.tʁe/', '/bɔl.ʃi.tʁe/', '/bul.ʃi.tʁa/', '/bɔl.ʃi.tʁa/', '/bul.ʃi.tʁa/', '/bɔl.ʃi.tʁa/', '/bul.ʃi.tʁɔ̃/', '/bɔl.ʃi.tʁɔ̃/', '/bul.ʃi.tʁe/', '/bɔl.ʃi.tʁe/', '/bul.ʃi.tʁɔ̃/', '/bɔl.ʃi.tʁɔ̃/', '/bul.ʃi.tʁɛ/', '/bɔl.ʃi.tʁɛ/', '/bul.ʃi.tʁɛ/', '/bɔl.ʃi.tʁɛ/', '/bul.ʃi.tʁɛ/', '/bɔl.ʃi.tʁɛ/', '/bul.ʃi.tə.ʁjɔ̃/', '/bɔl.ʃi.tə.ʁjɔ̃/', '/bul.ʃi.tə.ʁje/', '/bɔl.ʃi.tə.ʁje/', '/bul.ʃi.tʁɛ/', '/bɔl.ʃi.tʁɛ/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃi.tjɔ̃/', '/bɔl.ʃi.tjɔ̃/', '/bul.ʃi.tje/', '/bɔl.ʃi.tje/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃi.tas/', '/bɔl.ʃi.tas/', '/bul.ʃi.tas/', '/bɔl.ʃi.tas/', '/bul.ʃi.ta/', '/bɔl.ʃi.ta/', '/bul.ʃi.ta.sjɔ̃/', '/bɔl.ʃi.ta.sjɔ̃/', '/bul.ʃi.ta.sje/', '/bɔl.ʃi.ta.sje/', '/bul.ʃi.tas/', '/bɔl.ʃi.tas/', '/bul.ʃit/', '/bɔl.ʃit/', '/bul.ʃi.tɔ̃/', '/bɔl.ʃi.tɔ̃/', '/bul.ʃi.te/', '/bɔl.ʃi.te/']","['/ˈbʊlʃɪt/', '/bul.ʃit/', '/bɔl.ʃit/']"
-bunker,bunker,"['/ˈbʌŋkə/', '/ˈbʌŋkɚ/', '/ˈbʏŋ.kər/', '/buŋ.kɛʁ/', '/buŋ.kœʁ/', '/bœŋ.kœʁ/', '/ˈbɐ̃.kɐɾ/', '/ˈbũ.kɛɾ/', '/ˈbũ.kɐɾ/', '/bǔnker/']","['/ˈbʌŋkə/', '/ˈbʌŋkɚ/', '/ˈbʏŋ.kər/', '/buŋ.kɛʁ/', '/buŋ.kœʁ/', '/bœŋ.kœʁ/', '/ˈbɐ̃.kɐɾ/', '/ˈbũ.kɛɾ/', '/ˈbũ.kɐɾ/', '/bǔnker/']"
-business,busines,"['/ˈbɪz.nɪs/', '/ˈbɪz.nɪz/', '/ˈbɪz.nəs/', '/ˈbɪz.nəz/', '/ˈbɪd.nəs/', '/ˈbɪd.nəz/', '/ˈbisnes/', '/ˈpisnes/', '/ˈbusinesː/', '/biz.nɛs/', '/ˈbi.znes/', '/ˈbi.znis/']",[]
-businessman,businessman,"['/ˈbɪznəsmən/', '/ˈbɪznɪsmən/', '/ˈbɪznəsmæn/', '/ˈbɪznəsmən/', '/biz.nɛs.man/']","['/ˈbɪznəsmən/', '/ˈbɪznɪsmən/', '/ˈbɪznəsmæn/', '/ˈbɪznəsmən/', '/biz.nɛs.man/']"
-businesswoman,plural,['/biz.nɛ.swo.man/'],[]
-butch,butch,"['/bʊtʃ/', '/butʃ/']","['/bʊtʃ/', '/butʃ/']"
-buzz,*bussen,"['/bʌz/', '/bøz/', '/byz/']",[]
-Cab,Cab,[],[]
-cabine,cabin,"['/ˌkaːˈbi.nə/', '/ka.bin/']","['/ˈkæbɪn/', '/ca.bin/']"
-caddy,caddy,"['/ˈkædi/', '/ka.di/']","['/ˈkædi/', '/ka.di/']"
-cake,cake,"['/keɪk/', '/keːk/', '/kɛk/', '/ˈkaːk(ə)/', '/ˈkeik/']","['/keɪk/', '/keːk/', '/kɛk/', '/ˈkaːk(ə)/', '/ˈkeik/']"
-caméra,camera,['/ka.me.ʁa/'],"['/ˈkæməɹə/', '/ˈkæmɹə/', '/ˈkaː.mə.raː/', '/ˈka.me.ra/', '/ˈka.me.ra/', '/ˈka.me.ra/', '/ˈka.me.ra/', '/ˈka.me.raː/', '/ˈka.me.ra/']"
-caméraman,cameraman,['/ka.me.ʁa.man/'],"['/ˈka.me.ra.men/', '/ˈka.me.ra.mɛn/', '/ka.me.raˈman/']"
-camérawoman,camerawoman,['/ka.me.ʁa.wu.man/'],[]
-camp,kampe,"['/kæmp/', '/ˈkamp/', '/ˈkam/', '/kɑ̃/', '/kɑ̃p/', '/kamp/', '/kɑmp/', '/ˈkamp/', '/kamp/']","['/kamp/', '/kɔːmp/']"
-canaque,kanaka,"['/ka.nak/', '/kɐ.ˈna.kɨ/', '/ka.ˈna.ki/', '/ka.ˈna.ke/']",[]
-Canso,Canso,[],[]
-Canterbury,Caunterbury,"['/ˈkæntəbəɹi/', '/ˈkæntəbəɹɪ/', '/ˈkæntəbɹɪ/', '/ˈkɛntɘbɘɹi/', '/ˈkɛntɘbɹi/', '/kɑ̃.tɛʁ.bœ.ʁi/', '/kanˈtɛr.bu.ri/', '/ˈkan.ter.bu.ri/']","['/ˈkau̯ntərburiː/', '/ˈkantərburiː/']"
-caper,cap,"['/ˈkeɪpɚ/', '/ˈkeɪpə/', '/ka.pe/', '/ka.pɑ̃/', '/ka.pe/', '/kap/', '/kap/', '/kap/', '/ka.pɔ̃/', '/ka.pe/', '/kap/', '/ka.pɛ/', '/ka.pɛ/', '/ka.pɛ/', '/ka.pjɔ̃/', '/ka.pje/', '/ka.pɛ/', '/ka.pe/', '/ka.pa/', '/ka.pa/', '/ka.pam/', '/ka.pat/', '/ka.pɛʁ/', '/ka.pʁe/', '/ka.pʁa/', '/ka.pʁa/', '/ka.pʁɔ̃/', '/ka.pʁe/', '/ka.pʁɔ̃/', '/ka.pʁɛ/', '/ka.pʁɛ/', '/ka.pʁɛ/', '/ka.pə.ʁjɔ̃/', '/ka.pə.ʁje/', '/ka.pʁɛ/', '/kap/', '/kap/', '/kap/', '/ka.pjɔ̃/', '/ka.pje/', '/kap/', '/ka.pas/', '/ka.pas/', '/ka.pa/', '/ka.pa.sjɔ̃/', '/ka.pa.sje/', '/ka.pas/', '/kap/', '/ka.pɔ̃/', '/ka.pe/', '/ˈka.per/', '/ˈka.per/']","['/kæp/', '/ˈkap/', '/kap/', '/t͡ʃap/', '/t͡ɕap/', '/kap/', '/t͡sap/', '/kap/', '/kap/', '/ˈt͡sap/']"
-Cappe,Cappe,[],[]
-car,carre,"['/kɑː/', '/kɑɹ/', '/ˈkar/', '/ˈkaɾ/', '/kaʁ/', '/karˠ/', '/kar/', '/t͡sar/', '/t͡sâr/', '/t͡sàːr/', '/t͡sáːr/', '/kar/']","['/kaʁ/', '/ˈkarre/']"
-cardigan,cardigan,"['/ˈkɑːdɪɡən/', '/kaʁ.di.ɡɑ̃/']","['/ˈkɑːdɪɡən/', '/kaʁ.di.ɡɑ̃/']"
-carencro,carrion crow,[],[]
-cargo,cargo,"['/ˈkɑːɡəʊ/', '/ˈkɑɹɡoʊ/', '/kaʁ.ɡo/', '/ˈkar.ɡo/', '/ˈkaɾ.ɣu/', '/ˈkaʁ.ɡu/', '/ˈkaɾɡo/']","['/ˈkɑːɡəʊ/', '/ˈkɑɹɡoʊ/', '/kaʁ.ɡo/', '/ˈkar.ɡo/', '/ˈkaɾ.ɣu/', '/ˈkaʁ.ɡu/', '/ˈkaɾɡo/']"
-carmeltazite,carmeltazite,['/kaʁ.mɛl.ta.zit/'],['/kaʁ.mɛl.ta.zit/']
-Carpenter,Carpenter,[],[]
-carpette,carpet,"['/kaʁ.pɛt/', '/ˈkarpɛt(ə)/']","['/ˈkɑː(ɹ)pɪt/', '/ˈkɑɹpət/']"
-cash,cash,"['/kæʃ/', '/kaʃ/', '/kɛʃ/', '/kaʃ/']","['/kæʃ/', '/kaʃ/', '/kɛʃ/', '/kaʃ/']"
-casting,castynge,"['/ˈkæstɪŋ/', '/ˈkɑːstɪŋ/', '/ˈkastɪŋ/', '/ˈkɛəstɪŋ/', '/kas.tiŋ/', '/ˈkas.tiŋk/', '/ˈkastin/']",[]
-Célestial,Celestial,['/se.lɛs.tjal/'],[]
-cent,cent,"['/sɛnt/', '/ˈsent/', '/ˈsen/', '/ˈsent/', '/sɛnt/', '/sɑ̃/', '/sɑ̃t‿/', '/sɛnt/', '/sɛn/', '/t͡sɛnt/', '/sent/', '/t͡sent/', '/tsent/', '/tsant/', '/t͡sɛnt/', '/t͡sênt/']","['/sɛnt/', '/ˈsent/', '/ˈsen/', '/ˈsent/', '/sɛnt/', '/sɑ̃/', '/sɑ̃t‿/', '/sɛnt/', '/sɛn/', '/t͡sɛnt/', '/sent/', '/t͡sent/', '/tsent/', '/tsant/', '/t͡sɛnt/', '/t͡sênt/']"
-chadègue,shaddock,['/ʃa.dɛɡ/'],"['/ˈʃadək/', '/ˈʃædək/']"
-chai,chai,"['/tʃaɪ/', '/tʃaj/', '/ʃɛ/']","['/tʃaɪ/', '/tʃaj/', '/ʃɛ/']"
-challenge,chalenge,"['/ˈt͡ʃæl.ɪnd͡ʒ/', '/ˈt͡ʃæl.ənd͡ʒ/', '/ʃa.lɑ̃ʒ/', '/tʃe.ɫəndʒ/']","['/ˈtʃalɛndʒ(ə)/', '/ˈtʃalandʒ(ə)/', '/ˈtʃalau̯ndʒ(ə)/', '/ˈkalɛndʒ(ə)/', '/ˈkalandʒ(ə)/']"
-charter,charter,"['/ˈt͡ʃɑːtə/', '/ˈt͡ʃɑɹtɚ/', '/ʃaʁ.tɛʁ/', '/ˈt͡ʃar.ter/', '/ˈt͡ʃaɾteɾ/']","['/ˈt͡ʃɑːtə/', '/ˈt͡ʃɑɹtɚ/', '/ʃaʁ.tɛʁ/', '/ˈt͡ʃar.ter/', '/ˈt͡ʃaɾteɾ/']"
-chat,chat,"['/tʃæt/', '/tʃɛt/', '/ʃa/', '/tʃat/', '/xat̪ˠ/', '/ˈt͡ʃat/', '/ˈkat/', '/t͡ʃætː/', '/xat/', '/ˈʃat(ʃ)(i)/', '/ˈʃɛt(ʃ)(i)/', '/ˈt͡ʃat/', '/tʃet/']","['/tʃæt/', '/tʃɛt/', '/ʃa/', '/tʃat/', '/xat̪ˠ/', '/ˈt͡ʃat/', '/ˈkat/', '/t͡ʃætː/', '/xat/', '/ˈʃat(ʃ)(i)/', '/ˈʃɛt(ʃ)(i)/', '/ˈt͡ʃat/', '/tʃet/']"
-cheat,acheten,"['/tʃiːt/', '/tʃit/']","['/s/', '/aˈtʃɛːtən/', '/ˈtʃɛːtən/']"
-cheddar,cheddar,"['/ˈtʃɛdə(ɹ)/', '/ˈtʃedːɑr/', '/tʃɛ.daʁ/', '/ˈʃɛ.daʁ/', '/ˈɕɛdːar/']","['/ˈtʃɛdə(ɹ)/', '/ˈtʃedːɑr/', '/tʃɛ.daʁ/', '/ˈʃɛ.daʁ/', '/ˈɕɛdːar/']"
-chelem,slam,['/ʃlɛm/'],"['/slæm/', '/ɬam˧/']"
-chelin,shilling,['/ʃə.lɛ̃/'],"['/ˈʃɪlɪŋ/', '/ʃi.liŋ/']"
-chewing-gum,chewing gum,['/ʃwiŋ.ɡɔm/'],[]
-chips,chips,"['/tʃɪps/', '/ʃɪps/', '/tʃɪps/', '/tʃɪps/', '/ˈʃips/', '/ʃips/', '/tʃip/', '/t͡ʂips/', '/t͡ʃips/', '/ˈt͡ʃibs/', '/ɕɪps/']","['/t͡ʃɪp/', '/tʃɪp/', '/çɪpʲ/', '/ˈt͡ʃip/', '/t͡ʂip/', '/kip/', '/ˈt͡ʃip/']"
-choker,choke,"['/ˈtʃəʊkə/', '/ˈtʃoʊkɚ/', '/tʃo.ke/', '/tʃo.kɑ̃/', '/tʃo.ke/', '/tʃok/', '/tʃok/', '/tʃok/', '/tʃo.kɔ̃/', '/tʃo.ke/', '/tʃok/', '/tʃo.kɛ/', '/tʃo.kɛ/', '/tʃo.kɛ/', '/tʃo.kjɔ̃/', '/tʃo.kje/', '/tʃo.kɛ/', '/tʃo.ke/', '/tʃo.ka/', '/tʃo.ka/', '/tʃo.kam/', '/tʃo.kat/', '/tʃo.kɛʁ/', '/tʃo.kʁe/', '/tʃo.kʁa/', '/tʃo.kʁa/', '/tʃo.kʁɔ̃/', '/tʃo.kʁe/', '/tʃo.kʁɔ̃/', '/tʃo.kʁɛ/', '/tʃo.kʁɛ/', '/tʃo.kʁɛ/', '/tʃo.kə.ʁjɔ̃/', '/tʃo.kə.ʁje/', '/tʃo.kʁɛ/', '/tʃok/', '/tʃok/', '/tʃok/', '/tʃo.kjɔ̃/', '/tʃo.kje/', '/tʃok/', '/tʃo.kas/', '/tʃo.kas/', '/tʃo.ka/', '/tʃo.ka.sjɔ̃/', '/tʃo.ka.sje/', '/tʃo.kas/', '/tʃok/', '/tʃo.kɔ̃/', '/tʃo.ke/']","['/t͡ʃəʊk/', '/t͡ʃoʊk/', '/tʃok/']"
-chum,chum,"['/tʃʌm/', '/tʃɔm/', '/xuːmˠ/', '/xʊmˠ/', '/xʊnˠ/', '/ʔum/']","['/tʃʌm/', '/tʃɔm/', '/xuːmˠ/', '/xʊmˠ/', '/xʊnˠ/', '/ʔum/']"
-chutney,chutney,"['/ˈtʃʌtni/', '/ˈtʃətni/', '/(t)ʃœt.ni/']","['/ˈtʃʌtni/', '/ˈtʃətni/', '/(t)ʃœt.ni/']"
-clamp,clamp,['/klæmp/'],['/klæmp/']
-clan,clan,"['/klæn/', '/klɛn/', '/klɑ̃/', '/ˈklan/', '/ˈklɛn/', '/ˈklan/']","['/klæn/', '/klɛn/', '/klɑ̃/', '/ˈklan/', '/ˈklɛn/', '/ˈklan/']"
-clinch,clinch,"['/klɪntʃ/', '/klintʃ/', '/klinʃ/']","['/klɪntʃ/', '/klintʃ/', '/klinʃ/']"
-clip,clippen,"['/klɪp/', '/klip/', '/ˈklip/', '/ˈklip/']",[]
-clown,clown,"['/klaʊn/', '/klɑu̯n/', '/klun/', '/ˈklawn/', '/klawn/', '/ˈklon/', '/ˈklaʊn/', '/klɔu̯n/']","['/klaʊn/', '/klɑu̯n/', '/klun/', '/ˈklawn/', '/klawn/', '/ˈklon/', '/ˈklaʊn/', '/klɔu̯n/']"
-club,clubbe,"['/klʌb/', '/klʏp/', '/klœb/', '/klyb/', '/klʏb/', '/ˈklab/', '/ˈklɛb/', '/ˈklub/', '/ˈkløb/', '/ˈklub/']",['/ˈklub(ə)/']
-cluster,cluster,"['/ˈklʌstə/', '/ˈklʌstɚ/', '/ˈklʏs.tər/', '/klœs.tœʁ/', '/klys.tœʁ/', '/ˈklɐs.teʁ/']","['/ˈklʌstə/', '/ˈklʌstɚ/', '/ˈklʏs.tər/', '/klœs.tœʁ/', '/klys.tœʁ/', '/ˈklɐs.teʁ/']"
-coach,coach,"['/kəʊtʃ/', '/koʊtʃ/', '/koːtʃ/', '/kotʃ/', '/ˈkot͡ʃ/', '/ˈkɔt͡ʃ/', '/kɔwt͡ʂ/', '/ˈkot͡ʃ/']","['/kəʊtʃ/', '/koʊtʃ/', '/koːtʃ/', '/kotʃ/', '/ˈkot͡ʃ/', '/ˈkɔt͡ʃ/', '/kɔwt͡ʂ/', '/ˈkot͡ʃ/']"
-cockpit,cockpit,['/kɔk.pit/'],['/kɔk.pit/']
-cocktail,cocktail,"['/ˈkɒkteɪl/', '/ˈkɔkteːl/', '/ˈkoktɑi̯l/', '/ˈkoktei̯l/', '/kɔk.tɛl/', '/ˈkɔk.tel/']","['/ˈkɒkteɪl/', '/ˈkɔkteːl/', '/ˈkoktɑi̯l/', '/ˈkoktei̯l/', '/kɔk.tɛl/', '/ˈkɔk.tel/']"
-coke,colk,"['/kəʊk/', '/koʊk/', '/koːk/', '/kɔk/']",['/kɔlk/']
-comeback,comeback,"['/ˈkʌmbæk/', '/ˈkɑm.bɛk/', '/ˈkæmbæk/', '/ˈkæmbækːi/', '/kɔm.bak/', '/kœm.bak/', '/kamˈbɛk/']","['/ˈkʌmbæk/', '/ˈkɑm.bɛk/', '/ˈkæmbæk/', '/ˈkæmbækːi/', '/kɔm.bak/', '/kœm.bak/', '/kamˈbɛk/']"
-comité,committee,"['/ˌkɔ.miˈteː/', '/kɔ.mi.te/', '/ku.mi.ˈtɛ/', '/kɔ.mi.ˈtɛ/', '/ko.mi.ˈtɛ/', '/komiˈte/']",[]
-complétion,completion,['/kɔ̃.ple.sjɔ̃/'],['/kəmˈpliːʃən/']
-consumérisme,consumerism,['/kɔ̃.sy.me.ʁism/'],[]
-container,conteyner,"['/kənˈteɪnə/', '/kənˈteɪnɚ/', '/ˌkɔnˈteː.nər/', '/kɔ̃.tɛ.nɛʁ/', '/konˈtɛj.ner/', '/konˈtaj.ner/', '/konˈteineɾ/', '/kɔnˈtɛjnɛr/']",[]
-contredanse,country dance,['/kɔ̃.tʁə.dɑ̃s/'],[]
-contreproductif,counterproductive,['/kɔ̃.tʁə.pʁɔ.dyk.tif/'],[]
-cookie,cook,"['/ˈkʊki/', '/ˈkuːki/', '/ˈku.ki/', '/ˈkuki/', '/ku.ki/', '/ˈku.ki/', '/ˈku.ki/', '/ˈkuki/']","['/kʊk/', '/kuːk/', '/koːk/']"
-cool,cool,"['/kuːl/', '/ku(ː)l/', '/kul/', '/kul/', '/ˈkul/', '/kuːl/']","['/kuːl/', '/ku(ː)l/', '/kul/', '/kul/', '/ˈkul/', '/kuːl/']"
-copycat,copycat,"['/kɔ.pi.ka/', '/kɔ.pi.kat/']","['/kɔ.pi.ka/', '/kɔ.pi.kat/']"
-copyright,copyright,"['/ˈkɑpiˌɹaɪt/', '/ˈkɒpiˌɹaɪt/', '/kɔ.pi.ʁajt/', '/ko.piˈrajt/', '/ˌkɔ.piˈrajt/']","['/ˈkɑpiˌɹaɪt/', '/ˈkɒpiˌɹaɪt/', '/kɔ.pi.ʁajt/', '/ko.piˈrajt/', '/ˌkɔ.piˈrajt/']"
-Corcoran,Corcoran,['/kɔʁ.kɔ.ʁɑ̃/'],['/kɔʁ.kɔ.ʁɑ̃/']
-corgi,corgi,"['/ˈkɔːɡi/', '/ˈkɔɹɡi/', '/ˈkɔːɡuːn/', '/ˈkɔɹɡun/', '/ˈkɔr.ɡi/', '/ˈkorɡi/', '/kɔʁ.ɡi/', '/ˈkoɾɡi/', '/ˈkɔrɡi/']","['/ˈkɔːɡi/', '/ˈkɔɹɡi/', '/ˈkɔːɡuːn/', '/ˈkɔɹɡun/', '/ˈkɔr.ɡi/', '/ˈkorɡi/', '/kɔʁ.ɡi/', '/ˈkoɾɡi/', '/ˈkɔrɡi/']"
-cork,cork,"['/kɔɹk/', '/kɔːk/', '/kɔʁk/']","['/kɔɹk/', '/kɔːk/', '/kɔʁk/']"
-corner,corner,"['/ˈkɔɹnɚ/', '/ˈkɔːnə(ɹ)/', '/koɾˈne/', '/kurˈne/', '/koɾˈneɾ/', '/kɔʁ.nœʁ/', '/kɔʁ.nɛʁ/', '/kɔʁ.ne/', '/kɔʁ.nɑ̃/', '/kɔʁ.ne/', '/kɔʁn/', '/kɔʁn/', '/kɔʁn/', '/kɔʁ.nɔ̃/', '/kɔʁ.ne/', '/kɔʁn/', '/kɔʁ.nɛ/', '/kɔʁ.nɛ/', '/kɔʁ.nɛ/', '/kɔʁ.njɔ̃/', '/kɔʁ.nje/', '/kɔʁ.nɛ/', '/kɔʁ.ne/', '/kɔʁ.na/', '/kɔʁ.na/', '/kɔʁ.nam/', '/kɔʁ.nat/', '/kɔʁ.nɛʁ/', '/kɔʁ.nə.ʁe/', '/kɔʁ.nə.ʁa/', '/kɔʁ.nə.ʁa/', '/kɔʁ.nə.ʁɔ̃/', '/kɔʁ.nə.ʁe/', '/kɔʁ.nə.ʁɔ̃/', '/kɔʁ.nə.ʁɛ/', '/kɔʁ.nə.ʁɛ/', '/kɔʁ.nə.ʁɛ/', '/kɔʁ.nə.ʁjɔ̃/', '/kɔʁ.nə.ʁje/', '/kɔʁ.nə.ʁɛ/', '/kɔʁn/', '/kɔʁn/', '/kɔʁn/', '/kɔʁ.njɔ̃/', '/kɔʁ.nje/', '/kɔʁn/', '/kɔʁ.nas/', '/kɔʁ.nas/', '/kɔʁ.na/', '/kɔʁ.na.sjɔ̃/', '/kɔʁ.na.sje/', '/kɔʁ.nas/', '/kɔʁn/', '/kɔʁ.nɔ̃/', '/kɔʁ.ne/', '/ˈkɔr.ner/', '/ˈkɔrnər(ə)/', '/ˈkɔrneːr(ə)/']","['/ˈkɔɹnɚ/', '/ˈkɔːnə(ɹ)/', '/koɾˈne/', '/kurˈne/', '/koɾˈneɾ/', '/kɔʁ.nœʁ/', '/kɔʁ.nɛʁ/', '/kɔʁ.ne/', '/kɔʁ.nɑ̃/', '/kɔʁ.ne/', '/kɔʁn/', '/kɔʁn/', '/kɔʁn/', '/kɔʁ.nɔ̃/', '/kɔʁ.ne/', '/kɔʁn/', '/kɔʁ.nɛ/', '/kɔʁ.nɛ/', '/kɔʁ.nɛ/', '/kɔʁ.njɔ̃/', '/kɔʁ.nje/', '/kɔʁ.nɛ/', '/kɔʁ.ne/', '/kɔʁ.na/', '/kɔʁ.na/', '/kɔʁ.nam/', '/kɔʁ.nat/', '/kɔʁ.nɛʁ/', '/kɔʁ.nə.ʁe/', '/kɔʁ.nə.ʁa/', '/kɔʁ.nə.ʁa/', '/kɔʁ.nə.ʁɔ̃/', '/kɔʁ.nə.ʁe/', '/kɔʁ.nə.ʁɔ̃/', '/kɔʁ.nə.ʁɛ/', '/kɔʁ.nə.ʁɛ/', '/kɔʁ.nə.ʁɛ/', '/kɔʁ.nə.ʁjɔ̃/', '/kɔʁ.nə.ʁje/', '/kɔʁ.nə.ʁɛ/', '/kɔʁn/', '/kɔʁn/', '/kɔʁn/', '/kɔʁ.njɔ̃/', '/kɔʁ.nje/', '/kɔʁn/', '/kɔʁ.nas/', '/kɔʁ.nas/', '/kɔʁ.na/', '/kɔʁ.na.sjɔ̃/', '/kɔʁ.na.sje/', '/kɔʁ.nas/', '/kɔʁn/', '/kɔʁ.nɔ̃/', '/kɔʁ.ne/', '/ˈkɔr.ner/', '/ˈkɔrnər(ə)/', '/ˈkɔrneːr(ə)/']"
-cosom hockey,cosom hockey,[],[]
-cotidal,cotidal,['/kɔ.ti.dal/'],['/kɔ.ti.dal/']
-cottage,cotage,"['/ˈkɑtɪdʒ/', '/ˈkɑtədʒ/', '/ˈkɒtɪdʒ/', '/kɔ.taʒ/']",[]
-court,court,"['/kɔːt/', '/kɔɹt/', '/ko(ː)ɹt/', '/koət/', '/kuʁ/', '/kuːrt/']","['/kɔːt/', '/kɔɹt/', '/ko(ː)ɹt/', '/koət/', '/kuʁ/', '/kuːrt/']"
-cover,coveren,"['/ˈkʌvɚ/', '/ˈkʌvə/', '/ˈkɑ.vər/', '/ˈkɔ.vər/', '/ˈkoʋer/', '/ˈkoʋeri/', '/kɔ.vœʁ/', '/ˈkɔ.vɛr/', '/ˈka.vɛr/', '/ˈkobeɾ/']","['/ˈkɑ.və.rə(n)/', '/ˈkɔ.və.rə(n)/', '/ˈkuv(ə)rən/']"
-covergirl,cover girl,['/kɔ.vɛʁ.ɡœʁl/'],[]
-crack,crakken,"['/kɹæk/', '/ˈkræk/', '/kʁak/', '/ˈkɾak/']",[]
-crawl,crawlen,"['/kɹɔːɫ/', '/kɹɔɫ/', '/kɹɑl/', '/kɹoːl/', '/kʁol/']",[]
-cricket,creket,"['/ˈkɹɪk.ɪt/', '/ˈkrɪ.kət/', '/kʁi.kɛt/', '/ˈkri.kit/']",[]
-croquet,croquet,"['/ˈkɹəʊkeɪ/', '/ˈkɹəʊki/', '/kɹoʊˈkeɪ/', '/kɾoˈkət/', '/kɾuˈkɛt/', '/kɾoˈket/', '/kroːˈkɛt/', '/kʁɔ.kɛ/']","['/ˈkɹəʊkeɪ/', '/ˈkɹəʊki/', '/kɹoʊˈkeɪ/', '/kɾoˈkət/', '/kɾuˈkɛt/', '/kɾoˈket/', '/kroːˈkɛt/', '/kʁɔ.kɛ/']"
-crowdfunding,crowdfunding,"['/kʁawd.fɔn.diŋ/', '/kɾaudˈfandin/']","['/kʁawd.fɔn.diŋ/', '/kɾaudˈfandin/']"
-crumble,*crymblen,"['/ˈkɹʌmbəl/', '/kʁœm.bœl/', '/kʁœ̃bl/']",[]
-cummingtonite,cummingtonite,"['/ˈkʌmɪŋtəˌnaɪt/', '/kœ.miŋ.tɔ.nit/']","['/ˈkʌmɪŋtəˌnaɪt/', '/kœ.miŋ.tɔ.nit/']"
-curling,curling,"['/ˈkəɹlɪŋ/', '/ˈkɜː(ɹ)lɪŋ/', '/ˈkurliŋ/', '/ˈkøːrliŋ/', '/kœʁ.liŋ/', '/ˈkɛr.liŋk/']","['/ˈkəɹlɪŋ/', '/ˈkɜː(ɹ)lɪŋ/', '/ˈkurliŋ/', '/ˈkøːrliŋ/', '/kœʁ.liŋ/', '/ˈkɛr.liŋk/']"
+loan_word,original_word
+abalone,abalone
+Abby,Abby
+Aberdeen,Aberdeen
+AC45,AC45
+AC72,AC72
+AC90,AC90
+addiction,addiction
+adrénaline,adrenaline
+afforder,afford
+AFM,AFM
+after-dinner,after dinner
+agnostique,agnostic
+airbag,airbag
+albatros,albatross
+all dressed,all-dressed
+aluminium,aluminium
+anode,anode
+API,API
+appendicite,appendicitis
+aquafaba,aquafaba
+aquaplaning,aquaplaning
+Asbestos,asbestos
+Auckland,ak
+audit,audit
+Audrey,Æþelþryþ
+auto-stop,stop
+ba,where
+baby-sitter,baby-sitter
+babyboom,baby boom
+bachelor,bacheler
+back,bak
+backgammon,gamen
+backside,frontside
+bader,bad
+badge,badge
+badlands,badlands
+badminton,badminton
+baffle,baffle
+bagel,bee
+baggy,baggy
+balloune,balloon
+bar,barre
+barbecue,barbecue
+barmaid,barmaid
+barman,barman
+barrel,barel
+base-ball,base-ball
+baseball,baseball
+basket-ball,basketball
+baud,bold
+bazooka,bazooka
+be-bop,bebop
+beach,"bache, bæcche"
+beatnik,beatnik
+bébé-boumeur,baby boomer
+bécosses,backhouse
+beefsteak,beefsteak
+bendo,bando
+best-seller,best-seller
+bicurieux,bicurious
+bifteck,beefsteak
+big air,big air
+Big Apple,Big Apple
+Big Mac,Big Mac
+biker,biker
+bikeur,biker
+bill,bill
+binge-watcher,binge-watcher
+biopic,biopic
+BIP,BIP
+birdie,birdie
+bitch,biche
+bitcoin,bitcoin
+black,blak
+blockbuster,blockbuster
+blog,blog
+bloody mary,bloody mary
+blues,blues
+bluff,bluff
+bluffer,bluff
+blush,blusshen
+boat-people,boat people
+bob,bobben
+bodybuilding,bodybuilding
+bogey,bugge
+bogue,bug
+boiler,boiler
+bol,ball
+bomber,bomber
+bonus,bonus
+boob,boob
+booker,bokere
+bookmaker,bokmakere
+boom,boom
+boomer,boomer
+boomerang,boomerang
+bootlegger,bootlegger
+boss,bos
+bottom,botme
+bouledogue,bulldog
+bowling,bowling
+box-office,box office
+boy,boy
+boycott,boycott
+break,breken
+Brexit,Brexit
+Brian,Brian
+briefing,briefing
+Brixton,Brixton
+Broadway,Broadway
+Brown,Brown
+brownie,brownie
+brunch,brunch
+budget,bogett
+bugle,bugle
+building,bildyng
+bulldog,bulldog
+bullshit,bullshit
+bullshitter,bullshit
+bunker,bunker
+business,busines
+businessman,businessman
+businesswoman,plural
+butch,butch
+buzz,*bussen
+Cab,Cab
+cabine,cabin
+caddy,caddy
+cake,cake
+caméra,camera
+caméraman,cameraman
+camérawoman,camerawoman
+camp,kampe
+canaque,kanaka
+Canso,Canso
+Canterbury,Caunterbury
+caper,cap
+Cappe,Cappe
+car,carre
+cardigan,cardigan
+carencro,carrion crow
+cargo,cargo
+carmeltazite,carmeltazite
+Carpenter,Carpenter
+carpette,carpet
+cash,cash
+casting,castynge
+Célestial,Celestial
+cent,cent
+chadègue,shaddock
+chai,chai
+challenge,chalenge
+charter,charter
+chat,chat
+cheat,acheten
+cheddar,cheddar
+chelem,slam
+chelin,shilling
+chewing-gum,chewing gum
+chips,chips
+choker,choke
+chum,chum
+chutney,chutney
+clamp,clamp
+clan,clan
+clinch,clinch
+clip,clippen
+clown,clown
+club,clubbe
+cluster,cluster
+coach,coach
+cockpit,cockpit
+cocktail,cocktail
+coke,colk
+comeback,comeback
+comité,committee
+complétion,completion
+consumérisme,consumerism
+container,conteyner
+contredanse,country dance
+contreproductif,counterproductive
+cookie,cook
+cool,cool
+copycat,copycat
+copyright,copyright
+Corcoran,Corcoran
+corgi,corgi
+cork,cork
+corner,corner
+cosom hockey,cosom hockey
+cotidal,cotidal
+cottage,cotage
+court,court
+cover,coveren
+covergirl,cover girl
+crack,crakken
+crawl,crawlen
+cricket,creket
+croquet,croquet
+crowdfunding,crowdfunding
+crumble,*crymblen
+cummingtonite,cummingtonite
+curling,curling
+curryfication,(Haskell) Curry
+customiser,customise
+dandy,dandle
+date,date
+Davis,Davis
+dead,ded
+deader,dead
+deal,del
+dealer,delare
+dealeur,dealer
+déboguer,debug
+démarketing,demarketing
+derby,derby
+design,designen
+designer,designer
+desperado,desperate
+destroyer,destroyer
+détective,detective
+Detroit,district
+dianétique,Dianetics
+dinosaure,dinosaur
+diode,diode
+directer,direct
+distancer,distance
+Djeferson,Jefferson
+dollar,dollar
+domper,dump
+donut,donut
+doper,dope
+doping,doping
+draft,draught
+drainer,drain
+dribble,dribble
+drink,drynken
+driver,drivere
+driveur,driver
+drone,drane
+drop,droppe
+dropper,drop
+Dubay,Dubay
+dubstep,dubstep
+duffel-coat,duffel coat
+eagle,egle
+écouter,auscultate
+Edmonton,Adelmetone
+électricité,electricity
+électro,electro
+Éliot,Elliott
+email,email
+empathie,empathy
+EO,EO
+escalator,plural
+establishment,*establishment
+Etobicoke,Etobicoke
+express,express
+externalité,externality
+fair-play,fair play
+fake news,fake news
+fan,fan
+Fanny,Fanny
+fantasy,fantasy
+FAQ,FAQ
+Far West,far west
+fashionable,fashionable
+fat bike,fat bike
+fax,fax
+featurette,featurette
+feedback,feedback
+feeling,felynge
+fem,femme
+ferry,ferien
+festival,frēols
+film,filme
+fioul,fuel
+firme,firm
+firmware,firmware
+fitness,fitness
+fixe,fix
+flamer,flame
+flanelle,flannel
+flash,flasshen
+flibustier,freebooter
+flirt,gill-flurt
+flirter,fleardere
+flu,flu
+flush,flusshen
+flyer,flyer
+folklore,folclar
+follower,folwer
+food truck,food truck
+foodista,foodista
+foodtruck,food truck
+football,footbal
+footing,fotyng
+forum,forum
+Francis,Francis
+frappuccino,frappuccino
+freestyle,freestyle
+freezer,freezer
+french,French
+frencher,French kiss
+frisbee,plural
+Frobisher Bay,Frobisher Bay
+frontside,frontside
+fucker,to fuck
+fuel,fewell
+full,ful
+Fundy,Fundy
+furry,furry
+gadget,gadget
+gag,gaggen
+gambler,gamble
+gamer,gamer
+gang,gangen
+-gate,geat
+gay,gay
+geek,geek
+gentleman,gentilman
+ghréline,ghrelin
+gimmick,gimmick
+gin,gin
+globish,Globish
+goal,gol
+goalball,goalball
+goddam,goddamn
+gogol,googol
+gospel,gospel
+gourgouran,grogram
+gow,girl
+Grand Isle,Grand Isle
+greeter,greter
+grog,grog
+groggy,groggy
+groove,grov
+guimbler,gamble
+guinée,guinea
+hacker,hakker
+hall,halle
+Halloween,Alhalwemesse
+handicap,handicap
+happy end,happy
+hard,hard
+hardware,uncountable
+hashtag,hashtag
+Head-Smashed-In,Head-Smashed-In
+hip hop,hip-hop
+hippie,hippie
+hipster,hipster
+hobby,hoby
+hold-up,hold-up
+hornette,hornet
+hot-dog,hot dog
+hovercraft,hovercraft
+HPGP,HPGP
+HTML,HTML
+Hull,Hull
+humour,humour
+iceberg,iceberg
+icône,icon
+idiolecte,idiolect
+impeachment,empechement
+implémenter,implement
+incommunicado,incommunicado
+intensité,intensity
+interfacer,interface
+interférer,interfere
+internet,Internet
+Internet,Internet
+interviewer,to interview
+ion,ion
+IPC,IPC
+iPhone,iPhone
+iron ring,iron ring
+jacuzzi,plural
+jazz,jazz
+jean,Gene
+jeep,jeep
+jerricane,jerrycan
+Jessica,Jessica
+jet,get
+jetlagué,jet lag
+job,gobbe
+jogging,jogging
+Johnson,Johnson
+joint,joynt
+Jones,Jones
+joycien,Joyce
+jumping,jumping
+jungle,jungle
+jury,jure
+Kamloops,Kamloops
+kelp,culp
+Kentucky,Kentucky
+Kenya,Kenya
+ketchup,ketchup
+Kevin,Kevin
+kevlar,Kevlar
+KF94,KF94
+kicker,kick
+kid,kide
+kidnappage,kidnapping
+kidnapper,kidnap
+kidnapping,kidnapping
+klaxon,klaxon
+knickerbockers,knickerbockers
+knickers,knickers
+Kricken,Kricken
+label,label
+lakh,lakh
+Laurel Canyon,Laurel Canyon
+lavatory,lavatorie
+leader,leder
+leadership,plural
+let,leten
+libertarianisme,libertarianism
+Liberty City,Liberty City
+lifting,lifting
+light,light
+living,living room
+lob,*lubbǭ
+lobby,lēaf
+lobbying,lobbying
+locavore,locavore
+loch,lough
+logo,logo
+loguer,log
+look,loken
+loose,loos
+loser,loser
+Lunenburg,Lunenburg
+Macintosh,Macintosh
+MacKinnon,MacKinnon
+magazine,magazine
+magnéto,magneto
+mahagoni,mahagony
+mail,male
+maine coon,Maine Coon
+malware,malware
+-man,-man
+management,management
+manager,manager
+manosphère,manosphere
+marketing,marketing
+master,maister
+maximiser,maximize
+McKinnon,McKinnon
+Medicine Hat,Medicine Hat
+meeting,meeting
+mégabyte,megabyte
+mème,meme
+métal,metal
+Michael,Michael
+Michigan,Michigan
+Mike,Mike
+mildiou,mildew
+milkshake,milkshake
+Miller,Miller
+milord,my Lord
+minimiser,minimize
+minorité,minority
+mistake,mistaken
+mix,mixen
+mixer,mixer
+modem,modem
+moire,mohair
+moleskine,moleskin
+Moore,Moore
+Moose Jaw,Moose Jaw
+moppe,mop
+mormon,Mormon
+moron,moron
+muffin,muffin
+mug,muga
+Muriel,Muriel
+must,moste
+Nancy,Nancy
+neck,nekke
+Net,Net
+nétiquette,netiquette
+neurotypique,neurotypical
+New Rochelle,New Rochelle
+new wave,new wave
+New York,New York
+Nigeria,Nigeria
+no comment,no comment
+nom de plume,nom de plume
+nope,hnoppa
+offshore,offshore
+okay,okay
+O'Keefe,O'Keefe
+oléorésine,oleoresin
+open,open
+orque,orc
+Ottawa,Ottawa
+ouate de phoque,what the fuck
+oups,oops
+outsider,outsider
+overdose,overdose
+paddock,parrok
+paddy,paddy
+padna,partner
+Paki,Paki
+palace,paleys
+pamphlet,pamflet
+panel,panel
+paquebot,packet-boat
+parker,park
+parking,parking
+party,party
+passing,passing
+patch,patche
+patchwork,patchwork
+pédigrée,pedigree
+Peggy,Peggy
+penalty,penalty
+penny,penny
+pepperoni,pepperoni
+performance,performance
+périhélie,perihelion
+permaculture,permaculture
+pétrel,petrel
+pickle,pikel
+piercing,piercing
+pimper,to pimp
+pin-up,plural
+pixel,pixel
+plastic,plastic
+play-boy,playboy
+playback,playback
+playlist,playlist
+plug,plough
+podcast,podcast
+podcasting,podcasting
+pointer,pointer
+poker,puck
+Polandball,Polandball
+pomélo,pomelo
+porridge,porridge
+Porter,porter
+post-it,post-it
+poster,poster
+pot,pot
+prédictif,predictive
+préhistorique,prehistoric
+préon,preon
+Princeville,Princeville
+prioriser,prioritize
+psilocybine,psilocybin
+pub,pub
+pudding,poding
+puffin,poffin
+pugiliste,pugilist
+pull-over,pullover
+punch,punchen
+punchline,punchline
+punk,punk
+puritain,puritan
+putter,putter
+puzzle,puzzle
+pyjama,pajamas
+quark,quark
+quarterback,quarterback
+quasar,quasar
+queer,queer
+question-tag,tag question
+ragequitter,ragequit
+raid,rade
+rail,rail
+raper,rap
+rapper,rapper
+rave,raven
+rave party,rave party
+RBBG,RBBG
+récursif,recursive
+recycler,recycle
+red light,red-light district
+redingote,riding-coat
+relish,relish
+remake,remake
+remastériser,remaster
+remix,remix
+reporter,reportour
+reporting,reporting
+résilience,resilience
+responsabilité,responsibility
+rétrogaming,retrogaming
+revolver,revolver
+rhum,rum
+rider,ryder
+riff,*rif
+roadmap,roadmap
+rock,rocke
+rocking-chair,plural
+roller,rollere
+rosbif,roast beef
+round,round
+Roy,Roy
+rugby,Rocheberie
+salaryman,salary man
+sandwich,sandwich
+sassaquois,sasquatch
+scalper,scalp
+scanner,scanner
+scanneur,scanner
+scoop,scope
+scooter,scooter
+score,score
+scotch,scocchen
+scratch,scracchen
+script,scrit
+selfie,selfie
+setter,settere
+sex appeal,sex appeal
+sex-appeal,sex appeal
+sex-symbol,sex symbol
+sexy,sexy
+shampooing,shampooing
+Sherbrooke,Sherbrooke
+shift,schiften
+ship,ship
+shit,schit
+shogunal,shogunal
+shopping,shopping
+short,schort
+shortcake,shortcake
+shortstop,shortstop
+sinécure,sinecure
+sitcom,sitcom
+sketch,sketch
+skidpad,skidpad
+skipper,skippere
+slogan,caru
+slopestyle,slopestyle
+slow,slow
+smartphone,smartphone
+smash,smash
+sma't,smart
+smiley,smiley
+Smith,Smith
+smoked meat,smoked meat
+smurf,The Smurfs
+sniper,sniper
+snob,snob
+snober,snub
+snooker,snooker
+snowboard,snowboard
+soap,sope
+socquette,sock
+soda,soda
+soft,softe
+softball,softball
+sonar,sonar
+soul,soule
+spaghettifier,spaghettify
+spam,spam
+speaker,speker
+spin,spinnen
+spleen,splene
+spoiler,spoiler
+sponsor,sponsor
+spork,spork
+sport,sporten
+sportswoman,plural
+sprint,sprenten
+sprinter,sprinter
+square,square
+squash,squachen
+squatter,squat
+squètche,sketch
+ST,ST
+staff,staf
+stand,standen
+standard,standard
+star,sterre
+starter,starter
+starting block,starting block
+steak,steike
+steeple,stepel
+stellarator,stellarator
+steward,steward
+stock,stocc
+Stoneham,Stonham
+stop,full stop
+storytelling,storytelling
+streaming,stremyng
+stress,destresse
+striptease,striptease
+stylographe,stylograph
+subliminal,subliminal
+super-héros,superhero
+superman,superman
+superstore,superstore
+superwoman,plural
+supplétion,suppletion
+supporter,supporter
+suprématie,supremacy
+surfer,surf
+suspense,suspense
+SUV,SUV
+sweat,swete
+swing,swyngen
+switch,switch
+T-shirt,T-shirt
+tabloïd,tabloid
+tacle,tackle
+tag,tagge
+tank,tank
+tarmac,tarmacadam
+taser,taser
+tatouer,tattoo
+Taylor,Taylor
+tee-shirt,tee-shirt
+teenager,teenager
+template,template
+Tenderloin,Tenderloin
+tennis,tennis
+terminus,terminus
+test,test
+Texas,Texas
+Thaïlande,Thailand
+thanakha,thanaka
+théisme,theism
+tholin,tholin
+thread,thred
+thriller,thriller
+ticheurte,T-shirt
+ticket,ticket
+timing,timing
+tinque,tank
+toast,tost
+toner,toner
+tonic,tonic
+too much,too much
+top,top
+top-modèle,top model
+top-secret,top-secret
+toune,tune
+tourisme,tourism
+touriste,tourist
+tract,tract
+Tracy,Tracy
+trader,trader
+trafic,traffic
+tramway,tramway
+trance,traunce
+transistor,transistor
+travelling,travel
+trench-coat,trench coat
+troll,trollen
+trolley,trolley
+truck,truken
+trust,trust
+tunnel,tunne
+tupperware,plural
+twist,twist
+tycoon,大君
+Tylenol,Tylenol
+Ultima Thule,Ultima Thule
+underflip,underflip
+underground,undergrounde
+uppercut,uppercut
+van,fan
+Van Allen,Van Allen
+vaseline,uncountable
+ventilateur,ventilator
+véranda,veranda
+vibe,vibe
+Victoriatown,Victoriatown
+Victoriaville,Victoriaville
+vidéo,video
+vintage,vendage
+visualiser,visualise
+vocaliste,vocalist
+volley-ball,volleyball
+volt,volt
+vote,vote
+vuvuzela,vuvuzela
+wafer,wafre
+wagon,wæġn
+walkman,walkman
+wallaby,wallaby
+warrant,warant
+water,water
+water-closet,water closet
+waterpolo,water polo
+watt,watt
+WC,WC
+Web,Web
+webcam,webcam
+week-end,weekend
+weekend,weekend
+weird,werde
+Werth,Werth
+western,westerne
+wheeling,wheeling
+whig,whig
+whiskey,whiskey
+whisky,whisky
+whist,whist
+wiki,web
+William,William
+Williams,Williams
+Wilson,Wilson
+winchester,Winchester
+Winnipeg,Winnipeg
+wokisme,wokeism
+-woman,businesswoman
+woofing,woofing
+wrap,wrappen
+XPS,XPS
+yacht,yacht
+yacht-club,yacht club
+yachtsman,yachtsman
+yachtswoman,plural
+yanké,Yankee
+yard,yerd
+yes,yes
+yéyé,yeah-yeah
+zoom,zoom

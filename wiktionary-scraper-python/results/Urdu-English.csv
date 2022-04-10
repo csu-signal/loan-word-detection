@@ -1,114 +1,117 @@
-loan_word,original_word,loan_word_ipas,original_word_ipas
-آئرلینڈ,Ireland,[],['/ˈaɪə(ɹ)lənd/']
-آسٹریا,Austria,"['/ɔːs.ʈə.ɾɪ.jɑː/', '/ɔːs.ʈɾɪ.jɑː/']","['/ˈɒs.tɹɪə/', '/ˈɔːs.tɹɪə/', '/ˈɔs.tɹi.ə/', '/ˈɑst.ɹi.ə/', '/au̯s̺tria/', '/ˈɑu̯striɑ/', '/ˈaw.strja/', '/ˈau̯s.tri.a/', '/ˈau̯s.tri.a/', '/ˈaw.strja/', '/ˈaustɾja/']"
-ارجنٹائن,Argentina,['/əɾ.d͡ʒən.ʈɑː.iːn/'],"['/ˌɑː.d͡ʒən.ˈtiː.nə/', '/ˌɑɹ.d͡ʒən.ˈti.nə/', '/əɾ.ʒənˈti.nə/', '/ər.ʒənˈti.nə/', '/aɾ.d͡ʒenˈti.na/', '/ar.d͡ʒenˈti.na/', '/ar.ɡenˈtiː.na/', '/ar.d͡ʒenˈti.na/', '/ɑɾɡəntɪːnɑ/', '/aʁ.ʒẽˈt͡ʃĩ.nɐ/', '/aʁ.ʒẽˈt͡ʃĩ.nɐ/', '/aɾ.ʒẽˈt͡ʃĩ.nɐ/', '/aʁ.ʒẽˈt͡ʃĩ.nɐ/', '/ɐɾ.ʒẽˈti.nɐ/', '/ɑr.dʒenˈti.na/', '/arɡentǐːna/', '/aɾxenˈtina/']"
-اردلی,orderly,[],"['/ˈɔɹdɚli/', '/ˈɔːdəli/']"
-اسٹیشن,station,[],"['/ˈsteɪʃən/', '/staːˈʃɔn/', '/sta.sjɔ̃/', '/staˈɧuːn/', '/staˈt͡ʃuːn/']"
-امریکا,America,[],"['/əˈmɛɹ.ɪ.kə/', '/aˈmɛ.ri.ka/', '/aˈmɛrɪka/']"
-انٹرنیٹ,internet,[],"['/ˈɪntəˌnɛt/', '/ˈɪɾ̃ɚˌnɛt/', '/ˈɪntɚˌnɛt/', '/ˌɪntə(ɹ)ˈnɛt/', '/in.təɾˈnət/', '/in.tərˈnɛt/', '/in.teɾˈnet/', '/ˈɪntərˌnɛt/', '/ɛ̃.tɛʁ.nɛt/', '/ˈin.terˌnɛt/', '/ˌin.terˈnɛt/', '/înternet/', '/inteɾˈnet/', '/ˈɪntɛrnɛt/', '/ɪntɛrˈnɛt/', '/in.tɛɾ.nɛt/']"
-انڈیا,India,['/ɪn.ɖɪ.jɑː/'],"['/ˈɪndi.ə/', '/ˈɪn.diˌaː/', '/ˈɪntia/', '/ˈɪnʲdʲiə/', '/ˈin.dja/', '/ˈindja/', '/í.ŋ́.dí.à/']"
-انگلینڈ,England,['/ɪŋ.ɡlɛːnɖ/'],"['/ˈɪŋɡlənd/', '/ˈɪŋɡələnd/', '/ˈɪŋɡlənd/', '/ˈɪŋlənd/', '/ˈɛŋlant/', '/ˈeiŋ.lant/', '/ˈæŋˌlant/', '/ˈɛŋlɑn/', '/ˈɛŋlɑnd/', '/ˈɛŋland/']"
-اٹاچی,attache,"['/ə.ʈɛː.t͡ʃiː/', '/ə.ʈɑː.t͡ʃiː/']","['/æ.tæˈʃe/', '/æt.əˈʃe/', '/əˈtæʃ.eɪ/']"
-اپریل,April,['/əp.ɾɛːl/'],"['/ˈeɪ.pɹɪl/', '/ˈeɪ.pɹəl/', '/ˈeɪ.pɹəl/', '/aˈpʁɪl/', '/ˈap̚.rɪl/']"
-اکتوبر,October,['/ək.t̪uː.bəɾ/'],"['/ɒkˈtəʊbə/', '/ɑkˈtoʊbəɹ/']"
-ایتھنز,Athens,"['/eː.t̪ʰənz/', '/iː.t̪ʰənz/']","['/ˈæθənz/', '/ˈeɪθənz/']"
-ایجنٹ,agent,['/eː.d͡ʒəɳʈ/'],"['/ˈeɪ.dʒənt/', '/ˈeɪ.dʒɛnt/', '/əˈʒent/', '/əˈʒen/', '/aˈd͡ʒent/', '/aːˈɣɛnt/', '/a.ʒɑ̃/', '/ˈa.ɡent/', '/ˈa.d͡ʒent/', '/ˈa.ɡɛnt/', '/ˈeːdʒənt/', '/ˈɑː-/', '/ǎɡent/']"
-ایسٹر,Easter,[],"['/ˈiːstə/', '/ˈistɚ/']"
-ایف ایم,FM,['/eːf‿eːm/'],[]
-ایلما,Alma,[],"['/ˈɑlmɑ/', '/ˈalma/']"
-اینٹورپن,Antwerp,['/ɛːn.ʈʋəɾ.pən/'],['/ˈæn.twɝp/']
-ایڈز,AIDS,[],"['/eɪdz/', '/ˈɑi̯ds/', '/ˈajds/']"
-ایڈس,AIDS,[],"['/eɪdz/', '/ˈɑi̯ds/', '/ˈajds/']"
-بائبل,Bible,[],"['/ˈbaɪbəl/', '/bibl/']"
-بائیسکل,bicycle,['/bɑː.iː.sɪ.kəl/'],"['/ˈbaɪsɪkl̩/', '/bi.sikl/']"
-باٹھروم,bathroom,[],"['/ˈbɑːθ.ɹuːm/', '/ˈbæθˌɹum/', '/ˈbæθɹʊm/', '/ˈbæθ.ɹuːm/']"
-برسلز,Brussels,['/bɾə.səlz/'],"['/ˈbɹʌsəlz/', '/ˈbrʏ.səls/']"
-برمنگھم,Birmingham,['/bəɾ.mɪn.ɡʱəm/'],"['/ˈbɜː.mɪŋ.əm/', '/ˈbɝ.mɪŋ.əm/', '/ˈbɜː.mɪŋˌhæm/', '/ˈbɝ.mɪŋˌhæm/', '/ˈbir.min.ɡam/', '/ˈbərmɪŋˌham/']"
-بور,bore,['/bor/'],"['/bɔɹ/', '/bɔː/', '/bo(ː)ɹ/', '/boə/', '/borɛ/', '/boːrɛ/', '/bɔʁ/', '/ˈbɔːr(ə)/', '/ˈbɔrɛ/', '/ˈbɔra/', '/ˈboːrɛ/', '/ˈbɔrɛ/']"
-بوچڑ,butcher,[],"['/ˈbʊtʃ.ə(ɹ)/', '/ˈbʊt͡ʃ.ɚ/']"
-بکس,box,['/bəks/'],"['/bɒks/', '/bɑks/', '/bɔks/', '/bɔks/', '/ˈpɔxs/', '/ˈbɔks/', '/boːks/', '/boks/', '/ˈbɔks/', '/boks/', '/ˈbɔks/', '/ˈboɡs/']"
-جاپان,Japan,['/d͡ʒɑː.pɑːn/'],"['/dʒəˈpæn/', '/jaːˈpɑn/', '/ˈjaːpan/', '/ˈjaːpan/', '/(d)ʒà.pân/', '/ˈjaːpʰaːn/', '/jǎpaːn/', '/¹jɑːpan/']"
-جرمنی,Germany,['/d͡ʒəɾ.mə.niː/'],"['/ˈd͡ʒɜː.mə.ni/', '/ˈd͡ʒɝ.mə.ni/']"
-جنرل,general,['/d͡ʒən.ɾəl/'],"['/ˈd͡ʒɛnɹəl/', '/ˈd͡ʒɛnəɹəl/', '/ʒə.nəˈɾal/', '/d͡ʒe.neˈɾal/', '/dʒɛnəˈraːl/', '/ˈdʒɛnəral/', '/ʒe.neˈɾaw/', '/ʒɨ.nɨˈɾal/', '/d͡ʒe.neˈral/', '/ɡeněraːl/', '/ɡɛnɛráːl/', '/xeneˈɾal/', '/jɛn(ɛ)ˈrɑːl/']"
-جیل,jail,['/d͡ʒeːl/'],['/dʒeɪ(ə)l/']
-راکٹ,rocket,['/ɾɑː.kɪʈ/'],"['/ˈɹɑkɪt/', '/ˈɹɒkɪt/']"
-روانڈا,Rwanda,['/ɾə.ʋɑːɳ.ɖɑː/'],"['/ɹuːˈændə/', '/ɹəˈwændə/', '/ɹəˈwɒndə/', '/ɹuˈɑndə/', '/ɹəˈwɑndə/', '/ʁwɑ̃.da/', '/ˈrvan.da/', '/²rvanda/']"
-روچڈیل,Rochdale,"['/ɾɑːt͡ʃ.ɖeːl/', '/ɾɔːt͡ʃ.ɖeːl/', '/ɾoːt͡ʃ.ɖeːl/']",['/ɹɒt͡ʃdeɪl/']
-زار,czar,"['/zaː.ra/', '/zɑːr/', '/zaːr/', '/zaːr/']","['/zɑː(ɹ)/', '/tsɑː(ɹ)/', '/tsaʁ/', '/t͡ʂar/', '/ˈtsaʁ/', '/ˈkzaʁ/', '/ˈtsaʁ/', '/ˈkzaʁ/', '/ˈtsaɾ/', '/ˈkzaɾ/', '/ˈtsaʁ/', '/ˈkzaʁ/', '/ˈkzaɾ/']"
-سائز,size,['/sɑː.ɪz/'],"['/saɪz/', '/säːi̯⁵⁵ siː³⁵/']"
-سائنس,science,"['/sɑː.ɪns/', '/sɑː.eːns/']","['/ˈsaɪ.əns/', '/sjɑ̃s/', '/siːˈɛns(ə)/', '/siˈɛns(ə)/']"
-سگریٹ,cigarette,[],"['/ˈsɪ.ɡə.ɹɛt/', '/sɪ.ɡəˈɹɛt/', '/si.ɡa.ʁɛt/']"
-سینیٹر,senator,['/siː.neː.ʈəɾ/'],"['/ˈsɛn.ə.tə/', '/ˈsɛn.ə.tɚ/', '/seˈnaː.tor/', '/seˈna.tor/', '/sɛˈna.tɔr/', '/sěnaːtor/']"
-شاور,shower,"['/ʃaː.wa.ra/', '/ʃaː.war/', '/ʃɑː.ʋəɾ/']","['/ˈʃaʊ.ə(ɹ)/', '/ˈʃaʊ.ɚ/', '/ˈʃəʊ.ə(ɹ)/', '/ˈʃoʊ.ɚ/']"
-شاپر,shopper,['/ʃɑː.pəɾ/'],"['/ˈʃɒp.ə/', '/ˈʃɔp.ə/', '/ˈʃɑ.pɚ/', '/ˈʃɑː.pəɾ/']"
-شو,show,"['/ˈɛʃæu/', '/ʃow/', '/ʃæv/', '/ʃuː/']","['/ʃəʊ/', '/ʃoʊ/', '/ʃoː/', '/ˈʃou̯/', '/ˈʃoː/', '/ˈsoː/', '/ʃo/', '/ʃɔʋ/', '/ʃɔʊ/', '/ʂɔʋ/', '/ʂɔu/', '/ʂɔw/', '/ˈʃow/', '/ˈʃou/', '/ˈt͡ʃou/', '/ˈsou/', '/ɧɔ͡ʊ/', '/ɧɔv/', '/ɧoː/']"
-شیفیلڈ,Sheffield,['/ʃɛː.fiːlɖ/'],['/ˈʃɛfiːld/']
-شیو,shave,"['/ʃiːʋ/', '/ʃeːʋ/']","['/ʃeɪv/', '/ˈʃaːv(ə)/']"
-صوفہ,sofa,[],"['/ˈsəʊfə/', '/ˈsoʊfə/', '/ˈsoː.faː/', '/sɔ.fa/', '/ˈsɔːva/', '/ˈsofa/', '/ˈsuːfɑ/', '/ˈsɔ.fa/']"
-فادر,father,['/fɑː.d̪əɾ/'],"['/ˈfɑːðə(ɹ)/', '/ˈfɑðɚ/', '/ˈfaːðə/', '/ˈfæðəɹ/']"
-فرانس,France,"['/frɑŋs/', '/prɑŋs/', '/fɾɑːns/']","['/fɹɑːns/', '/fɹæns/', '/fɹæns/', '/fʁɑ̃s/', '/fʁãs/', '/ˈfrãː.sə/', '/ˈfɾãn.t͡sə/']"
-فلم,film,"['/film/', '/filim/', '/film/', '/film/']","['/fɪlm/', '/fəlm/', '/ˈfilm/', '/fɪlm/', '/film/', '/fɪlm/', '/ˈfɪləm/', '/film/', '/ˈfɪl(ə)m/', '/ˈpeləm/', '/ˈfilm/', '/film/', '/ˈfilim/', '/ˈfiɫm/', '/ˈfilm/', '/film/', '/filim/']"
-فون,phone,"['/fuːn/', '/fōn/']","['/fəʊ̯n/', '/foʊ̯n/', '/fɔn/']"
-لائبریری,library,[],"['/ˈlaɪbɹi/', '/ˈlaɪbɹəɹi/', '/ˈlaɪˌbɹɛɹi/', '/ˈlaɪbɹəɹi/', '/ˈlaɪˌbɛɹi/', '/ˈlaɪbɹi/']"
-لتھوینیا,Lithuania,['/lɪ.t̪ʰʊ.eː.nɪ.jɑː/'],"['/ˌlɪθ.uˈeɪ.ni.ə/', '/ˌlɪθˈweɪ.ni.ə/']"
-لسبین,lesbian,[],"['/ˈlɛzbi.ən/', '/les.biˈan/']"
-لیئج,Liège,"['/lɪ.jeːd͡ʒ/', '/lɪ.eːd͡ʒ/']","['/ljɛʒ/', '/ljɛʂ/']"
-لیسٹر,Leicester,['/lɛːs.ʈəɾ/'],"['/ˈlɛstə/', '/ˈlɛstɚ/']"
-لیل,Lille,['/liːl/'],"['/liːl/', '/lil/', '/lil/']"
-لیون,Lyon,"['/lɪ.joːn/', '/lɪ.jɔːn/']","['/ljɔ̃/', '/li.jɔ̃/']"
-مانچسٹر,Manchester,"['/mɑːn.t͡ʃəs.ʈəɾ/', '/mɑːn.t͡ʃes.ʈəɾ/', '/mɑ̃ːt͡ʃəs.ʈəɾ/', '/mɑ̃ːt͡ʃes.ʈəɾ/']","['/ˈman.t͡ʃɪs.tə/', '/ˈmæn.t͡ʃɪs.tə(ɹ)/', '/ˈmæn.t͡ʃɛs.tɚ/', '/ˈman.t͡ʂɛ.stɛr/', '/ˈmɛn.t͡ʂɛ.stɛr/', '/manˈt͡ʂɛs.tɛr/', '/mɛnˈt͡ʂɛs.tɛr/', '/mɐ̃.ˈ(t)ʃɛs.tɐɾ/', '/mɐ̃.ˈʃɛs.teʁ/', '/ˈmɐ̃.ʃes.teʁ/']"
-مدراس,Madras,[],"['/məˈdɹæs/', '/mǎdras/']"
-منٹ,minute,"['/mɪɳʈᵊ, mɪ.nəʈ.ʈᵊ/', '/mɪ.nəʈ/']","['/ˈmɪnɪt/', '/maɪˈnjuːt/', '/maɪˈn(j)ut/', '/məˈn(j)ut/', '/mi.nyt/']"
-مورمن,Mormon,[],"['/ˈmɔːmən/', '/ˈmɔɹmən/']"
-ناولٹ,novelette,[],"['/nɒvəˈlɛt/', '/nɒvl̩ˈɛt/']"
-نن,nun,[],"['/nʌn/', '/nʊn/', '/nuːn/', '/nòn/', '/nuŋ/', '/nuːn/', '/nún/', '/nun/', '/ˈnun/', '/nun/']"
-نیوزی لینڈ,New Zealand,['/njuː.ziː‿lɛːnɖ/'],"['/nju ˈziː.lənd/', '/ˌnjuː -/', '/nu ˈzi.lənd/', '/ˌnu -/', '/njʉː zeəlɘnd/', '/ˌnjʉː -/', '/- ˈziː-/']"
-وائی فائی,Wi-Fi,['/ʋɑː.iː.fɑː.iː/'],['/ˈwaɪ.faɪ/']
-ودکا,vodka,[],"['/ˈvɒdkə/', '/ˈvɑdkə/', '/ˈʋodkɑ/', '/vɔd.ka/', '/ˈvɔt.kʰa/', '/ˈvɔd.ka/', '/ʋɔdkɑ/', '/ˈvɔd.kɐ/', '/ˈvɔd.kɐ/', '/ˈbodka/', '/vɔdka/']"
-وہسکی,whiskey,[],"['/ˈwɪski/', '/ˈʍɪski/', '/ˈʋɪski/', '/wis.ki/']"
-ویژن,vision,['/ʋiː.ʒən/'],"['/ˈvɪ.ʒ(ə)n/', '/vi.zjɔ̃/', '/viˈzjuŋ/', '/vɪˈɧuːn/']"
-ٹرام,tram,[],"['/tɹam/', '/tɹæm/', '/ˈtɾam/', '/trɛm/', '/trɑm/', '/trɛm/', '/tʁam/', '/ˈtram/', '/tram/']"
-ٹلفورڈ,Tilford,['/ʈɪl.foːɾɖ/'],[]
-ٹماٹر,tomato,[],"['/təˈmɑː.toʊ/', '/təˈmeɪ.toʊ/', '/ʈoˈmæʈo/', '/toˈmá.to/', '/toˈmato/', '/tɔˈmatɔ/']"
-ٹکٹ,ticket,[],"['/ˈtɪkɪt/', '/ˈtɪkət/', '/ˈtɪ.kət/', '/ti.kɛ/', '/ˈti.ket/', '/ˈt͡ʃi.ket͡ʃ/', '/ˈtiket/']"
-ٹیلی ویژن,television,['/ʈeː.liː.ʋiː.ʒən/'],"['/ˈtɛlɪˌvɪʒən/', '/ˈtɛləˌvɪʒən/', '/ˌtɛlɪˈvɪʒən/', '/ˌtɛləˈvɪʒən/', '/teleˈviʒun/', '/tɛlɛvɪˈɧuːn/']"
-پاستا,pasta,"['/pɑːstɑː/', '/pɒːstɒː/', '/pɒːstɒː/', '/pɔːstɔː/', '/pɑːs.t̪ɑː/']","['/ˈpæstə/', '/ˈpɑstə/', '/ˈpæstə/', '/ˈpɑstə/', '/ˈpɐːstə/', '/ˈpɐːstɘ/', '/ˈpas.tə/', '/ˈpas.ta/', '/ˈpasda/', '/ˈpɑs.taː/', '/ˈpʰasta/', '/ˈpɑstɑ/', '/ˈpʰasta/', '/ˈpˠasˠt̪ˠə/', '/ˈpa.sta/', '/ˈpas.ta/', '/ˈpas.ta/', '/ˈpaːs.ta/', '/ˈpas.ta/', '/ˈpaːs.taː/', '/ˈpas.ta/', '/ˈpas.ta/', '/ˈpasta/', '/pâsta/', '/ˈpasta/', '/ˈpasta/', '/ˈpasda/']"
-پاسپورٹ,passport,[],"['/ˈpɑːspɔːt/', '/ˈpæspɔɹt/']"
-پال,Paul,[],"['/pɔːl/', '/pɔl/', '/pɑl/', '/ˈpɑu̯l/', '/pɔl/', '/paʊ̯l/', '/ˈpol/', '/ˈpawl/', '/ˈpol/', '/ˈpɔl/', '/pawl/', '/ˈpoːl/']"
-پتلون,pantaloon,['/pət̪.luːn/'],['/pæntəˈluːn/']
-پراسیکیوٹر,prosecutor,[],['/ˈpɹɑsəˌkjuːtəɹ/']
-پروسٹیٹ,prostate,[],"['/ˈpɹɒsteɪt/', '/pɹəʊˈsteɪt/']"
-پریڈ,parade,[],"['/pəˈɹeɪd/', '/ˌpaːˈraː.də/', '/paˈradə/', '/pɑˈɾɑːdə/']"
-پوپ,pope,[],"['/pəʊp/', '/poʊp/', '/pɔp/', '/ˈpɔːp(ə)/']"
-پیرس,Paris,"['/pɛː.ɾəs/', '/pɛː.ɾɪs/']","['/ˈpæɹ.ɪs/', '/ˈpɛɹ.ɪs/', '/pa.ʁi/', '/paˈʁiːs/', '/páː.rìs/', '/ˈpa.ris/', '/ˈpa.ris/', '/paˈris/', '/paˈɾi(j)s/', '/paˈɾi(j)s/', '/paˈɾi(j)ʃ/', '/pɐˈɾiʃ/', '/ˈpaɾis/', '/paˈriːs/', '/paːɾis/']"
-چرچ,church,[],"['/t͡ʃɜːt͡ʃ/', '/t͡ʃɝt͡ʃ/']"
-چکنگنیا,chikungunya,['/t͡ʃɪ.kən.ɡʊ.nɪ.jɑː/'],"['/tʃɪkʊŋˈɡʊnjə/', '/ˌtʃɪkənˈɡʌnjə/', '/ˈtʃikuŋɡunjɑ/']"
-ڈاکٹر,doctor,[],"['/ˈdɒktə/', '/ˈdɑktɚ/', '/ˈdɔktə/', '/ˈdɒktə/', '/ˈdɔk.tɔr/', '/ˈdok.tor/', '/ˈdok.tor/', '/doɡˈtoɾ/']"
-ڈایناسور,dinosaur,[],['/ˈdaɪnəsɔː(ɹ)/']
-ڈنکرک,Dunkirk,['/ɖən.kəɾk/'],[]
-ڈچ,Dutch,[],['/dʌtʃ/']
-کاؤ دائی,Cao Dai,[],[]
-کاتھولک,Catholic,[],['/ˈkæθ(ə)lɪk/']
-کارڈ,card,[],"['/kɑːd/', '/kɑɹd/', '/kaːd/', '/kɐːd/', '/ˈkaɾt/', '/ˈkart/', '/ˈkard/']"
-کرکٹ,cricket,[],"['/ˈkɹɪk.ɪt/', '/ˈkrɪ.kət/', '/kʁi.kɛt/', '/ˈkri.kit/']"
-کلکتہ,Calcutta,[],['/kælˈkʌtə/']
-کمپیوٹر,computer,[],"['/kəmˈpjuːtə/', '/kəmˈpjutɚ/', '/kɔmˈpjutər/', '/kɔ̃.py.te/', '/kɔ̃.py.tɑ̃/', '/kɔ̃.py.te/', '/kɔ̃.pyt/', '/kɔ̃.pyt/', '/kɔ̃.pyt/', '/kɔ̃.py.tɔ̃/', '/kɔ̃.py.te/', '/kɔ̃.pyt/', '/kɔ̃.py.tɛ/', '/kɔ̃.py.tɛ/', '/kɔ̃.py.tɛ/', '/kɔ̃.py.tjɔ̃/', '/kɔ̃.py.tje/', '/kɔ̃.py.tɛ/', '/kɔ̃.py.te/', '/kɔ̃.py.ta/', '/kɔ̃.py.ta/', '/kɔ̃.py.tam/', '/kɔ̃.py.tat/', '/kɔ̃.py.tɛʁ/', '/kɔ̃.py.tʁe/', '/kɔ̃.py.tʁa/', '/kɔ̃.py.tʁa/', '/kɔ̃.py.tʁɔ̃/', '/kɔ̃.py.tʁe/', '/kɔ̃.py.tʁɔ̃/', '/kɔ̃.py.tʁɛ/', '/kɔ̃.py.tʁɛ/', '/kɔ̃.py.tʁɛ/', '/kɔ̃.py.tə.ʁjɔ̃/', '/kɔ̃.py.tə.ʁje/', '/kɔ̃.py.tʁɛ/', '/kɔ̃.pyt/', '/kɔ̃.pyt/', '/kɔ̃.pyt/', '/kɔ̃.py.tjɔ̃/', '/kɔ̃.py.tje/', '/kɔ̃.pyt/', '/kɔ̃.py.tas/', '/kɔ̃.py.tas/', '/kɔ̃.py.ta/', '/kɔ̃.py.ta.sjɔ̃/', '/kɔ̃.py.ta.sje/', '/kɔ̃.py.tas/', '/kɔ̃.pyt/', '/kɔ̃.py.tɔ̃/', '/kɔ̃.py.te/', '/komˈpju.ter/']"
-کوٹ,coat,[],"['/koʊt/', '/kəʊt/', '/ˈku(w)at/', '/ˈɡu(w)at/', '/ˈkʷat/']"
-کپتان,captain,['/kəp.t̪ɑːn/'],"['/ˈkæp.tɪn/', '/ˈkæp.tən/', '/ˈkæp.ən/']"
-کیتھولک,Catholic,[],['/ˈkæθ(ə)lɪk/']
-کیف,Kiev,['/kiːf/'],"['/ˈkiːɛv/', '/ˈkiːɛf/', '/ˈkiːɪv/', '/ˈkijɛf/', '/kjɛv/', '/kiˈɛv/', '/kiˈɛ.vi/', '/ˈkjɛ.vɨ/', '/ˈkjeb/', '/ˈkjef/']"
-کیلکولیٹر,calculator,[],"['/ˈkæl.kjə.leɪ.tə(ɹ)/', '/kæl.kjə.leɪ.təɹ/', '/kal.kuˈlaː.tor/', '/kal.kuˈla.tor/']"
-کیلے,Calais,['/kɛː.leː/'],"['/ˈkæleɪ/', '/kæˈleɪ/', '/ˈkælɪs/', '/ka.lɛ/', '/ka.ˈlɛ/']"
-کیمرہ,camera,['/kɛːm.ɾɑː/'],"['/ˈkæməɹə/', '/ˈkæmɹə/', '/ˈkaː.mə.raː/', '/ˈka.me.ra/', '/ˈka.me.ra/', '/ˈka.me.ra/', '/ˈka.me.ra/', '/ˈka.me.raː/', '/ˈka.me.ra/']"
-کینسر,cancer,['/kæn.səɾ/'],"['/ˈkænsə/', '/ˈkæːnsə/', '/ˈkænsɚ/', '/kɑ̃.sɛʁ/', '/ˈkan.ker/', '/ˈkan.t͡ʃer/', '/ˈkɑn.ker/']"
-کینیڈا,Canada,"['/kɛː.neː.ɖɑː/', '/kɛː.nə.ɖɑː/', '/kə.neː.ɖɑː/', '/kɛː.neː.ɖɑː/']","['/ˈkænədə/', '/ˈkaː.naːˌdaː/', '/ka.na.da/', '/ka.na.dɑ/', '/ˈka.na.da/', '/ˈka.na.da/', '/ˈka.na.da/']"
-گرام,gram,[],"['/ɡɹæm/', '/ˈɡɹeəm/', '/ˈɡɹæm/', '/ˈɡɾam/', '/ɡram/', '/ɡram/', '/ɣrɑm/', '/ˈɡɾˠamˠ/', '/ɡrɑm/', '/ɡram/', '/ɡram/', '/ɡrâm/']"
-گلاس,glass,[],"['/ɡlɑːs/', '/ɡlæs/', '/ɡlas/']"
-گنی,guinea,['/ɡɪ.niː/'],"['/ˈɡɪni/', '/ɡiˈnea/']"
-گے,gay,['/ɡeː/'],"['/ɡeɪ/', '/ɡ/', '/keɪ̯⁵¹/', '/ke⁴⁴/', '/ke⁴⁴/', '/ke⁴⁴/', '/ke⁵⁵/', '/ˈɡei̯/', '/ɡɛ/', '/ɡe/', '/ɡaj/', '/ˈɡay/', '/ɡeɪ/', '/ˈɡɛj/', '/ˈɡej/', '/ɡei/', '/ɣaːi/', '/ɡɛi̯/', '/ˈɡej/', '/ˈɡɐj/', '/ˈɡɐj/', '/ˈɡej/', '/ˈɡei/', '/ˈɡai/']"
-ہارٹلے پول,Hartlepool,[],"['/ˈhɑːtlɪpuːl/', '/ˈhɑːʔlɪpuːl/', '/ˈhɑɹtlɪpul/']"
-ہانگ کانگ,Hong Kong,['/ɦɑːŋɡ‿kɑːŋɡ/'],"['/ˌhɒŋˈkɒŋ/', '/ɔ̃ɡ.kɔ̃ɡ/', '/ɔŋ.kɔŋ/', '/ˌhõ ˈkõ/', '/ˌhõ.ɡi.ˈkõ.ɡi/', '/xôŋɡ kôŋɡ/', '/xonˈkon/', '/hoŋˈkoŋ/']"
-ہوٹل,hotel,['/ɦoː.ʈəl/'],"['/(h)əʊˈtɛl/', '/hoʊˈtɛl/', '/hɔtɛl/', '/oˈtəl/', '/uˈtɛl/', '/oˈtel/', '/ˈɦotɛl/', '/ɦoːˈtɛl/', '/ɔˈtɛl/', '/oˈtɛl/', '/ˈxɔ.tɛl/', '/ɔ.ˈtɛɫ/', '/o.ˈtɛw/', '/hoˈtel/', '/xǒtel/', '/ˈɦotɛl/', '/xɔtɛ̀ːl/', '/oˈtel/']"
-یورپ,Europe,['/joː.ɾəp/'],"['/ˈjʊə.ɹəp/', '/ˈjɔː.ɹəp/', '/ˈjʊɚ.əp/', '/ˈjɝ.əp/', '/ˈjʉə.ɹəp/', '/ˈjoː.rəp/', '/ø.ʁɔp/', '/eu̯ˈroː.peː/', '/eu̯ˈro.pe/']"
-یونائٹڈ کنگڈم,United Kingdom,[],"['/juːˌnaɪ.tɪd ˈkɪŋ.dəm/', '/jʊˌnaɪ.tɪd ˈkɪŋ.dəm/', '/jəˌnaɪ.tɪd ˈkɪŋ.dəm/']"
-یوکرین,Ukraine,['/juːk.ɾeːn/'],"['/juːˈkɹeɪn/', '/juˈkɹeɪn/', '/ˈjuˌkɹeɪn/', '/y.kʁɛn/']"
+loan_word,original_word
+آئرلینڈ,Ireland
+آسٹریا,Austria
+ارجنٹائن,Argentina
+اردلی,orderly
+اسٹیشن,station
+امریکا,America
+انٹرنیٹ,internet
+انڈیا,India
+انگلینڈ,England
+اٹاچی,attache
+اپریل,April
+اکتوبر,October
+ایتھنز,Athens
+ایجنٹ,agent
+ایسٹر,Easter
+ایف ایم,FM
+ایلما,Alma
+اینٹورپن,Antwerp
+ایڈز,AIDS
+ایڈس,AIDS
+بائبل,Bible
+بائیسکل,bicycle
+باٹھروم,bathroom
+برسلز,Brussels
+برمنگھم,Birmingham
+بور,bore
+بوچڑ,butcher
+بکس,box
+جاپان,Japan
+جرمنی,Germany
+جنرل,general
+جیل,jail
+راکٹ,rocket
+روانڈا,Rwanda
+روچڈیل,Rochdale
+زار,czar
+سائز,size
+سائنس,science
+سگریٹ,cigarette
+سینیٹر,senator
+شاور,shower
+شاپر,shopper
+شو,show
+شیفیلڈ,Sheffield
+شیو,shave
+صوفہ,sofa
+فادر,father
+فرانس,France
+فلم,film
+فون,phone
+لائبریری,library
+لتھوینیا,Lithuania
+لسبین,lesbian
+لیئج,Liège
+لیسٹر,Leicester
+لیل,Lille
+لیون,Lyon
+مانچسٹر,Manchester
+مدراس,Madras
+منٹ,minute
+مورمن,Mormon
+ناولٹ,novelette
+نن,nun
+نیوزی لینڈ,New Zealand
+وائی فائی,Wi-Fi
+ودکا,vodka
+وہسکی,whiskey
+ویژن,vision
+ٹرام,tram
+ٹلفورڈ,Tilford
+ٹماٹر,tomato
+ٹکٹ,ticket
+ٹیلی ویژن,television
+پاستا,pasta
+پاسپورٹ,passport
+پال,Paul
+پتلون,pantaloon
+پراسیکیوٹر,prosecutor
+پروسٹیٹ,prostate
+پریڈ,parade
+پوپ,pope
+پیرس,Paris
+چرچ,church
+چکنگنیا,chikungunya
+چین,chain
+ڈاکٹر,doctor
+ڈایناسور,dinosaur
+ڈنکرک,Dunkirk
+ڈچ,Dutch
+کاؤ دائی,Cao Dai
+کاتھولک,Catholic
+کارڈ,card
+کرکٹ,cricket
+کلکتہ,Calcutta
+کمپیوٹر,computer
+کنٹرول,control
+کوٹ,coat
+کپتان,captain
+کیتھولک,Catholic
+کیف,Kiev
+کیلکولیٹر,calculator
+کیلے,Calais
+کیمرہ,camera
+کینسر,cancer
+کینیڈا,Canada
+گرام,gram
+گلاس,glass
+گنی,guinea
+گے,gay
+ہارٹلے پول,Hartlepool
+ہانگ کانگ,Hong Kong
+ہنزلو,Hounslow
+ہوٹل,hotel
+یورپ,Europe
+یونائٹڈ کنگڈم,United Kingdom
+یوکرین,Ukraine
