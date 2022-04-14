@@ -1,0 +1,16 @@
+{
+    "Hindi-Persian" : {
+        "target" :  {
+            "name" : "Hindi",
+            "epi" : "hin-Deva",
+            "gtrans" : "hi",
+            "unicode" : "Devanagari"
+        },
+        "source" : {
+            "name" : "Persian",
+            "epi" : "fas-Arab",
+            "gtrans" : "fa",
+            "unicode" : "Arabic"
+        }
+    }
+}
