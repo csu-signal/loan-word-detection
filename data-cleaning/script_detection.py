@@ -22,7 +22,7 @@ if __name__ == '__main__':
     args = sys.argv
     # print(unicodedata2.script_cat('a'))
     # print(unicodedata2.script_cat('अ'))
-    print(unicodedata2.script('a'))
+    # print(unicodedata2.script('a'))
     # exit()
     # list of characters = [*string]
     dataset_df = pd.read_csv(args[1])
