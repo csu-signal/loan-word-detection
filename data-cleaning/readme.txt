@@ -1,4 +1,4 @@
-Sina: I am including the script validator to this folder.
+I am including the script validator to this folder.
 The code can be run as follows:
 python script_detection.py input_dataset.csv
 
