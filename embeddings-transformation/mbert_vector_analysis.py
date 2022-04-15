@@ -1,4 +1,4 @@
-# Author: Sina Mahdipour Saravani
+# Author:
 # Link to our paper for this project:
 #
 import sys
