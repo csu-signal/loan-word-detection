@@ -12,5 +12,21 @@
             "gtrans" : "fa",
             "unicode" : "Arabic"
         }
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Hindi_terms_borrowed_from_Persian"
+    },
+    "English-French" : {
+        "target" :  {
+            "name" : "English",
+            "epi" : "eng-Latn",
+            "gtrans" : "en",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "French",
+            "epi" : "fra-Latn",
+            "gtrans" : "fr",
+            "unicode" : "Latin"
+        }
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_French"
     }
 }
