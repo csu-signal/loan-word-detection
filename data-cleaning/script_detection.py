@@ -1,4 +1,3 @@
-# sinamps
 from unicodedata2 import unicodedata2
 import pandas as pd
 import sys
