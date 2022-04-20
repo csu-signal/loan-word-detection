@@ -12,3 +12,8 @@
 ## possible issues
 
 * May get time outs due to continuously requesting web pages from wictionary. Can include sleep conditions. This will prompt the code to return all words extracted so far. 
+
+## requirements
+
+* python 3.7 or above
+* requests, bs4, tqdm, unicodeblock
