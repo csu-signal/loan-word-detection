@@ -1,1 +1,0 @@
-Train/test files with both XMl and Mbert cosine sims and CNN and DNN logits as features. They are formed from all four different types of word-pairs(hard neg, loans, randoms etc)
