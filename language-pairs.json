@@ -12,7 +12,8 @@
             "gtrans" : "fa",
             "unicode" : "Arabic"
         },
-        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Hindi_terms_borrowed_from_Persian"
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Hindi_terms_borrowed_from_Persian",
+        "loan-frac" : ".3"
     },
     "English-French" : {
         "target" :  {
@@ -27,6 +28,7 @@
             "gtrans" : "fr",
             "unicode" : "Latin"
         },
-        "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_French"
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_French",
+        "loan-frac" : ".3"
     }
 }

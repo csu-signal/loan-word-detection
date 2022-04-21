@@ -12,6 +12,7 @@
             "gtrans" : "ar",
             "unicode" : "Arabic"
         },
-        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Catalan_terms_borrowed_from_Arabic"
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Catalan_terms_borrowed_from_Arabic",
+        "loan-frac" : ".1"
     }
 }
