@@ -1,0 +1,14 @@
+::consonant:: = b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|š|t|v|w|x|z|ž
+::vowel:: = a|e|i|o|u|y|å|æ|ø
+
+% Final stop devoicing
+b -> p / _ #|(::consonant::)
+d -> t / _ #|(::consonant::)
+g -> k / _ #|(::consonant::)
+
+% Realization of <c>
+c -> k / _ #
+c -> s / _ [eiyæø]
+
+% Voiced /h/ following vowel
+h -> ɦ / (::vowel::) _
