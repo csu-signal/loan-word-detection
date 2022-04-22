@@ -5,7 +5,7 @@ CSU SIGNAL Lab Loan Word MT Project
 
 ## Pipeline
 * Specify language pairs and Wiktionary links in `language-pairs.json`
-* * Resources:
+** Resources:
 * * * [EpiTran codes](https://github.com/dmort27/epitran#transliteration-languagescript-pairs)
 * * * [Google Translate codes](https://www.labnol.org/code/19899-google-translate-languages#google-translate-languages)
 * Run `wiktionary-scraper-pything/scraper.ipynb` to get L1-L2 loan pairs and false friends for each pair 
