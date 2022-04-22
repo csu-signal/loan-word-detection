@@ -8,8 +8,8 @@ CSU SIGNAL Lab Loan Word MT Project
   * Resources:
     * [EpiTran codes](https://github.com/dmort27/epitran#transliteration-languagescript-pairs)
     * [Google Translate codes](https://www.labnol.org/code/19899-google-translate-languages#google-translate-languages)
-* Run `wiktionary-scraper-pything/scraper.ipynb` to get L1-L2 loan pairs and false friends for each pair 
-* Run `wiktionary-scraper-pything/scaper_lemmas.ipynb` to get false friend pairs
+* Run `wiktionary-scraper-python/scraper.ipynb` to get L1-L2 loan pairs and false friends for each pair 
+* Run `wiktionary-scraper-python/scaper_lemmas.ipynb` to get false friend pairs
 * Run `Datasets/make-datasets.ipynb` (running on Colab will prompt you to upload all resource files, including scraped data; running locally will require you to move the `*-AllLemmas.csv` data files into `Datasets/AllLemmas`.
   * If `make-datasets.ipynb` move all downloaded files into the correct folders within `Datasets`
 * Run `make-train-test-splits.ipynb`
