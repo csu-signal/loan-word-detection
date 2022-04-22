@@ -5,11 +5,8 @@ loan_word,original_word
 à deux,à deux
 a go-go,à gogo
 à gogo,à gogo
-a la,à la
-à la,à la
 à la carte,à la carte
 a la minute,à la minute
-a la mode,à la mode
 à la russe,à la russe
 à outrance,à outrance
 à propos de bottes,à propos de bottes
@@ -115,7 +112,6 @@ aioli,aïoli
 air de cour,air de cour
 air du temps,air du temps
 ajutage,ajutage
-ala,à la
 alban,albane
 Albertine,Albertine
 albicore,albicore
@@ -416,7 +412,7 @@ bail,bailler
 Bailly,Bailly
 bain-marie,bain-marie
 baisemains,baisemains
-bakeapple,"baie, qu'appelle"
+bakeapple,baie
 bal musette,bal musette
 balancelle,balancelle
 balayage,balayage
@@ -503,7 +499,6 @@ battue,battue
 Bau,Bau
 baud,baud
 Baumé,Baumé
-bauxite,-ite
 bavardage,bavardage
 bavaroise,bavarois
 bavette,bavette
@@ -511,8 +506,6 @@ bayadère,bayadère
 bayard,bayard
 Bayle,Bayle
 Bazil,Bazil
-BD,BD
-BEA,BEA
 Beacham,Beauchamp
 Béarnais,Béarnais
 beau,beau
@@ -528,7 +521,6 @@ Beaudoin,Beaudoin
 Beaudreau,Beaudreau
 Beaudry,Beaudry
 Beaujolais,Beaujolais
-Beaulieu,beau + lieu
 Beauregard,Beauregard
 beaux-arts,beaux-arts
 becard,bécard
@@ -539,7 +531,6 @@ becquerel,becquerel
 Bedard,Bédard
 bedeguar,bédégar
 Bedel,Bedel
-bedlamer,bête de la mer
 Beecham,Beauchamp
 beef bourguignon,bœuf bourguignon
 beef olive,alouette
@@ -613,7 +604,6 @@ Bibeau,Bibeau
 bibelot,bibelot
 bibliotheke,bibliothèque
 bichon,bichon
-Bichon Frisé,bichon (à poil) frisé
 bicycle,bicycle
 bidon,bidon
 bien pensant,bien-pensant
@@ -649,7 +639,6 @@ Bissonnet,Bissonnet
 Bissonnette,Bissonnette
 bistoury,bistouri
 bistre,bistre
-bistro,bistro(t)
 bivouac,bivouac
 bizarre,bizarre
 bizarrerie,bizarrerie
@@ -886,7 +875,6 @@ Butin,Butin
 butte,butte
 butyric,butyrique
 Buzançais,Buzançais
-béarnaise,
 cabaret,cabaret
 cabas,cabas
 cabécou,cabécou
@@ -920,7 +908,6 @@ caféteria,caféteria
 cafétéria,cafétéria
 cafetière,cafetière
 caffeine,caféine
-café liégeois,
 cagoule,cagoule
 cahier,cahier
 cahoot,cahute
@@ -964,14 +951,12 @@ Campagne,Campagne
 campagnol,campagnol
 Canada,Canada
 canapé,canapé
-canapés,
 canard,canard
 canary,canarie
 cancan,cancan
 cancaneuse,cancaneuse
 candidature,candidature
 canelé,canelé
-canelés,
 Canigou,Canigou
 cannelure,cannelure
 Cannes,Cannes
@@ -1022,7 +1007,6 @@ carotte,carotte
 caroubier,caroubier
 carousel,carrousel
 Carpentier,Carpentier
-Carré de l'Est,Carré de l'Est
 carte,carte
 carte anglaise,carte anglaise
 carte blanche,carte blanche
@@ -1068,7 +1052,6 @@ Caya,Caya
 Cayenne,Cayenne
 Cayes,Cayes
 Cazeau,Cazeau
-CCITT,CCITT
 Cecile,Cécile
 cédille,cédille
 cedule,cédule
@@ -1100,8 +1083,6 @@ cerement,cirement
 Cerf,Cerf
 cerise,cerise
 cervical,cervical
-c'est la vie,c'est la vie
-CH,CH
 Chabert,Chabert
 chabot,chabot
 chabrette,chabrette
@@ -1131,7 +1112,6 @@ Champenois,champenois
 champignon,champignon
 Champlain,Champlain
 champlevé,champlevé
-champlevés,
 Champoux,Champoux
 chancre,chancre
 chandelier,chandelier
@@ -1162,7 +1142,6 @@ charcutier,charcutier
 chard,carde
 Chardon,Chardon
 chargé d'affaires,chargé d'affaires
-chargés d'affaires,
 charivari,charivari
 Charlebois,Charlebois
 Charleroi,Charleroi
@@ -1225,7 +1204,6 @@ chétif,chétif
 cheval,cheval
 cheval de frise,cheval de frise
 chevalier d'industrie,chevalier d'industrie
-chevauchée,
 chevelure,chevelure
 cheville,cheville
 chèvre,chèvre
@@ -1269,7 +1247,6 @@ chômeur,chômeur
 Chopin,Chopin
 choreography,chorégraphie
 chose jugée,chose jugée
-choses jugées,
 chott,chott
 chou,chou
 Chouinard,Chouinard
@@ -1279,7 +1256,6 @@ christophine,christophine
 chromatic,chromatique
 chrome,chrome
 chronique scandaleuse,chronique scandaleuse
-CHSLD,CHSLD
 chuchotage,chuchotage
 chute,chute
 chyle,chȳlus
@@ -1293,10 +1269,6 @@ cinéma vérité,cinéma vérité
 cinephile,cinéphile
 cinetization,cinétisation
 cinquain,cinquain
-ciné film,
-ciné films,
-cinéfilm,
-cinéfilms,
 Ciret,Ciret
 Ciron,Ciron
 cirque,cirque
@@ -1329,7 +1301,6 @@ Clemenceau,Clemenceau
 clementine,clémentine
 Clermont,Clermont
 cliché,cliché
-clichés,
 clientele,clientèle
 clientèle,clientèle
 clinician,clinicien
@@ -1345,7 +1316,6 @@ close,clos
 cloture,clôture
 clou,clou
 Clouseau,Clouseau
-CLSC,CLSC
 cléché,cléché
 clôture,closture
 Cobee,Cobée
@@ -1391,7 +1361,6 @@ commode,commode
 communal,communal
 communard,communard
 communiqué,communiqué
-communiqués,
 Comoros,Comores
 compensable,compensable
 compensatory,compensatoire
@@ -1404,7 +1373,6 @@ competition,compétition
 complex,complexe
 complicity,complicité
 compliment,compliment
-componé,
 compositor,compositeur
 compote,compote
 compôte,compôte
@@ -1448,7 +1416,6 @@ constate,constater
 consternation,consternation
 contiguity,contiguïté
 contour,contour
-contourné,
 contra dance,contredanse
 contrast,contraster
 contrecoup,contrecoup
@@ -1494,9 +1461,7 @@ cortege,cortège
 corticine,corticine
 corvee,corvée
 corvette,corvette
-corvées,
 coryphée,coryphée
-coryphées,
 cosmopolite,cosmopolite
 Costa,Costa
 costal,costal
@@ -1506,14 +1471,12 @@ cotarnine,cotarnine
 Cote,Côté
 Côte d'Azur,Côte d'Azur
 Côte d'Ivoire,Côte d'Ivoire
-Côte d'Or,Côte d'Or
 coteau,coteau
 coterie,coterie
 Côtes-du-Nord,Côtes-du-Nord
 cotillion,cotillon
 Cotnoir,Cotnoir
 Coton de Tulear,Coton de Tulear
-cottage orné,
 coua,coua
 couchette,couchette
 couché,couché
@@ -1530,7 +1493,6 @@ coulomb,coulomb
 coulure,coulure
 countermure,contremurer
 coup,coup
-coup d'états,
 coup d'arret,coup d'arrêt
 coup de force,coup de force
 coup de foudre,coup de foudre
@@ -1544,9 +1506,6 @@ coupe,coupe
 coupé,coupé
 coupe-gorge,coupe-gorge
 coupon,coupon
-coups d'état,
-coups de théâtre,
-coupés,
 courante,courante
 courbette,courbette
 coureur de bois,coureur des bois
@@ -1567,7 +1526,6 @@ couturière,couturière
 couvert,couvert
 couverture,couverture
 couveuse,couveuse
-CQ,sécurité
 cracovienne,cracovienne
 cramoisie,cramoisie
 Crampagna,Crampagna
@@ -1625,7 +1583,6 @@ croquembouche,croquembouche
 croquette,croquette
 croquis,croquis
 crosne,crosne
-cross pattée,
 crossette,crossette
 Croteau,Croteau
 crottin,crottin
@@ -1652,7 +1609,6 @@ cuisine,cuisine
 cuisinier,cuisinier
 cuisse,cuisse
 cul-de-four,cul-de-four
-cul-de-lampe,
 cul-de-sac,cul-de-sac
 culinary,culinaire
 culminant,culminant
@@ -1678,7 +1634,6 @@ cyme,cime
 cynism,cynisme
 cynosure,cynosure
 cégep,cégep
-cépages,
 dadaism,dadaïsme
 Dague,Dague
 Daignault,Daignault
@@ -1709,7 +1664,6 @@ daurade,daurade
 de Brienne,de Brienne
 de Broglie,de Broglie
 de Grasse,de Grasse
-de haut en bas,de haut en bas
 de Havilland,de Havilland
 de Lesseps,de Lesseps
 De Lesseps,de Lesseps
@@ -1925,13 +1879,10 @@ dissociation,dissociation
 distrait,distrait
 district,district
 disyllabic,dissyllabique
-divan,دیوان
 diversion,diversion
 divorcé,divorcé
 divorcee,divorcée
 divorcée,divorcée
-divorcées,
-divorcés,
 dizain,dizain
 Dizangue,Dizangué
 djellaba,djellaba
@@ -1948,7 +1899,6 @@ doloire,doloire
 dolomite,dolomite
 domaine,domaine
 domanial,domanial
-Domdaniel,
 Dome,Dome
 domestique,domestique
 Dominguois,dominguois
@@ -1978,7 +1928,6 @@ doum,doum
 Doumbouya,Doumbouya
 doux,doux
 douzaine,douzaine
-douzenier,
 doyen,doyen
 doyenne,doyenne
 drachme,drachme
@@ -1999,7 +1948,6 @@ droit de seigneur,droit du seigneur
 drollery,drôlerie
 Drôme,Drôme
 dronte,dronte
-drophead coupé,
 druid,druide
 du jour,du jour
 Dubas,Dubas
@@ -2042,19 +1990,10 @@ Dutil,Dutil
 Duvernay,Duvernay
 duvet,duvet
 dysphemism,dysphémisme
-débridements,
-débutantes,
-débuts,
-débâcle,
 décime,décime
-déclassée,
-décolletages,
 déculassement,countable and uncountable
 déjeuné,déjeuné
-dép,
 dépanneur,dépanneur
-départements,
-dépôts,
 eau Créole,eau Créole
 eau de Cologne,eau de Cologne
 eau de nil,eau de nil
@@ -2129,8 +2068,6 @@ emissary,émissaire
 emollient,émollient
 empennage,empennage
 employée,employée
-employé,
-employés,
 emulsion,émulsion
 en banc,en banc
 en bloc,en bloc
@@ -2187,7 +2124,6 @@ enmanché,enmanché
 ennui,ennui
 ennuyé,ennuyé
 ennuyée,ennuyée
-ennuyées,
 ensemble,ensemble
 ensile,ensiler
 ensuite,en suite
@@ -2224,7 +2160,6 @@ epee,épée
 epidote,épidote
 epilepsy,épilepsie
 epinglette,épinglette
-epistemé,
 epistolary,épistolaire
 epluchage,épluchage
 épopée,épopée
@@ -2286,7 +2221,6 @@ ethnie,ethnie
 ethography,éthographie
 etiquette,étiquette
 étoile,étoile
-etouffee,
 étourderie,étourderie
 étrier,étrier
 etude,étude
@@ -2296,7 +2230,6 @@ eucalyptus,eucalyptus
 eukaryote,eucaryote
 euphonious,euphonie
 Eure,Evreux
-Eure-et-Loir,
 European,Européen
 Eustache,Eustache
 evanescent,évanescent
@@ -2318,7 +2251,6 @@ expatriation,expatriation
 expertise,expertise
 exploitation,exploitation
 exposé,exposé
-exposés,
 extermine,exterminer
 externat,externat
 externe,externe
@@ -2333,8 +2265,6 @@ facetious,facétieux
 facette,facette
 facture,facture
 fadaise,fadaise
-fainéant,
-fainéants,
 fait accompli,fait accompli
 faites vos jeux,faites vos jeux
 falbala,falbala
@@ -2371,12 +2301,8 @@ faux ami,faux-ami
 faux bois,faux bois
 faux pas,faux pas
 favori,favori
-façade pattern,
-façade patterns,
-façades,
 façon de parler,façon de parler
 façonné,façonné
-façons de parler,
 federation,fédération
 feint,feint
 feminism,féminisme
@@ -2404,12 +2330,9 @@ feuilletonist,feuilletoniste
 fiacre,fiacre
 fiancé,fiancé
 fiancée,fiancée
-fiancées,
-fiancés,
 fiber,fibre
 fiche,fiche
 fichu,fichu
-fiché,
 figurine,figurine
 filasse,filasse
 filet mignon,filet
@@ -2430,16 +2353,12 @@ fish,fiche
 fisher,fichet
 fisher cat,fiche
 fitché,fiché
-fixed head coupé,
-fixed head coupés,
 flacon,flacon
 flageolet,flageolet
 flambé,flambé
 flambeau,flambeau
 flamboyant,flamboyant
 flamboyer,flamboyer
-flambéed,
-flambés,
 flan,flan
 flanconade,flanconade
 flânerie,flânerie
@@ -2492,7 +2411,6 @@ fougasse,fougasse
 Fougères,Fougères
 foulage,foulage
 foulard,foulard
-foulé,
 foundry,fonderie
 fourbe,fourbe
 fourbery,fourberie
@@ -2512,7 +2430,6 @@ Fralin,Fralin
 framboise,framboise
 franc,franc
 Francien,francien
-Franco-Provençal,
 François,François
 frangipane,frangipane
 Franglais,franglais
@@ -2530,7 +2447,6 @@ Frimaire,frimaire
 frisket,frisquette
 frisson,frisson
 frisure,frisure
-frisée,
 frivol,frivole
 froideur,froideur
 fromage,fromage
@@ -2559,7 +2475,6 @@ fusillade,fusillade
 fusilly,fusillé
 fustet,fustet
 féerie,féerie
-féeries,
 félibre,félibre
 gabel,gabelle
 gabelle,gabelle
@@ -2609,7 +2524,6 @@ Garron,Garron
 garrot,garrot
 garçon,garçon
 garçonnière,garçonnière
-garçonnières,
 gaspereau,gaspereau
 gastrique,gastrique
 gastronome,gastronome
@@ -2739,10 +2653,10 @@ Grand Teton,grand
 grandam,grand dame
 Grande Comore,Grande Comore
 grande finale,grande finale
-Grande Ile,"Grande Île, Grande-Île"
+Grande Ile,Grande Île
 grande madame,grande madame
-Grande-Ile,"Grande-Île, Grande Île"
-grandes écoles,"But the effort is being met with concerns from the grandes écoles, who fear it could dilute standards, and is stirring anger among the French at large, who fear it runs counter to a French ideal of a meritocracy blind to race, religion and ethnicity."
+Grande-Ile,Grande-Île
+grandes écoles,But the effort is being met with concerns from the grandes écoles
 grandiose,grandiose
 Grandon,Grandon
 granite,granit
@@ -2806,7 +2720,6 @@ guinguette,guinguette
 Guion,Guion
 guipure,guipure
 gumbo,gombo
-GUNT,GUNT
 Gustave,Gustav
 gutter rabbit,lapin de gouttière
 Guyon,Guyon
@@ -2940,7 +2853,6 @@ infrastructure,infrastructure
 ingenu,ingénu
 ingenue,ingénue
 inox,inox
-INRIA,INRIA
 insectivore,insectivore
 insipid,insipide
 insolation,insolation
@@ -3020,7 +2932,6 @@ Jouy-en-Josas,Jouy-en-Josas
 jovial,jovial
 joviality,jovialité
 jube,jubé
-Judeo-Provençal,
 juju,joujou
 jujube,jujube
 Juliard,Juliard
@@ -3215,7 +3126,6 @@ lieu jaune,lieu jaune
 lieu-dit,lieu-dit
 Lieuchieu,Liúqiú
 lignite,lignite
-Ligue 1,ligue
 lilac,lilac
 Lille,Lille
 limaille,limaille
@@ -3716,7 +3626,6 @@ Nérac,Nérac
 neroli,néroli
 Neron,Néron
 nervure,nervure
-n'est-ce pas,n'est-ce pas ?
 Neuchâtel,Neuchâtel
 neuroleptic,neuroleptique
 neutralization,neutralisation
@@ -3736,7 +3645,6 @@ Nissard,nissard
 nitrate,nitrate
 nitrogen,nitrogène
 Nivôse,nivôse
-Niçoise salad,
 noblesse oblige,noblesse oblige
 nocturne,nocturne
 noeud vital,nœud vital
@@ -3753,7 +3661,6 @@ norman,normand
 Normandin,Normandin
 nostalgie de la boue,nostalgie de la boue
 note verbale,note verbale
-Notre Dame,
 nougatine,nougatine
 nouveau,nouveau
 nouveau riche,nouveau riche
@@ -4104,7 +4011,7 @@ plissé,plissé
 plongée,plongée
 plumassier,plumassier
 plurisecular,pluriséculaire
-plus ça change,"plus ça change, plus c'est la même chose"
+plus ça change,plus ça change
 pluvial,pluvial
 Pluviôse,pluviôse
 pochade,pochade
@@ -4117,6 +4024,7 @@ Poincaré,Poincaré
 point d'appui,point d'appui
 point-device,point-devisé
 pointe,pointe
+Pointe-à-Pitre,Pointe-à-Pitre
 pointillé,pointillé
 pointillism,pointillisme
 Poirier,Poirier
@@ -4241,7 +4149,6 @@ provocateur,provocateur
 prude,prude
 Prudhomme,Prudhomme
 Prunier,Prunier
-PSG,PSG
 psychology,psychologie
 pterion,ptérion
 pterodactyl,ptérodactyle
@@ -4401,7 +4308,6 @@ reportage,reportage
 repoussage,repoussage
 repoussé,repoussé
 repoussoir,repoussoir
-repêchage,
 requin,requin
 réseau,réseau
 resonant,résonnant
@@ -4504,13 +4410,10 @@ Roussin,Roussin
 routine,routine
 roux,roux
 Rozier,Rozier
-RPA,RPA
-RSVP,RSVP
 ruche,ruche
 rudenture,rudenture
 ruelle,ruelle
 ruse de guerre,ruse de guerre
-S.I.,S.I.
 Sabat,Sabat
 sabayon,sabayon
 sabot,sabot
@@ -4616,7 +4519,7 @@ scatch,escache
 scelerat,scélérat
 scène à faire,scène à faire
 sciage,sciage
-season,"seson, saison"
+season,seson
 secret of Polichinelle,secret de Polichinelle
 secretariat,secrétariat
 Ségou,Ségou
@@ -4723,7 +4626,6 @@ soufflé,soufflé
 soul,souler
 Soulier,Soulier
 soupçon,soupçon
-soupçons,
 sourdeline,sourdeline
 sous-chef,sous-chef
 sous-vide,sous-vide
@@ -4740,10 +4642,8 @@ sparadrap,sparadrap
 specialist,spécialiste
 sphene,sphène
 spirituelle,spirituelle
-SPVM,SPVM
 squad,escouade
 squill,scille
-St. Andre,St. André
 St. Jacques,St. Jacques
 stagiaire,stagiaire
 stagnant,stagnant
@@ -4759,7 +4659,6 @@ strass,strass
 succès de scandale,succès de scandale
 succès fou,succès fou
 succulent,succulent
-suede,(gants de) Suède
 suint,suint
 supermotard,supermotard
 suppliant,suppliant
@@ -4860,7 +4759,6 @@ tête-bêche,tête-bêche
 tetraples,tétraples
 Tetreault,Tétreault
 Tetreaultville,Tétreaultville
-TGV,TGV
 The Hague,Den Haag
 Theberge,Théberge
 theine,théine
@@ -4914,7 +4812,7 @@ toot sweet,tout de suite
 torchon,torchon
 torrent,torrent
 torsade,torsade
-torsion,"torsio, torsionem"
+torsion,torsio
 tortillon,tortillon
 touché,touché
 Toulouse,Toulouse
@@ -4980,3 +4878,209 @@ tristesse,tristesse
 trochee,trochée
 Trois-Rivières,Trois-Rivières
 trompe l'oeil,trompe-l’œil
+trompe l'œil,trompe-l'œil
+tronc,tronc des pauvres
+troposphere,troposphère
+trottoir,trottoir
+troupe,troupe
+trousseau,trousseau
+trouvaille,trouvaille
+trouvère,trouvère
+Troyes,Troyes
+Trudeau,Trudeau
+Trudel,Trudel
+truffière,truffière
+truffle,truffe
+trumeau,trumeau
+trumpery,tromperie
+Truteau,Truteau
+tuff,tuffe
+tuile,tuile
+tulip,tulipe
+tulle,tulle
+Tullier,Tullier
+tumescence,tumescence
+turbine,turbine
+tureen,terrine
+Turlupin,Turlupin
+tuteur,tuteur
+tutoy,tutoyer
+tutoyer,tutoyer
+tutu,tutu
+tuyere,tuyère
+tyrolienne,tyrolienne
+tzigane,tzigane
+tête-de-pont,tête de pont
+têtes-de-pont,tête-de-pont
+ubac,ubac
+uhlan,uhlan
+ultime,ultime
+unijambist,unijambiste
+unique,unique
+uric,urique
+usure,usure
+utilize,utiliser
+utricle,utricule
+vacherin,vacherin
+vachette,vachette
+Vachon,Vachon
+vagabondage,vagabondage
+Vaillancourt,Vaillancourt
+Val Marie,Val Marie
+Val-de-Marne,Val-de-Marne
+Valade,Valade
+Valais,Valais
+Valerie,Valérie
+valet-de-chambre,valet de chambre
+valet-de-place,valet-de-place
+Valiquette,Valiquette
+valise,valise
+valse,valse
+vancourier,avant-courier
+vandalism,vandalisme
+Vanier,Vanier
+Vannes,Vannes
+vansire,vansire
+vareuse,vareuse
+Varin,Varin
+vasquine,vasquine
+Vaucluse,Vaucluse
+vaudeville,vaudeville
+Vaudois,vaudois
+vaunt,vanter
+vaurien,vaurien
+vedette,vedette
+vehicle,véhicule
+velocipede,vélocipède
+velour,velours
+velouté,velouté
+velte,velte
+venal,vénal
+vend,vendre
+vendange,vendange
+Vendée,Vendée
+Vendémiaire,vendémiaire
+veneur,veneur
+venin,venin
+vennel,venelle
+vent,vent
+Ventôse,ventôse
+ventouse,ventouse
+ventre à terre,ventre à terre
+Venus de Milo,Vénus de Milo
+veny,venue
+verbiage,verbiage
+Verdier,Verdier
+verdigris,vert-de-gris
+Verges,Vergès
+verglas,verglas
+verjus,verjus
+verlan,verlan
+vermouth,vermout
+Verne,Verne
+Vernet,Vernet
+vernier,vernier
+vernissage,vernissage
+Veron,Véron
+Verove,Vérove
+Verret,Verret
+verrillon,verrillon
+verrine,verrine
+Versailles,Versailles
+versant,versant
+verve,verve
+vervelle,vervelle
+vespasienne,vespasienne
+vestibule,vestibule
+vestige,vestige
+vetiver,vétyver
+Vialatte,Vialatte
+Viau,Viau
+Vibert,Vibert
+vibration,vibration
+Vichy,Vichy
+vichyssoise,vichyssoise
+Vieau,Vieau
+Vienna,Vienne
+viennoiserie,viennoiserie
+Vientiane,Vientiane
+vieux jeu,vieux jeu
+vieux riche,vieux riche
+Vigneault,Vigneault
+vigneron,vigneron
+Vigneron,Vigneron
+vignette,vignette
+villanelle,villanelle
+Villeneuve,Villeneuve
+vinage,vinage
+vinaigrette,vinaigrette
+vinasse,vinasse
+Vincennes,Vincennes
+Violette,Violette
+virement,virement
+virion,virion
+Virtel,Virtel
+visagiste,visagiste
+visé,visé
+visier,visière
+visiere,visière
+visite,visite
+vison,Neovison vison
+vitrail,vitrail
+vitraux,vitraux
+vitrine,vitrine
+vivandier,vivandier
+vivandière,vivandière
+vivant,vivant
+vive la différence,vive
+viveur,viveur
+vocable,vocable
+vocabulary,vocabulaire
+voilà,voilà
+voile,voile
+voiture,voiture
+voiturette,voiturette
+vol,vol
+vol-au-vent,vol-au-vent
+vole,vole
+volet,volet
+Voltaire,Voltaire
+volte-face,volte-face
+voltigeur,voltigeur
+voluptuary,voluptuaire
+Vosges,Vosges
+voulgier,voulgier
+voussoir,voussoir
+vouvoy,vouvoyer
+voyeur,voyeur
+vraisemblance,vraisemblance
+Walcourt,Walcourt
+Walloon,wallon
+Watremez,Watremez
+wattman,wattman
+Wendat,Wendat
+Wisconsin,Ouisconsin
+with the manner,main
+witzchoura,vitchoura
+xanthein,xantheine
+xenism,xénisme
+xenoglossy,xénoglossie
+xylography,xylographie
+xylotheque,xylothèque
+Yannick,Yannick
+yaourt,yaourt
+yé-yé,yéyé
+yogourt,yogourt
+Yon,Yon
+yurt,yourte
+Zaghouan,Zaghouan
+zain,zain
+Zecco,Zecco
+zemidjan,zémidjan
+zero,zéro
+zest,zeste
+zgougou,zgougou
+zigzag,zigzag
+à propos,à propos
+étage,étage
+étude,estude
