@@ -30,5 +30,22 @@
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_French",
         "loan-frac" : ".3"
+    },
+    "Finnish-Swedish" : {
+        "target" :  {
+            "name" : "Finnish",
+            "epi" : "fin-Latn",
+            "gtrans" : "fi",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Swedish",
+            "epi" : "swe-Latn",
+            "gtrans" : "sv",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Finnish_terms_borrowed_from_Swedish",
+        "loan-frac" : ".1"
     }
 }
+
