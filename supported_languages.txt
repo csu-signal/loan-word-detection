@@ -9,6 +9,7 @@ croatian
 czech
 dutch
 english
+finnish
 french
 german
 hindi
