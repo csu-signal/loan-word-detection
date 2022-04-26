@@ -56,12 +56,12 @@
         },
         "source" : {
             "name" : "Russian",
-            "epi" : "rus-Latn",
+            "epi" : "rus-Cyrl",
             "gtrans" : "ru",
             "unicode" : "Cyrillic"
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Kazakh_terms_borrowed_from_Russian",
-        "loan-frac" : ".25"
+        "loan-frac" : ".1"
     }
 }
 
