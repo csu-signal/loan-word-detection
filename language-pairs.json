@@ -46,6 +46,22 @@
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Finnish_terms_borrowed_from_Swedish",
         "loan-frac" : ".1"
+    },
+    "Kazakh-Russian" : {
+        "target" :  {
+            "name" : "Kazakh",
+            "epi" : "kaz-Cyrl",
+            "gtrans" : "kk",
+            "unicode" : "Cyrillic"
+        },
+        "source" : {
+            "name" : "Russian",
+            "epi" : "rus-Latn",
+            "gtrans" : "ru",
+            "unicode" : "Cyrillic"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Kazakh_terms_borrowed_from_Russian",
+        "loan-frac" : ".25"
     }
 }
 
