@@ -62,6 +62,22 @@
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Kazakh_terms_borrowed_from_Russian",
         "loan-frac" : ".1"
-    }
+    },
+"Indonesian-Dutch": {
+    "target": {
+      "name": "Indonesian",
+      "epi": "ind-Latn",
+      "gtrans": "id",
+      "unicode": "Latin"
+    },
+    "source": {
+      "name": "Dutch",
+      "epi": "nld-Latn",
+      "gtrans": "nl",
+      "unicode": "Latin"
+    },
+    "wiki": "https://en.m.wiktionary.org/wiki/Category:Indonesian_terms_borrowed_from_Dutch",
+    "loan-frac": ".4"
+  }
 }
 
