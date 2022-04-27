@@ -63,21 +63,36 @@
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Kazakh_terms_borrowed_from_Russian",
         "loan-frac" : ".1"
     },
-"Indonesian-Dutch": {
-    "target": {
-      "name": "Indonesian",
-      "epi": "ind-Latn",
-      "gtrans": "id",
-      "unicode": "Latin"
+    "Indonesian-Dutch": {
+        "target": {
+            "name": "Indonesian",
+            "epi": "ind-Latn",
+            "gtrans": "id",
+            "unicode": "Latin"
+        },
+        "source": {
+            "name": "Dutch",
+            "epi": "nld-Latn",
+            "gtrans": "nl",
+            "unicode": "Latin"
+        },
+        "wiki": "https://en.m.wiktionary.org/wiki/Category:Indonesian_terms_borrowed_from_Dutch",
+        "loan-frac": ".4"
     },
-    "source": {
-      "name": "Dutch",
-      "epi": "nld-Latn",
-      "gtrans": "nl",
-      "unicode": "Latin"
-    },
-    "wiki": "https://en.m.wiktionary.org/wiki/Category:Indonesian_terms_borrowed_from_Dutch",
-    "loan-frac": ".4"
-  }
+    "Azerbaijani-Arabic" : {
+        "target" :  {
+            "name" : "Azerbaijani",
+            "epi" : "aze-Latn",
+            "gtrans" : "az",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Arabic",
+            "epi" : "ara-Arab",
+            "gtrans" : "ar",
+            "unicode" : "Arabic"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Azerbaijani_terms_borrowed_from_Arabic",
+        "loan-frac" : ".15"
+    }
 }
-
