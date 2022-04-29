@@ -94,5 +94,21 @@
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Azerbaijani_terms_borrowed_from_Arabic",
         "loan-frac" : ".15"
+    },
+    "Chinese-English" : {
+        "target" :  {
+            "name" : "Chinese",
+            "epi" : "cmn-Hant",
+            "gtrans" : "zh-CN",
+            "unicode" : "Chinese"
+        },
+        "source" : {
+            "name" : "English",
+            "epi" : "eng-Latn",
+            "gtrans" : "en",
+            "unicode" : "English"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Chinese_terms_borrowed_from_English",
+        "loan-frac" : ".1"
     }
 }
