@@ -106,7 +106,7 @@
             "name" : "English",
             "epi" : "eng-Latn",
             "gtrans" : "en",
-            "unicode" : "English"
+            "unicode" : "Latin"
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Chinese_terms_borrowed_from_English",
         "loan-frac" : ".1"
