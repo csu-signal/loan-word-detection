@@ -95,5 +95,37 @@
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Chinese_terms_borrowed_from_English",
         "loan-frac" : ".1"
+    },
+    "Persian-Arabic" : {
+        "target" :  {
+            "name" : "Persian",
+            "epi" : "fas-Arab",
+            "gtrans" : "fa",
+            "unicode" : "Arabic"
+        },
+        "source" : {
+            "name" : "Arabic",
+            "epi" : "ara-Arab",
+            "gtrans" : "ar",
+            "unicode" : "Arabic"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Persian_terms_borrowed_from_Arabic",
+        "loan-frac" : ".4"
+    },
+    "English-German" : {
+        "target" :  {
+            "name" : "English",
+            "epi" : "eng-Latn",
+            "gtrans" : "en",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "German",
+            "epi" : "deu-Latin",
+            "gtrans" : "de",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_German",
+        "loan-frac" : ".1"
     }
 }
