@@ -1,0 +1,18 @@
+{
+    "German-Italian" : {
+        "target" :  {
+            "name" : "German",
+            "epi" : "deu-Latn",
+            "gtrans" : "de",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Italian",
+            "epi" : "ita-Latn",
+            "gtrans" : "it",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:German_terms_borrowed_from_Italian",
+        "loan-frac" : ".1"
+    }
+}
