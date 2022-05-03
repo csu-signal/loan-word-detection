@@ -1,10 +1,26 @@
 {
-    "Persian-Arabic" : {
+    "German-Italian" : {
         "target" :  {
-            "name" : "Persian",
-            "epi" : "fas-Arab",
-            "gtrans" : "fa",
-            "unicode" : "Arabic"
+            "name" : "German",
+            "epi" : "deu-Latn",
+            "gtrans" : "de",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Italian",
+            "epi" : "ita-Latn",
+            "gtrans" : "it",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:German_terms_borrowed_from_Italian",
+        "loan-frac" : ".1"
+    },
+    "Catalan-Arabic" : {
+        "target" :  {
+            "name" : "Catalan",
+            "epi" : "cat-Latn",
+            "gtrans" : "ca",
+            "unicode" : "Latin"
         },
         "source" : {
             "name" : "Arabic",
@@ -12,7 +28,7 @@
             "gtrans" : "ar",
             "unicode" : "Arabic"
         },
-        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Persian_terms_borrowed_from_Arabic",
-        "loan-frac" : ".4"
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Catalan_terms_borrowed_from_Arabic",
+        "loan-frac" : ".1"
     }
 }

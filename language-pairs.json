@@ -127,6 +127,22 @@
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Persian_terms_borrowed_from_Arabic",
         "loan-frac" : ".4"
     },
+    "German-French" : {
+        "target" :  {
+            "name" : "German",
+            "epi" : "deu-Latn",
+            "gtrans" : "de",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "French",
+            "epi" : "fra-Latn",
+            "gtrans" : "fr",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:German_terms_borrowed_from_French",
+        "loan-frac" : ".1"
+    },
     "English-German" : {
         "target" :  {
             "name" : "English",
