@@ -1,4 +1,20 @@
 {
+    "Hungarian-German" : {
+        "target" :  {
+            "name" : "Hungarian",
+            "epi" : "hun-Latn",
+            "gtrans" : "hu",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "German",
+            "epi" : "deu-Latn",
+            "gtrans" : "de",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Hungarian_terms_borrowed_from_German",
+        "loan-frac" : ".1"
+    },
     "German-Italian" : {
         "target" :  {
             "name" : "German",

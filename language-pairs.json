@@ -158,5 +158,21 @@
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_German",
         "loan-frac" : ".1"
+    },
+    "Romanian-Hungarian" : {
+        "target" :  {
+            "name" : "Romanian",
+            "epi" : "ron-Latn",
+            "gtrans" : "ro",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Hungarian",
+            "epi" : "hun-Latn",
+            "gtrans" : "hu",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Romanian_terms_borrowed_from_Hungarian",
+        "loan-frac" : ".1"
     }
 }
