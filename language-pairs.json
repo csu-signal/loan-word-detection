@@ -174,5 +174,21 @@
         },
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Romanian_terms_borrowed_from_Hungarian",
         "loan-frac" : ".1"
-    }
+    },
+"Polish-French": {
+    "target": {
+      "name": "Polish",
+      "epi": "pol-Latn",
+      "gtrans": "pl",
+      "unicode": "Latin"
+    },
+    "source": {
+      "name": "French",
+      "epi": "fra-Latn",
+      "gtrans": "fr",
+      "unicode": "Latin"
+    },
+    "wiki": "https://en.m.wiktionary.org/wiki/Category:Polish_terms_borrowed_from_French",
+    "loan-frac": ".1"
+  }
 }
