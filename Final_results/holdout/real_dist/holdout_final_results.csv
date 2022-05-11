@@ -1,9 +1,9 @@
 ,all_language_evaluate,train_evaluate_pair,language_pair,class,precision,recall,f1_score,support,acc
-0,False,False,Persian-Arabic,0,0.82,0.98,0.89,228.0,
-1,False,False,Persian-Arabic,1,0.95,0.68,0.8,152.0,0.86
+0,False,False,Persian-Arabic,0,0.85,0.97,0.91,228.0,
+1,False,False,Persian-Arabic,1,0.95,0.75,0.84,152.0,0.88
 2,False,False,Hungarian-German,0,0.93,1.0,0.96,477.0,
 3,False,False,Hungarian-German,1,0.95,0.36,0.52,53.0,0.93
-4,False,False,German-Italian,0,0.92,0.99,0.95,222.0,
-5,False,False,German-Italian,1,0.67,0.25,0.36,24.0,0.91
+4,False,False,German-Italian,0,0.93,0.99,0.96,222.0,
+5,False,False,German-Italian,1,0.73,0.33,0.46,24.0,0.92
 6,False,False,Catalan-Arabic,0,0.88,1.0,0.94,60.0,
 7,False,False,Catalan-Arabic,1,1.0,0.2,0.33,10.0,0.89
