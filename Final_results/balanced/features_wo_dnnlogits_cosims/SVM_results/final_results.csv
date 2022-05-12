@@ -1,6 +1,6 @@
 ,all_language_evaluate,train_evaluate_pair,language_pair,class,precision,recall,f1_score,support,acc
-0,True,False,,0,0.94,0.92,0.93,2389.0,
-1,True,False,,1,0.92,0.94,0.93,2398.0,0.93
+0,True,False,All_languages,0,0.94,0.92,0.93,2389.0,
+1,True,False,All_languages,1,0.92,0.94,0.93,2398.0,0.93
 2,False,False,Hindi-Persian,0,0.91,0.86,0.89,124.0,
 3,False,False,Hindi-Persian,1,0.87,0.92,0.89,125.0,0.89
 4,False,False,English-French,0,0.96,0.94,0.95,507.0,
