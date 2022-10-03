@@ -1,0 +1,194 @@
+{
+    "Hindi-Persian" : {
+        "target" :  {
+            "name" : "Hindi",
+            "epi" : "hin-Deva",
+            "gtrans" : "hi",
+            "unicode" : "Devanagari"
+        },
+        "source" : {
+            "name" : "Persian",
+            "epi" : "fas-Arab",
+            "gtrans" : "fa",
+            "unicode" : "Arabic"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Hindi_terms_borrowed_from_Persian",
+        "loan-frac" : ".3"
+    },
+    "English-French" : {
+        "target" :  {
+            "name" : "English",
+            "epi" : "eng-Latn",
+            "gtrans" : "en",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "French",
+            "epi" : "fra-Latn",
+            "gtrans" : "fr",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_French",
+        "loan-frac" : ".3"
+    },
+    "Finnish-Swedish" : {
+        "target" :  {
+            "name" : "Finnish",
+            "epi" : "fin-Latn",
+            "gtrans" : "fi",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Swedish",
+            "epi" : "swe-Latn",
+            "gtrans" : "sv",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Finnish_terms_borrowed_from_Swedish",
+        "loan-frac" : ".1"
+    },
+    "Kazakh-Russian" : {
+        "target" :  {
+            "name" : "Kazakh",
+            "epi" : "kaz-Cyrl",
+            "gtrans" : "kk",
+            "unicode" : "Cyrillic"
+        },
+        "source" : {
+            "name" : "Russian",
+            "epi" : "rus-Cyrl",
+            "gtrans" : "ru",
+            "unicode" : "Cyrillic"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Kazakh_terms_borrowed_from_Russian",
+        "loan-frac" : ".1"
+    },
+    "Azerbaijani-Arabic" : {
+        "target" :  {
+            "name" : "Azerbaijani",
+            "epi" : "aze-Latn",
+            "gtrans" : "az",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Arabic",
+            "epi" : "ara-Arab",
+            "gtrans" : "ar",
+            "unicode" : "Arabic"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Azerbaijani_terms_borrowed_from_Arabic",
+        "loan-frac" : ".15"
+    },
+    "Chinese-English" : {
+        "target" :  {
+            "name" : "Chinese",
+            "epi" : "cmn-Hant",
+            "gtrans" : "zh-CN",
+            "unicode" : "Chinese"
+        },
+        "source" : {
+            "name" : "English",
+            "epi" : "eng-Latn",
+            "gtrans" : "en",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Chinese_terms_borrowed_from_English",
+        "loan-frac" : ".1"
+    },
+    "German-French" : {
+        "target" :  {
+            "name" : "German",
+            "epi" : "deu-Latn",
+            "gtrans" : "de",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "French",
+            "epi" : "fra-Latn",
+            "gtrans" : "fr",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:German_terms_borrowed_from_French",
+        "loan-frac" : ".1"
+    },
+    "English-German" : {
+        "target" :  {
+            "name" : "English",
+            "epi" : "eng-Latn",
+            "gtrans" : "en",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "German",
+            "epi" : "deu-Latin",
+            "gtrans" : "de",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_German",
+        "loan-frac" : ".1"
+    },
+    "Romanian-Hungarian" : {
+        "target" :  {
+            "name" : "Romanian",
+            "epi" : "ron-Latn",
+            "gtrans" : "ro",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Hungarian",
+            "epi" : "hun-Latn",
+            "gtrans" : "hu",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Romanian_terms_borrowed_from_Hungarian",
+        "loan-frac" : ".1"
+    },
+    "Polish-French": {
+        "target": {
+            "name": "Polish",
+            "epi": "pol-Latn",
+            "gtrans": "pl",
+            "unicode": "Latin"
+        },
+        "source": {
+            "name": "French",
+            "epi": "fra-Latn",
+            "gtrans": "fr",
+            "unicode": "Latin"
+        },
+        "wiki": "https://en.m.wiktionary.org/wiki/Category:Polish_terms_borrowed_from_French",
+        "loan-frac": ".1"
+    }, 
+    "Indonesian-Dutch": {
+      "target": {
+             "name": "Indonesian",
+             "epi": "ind-Latn",
+             "gtrans": "id",
+             "unicode": "Latin"
+       },
+        "source": {
+             "name": "Dutch",
+             "epi": "nld-Latn",
+             "gtrans": "nl",
+            "unicode": "Latin"
+       },
+        "wiki": "https://en.m.wiktionary.org/wiki/Category:Indonesian_terms_borrowed_from_Dutch",
+        "loan-frac": ".4"
+    },
+    "Romanian-French" : {
+        "target" :  {
+            "name" : "Romanian",
+            "epi" : "ron-Latn",
+            "gtrans" : "ro",
+            "unicode" : "Latin"
+        },
+       "source" : {
+            "name" : "French",
+            "epi" : "fra-Latn",
+            "gtrans" : "fr",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Romanian_terms_borrowed_from_French",
+        "loan-frac" : ".3"
+    }
+}

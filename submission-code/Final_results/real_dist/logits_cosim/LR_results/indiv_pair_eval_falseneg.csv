@@ -1,0 +1,685 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,DNN_logits,MBERT_cos_sim,XLM_cos_sim,label
+0,Hindi-Persian,सुराख़,سوراخ,suraːx,svrɒx,eyelet,Hole,-2.1433172000000003,0.902113437652588,0.7836636900901794,loan
+1,Hindi-Persian,अर्ज़ी,ارضی,arziː,ɒrzj,application,Earth,-2.511269,0.8637973666191101,0.629808783531189,loan
+2,Hindi-Persian,शब बख़ैर,شب بخیر,ʃəbə bəxæːr,ʃb bxjr,Shab bhair,Good Night,-6.980842599999999,0.866428017616272,0.6244568228721619,loan
+3,Hindi-Persian,आस्तीन,آستین,aːstiːn,ɒstjn,sleeve,Sleeve,-3.059773,0.8992199897766113,0.670281708240509,loan
+4,Hindi-Persian,रंजिश,رنجش,rəɲd͡ʒiʃ,rnd͡ʒʃ,enmity,رنجش,-2.4979234,0.8634879589080809,0.5614897012710571,loan
+5,Hindi-Persian,ख़ाक,خاک,xaːk,xɒk,dry,Soil,-1.8374939,0.8224914073944092,0.6397693157196045,loan
+6,Hindi-Persian,बादाम,بادام,baːdaːm,bɒdɒm,Almond,Almond,-1.7741006999999998,0.9083071947097778,0.6934610605239868,loan
+7,Hindi-Persian,बुनियाद,بنیاد,bunijaːd,bnjɒd,foundation,base on,-4.027191999999999,0.8285811543464661,0.710407018661499,loan
+8,Hindi-Persian,ख़ामोश,خاموش,xaːmoʃ,xɒmvʃ,silent,be quite,-1.7001398999999997,0.8984519243240356,0.6658168435096741,loan
+9,Hindi-Persian,बाज़ूबंद,بازوبند,baːzuːbəndə,bɒzvbnd,armband,Armband,-3.5344992,0.8763051629066467,0.6227849125862122,loan
+10,Hindi-Persian,दामाद,داماد,daːmaːd,dɒmɒd,son in law,son in law,-2.4111675999999997,0.8962925672531128,0.7058234810829163,loan
+11,Hindi-Persian,निगाह,نگه,niɡaːɦ,ŋh,gaze,Hold,-6.848006699999999,0.7676306366920471,0.6729143857955933,loan
+12,Hindi-Persian,आब,آب,aːb,ɒb,now,Water,-1.9275292000000002,0.8899198770523071,0.571986198425293,loan
+13,Hindi-Persian,इज़ाफ़ा,اضافه,izaːfaː,ɒzɒfh,enlargement,Added,-3.9374962,0.8876692652702332,0.7644781470298767,loan
+14,Hindi-Persian,तंबू,تنبو,təmbuː,tnbv,Tent,Tent,-1.9922212,0.8858595490455627,0.4908837974071503,loan
+15,Hindi-Persian,बेवफ़ा,بی‌وفا,bevfaː,bj‌vfɒ,unfaithful,disloyal,-2.1065977000000005,0.8217051029205322,0.4942141771316528,loan
+16,Hindi-Persian,दीदार,دیدار,diːdaːr,djdɒr,seen,Meet,-4.8561225,0.9171709418296814,0.6886078715324402,loan
+17,Hindi-Persian,क़ुस्तुंतुनिया,قسطنطنیه,qustuntunijaː,ɣstntnjh,Qustuntuniya,Constantinople,-17.718782,0.9068192839622498,0.7412883043289185,loan
+18,Hindi-Persian,ख़ुशआमदीद,خوش آمدید,xuʃəamdiːd,xvʃ ɒmdjd,happy man,welcome,-3.9530443999999996,0.8272230625152588,0.4718576669692993,loan
+19,Hindi-Persian,पाश,پاشیدن,paːʃ,pɒʃjdn,loop,Sprinkle,-12.903442,0.8608543276786804,0.5601128935813904,loan
+20,Hindi-Persian,शाबाश,شاباش,ʃaːbaːʃ,ʃɒbɒʃ,Well done,Very good,-5.3572655,0.8500407338142395,0.6563235521316528,loan
+21,Hindi-Persian,इलाहाबाद,الله‌آباد,ilaːɦaːbaːd,ɒllh‌ɒbɒd,Allahabad,Allahabad,-7.491092999999999,0.907705008983612,0.6426966190338135,loan
+22,Hindi-Persian,आइंदा,آینده,aːindaː,ɒjndh,in the future,the future,-3.6952398,0.8610271215438843,0.668088436126709,loan
+23,Hindi-Persian,इक़रार,اقرار,iqraːr,ɒɣrɒr,Pledge,Confession,-4.9531384,0.9062377214431764,0.6263862252235413,loan
+24,Hindi-Persian,माजूफल,مازو,maːd͡ʒuːpʰəl,mɒzv,nutmeg,مازو,-2.5093617000000004,0.8969129920005798,0.4208899438381195,loan
+25,Hindi-Persian,कामयाब,کامیاب,kaːmjaːb,kɒmjɒb,successful,Success,-1.6552040000000001,0.7514013648033142,0.582741916179657,loan
+26,Hindi-Persian,शुतुरमुर्ग़,شترمرغ,ʃuturmurɣə,ʃtrmrɣ,ostrich,شترمرغ,-3.2185302000000005,0.7659878730773926,0.5449444651603699,loan
+27,Hindi-Persian,दस्तावेज़,دستاویز,dəstaːvez,dstɒvjz,document,Document,-5.5432034,0.8488306999206543,0.7072010040283203,loan
+28,English-French,radiodiffusion,radiodiffusion,radiodiffusion*,ʀadjɔdifysjɔ̃,broadcasting,broadcasting,-2.8451395,0.9999998807907104,1.0,loan
+29,English-French,frivol,frivole,frivol*,fʀivɔl,frivolous,frivolous,-2.8253825,0.8348435759544373,0.8472705483436584,loan
+30,English-French,metamorphose,métamorphoser,ˌmɛtəˈmɔrfoʊz,metamɔʀfɔzəʀ,metamorphosis,metamorphose,-3.7316015,0.7686315774917603,0.6370510458946228,loan
+31,English-French,Portier,Portier,ˈpɔrtiər,pɔʀsjəʀ,Porter,Porter,-3.015489,0.9999998807907104,1.0,loan
+32,English-French,Couture,Couture,kuˈtʊr,kutyʀ,Couture,Couture,-2.3200933999999998,0.9999997615814208,1.0,loan
+33,English-French,pulverise,pulvériser,pulverise*,pylveʀizəʀ,pulverise,spray,-1.5665135000000001,0.9290618896484376,0.7970817685127258,loan
+34,English-French,pistil,pistil,ˈpɪstəl,pisti,pistil,pistil,-1.3161241000000001,0.9999997615814208,1.0,loan
+35,English-French,ratiocination,ratiocination,ratiocination*,ʀasjɔzinasjɔ̃,ratiocination,ratiocination,-1.6387721000000002,0.9999996423721312,1.0,loan
+36,English-French,note verbale,note verbale,noʊt verbale*,nɔtə vɛʀbal,verbal notes,verbal notes,-1.9510609,0.9999998807907104,1.0,loan
+37,English-French,beau joueur,beau,boʊ joueur*,bo,handsome player,beau,-8.232244,0.8808033466339111,0.7931194305419922,loan
+38,English-French,Frechette,Fréchette,frɪˈʃɛt,fʀeʃɛt,cheeky,Fréchette,-2.5563369,0.9052850604057312,0.8576450943946838,loan
+39,English-French,burbot,barbote,burbot*,baʀbɔt,burbot,dabbles,-6.1453323,0.9357205033302308,0.7969939708709717,loan
+40,English-French,satin de laine,satin de laine,ˈsætən də leɪn,satin də lɛn,wool sateen,wool sateen,-7.0903754,0.9999998211860656,1.0,loan
+41,English-French,witzchoura,vitchoura,witzchoura*,vitʃuʀa,witzchoura,feature,-6.680694,0.9219756126403807,0.8336201906204224,loan
+42,English-French,Provençal,provenceal,provençal*,pʀɔvɑ̃səal,Provençal,provenceal,-7.3900356,0.8931788206100464,0.8275958895683289,loan
+43,English-French,vive la différence,vive,viv lɑ différence*,viv,long live difference,vive,-15.018203,0.8147338628768921,0.6067865490913391,loan
+44,English-French,district,district,ˈdɪstrɪkt,distʀik,district,district,-2.5527887000000002,0.9999988079071044,1.0,loan
+45,English-French,presque vu,presque,presque* vu,pʀɛsk,almost saw,presque,-1.4941165,0.9291966557502748,0.7400998473167419,loan
+46,English-French,nature morte,nature morte,ˈneɪʧər morte*,natyʀə mɔʀt,still lifes,still lifes,-3.938098,0.9999995231628418,1.0,loan
+47,English-French,en plein air,en plein air,ɛn plin ɛr,ən pləin ɛʀ,en plein air,en plein air,-3.8171136,0.9999997615814208,1.0,loan
+48,English-French,Cayes,Cayes,keɪz,kəs,Cayes,Cayes,-1.9792821,0.9999996423721312,1.0,loan
+49,English-French,departmental,départemental,dɪˌpɑrtˈmɛnəl,depaʀtəmɑ̃tal,departmental,departmental,-5.181463,0.8125232458114624,0.6778087615966797,loan
+50,English-French,placket,plaquer,placket*,plakəʀ,placket,tackle,-7.945296000000001,0.9045895338058472,0.6881068348884583,loan
+51,English-French,anagram,anagramme,ˈænəˌgræm,anaɡʀɑm,anagram,anagram,-4.879106,0.9284234642982484,0.8994861245155334,loan
+52,English-French,Koala,Koala,koʊˈɑlə,kɔala,Koala,Koala,-1.8443618999999998,0.9999995827674866,1.0,loan
+53,English-French,Bougainville,Bougainville,ˈbugɪnˌvɪl,buɡɛ̃vij,Bougainville,Bougainville,-1.9547533,1.0,1.0,loan
+54,English-French,pedal,pédale,ˈpɛdəl,pedal,pedal,pedal,-1.8746886999999999,0.4307858347892761,0.8019160628318787,loan
+55,English-French,Meuse,Meuse,mjuz,mœz,Meuse,Meuse,-2.771024,0.9999994039535522,1.0,loan
+56,English-French,quatre,quatre,quatre*,katʀ,four,four,-2.4141111,0.9999998211860656,1.0,loan
+57,English-French,municipality,municipalité,mˌjunɪsəˈpæləti,mynizipalite,municipality,municipality,-3.6437004,0.6928162574768066,0.8572825193405151,loan
+58,English-French,galvanize,galvaniser,ˈgælvəˌnaɪz,ɡalvanizəʀ,galvanize,galvanize,-1.5284357,0.9116652011871338,0.8621883988380432,loan
+59,English-French,musculature,musculature,ˈməskjələʧər,myskylatyʀ,musculature,musculature,-5.1208873,0.9999997615814208,1.0,loan
+60,English-French,negociant,négociant,negociant*,neɡɔsjɑ̃,negotiator,merchant,-1.9143546000000002,0.9640636444091796,0.892899751663208,loan
+61,English-French,Nouvelle-Aquitaine,Nouvelle-Aquitaine,nouvelle-aquitaine*,nuvɛlə-akitɛn,New Aquitaine,New Aquitaine,-5.244436299999999,0.9999997615814208,1.0,loan
+62,English-French,bourne,bourne,bɔrn,buʀn,bourne,bourne,-1.6261232,0.9999998807907104,1.0,loan
+63,English-French,Berger Picard,berger picard,ˈbərgər pɪˈkɑrd,bɛʀʒəʀ pikaʀ,Berger Picard,berger picard,-2.8646974999999997,0.8893381953239441,0.7965342998504639,loan
+64,English-French,feuilletonist,feuilletoniste,feuilletonist*,fœjlətɔnist,feuilletonist,columnist,-13.451673000000001,0.98638653755188,0.7428359985351562,loan
+65,English-French,etui,étui,etui*,etɥi,case,case,-1.5737731000000001,0.8860145807266235,0.6152291297912598,loan
+66,English-French,Blanc de Hotot,Blanc de Hotot,blæŋk də hotot*,blɑ̃k də ɔto,White of Hotot,White of Hotot,-1.6700956000000002,0.9999998807907104,1.0,loan
+67,English-French,phenakistoscope,phénakistiscope,phenakistoscope*,fenakistiskɔp,phenakistoscope,phénakistiscope,-5.5113544,0.946753203868866,0.7194448709487915,loan
+68,English-French,objective,objectif,əˈbʤɛktɪv,ɔbʒɛktif,objective,goal,-3.4264762,0.7515013813972473,0.7628463506698608,loan
+69,English-French,lagoon,lagune,ləˈgun,laɡn,lagoon,lagoon,-3.8613824999999995,0.8151268362998962,0.7686407566070557,loan
+70,English-French,Bellerose,Bellerose,ˈbɛlərəz,bɛləʀɔz,Bellerose,Bellerose,-1.383457,0.9999992847442628,1.0,loan
+71,English-French,chef de mission,chef de mission,ʃɛf də ˈmɪʃən,ʃəf də misjɔ̃,Head of Mission,Head of Mission,-3.8735404000000004,0.9999997615814208,1.0,loan
+72,English-French,usure,usure,usure*,yzyʀ,wear,wear,-1.4460543,0.9999997615814208,1.0,loan
+73,English-French,crêpe Suzette,crêpe Suzette,crêpe* ˌsuˈzɛt,kʀə̂pə syzɛt,Crepe suzette,Crepe suzette,-6.277557,0.9999997615814208,1.0,loan
+74,English-French,Australasia,Australasie,ˌɔstrəˈleɪʒə,ostʀalazi,Australasia,Australasia,-2.3318748,0.9599274992942809,0.8505661487579346,loan
+75,English-French,sequence,sequence,ˈsikwəns,səkɑ̃s,sequence,sequence,-1.916769,0.9999997615814208,1.0,loan
+76,English-French,pis aller,pis-aller,pis* ˈɔlər,pis-aləʀ,bad luck,second best,-1.7523304,0.9451130628585817,0.7657577991485596,loan
+77,English-French,goitre,goitron,goitre*,ɡwatʀɔ̃,,goitron,-7.700539999999999,0.9480965137481691,0.7291903495788574,loan
+78,English-French,tac-au-tac,riposter du tac au tac,tac-au-tac*,ʀipɔstəʀ dy tak o tak,tac-au-tac,retaliate tit for tat,-39.18585,0.9213044047355652,0.6268824338912964,loan
+79,English-French,Payette,Payette,peɪɛt,pəɛt,Payette,Payette,-2.9074892999999995,0.9999995827674866,1.0,loan
+80,English-French,idée fixe,idée fixe,idée* fixe*,ide fiɡz,obsession,obsession,-1.614318,0.9999998807907104,1.0,loan
+81,English-French,lithofracteur,lithofracteur,lithofracteur*,litɔfʀaktœʀ,lithographer,lithographer,-4.2635555,0.9999998807907104,1.0,loan
+82,English-French,objet d'art,objet,objet* d'art*,ɔbʒɛ,art object,objet,-4.0990644,0.8418188095092773,0.6929580569267273,loan
+83,English-French,fluidity,fluidité,fluˈɪdəti,flɥidite,fluidity,fluidity,-1.5436943,0.8160927295684814,0.8205499053001404,loan
+84,English-French,billet-doux,billet doux,billet-doux*,bijət du,soft ticket,soft ticket,-5.041476,0.9797210693359376,0.7959508895874023,loan
+85,English-French,naissant,naissant,naissant*,nɛsɑ̃,nascent,nascent,-1.7340083,0.9999997615814208,1.0,loan
+86,English-French,faux ami,faux-ami,foʊ ˈɑmi,foks-ami,fake friend,fake friend,-6.306443700000001,0.9681857824325562,0.8330910205841064,loan
+87,English-French,rocambolesque,rocambolesque,rocambolesque*,ʀɔkɑ̃bɔlɛsk,incredible,incredible,-2.1068472999999996,0.9999998807907104,1.0,loan
+88,English-French,geodesy,géodésie,ʤiˈɑdəsi,ʒeɔdezi,geodesy,geodesy,-2.2398374,0.7228068113327026,0.7227963209152222,loan
+89,English-French,Gobelin,Kobold,gobelin*,kɔbɔl,Goblin,Kobold,-2.5031092,0.9389008283615112,0.7853049635887146,loan
+90,English-French,exactitude,exactitude,ɪgˈzæktəˌtud,əɡzaktityd,exactitude,exactitude,-4.015386,0.999999701976776,1.0,loan
+91,English-French,mortier,mortier,ˈmɔrtiər,mɔʀsjəʀ,mortar,mortar,-2.2159626,0.9999998211860656,1.0,loan
+92,English-French,prestidigitator,prestidigitateur,ˌprɛstɪˈdɪʤəteɪtər,pʀɛstidiʒitatœʀ,prestidigitator,magician,-12.896450999999999,0.9711085557937622,0.849744975566864,loan
+93,English-French,anacyclic,anacyclique,anacyclic*,anaziklik,anacyclic,anacyclic,-3.6953952000000005,0.8196792006492615,0.8279051184654236,loan
+94,English-French,resume,resumer,ˈrɛzəˌmeɪ,ʀəzyməʀ,resume,resumer,-2.2572045,0.884323239326477,0.782638430595398,loan
+95,English-French,nationalism,nationalisme,ˈnæʃənəˌlɪzəm,nasjɔnalism,nationalism,nationalism,-1.6100572,0.8520141243934631,0.953815460205078,loan
+96,English-French,hors d'oeuvre,hors-d'œuvre,ɔr dərv,ɔʀs-d'œvʀ,appetizers,appetizers,-2.1787784,0.914377987384796,0.6798185110092163,loan
+97,English-French,Dnieper,Dnieper,dnieper*,dnjəpəʀ,Dnieper,Dnieper,-5.803307,0.9999998807907104,1.0,loan
+98,English-French,agent provocateur,agent provocateur,ˈeɪʤənt provocateur*,aʒɑ̃t pʀɔvɔkatœʀ,provocative factor,provocative factor,-2.2321935,0.999999701976776,1.0,loan
+99,English-French,alcool,alcool,alcool*,alkɔɔl,alcohol,alcohol,-1.8446543999999998,0.9169355630874634,0.8162328600883484,loan
+100,English-French,inenarrable,inénarrable,inenarrable*,inenaʀʀabl,indescribable,indescribable,-5.8642535,0.7460234761238098,0.6081403493881226,loan
+101,English-French,anisette,anisette,ˌænəˈsɛt,anizɛt,anisette,anisette,-1.556057,0.7453263401985168,0.6746717691421509,loan
+102,English-French,emetic,émétique,ɪˈmɛtɪk,emetik,emetic,emetic,-1.9705069,0.8658087849617004,0.8614121079444885,loan
+103,English-French,Clavette,Clavette,kləˈvɛt,klavɛt,key,key,-1.9916553,0.8916664123535156,0.6664706468582153,loan
+104,English-French,plurisecular,pluriséculaire,plurisecular*,plyʀizekylɛʀ,plurisecular,centuries old,-14.936951,0.8337923884391785,0.4881325364112854,loan
+105,English-French,glycogen,glycogène,ˈglaɪkəʤɪn,ɡljkɔʒə̀n,glycogen,glycogen,-1.7950783,0.6049916744232178,0.5619627833366394,loan
+106,English-French,pluvial,pluvial,ˈpluviəl,plyvjal,pluvial,pluvial,-2.3676612,0.9999994039535522,1.0,loan
+107,English-French,le,le,lə,lə,le,le,-1.7804308999999998,0.8008731007575989,0.8067540526390076,loan
+108,English-French,réchauffé,réchauffé,réchauffé*é,ʀeʃofe,warmed up,warmed up,-4.949617400000001,0.7774735689163208,0.7173562049865723,loan
+109,English-French,minaret,minaret,ˌmɪnərˈɛt,minaʀɛ,minaret,minaret,-1.8286151000000002,0.9999997615814208,1.0,loan
+110,English-French,bacteriophage,bactériophage,bacteriophage*,bakteʀjɔfaʒ,bacteriophage,bacteriophage,-3.2793523999999996,0.827569305896759,0.6297797560691833,loan
+111,English-French,immanent,immanēns,ˈɪmənənt,ɛmanə̄n,immanent,immanen,-2.3153625,0.887939989566803,0.6691953539848328,loan
+112,English-French,fisher cat,fiche,ˈfɪʃər kæt,fiʃ,fisher cat,form,-4.6003050000000005,0.9999997615814208,1.0,loan
+113,English-French,porte-épée,porte-épée,porte-épée*,pɔʀtə-epe,sword holder,sword holder,-1.5901811000000001,0.8839511275291443,0.7094753384590149,loan
+114,English-French,accommodation,accommodation,əˌkɑməˈdeɪʃən,akkɔmɔdasjɔ̃,accommodation,accommodation,-6.955078599999999,0.8134099245071411,0.7093300819396973,loan
+115,English-French,Saïda,Saïda,saïda*,saida,Saida,Saida,-2.0775203999999996,0.9324556589126588,0.7287957072257996,loan
+116,English-French,quartier,quartier,quartier*,kaʀsjəʀ,piece,piece,-3.3944553999999996,0.7771576642990112,0.7245658040046692,loan
+117,English-French,ponce,alphonse,ˈpɑnseɪ,alfɔ̃s,ponce,alphonse,-13.040873,0.9999997615814208,1.0,loan
+118,English-French,intussusception,intussusception,intussusception*,ɛ̃tysyzɛpsjɔ̃,intussusception,intussusception,-5.331325,0.8188812136650085,0.466308057308197,loan
+119,English-French,Dulude,Dulude,ˈdjuˌlud,dylyd,Dulude,Dulude,-1.2756376,0.8744682073593141,0.7233443856239319,loan
+120,English-French,belle sabreuse,belle,bɛl sabreuse*,bɛl,beautiful saber,belle,-5.343173,0.8051757216453552,0.7185709476470947,loan
+121,English-French,pourparler,pourparler,pourparler*,puʀpaʀləʀ,to talk,to talk,-2.6829762,0.8053440451622009,0.7033236622810364,loan
+122,English-French,nitrogen,nitrogène,ˈnaɪtrəʤən,nitʀɔʒə̀n,nitrogen,nitrogen,-6.3890224,0.8403452038764954,0.7017349600791931,loan
+123,English-French,salut des armes,salut des armes,salut* dɪ ɑrmz,salyt dəs aʀm,gun salute,gun salute,-9.600325,0.3728178143501282,0.6070495843887329,loan
+124,English-French,instant,instant,ˈɪnstənt,ɛ̃stɑ̃,instant,instant,-3.1404405,0.8479580879211426,0.7433680295944214,loan
+125,English-French,Matheny,Matheny,ˈmæθɪni,matəni,Matheny,Matheny,-2.8490446,0.7733950018882751,0.6752750277519226,loan
+126,English-French,Diakite,Diakité,diakite*,djakite,Diakite,Diakity,-2.0591459999999997,0.9013797640800476,0.6634048223495483,loan
+127,English-French,rob,rober,rɑb,ʀɔbəʀ,rob,rober,-2.7380588,0.9999998211860656,1.0,loan
+128,English-French,historiette,historiette,historiette*,istɔʀjɛt,historiette,historiette,-4.450147599999999,0.553046464920044,0.7279081940650941,loan
+129,English-French,morphine,morphine,ˈmɔrfin,mɔʀfin,morphine,morphine,-1.7985862000000001,0.8268435597419739,0.6839370727539062,loan
+130,English-French,aeroplane,aéroplane,aeroplane*,aeʀɔplan,aeroplane,airplane,-2.8356595,0.9999985098838806,1.0,loan
+131,English-French,compute,computer,kəmˈpjut,kɔ̃pytəʀ,compute,computer,-5.2990627,0.8789269328117371,0.7847375869750977,loan
+132,English-French,rouet,rouet volant,rouet*,ʀut vɔlɑ̃,spinning wheel,flying spinning wheel,-6.2415867,0.915295660495758,0.8343538045883179,loan
+133,English-French,plein air,plein air,plin ɛr,pləin ɛʀ,plein air,plein air,-7.5567117,0.9999998211860656,1.0,loan
+134,English-French,collaborator,collaborateur,kəˈlæbərˌeɪtər,kɔlabɔʀatœʀ,collaborator,collaborater,-2.8614832999999997,0.9999998807907104,1.0,loan
+135,English-French,clavecin,clavecin,clavecin*,klavəzɛ̃,harpsichord,harpsichord,-2.090336,0.6643924713134766,0.6379631757736206,loan
+136,English-French,redoubtable,redoutable,rəˈdaʊtəbəl,ʀədutabl,redoubtable,formidable,-1.5635693000000002,0.8213369846343994,0.6731148362159729,loan
+137,English-French,Metz,Metz,mɛts,mɛt,Metz,Metz,-1.8973964,0.9999997615814208,1.0,loan
+138,English-French,eau Créole,eau Créole,oʊ créole*,əo kʀeɔl,creole water,creole water,-1.7885634999999998,0.8764938712120056,0.6602599024772644,loan
+139,English-French,pecan,pacane,ˈpiˌkɑn,pakan,pecan,pacane,-3.4491,0.9999998807907104,1.0,loan
+140,Finnish-Swedish,piparkakku,pepparkaka,pipɑrkɑkku,pɛpɐrkɑːkɑː,gingerbread,gingerbread,-15.679398,0.9586844444274902,0.5924056172370911,loan
+141,Finnish-Swedish,markkinat,marknad,mɑrkkinɑt,mɐrknɑːd,Fair,market,-4.455604599999999,0.8986866474151611,0.7641801238059998,loan
+142,Finnish-Swedish,ankka,anka,ɑŋkkɑ,ɐnkɑː,duck,anka,-4.8294606,0.9398839473724364,0.7542106509208679,loan
+143,Finnish-Swedish,-ska,-ska,-skɑ,-ɧɑː,-ska,-ska,-3.5438160000000005,0.9999998211860656,1.0,loan
+144,Finnish-Swedish,puustavi,bokstav,puːstɑʋi,bɔkstɑːv,woodworking,letter,-9.465736,0.8850780725479126,0.7708056569099426,loan
+145,Finnish-Swedish,anjovis,ansjovis,ɑnjoʋis,ɐnɧuːviːs,anjovis,anchovies,-5.784029,0.9469328522682191,0.8321914076805115,loan
+146,Finnish-Swedish,virveli,svirvel,ʋirʋeli,svɪrveːl,rope,svirvel,-6.722557000000001,0.9083833694458008,0.7979653477668762,loan
+147,Finnish-Swedish,kautsu,kautschu,kɑutsu,kɑːɵtsɧʉː,Couts,rubber,-10.471366,0.943062424659729,0.5438930988311768,loan
+148,Finnish-Swedish,viisu,visa,ʋiːsu,viːsɑː,song,visa,-2.6854851,0.8515442013740541,0.7802311182022095,loan
+149,Finnish-Swedish,piippu,pipa,piːppu,piːpɑː,barrel,pipa,-4.566806,0.8883945941925049,0.7915257811546326,loan
+150,Finnish-Swedish,rontti,strunt,rontti,strɵnt,scoundrel,rubbish,-8.606902999999999,0.8540537357330322,0.6708838939666748,loan
+151,Finnish-Swedish,sorvari,svarvare,sorʋɑri,svɐrvɑːreː,turner,turner,-7.168209,0.851486086845398,0.6700969934463501,loan
+152,Finnish-Swedish,kyttä,skytte,kyttæ,sɕʏteː,cop,shooter,-2.8014872000000004,0.7768268585205078,0.6605762243270874,loan
+153,Finnish-Swedish,jaa,ja,jɑː,jɑː,jaa,and,-2.0855134,0.836431622505188,0.7562835216522217,loan
+154,Finnish-Swedish,konsti,konst,konsti,kɔnst,wrinkle,art,-2.3241978,0.9081318378448486,0.8456206917762756,loan
+155,Finnish-Swedish,tee,te,teː,teː,tee,te,-3.5747720999999997,0.8705242872238159,0.5543311238288879,loan
+156,Finnish-Swedish,arkki,ark,ɑrkki,ɐrk,sheet,ark,-1.0774848,0.9203505516052246,0.7242791652679443,loan
+157,Finnish-Swedish,tuoppi,stop,tuoppi,stuːp,ass,stop,-0.8381196,0.7330965995788574,0.7438393831253052,loan
+158,Finnish-Swedish,groteski,grotesk,kroteski,ɡruːtɛɧ,grotesque,grotesque,-0.8089924,0.963870406150818,0.8599038124084473,loan
+159,Finnish-Swedish,mestari,mästare,mestɑri,mɛstɑːreː,Master,Master,-4.0278945,0.7893208265304565,0.6528034806251526,loan
+160,Finnish-Swedish,vartti,kvart,ʋɑrtti,kvɐrt,quarter,quarter,-7.45953,0.7742241621017456,0.7310175895690918,loan
+161,Finnish-Swedish,limonadi,limonad,limonɑdi,liːmuːnɑːd,limonadi,lemonade,-6.128009,0.8628793954849243,0.5834406018257141,loan
+162,Finnish-Swedish,paakari,bagare,pɑːkɑri,bɑːɡɑːreː,Pakri,baker,-1.8033143,0.9459861516952516,0.8714886903762817,loan
+163,Finnish-Swedish,sola,svala,solɑ,svɑːlɑː,sola,cool,-3.15004,0.8757832646369934,0.4242637753486633,loan
+164,Finnish-Swedish,rasavilli,rasvill,rɑsɑʋilli,rɐsvɪl,rasavilli,rasvill,-4.2684164,0.8030061125755309,0.7663467526435852,loan
+165,Finnish-Swedish,veke,iväg,ʋeke,iːvɛːɡ,wick,away,-5.957106,0.8925933241844177,0.6147302389144897,loan
+166,Finnish-Swedish,maalari,målare,mɑːlɑri,moːlɑːreː,,painter,-2.3751993,0.8581070303916931,0.586585283279419,loan
+167,Finnish-Swedish,huitu,hvit,huitu,hviːt,drawing,white,-1.392508,0.9087827801704408,0.7653415203094482,loan
+168,Finnish-Swedish,kanslia,kansli,kɑnsliɑ,kɐnsliː,office,office,-4.464869,0.7553161382675171,0.6360811591148376,loan
+169,Finnish-Swedish,rekvisiitta,rekvisita,rekʋisiːttɑ,rɛkviːsiːtɑː,props,props,-12.135797,0.802128255367279,0.4005428552627564,loan
+170,Finnish-Swedish,asetti,assiett,ɑsetti,ɐsiːɛt,small plate,small plate,-3.5240002,0.9361539483070374,0.6647958755493164,loan
+171,Finnish-Swedish,kippari,skeppare,kippɑri,sɕɛpɑːreː,skipper,skipper,-2.5593355,0.8264504671096802,0.6597018837928772,loan
+172,Finnish-Swedish,eeben,eben,eːben,eːbeːn,eeben,eben,-3.3133662000000004,0.7509967088699341,0.5913037657737732,loan
+173,Finnish-Swedish,kyökki,kök,kyøkki,ɕøːk,squat,kitchen,-3.7393222,0.7892189025878906,0.7024957537651062,loan
+174,Finnish-Swedish,kurkku,Kvarken,kurkku,kvɑːrɕeːn,cucumber,Kvarken,-6.4625363,0.9412268996238708,0.7982384562492371,loan
+175,Finnish-Swedish,sekunti,sekund,sekunti,seːkɵnd,second,seconds,-1.2293003999999998,0.8249604105949402,0.5178505778312683,loan
+176,Finnish-Swedish,neilikka,nejlika,neilikkɑ,nɛjliːkɑː,carnation,carnation,-2.0396384999999997,0.7592181563377379,0.6276554465293884,loan
+177,Finnish-Swedish,skrapa,skrapa,skrɑpɑ,ɧrɑːpɑː,Scrape,Scrape,-3.634727,0.8277531862258911,0.7211217284202576,loan
+178,Finnish-Swedish,krouvi,krogher,krouʋi,krɔɡheːr,κρουβι,kroger,-4.55572,0.9011118412017822,0.6968012452125549,loan
+179,Finnish-Swedish,krumeluuri,krumelur,krumeluːri,krʉːmeːlʉːr,earwave,krumelur,-1.971748,0.8135581612586975,0.6355990171432495,loan
+180,Finnish-Swedish,hurtti,hurtig,hurtti,hɵrtiːɡ,dashing,fast,-2.7468320999999998,0.9169490337371826,0.467183917760849,loan
+181,Finnish-Swedish,vohveli,våffla,ʋoɦʋeli,vɔflɑː,vohveli,waffle,-2.5686016,0.8083705306053162,0.5974344611167908,loan
+182,Finnish-Swedish,Margareeta,Margareta,mɑrɡɑreːtɑ,mɐrɡɑːreːtɑː,Daisy,Margareta,-9.027231,0.8066652417182922,0.7693689465522766,loan
+183,Finnish-Swedish,Kumlinge,Kumlinge,kumliŋŋe,kɵmlɪnjeː,Kumlinge,Kumlinge,-2.7735790000000002,0.9181981086730956,0.66462242603302,loan
+184,Finnish-Swedish,hampuusi,hamnbuse,hɑmpuːsi,hɐmnbʉːseː,vagabond,hamnbuse,-10.201328,0.835837721824646,0.7008067965507507,loan
+185,Finnish-Swedish,treffata,träffa,treffɑtɑ,trɛfɑː,treffata,meet,-1.2159374,0.6427342891693115,0.6404104232788086,loan
+186,Finnish-Swedish,alkoholisti,alkoholist,ɑlkoɦolisti,ɐlkuːhuːlɪst,alcoholic,alcoholic,-12.168613,0.8959383368492126,0.5669292807579039,loan
+187,Finnish-Swedish,klaava,klave,klɑːʋɑ,klɑːveː,clava,klave,-1.4198624,0.8956890106201172,0.5835863351821899,loan
+188,Finnish-Swedish,pitsi,spets,pitsi,spɛts,lace,tip,-1.5785278999999999,0.8011210560798645,0.7206385135650635,loan
+189,Finnish-Swedish,Norja,Norge,norjɑ,nɔrjeː,Norway,Norway,-2.4171169,0.912393033504486,0.6779131889343262,loan
+190,Finnish-Swedish,pompöösi,pompös,pompøːsi,pɔmpøːs,pompous,pompous,-2.5155540000000003,0.8245813846588135,0.6880670189857483,loan
+191,Finnish-Swedish,brandy,brandy,prɑndy,brɐndyː,brandy,brandy,-1.5147825000000001,0.8668025135993958,0.5216891169548035,loan
+192,Finnish-Swedish,kousa,kåsa,kousɑ,koːsɑː,Kousa,kåsa,-4.231423,0.7832103967666626,0.5343394875526428,loan
+193,Finnish-Swedish,duuni,dona,duːni,duːnɑː,job,dona,-6.4174213,0.7538285851478577,0.7317466735839844,loan
+194,Finnish-Swedish,flunssa,flunsa,flunssɑ,flɵnsɑː,flu,flunsa,-5.406181299999999,0.8084262609481812,0.5494434237480164,loan
+195,Finnish-Swedish,raksi,dragsa,rɑksi,drɐɡsɑː,traction,drag,-4.5212335999999995,0.8319105505943298,0.6828659176826477,loan
+196,Finnish-Swedish,faarao,farao,fɑːrɑo,fɑːrɑːuː,pharaoh,pharaoh,-2.3357775000000003,0.7335867285728455,0.5261012315750122,loan
+197,Kazakh-Russian,радон,радо́н,rɑdon,radón,radon,радо́н,-2.3984869,0.799790620803833,0.7198001146316528,loan
+198,Kazakh-Russian,пар,пара,pɑr,para,Couple,,-2.6960094,0.8327369689941406,0.5950998663902283,loan
+199,Kazakh-Russian,фюзеляж,фюзеля́ж,fjuwzjeljɑʒ,fʲuzʲelʲáʒ,fuselage,fuselage,-1.7017738999999998,0.8919728994369507,0.7027750611305237,loan
+200,Kazakh-Russian,инженер,инжене́р,ijnʒjenjer,inʒenér,engineer,engineer,-0.80262727,0.8611890077590942,0.5726827383041382,loan
+201,Kazakh-Russian,кереует,крова́ть,kjerjewjet,krovátʲ,bed,bed,-5.825929599999999,0.8701313138008118,0.6601317524909973,loan
+202,Kazakh-Russian,гликолипид,гликолипид,ɡlijkolijpijd,ɡlʲikolʲipʲid,glycolipid,glycolipid,-1.2743539,0.6539396047592163,0.5871814489364624,loan
+203,Kazakh-Russian,суперсимметрия,суперсимме́трия,swpjersijmmjetrijjɑ,supʲersʲimmʲétrʲia,supersymmetry,supersymmetry,-1.4045515,0.4866845607757568,0.633897602558136,loan
+204,Kazakh-Russian,монизм,мони́зм,monijzm,monízm,monism,monism,-0.98902446,0.8631041049957275,0.6762314438819885,loan
+205,Kazakh-Russian,Нидерланд,Нидерла́нды,nijdjerlɑnd,nidʲerlándɨ,Netherlands,The Netherlands,-3.2972412,0.2692088186740875,0.6918458938598633,loan
+206,Kazakh-Russian,гуашь,гуа́шь,ɡwɑʃь,ɡuáʂʲː,gouache,gouache,-1.1545628000000001,0.9064349532127379,0.5780580639839172,loan
+207,Kazakh-Russian,хлоропласт,хлоропла́ст,χloroplɑst,xloroplást,chloroplast,chloroplast,-6.6613039999999994,0.889949381351471,0.6476864814758301,loan
+208,Kazakh-Russian,том,том,tom,tom,volume,volume,-1.123781,0.9150336384773254,0.7590119242668152,loan
+209,Kazakh-Russian,клептократия,клептокра́тия,kljeptokrɑtijjɑ,klʲeptokrátʲia,kleptocracy,kleptocracy,-2.4089937000000003,0.8404188752174377,0.6546838283538818,loan
+210,Kazakh-Russian,платина,пла́тина,plɑtijnɑ,plátʲina,platinum,platinum,-1.9415586999999999,0.17095018923282626,0.6491310596466064,loan
+211,Kazakh-Russian,радиоастрономия,радиоастрономия,rɑdijoɑstronomijjɑ,radʲioastronomʲia,radio astronomy,radio astronomy,-2.3586156000000003,0.8088288307189941,0.657592236995697,loan
+212,Kazakh-Russian,пәлте,пальто́,pæltje,palʲtó,coat,coat,-0.8054685,0.5810927748680115,0.6059693098068237,loan
+213,Kazakh-Russian,нормативті,нормативный,normɑtijvtɪ,normatʲivnɨj,normative,normative,-1.6571031000000003,0.3930511474609375,0.6512423157691956,loan
+214,Kazakh-Russian,пневмоторакс,пневмоторакс,pnjevmotorɑks,pnevmotoraks,pneumothorax,pneumothorax,-1.4743261,0.7764875292778015,0.655502438545227,loan
+215,Kazakh-Russian,альбом,альбо́м,ɑlьbom,alʲbóm,album,album,-0.80455095,0.8373294472694397,0.719746470451355,loan
+216,Kazakh-Russian,экзистенциализм,экзистенциали́зм,ekzijstjentsijɑlijzm,ekzʲistʲent͡sialʲízm,existentialism,existentialism,-0.8919271999999999,0.8904224038124084,0.7103527188301086,loan
+217,Kazakh-Russian,президент,президе́нт,prjezijdjent,prʲezʲidʲént,the president,the president,-1.3728688999999998,0.8106703162193298,0.6476524472236633,loan
+218,Kazakh-Russian,купон,купо́н,kwpon,kupón,coupon,coupon,-2.2035172000000003,0.9365370869636536,0.7847222089767456,loan
+219,Kazakh-Russian,палеоклиматология,палеоклиматология,pɑljeoklijmɑtoloɡijjɑ,palʲeoklʲimatoloɡia,paleoclimatology,paleoclimatology,-18.128785999999998,0.8804301619529724,0.6877955794334412,loan
+220,Kazakh-Russian,карикатура,карикату́ра,kɑrijkɑtwrɑ,karʲikatúra,caricature,cartoon,-1.5025986,0.8766963481903076,0.4618107974529266,loan
+221,Kazakh-Russian,глицерин,глицери́н,ɡlijtsjerijn,ɡlʲit͡serʲín,glycerin,glycerin,-1.424132,0.8811052441596985,0.504386842250824,loan
+222,Kazakh-Russian,галстук,га́лстук,ɡɑlstwk,ɡálstuk,tie,tie,-0.92218536,0.793526291847229,0.6039796471595764,loan
+223,Kazakh-Russian,тропикалық,тропический,tropijkɑləq,tropʲit͡ɕʲeskʲij,tropical,tropical,-3.0981953,0.8407883644104004,0.5838486552238464,loan
+224,Kazakh-Russian,троллейбус,тролле́йбус,trolljejbws,trollʲéjbus,trolleybus,trolleybus,-4.112842,0.9096407890319824,0.552193284034729,loan
+225,Kazakh-Russian,ацикловир,ацикловир,ɑtsijklovijr,at͡siklovʲir,acyclovir,acyclovir,-3.2635627,0.870820164680481,0.6950533986091614,loan
+226,Kazakh-Russian,революция,револю́ция,rjevoljuwtsijjɑ,rʲevolʲút͡sia,revolution,the revolution,-6.104959,0.9009461402893066,0.6659975647926331,loan
+227,Kazakh-Russian,фотоаппарат,фотоаппара́т,fotoɑppɑrɑt,fotoapparát,camera,camera,-1.1908106,0.8896596431732178,0.5971065759658813,loan
+228,Kazakh-Russian,кулон,куло́н,kwlon,kulón,pendant,pendant,-1.6306957,0.877427339553833,0.6118135452270508,loan
+229,Kazakh-Russian,изоморфизм,изоморфизм,ijzomorfijzm,izomorfʲizm,isomorphism,isomorphism,-2.5652532999999997,0.8650075793266296,0.5698527097702026,loan
+230,Kazakh-Russian,идиллия,иди́ллия,ijdijllijjɑ,idʲíllʲia,idyll,idyll,-3.611595,0.9051211476325988,0.5895012617111206,loan
+231,Kazakh-Russian,император,импера́тор,ijmpjerɑtor,impʲerátor,emperor,emperor,-1.3914284,0.9073005914688109,0.6446682214736938,loan
+232,Kazakh-Russian,туф,туф,twf,tuf,spit,spit,-1.1261835,0.939036190509796,0.7779421210289001,loan
+233,Kazakh-Russian,глюконеогенез,глюконеогенез,ɡljuwkonjeoɡjenjez,ɡlʲukoneoɡenez,gluconeogenesis,gluconeogenesis,-1.1837883,0.9230896234512328,0.5080490708351135,loan
+234,Kazakh-Russian,сіріңке,спичка,sɪrɪŋkje,spʲit͡ɕʲka,matches,match,-6.7009335000000005,0.8801062107086182,0.6094699501991272,loan
+235,Kazakh-Russian,консалтинг,конса́лтинг,konsɑltijnɡ,konsáltʲinɡ,consulting,consulting,-3.3301802000000005,0.7773061394691467,0.6973581314086914,loan
+236,Kazakh-Russian,ләмпішке,лампочка,læmpɪʃkje,lampot͡ɕʲka,to the bulb,bulb,-2.342127,0.8648261427879333,0.6428160667419434,loan
+237,Kazakh-Russian,скерцо,ске́рцо,skjertso,skʲért͡so,scherzo,scurvy,-2.710819,0.9148024916648864,0.7138127684593201,loan
+238,Kazakh-Russian,әртіс,артист,ærtɪs,artʲist,artist,artist,-6.4033213,0.7198962569236755,0.6534748077392578,loan
+239,Kazakh-Russian,реформа,рефо́рма,rjeformɑ,rʲefórma,reform,reform,-0.97109926,0.8441129922866821,0.565765380859375,loan
+240,Kazakh-Russian,лицензия,лице́нзия,lijtsjenzijjɑ,lʲit͡sénzʲia,license,license,-4.4151483,0.9142956733703612,0.7660503387451172,loan
+241,Kazakh-Russian,гидрография,гидрогра́фия,ɡijdroɡrɑfijjɑ,ɡidroɡráfʲia,hydrography,hydrography,-1.3643041999999999,0.8193868398666382,0.4761951565742493,loan
+242,Kazakh-Russian,бюллетень,бюллете́нь,bjuwlljetjenь,bʲullʲetʲénʲ,bulletin,bulletin,-2.5738816000000004,0.7724633812904358,0.6853289008140564,loan
+243,Azerbaijani-Arabic,vaiz,وَاعِظ,vɑɪz,uːَaːʕِðˤ,preacher,,-1.0411185,0.8327525854110718,0.757375180721283,loan
+244,Azerbaijani-Arabic,intibah,اِنْتِبَاه‎,ɪntɪbɑh,aِnْtِbَaːh‎,intibah,attention,-0.9148605,0.9009955525398254,0.6059422492980957,loan
+245,Azerbaijani-Arabic,casus,جَاسُوس,d͡ʒɑsus,d͡ʒَaːsُuːs,adventure,spy,-4.141813,0.9082028865814208,0.6177700757980347,loan
+246,Azerbaijani-Arabic,meymun,مَيْمُون,mejmun,mَiːْmُuːn,monkey,auspicious,-2.9397159,0.8791023492813109,0.5757002234458923,loan
+247,Azerbaijani-Arabic,vida,وَدَاع,vɪdɑ,uːَdَaːʕ,life,farewell,-1.3285213,0.8702738881111145,0.6377085447311401,loan
+248,Azerbaijani-Arabic,xain,خَائِن,xɑɪn,xَaːiːِٔn,xain,traitor,-2.8442874,0.8935015201568604,0.6747525334358215,loan
+249,Azerbaijani-Arabic,əmr,أَمْر,æmr,aَٔmْr,command,Command,-3.451179,0.7921293377876282,0.6056494116783142,loan
+250,Azerbaijani-Arabic,səfər,سَفَر,sæfær,sَfَr,trip,travel,-2.7443560000000002,0.8812464475631714,0.5583444833755493,loan
+251,Azerbaijani-Arabic,icra,إِجْرَاء,ɪd͡ʒrɑ,aِٕd͡ʒْrَaːʔ,execution,Procedure,-2.614779,0.8917797803878784,0.6173114180564879,loan
+252,Azerbaijani-Arabic,Fərəc,فَرَج,færæd͡ʒ,fَrَd͡ʒ,Faraj,vulva,-3.4671540000000003,0.7132585644721985,0.6950092315673828,loan
+253,Azerbaijani-Arabic,təminat,تَأْمِينَات,tæmɪnɑt,tَaːْٔmِiːnَaːt,warranty,insurances,-10.010836999999999,0.8696050643920898,0.618834912776947,loan
+254,Azerbaijani-Arabic,zeytun,زَيْتُون,zejtun,zَiːْtُuːn,olives,olive,-2.4549232000000005,0.8206941485404968,0.5650665163993835,loan
+255,Azerbaijani-Arabic,vəzn,وَزْن,væzn,uːَzْn,weight,Weight,-1.6283058000000001,0.7606460452079773,0.5763510465621948,loan
+256,Azerbaijani-Arabic,səcdə,سَجْدَة,sæd͡ʒdæ,sَd͡ʒْdَt,prostration,prostration,-2.0043359,0.8694570064544678,0.5470073819160461,loan
+257,Azerbaijani-Arabic,şərəf,شَرَف,ʃæræf,ʃَrَf,honor,honor,-2.1088576,0.8666402101516724,0.6787284016609192,loan
+258,Azerbaijani-Arabic,mütəəllim,مُتَعَلِّم,mytæællɪm,mُtَʕَlِّm,teacher,learner,-4.548017,0.8138726949691772,0.5475341081619263,loan
+259,Azerbaijani-Arabic,qohum,قوم,ɡɔhum,quːm,relative,Nation,-3.1866536,0.8441876769065857,0.5091358423233032,loan
+260,Azerbaijani-Arabic,lakin,لٰكِنْ,lɑkɪn,lٰkِnْ,but,But,-2.4773486,0.8106536269187927,0.5589587092399597,loan
+261,Azerbaijani-Arabic,baytar,بَيْطَار,bɑjtɑr,bَiːْtˤَaːr,veterinarian,farrier,-1.1995791,0.8831351995468141,0.5906850695610046,loan
+262,Azerbaijani-Arabic,süfrə,سُفْرَة,syfræ,sُfْrَt,tablecloth,dining table,-3.1965725,0.7179686427116394,0.6530627012252808,loan
+263,Azerbaijani-Arabic,Nəcəf,نَجَف,næd͡ʒæf,nَd͡ʒَf,Najaf,dry up,-0.85307866,0.8719900846481323,0.5984240174293518,loan
+264,Azerbaijani-Arabic,İbrahim,إِبْرَاهِيم,ɪ̇brɑhɪm,aِٕbْrَaːhِiːm,İbrahim,Ibrahim,-13.756979000000001,0.8984781503677368,0.5188794732093811,loan
+265,Azerbaijani-Arabic,irad,إِيرَاد‎,ɪrɑd,aِٕiːrَaːd‎,irad,import,-1.594379,0.8386163711547852,0.6010813117027283,loan
+266,Azerbaijani-Arabic,etibar,اِعْتِبَار,etɪbɑr,aِʕْtِbَaːr,trust,consideration,-1.9051683999999998,0.8716641664505005,0.6411370635032654,loan
+267,Azerbaijani-Arabic,mötədil,مُعْتَدِل,mœtædɪl,mُʕْtَdِl,moderate,Moderate,-4.5311546,0.8579906821250916,0.4554965198040009,loan
+268,Azerbaijani-Arabic,rəqəm,رَقْم,ræɡæm,rَqْm,figure,number,-1.495431,0.90180903673172,0.6823540329933167,loan
+269,Azerbaijani-Arabic,Fuad,فُؤَاد,fuɑd,fُuːَٔaːd,Fuad,fuad,-1.4435961000000002,0.8163554072380066,0.5348471403121948,loan
+270,Azerbaijani-Arabic,barıt,بَارُود,bɑrɯt,bَaːrُuːd,gunpowder,gunpowder,-6.560816,0.7766891717910767,0.5512819290161133,loan
+271,Azerbaijani-Arabic,qanun,قَانُون,ɡɑnun,qَaːnُuːn,the law,Law,-2.8863866000000002,0.8661789894104004,0.6532496809959412,loan
+272,Azerbaijani-Arabic,sabun,صَابُون,sɑbun,sˤَaːbُuːn,soap,soap,-5.118960400000001,0.696053683757782,0.745975136756897,loan
+273,Azerbaijani-Arabic,əmtəə,أَمْتِعَة,æmtææ,aَٔmْtِʕَt,commodity,Luggage,-3.8352396,0.5761435031890869,0.6397857069969177,loan
+274,Azerbaijani-Arabic,ərazi,أَرَاضٍ,ærɑzɪ,aَٔrَaːdˤٍ,area,lands,-6.184629,0.8011930584907532,0.6599588990211487,loan
+275,Azerbaijani-Arabic,istefa,اِسْتِعْفَاء,ɪstefɑ,aِsْtِʕْfَaːʔ,resignation,resignation,-6.129427,0.7865463495254517,0.6131631135940552,loan
+276,Azerbaijani-Arabic,tam,تَامّ,tɑm,tَaːmّ,tam,Complete,-2.252672,0.8856095671653748,0.7361845374107361,loan
+277,Azerbaijani-Arabic,əlifba,أَلِفْبَاء,ælɪfbɑ,aَٔlِfْbَaːʔ,alphabet,a B,-4.9667,0.930955708026886,0.6282285451889038,loan
+278,Azerbaijani-Arabic,kef,كَيْف,kef,kَiːْf,kef,How do,-3.6248028,0.7712759971618652,0.7134193181991577,loan
+279,Azerbaijani-Arabic,ciddi,جِدِّيّ,d͡ʒɪddɪ,d͡ʒِdِّiːّ,seriously,جّدِّيّ,-2.5665646,0.7711710333824158,0.5416346192359924,loan
+280,Azerbaijani-Arabic,təlim,تَعْلِيم,tælɪm,tَʕْlِiːm,training,education,-2.5235152000000003,0.7884949445724487,0.7296677827835083,loan
+281,Chinese-English,盧瑟,loser,luse,ˈluzər,Luther,loser,-0.7112858,0.3884608745574951,0.5830826163291931,loan
+282,Chinese-English,米兔,me too,mitʰu,mi tu,Rice Rabbit,me too,-2.3869097000000004,0.6936101913452148,0.5783607363700867,loan
+283,Chinese-English,馬克杯,mug,makʰepei,məg,mug,mug,-0.86339,0.6513131856918335,0.6146601438522339,loan
+284,Chinese-English,卡司,cast,kʰasi,kæst,Cass,cast,-1.7635545,0.4999563097953797,0.5761371254920961,loan
+285,Chinese-English,木斯里,muesli,musili,muesli*,Musli,muesli,-3.2779942,0.8661680221557617,0.6695488095283508,loan
+286,Chinese-English,柴可夫斯基,Tchaikovsky,ʈ͡ʂʰaikʰefusit͡ɕi,ˌʧeɪˈkɑvski,Tchaikovsky,Tchaikovsky,-16.019873,0.854561984539032,0.7081476449966431,loan
+287,Chinese-English,吖嗪,azine,at͡ɕʰin,azine*,azine,Asia,-13.464416,0.6287509202957153,0.6552488803863525,loan
+288,Chinese-English,好市圍,Hurstville,xaoʂɻ̩wei,hurstville*,Haoshi Wai,Hurstville,-7.385950599999999,0.373426765203476,0.447947233915329,loan
+289,Chinese-English,塔斯馬尼亞,Tasmania,tʰasimanija,ˌtæzˈmeɪniə,Tasmania,Tasmania,-1.0033079,0.73966383934021,0.5363652706146239,loan
+290,Chinese-English,奧林匹克,Olympic,aolinpʰikʰe,oʊˈlɪmpɪk,Olympic,Olympic,-3.5161684,0.452673465013504,0.6569464206695557,loan
+291,Chinese-English,斯芬克斯,sphinx,sifenkʰesi,sfɪŋks,Sphinx,sphinx,-1.7666063000000003,0.8273565173149109,0.5056150555610657,loan
+292,Chinese-English,華法林,warfarin,xuafalin,warfarin*,Warfarin,warfarin,-4.513139700000001,0.8795573711395264,0.534685492515564,loan
+293,Chinese-English,吲唑,indazole,int͡suo,indazole*,Indazole,indazole,-7.4801884,0.7943118810653687,0.5422491431236267,loan
+294,Chinese-English,塔崩,tabun,tʰapeŋ,tabun*,Tabun,tabun,-6.727380800000001,0.7588750720024109,0.4858222901821137,loan
+295,Chinese-English,果占,jam,kuoʈ͡ʂan,ʤæm,fruit,jam,-8.436687,0.7907612919807434,0.5540811419487,loan
+296,Chinese-English,忌廉芝士,cream cheese,t͡ɕilianʈ͡ʂɻ̩ʂɻ̩,krim ʧiz,cream cheese,cream cheese,-5.399301,0.6437954306602478,0.6367230415344238,loan
+297,Chinese-English,布丁,pudding,putiŋ,ˈpʊdɪŋ,pudding,pudding,-3.1557543,0.7700391411781311,0.3695047199726105,loan
+298,Chinese-English,加德滿都,Kathmandu,t͡ɕiatemantu,kathmandu*,Kathmandu,Kathmandu,-13.085735000000001,0.7730956077575684,0.5147219300270081,loan
+299,Chinese-English,菲力,fillet,feili,fəˈleɪ,Filet,fillet,-0.69996625,0.21736836433410645,0.5958812236785889,loan
+300,Chinese-English,巧克力,chocolate,t͡ɕʰiaokʰeli,ˈʧɔklət,chocolate,chocolate,-4.2000556,0.7578173279762268,0.6028845310211182,loan
+301,Chinese-English,紐芬蘭,Newfoundland,nioufenlan,ˈnufəndlənd,Newfoundland,Newfoundland,-5.850215,0.8023797869682312,0.5857146978378296,loan
+302,Chinese-English,西敏,Westminster,ɕimin,ˌwɛstˈmɪnstər,Westminster,Westminster,-18.43705,0.8500689268112183,0.4981644749641418,loan
+303,Chinese-English,免治,mince,wenʈ͡ʂɻ̩,mɪns,Immunity,mince,-3.7276477999999997,0.6602879762649536,0.5933575630187988,loan
+304,Chinese-English,吡喃,pyran,pinan,pyran*,Pyran,pyran,-2.7867665,0.5887101888656616,0.6509625315666199,loan
+305,Chinese-English,奎寧,quinine,kʰueiniŋ,kˈwaɪˌnaɪn,Quinine,quinine,-5.6572404,0.8363748788833618,0.520001232624054,loan
+306,Chinese-English,盎司,ounce,aŋsi,aʊns,ounce,ounce,-1.6295252,0.7562888860702515,0.4863154888153076,loan
+307,Chinese-English,彼拉提斯,Pilates,pilatʰisi,pɪˈlɑˌtis,Pilates,Pilates,-1.9245428,0.8486313819885254,0.6816306710243225,loan
+308,Chinese-English,便士,pence,pianʂɻ̩,pɛns,penny,pence,-3.4397998,0.8642175793647766,0.3504101634025574,loan
+309,Chinese-English,喹啉,quinoline,kʰueilin,quinoline*,quinoline,quinoline,-3.1887276,0.7998510003089905,0.6422137022018433,loan
+310,Chinese-English,巴拉克,Barack,palakʰe,ˈbɑrək,Barack,Barack,-0.9585333,0.5584474802017212,0.7229050993919373,loan
+311,Chinese-English,布朗尼,brownie,pulaŋni,ˈbraʊni,brownie,brownie,-1.7596232,0.6250189542770386,0.668921709060669,loan
+312,Chinese-English,恰恰,cha-cha,t͡ɕʰiat͡ɕʰia,cha-cha*,precisely,Cha Cha dance,-10.22751,0.7021863460540771,0.6003177165985107,loan
+313,Chinese-English,塞特,setter,setʰe,ˈsɛtər,Set,setter,-0.7878263000000001,0.7806840538978577,0.4922121167182922,loan
+314,Chinese-English,保齡,bowling,paoliŋ,ˈboʊlɪŋ,bowling,bowling,-6.7708816999999994,0.8418081998825073,0.5901068449020386,loan
+315,Chinese-English,印度尼西亞,Indonesia,intuniɕija,ˌɪndoʊˈniʒə,Indonesia,Indonesia,-1.5760543,0.5943220853805542,0.5367619395256042,loan
+316,Chinese-English,巴爾幹,Balkan,paɻ̩kan,ˈbɔlkən,Balkans,Balkan,-0.836888,0.7586196064949036,0.6332591772079468,loan
+317,Chinese-English,當機,down,taŋt͡ɕi,daʊn,crash,down,-4.675009999999999,0.5788591504096985,0.6295424699783325,loan
+318,Chinese-English,巴布爾,Babur,papuɻ̩,babur*,Babur,Babur,-3.2228849999999998,0.4929304718971253,0.5438486933708191,loan
+319,Chinese-English,可待因,codeine,kʰetaiin,codeine*,codeine,codeine,-5.550663500000001,0.5526784658432007,0.4594142735004425,loan
+320,Chinese-English,薩威稜帖,sovereignty,saweileŋtʰie,ˈsɑvrənti,Savillontie,sovereignty,-8.209169000000001,0.759695827960968,0.6582618355751038,loan
+321,Chinese-English,賽蓮,siren,sailian,ˈsaɪrən,Celian,siren,-2.4171650000000002,0.4977231621742249,0.7838301658630371,loan
+322,Chinese-English,霍巴特,Hobart,xuopatʰe,ˈhoʊˌbɑrt,Hobart,Hobart,-3.4919808,0.7124810814857483,0.5992361903190613,loan
+323,Chinese-English,咪唑,imidazole,mit͡suo,imidazole*,imidazole,imidazole,-11.3207035,0.3074004352092743,0.6017464995384216,loan
+324,Chinese-English,明尼阿波利斯,Minneapolis,miŋniapuolisi,ˌmɪniˈæpəlɪs,Minneapolis,Minneapolis,-11.409822,0.1858484148979187,0.7274224162101746,loan
+325,Chinese-English,蘇丹,sultan,sutan,ˈsəltən,Sudan,sultan,-0.9419148,0.6852376461029053,0.5845410227775574,loan
+326,Chinese-English,金氏,Guinness,t͡ɕinʂɻ̩,ˈgɪnəs,Kim's,Guinness,-3.7878835,0.8534876108169556,0.5889906287193298,loan
+327,Chinese-English,來福槍,rifle,laifut͡ɕʰiaŋ,ˈraɪfəl,rifle,rifle,-5.157554,0.8109993934631348,0.562248170375824,loan
+328,Chinese-English,方棚,transformer,faŋpʰeŋ,trænsˈfɔrmər,Square shelf,transformer,-13.355723000000001,0.5082348585128784,0.5644494295120239,loan
+329,Chinese-English,巴拉圭,Paraguay,palakuei,ˈpɛrəgˌweɪ,Paraguay,Paraguay,-1.3386071000000002,0.7850083708763123,0.584945023059845,loan
+330,Chinese-English,拷貝,copy,kʰaopei,ˈkɑpi,copy,copy,-2.9424021000000002,0.7487064003944397,0.5799466967582703,loan
+331,German-French,Ökumenopolis,œcumenopolis,øːkuːmənoːpoːliːs,œkymənɔpɔli,Ecumenical Police,œcumenopolis,-12.373669,0.9480357170104979,0.7548487782478333,loan
+332,German-French,Bambule,bamboula,bambuːlə,bɑ̃bula,Reveal them,bamboula,-2.9477031000000005,0.9214877486228944,0.6306809186935425,loan
+333,German-French,Fabrikant,fabriquant,fapʀiːkant,fabʀikɑ̃,Manufacturer,manufacturer,-2.4358804,0.8812825679779053,0.7831929326057434,loan
+334,German-French,delikat,délicat,deːliːkɑːt,delika,delicate,delicate,-1.1795999,0.871043860912323,0.6122530698776245,loan
+335,German-French,piken,piquer,piːkən,pikəʀ,piken,prick,-2.4726586,0.8857943415641785,0.696096658706665,loan
+336,German-French,kommerziell,commercial,kɔməʀt͡sɪl,kɔmɛʀsjal,commercial,commercial,-10.9072075,0.6240008473396301,0.7450650930404663,loan
+337,German-French,riskant,risquant,ʀɪskant,ʀiskɑ̃,risky,risking,-1.1817182,0.7684170007705688,0.8422602415084839,loan
+338,German-French,Postillion,postillon,pɔstɪliːoːn,pɔstijɔ̃,Postillion,postilion,-2.2421446,0.7306749224662781,0.7289556264877319,loan
+339,German-French,Krepp,crêpe,kʀɛp,kʀə̂p,Crepe,crepe,-0.9582978999999999,0.8149024248123169,0.52320396900177,loan
+340,German-French,Croissant,croissant,kʀoːɪsant,kʀwasɑ̃,Croissant,croissant,-1.5163171,0.843490481376648,0.7530726194381714,loan
+341,German-French,Persiflage,persiflage,pəʀsɪflɑːɡə,pɛʀsiflaʒ,persiflage,persiflage,-9.89706,0.8761061429977417,0.8986514806747437,loan
+342,German-French,Hennin,hennin,hənniːn,ɑnɛ̃,Hennin,hennin,-5.677901,0.8556041717529297,0.7983325123786926,loan
+343,German-French,Klavier,clavier,klɑːfiːʀ,klavjəʀ,Piano,keyboard,-1.3262761,0.6304200291633606,0.8942831754684448,loan
+344,German-French,Kaskade,cascade,kaskɑːdə,kaskad,Cascade,cascade,-0.8009887,0.7910331487655641,0.7585563659667969,loan
+345,German-French,Garantie,garantie,ɡɑːʀantiːə,ɡaʀɑ̃ti,Guarantee,guarantee,-4.518591000000001,0.8338255882263184,0.6787118315696716,loan
+346,German-French,Imagination,imagination,iːmɑːɡiːnɑːt͡siːoːn,imaʒinasjɔ̃,Imagination,imagination,-9.058518,0.7227540016174316,0.7015129923820496,loan
+347,German-French,Selen,sélénium,zeːlən,selenjœ̃,Selenium,selenium,-12.124937,0.920879065990448,0.6631474494934082,loan
+348,German-French,Praliné,praliner,pʀɑːliːneː́,pʀalinəʀ,Praline,pralines,-6.585335700000001,0.6137993931770325,0.6542581915855408,loan
+349,German-French,Contenance,contenance,kɔntənaŋkə,kɔ̃tənɑ̃s,Capacity,capacity,-2.4968507,0.7010676860809326,0.6737302541732788,loan
+350,German-French,diaphan,diaphane,diːɑːfɑːn,djafan,diaphan,diaphanous,-2.7585745,0.8400170207023621,0.6162301301956177,loan
+351,German-French,intellektuell,intellectuel,ɪntɛlɛktuːɛl,ɛ̃tɛlɛktyl,intellectual,intellectual,-5.774674,0.8862999677658081,0.7502967119216919,loan
+352,German-French,Chauvinist,chauviniste,xaufiːnɪst,ʃovinist,Chauvinist,chauvinist,-11.583911,0.7726244926452637,0.6714875102043152,loan
+353,German-French,Fauteuil,fauteuil,fautoːyːiːl,fotœj,Armchair,armchair,-2.3748302000000003,0.8119117021560669,0.6269271373748779,loan
+354,German-French,Appell,appel,apɛl,apəl,Appeal,appel,-1.9394164,0.8708207011222839,0.7618222832679749,loan
+355,German-French,Instrukteur,instructeur,ɪnstʀʊktoːyːʀ,ɛ̃stʀyktœʀ,Instructor,instructor,-6.4876795,0.9999998807907104,0.9999991059303284,loan
+356,German-French,Barrikade,barricade,baʀiːkɑːdə,baʀʀikad,Barricade,barricade,-6.09425,0.7346726059913635,0.6810365915298462,loan
+357,German-French,formidabel,formidable,fɔʀmiːdɑːbeːl,fɔʀmidabl,formidable,formidable,-2.6674626,0.8754967451095581,0.7067592144012451,loan
+358,German-French,Ampere,strong,ampəʀə,stʀɔ̃ɡ,Ampere,strong,-9.410998,0.8633487820625305,0.4759212136268616,loan
+359,German-French,arriviert,arriver,aʀiːfɪʀt,aʀʀivəʀ,arriviert,arrive,-5.760929,0.6567997932434082,0.614393949508667,loan
+360,German-French,Intendant,intendant,ɪntəndant,ɛ̃tɑ̃dɑ̃,Steward,steward,-5.7926965,0.8981710076332092,0.7502718567848206,loan
+361,German-French,Dom,dôme,doːm,dom,Dom,dome,-0.9992216,0.8277287483215332,0.675645649433136,loan
+362,German-French,Moral,morale,moːʀɑːl,mɔʀal,Moral,morale,-0.99670374,0.7545546293258667,0.5842142105102539,loan
+363,German-French,Spontaneität,spontanéité,ʃpɔntɑːnaitæːt,spɔ̃taneite,spontaneity,spontaneity,-4.348644999999999,0.8481789827346802,0.6678206324577332,loan
+364,German-French,Hangar,hangar,hɑːŋɑːʀ,ɑ̃ɡaʀ,Hangar,hangar,-5.7660613,0.8361677527427673,0.5546483397483826,loan
+365,German-French,grotesk,grotesque,kʀoːtɛsk,ɡʀɔtɛsk,grotesque,grotesque,-1.8552938,0.6679139733314514,0.5125139355659485,loan
+366,German-French,intrigant,intrigant,ɪntʀiːçant,ɛ̃tʀiɡɑ̃,intriguing,intriguing,-5.134608,0.8473185896873474,0.6836948394775391,loan
+367,German-French,Romancier,romancier,ʀoːmaŋkiːʀ,ʀɔmɑ̃sjəʀ,Novelist,novelist,-3.2684447999999997,0.8201114535331726,0.6672374606132507,loan
+368,German-French,Kulisse,coulisse,kuːlɪsə,kulis,backdrop,backstage,-0.7531233,0.5840365290641785,0.7317482233047485,loan
+369,German-French,Diskothek,discothèque,dɪskoːteːk,diskɔtə̀k,discotheque,nightclub,-5.419996299999999,0.6850821375846863,0.7673198580741882,loan
+370,German-French,salopp,salope,zɑːlɔp,salɔp,casual,slut,-1.4359307,0.7155700325965881,0.7143419981002808,loan
+371,German-French,Brikett,briquette,pʀiːkɛt,bʀikɛt,Briquette,briquette,-3.6965091,0.7450409531593323,0.6036700606346129,loan
+372,German-French,Chaiselongue,chaise longue,xaiseːloːŋuːə,ʃɛzə lɔ̃ɡ,Chaiselongue,lounge chair,-1.9978893,0.7801486253738403,0.7363043427467346,loan
+373,German-French,Expertise,expertise,ɛkspəʀtiːsə,ɛkspɛʀtiz,Expertise,expertise,-5.4139843,0.8333764076232909,0.6918414235115051,loan
+374,German-French,Markise,marquise,maʀkiːsə,maʀkiz,,marquise,-2.3146136000000004,0.9311810731887816,0.7490996718406677,loan
+375,German-French,illuster,illustre,ɪlʊstɐ,ijystʀ,illuster,illustrated,-2.1843057,0.5020751357078552,0.659868061542511,loan
+376,German-French,amourös,amoureux,ɑːmoːuːʀøːs,amuʀœ,amourös,lover,-4.3290534,0.8880670666694641,0.6946181058883667,loan
+377,German-French,infektiös,infectieux,ɪnfɛktiːøːs,ɛ̃fɛksjœ,infectious,infectious,-5.323815,0.8924745917320251,0.5421968698501587,loan
+378,German-French,Poetik,poétique,poːeːtiːk,pœ́tik,Poetic,poetic,-0.8484078000000002,0.8478339910507202,0.693028450012207,loan
+379,German-French,Anarchist,anarchiste,ɑːnaʀxɪst,anaʀʃist,Anarchist,anarchist,-6.090135,0.6337692141532898,0.6431721448898315,loan
+380,German-French,Bouquet,Bouquet,boːʊkveːt,bukɛ,Bouquet,Bouquet,-3.5511133999999998,0.7967663407325745,0.7707082033157349,loan
+381,German-French,Avance,avance,ɑːfaŋkə,avɑ̃s,Advance,advance,-1.9842746999999998,0.8876020908355713,0.785706102848053,loan
+382,German-French,leger,léger,leːɡɐ,leʒəʀ,leger,light,-6.5695567,0.7484056353569031,0.6042019128799438,loan
+383,German-French,Jalousie,jalousie,jɑːloːuːsiːə,ʒaluzi,Jealousy,jealousy,-1.829086,0.8947586417198181,0.6398021578788757,loan
+384,German-French,Dossier,dossier,dɔsiːʀ,dɔsjəʀ,Dossier,dossier,-1.9532846000000001,0.7830639481544495,0.5755500793457031,loan
+385,German-French,Boutique,boutique,boːuːtɪkvə,butik,Boutique,boutique,-4.4754076,0.8553536534309387,0.7450436353683472,loan
+386,English-German,alles anderes ist Menschenwerk,alles,eɪlz anderes* ist* menschenwerk*,aleːs,everything else is man-made,everything,-44.547215,0.9313725233078004,0.5796732902526855,loan
+387,English-German,spangenhelm,Spangenhelm,spangenhelm*,ʃpɑːŋənhɛlm,spangenhelm,Spangenhelm,-5.346513,0.8995850086212158,0.8622655272483826,loan
+388,English-German,Klass,Klass,klæs,klas,Klass,Klass,-1.3569976000000001,0.9999998807907104,1.0,loan
+389,English-German,bleicherde,Bleicherde,bleicherde*,plaixəʀdə,bleaching earth,bleaching earth,-0.9761061,0.8518829345703125,0.908873975276947,loan
+390,English-German,Andrist,Andrist,ˈændrɪst,antʀɪst,Andrist,Andrist,-3.2136703,0.9999998807907104,1.0,loan
+391,English-German,Lipschutz,Lipschütz,ˈlɪpʃəts,lɪpʃyːt͡s,Lipschutz,Lipschütz,-2.3525436,0.596869707107544,0.7028533220291138,loan
+392,English-German,Afterlehen,Afterlehen,afterlehen*,aftəʀleːən,Afterlehen,Afterlehen,-2.2312,0.4924356341362,0.514997124671936,loan
+393,English-German,schnitzel,Schnitzel,schnitzel*,ʃniːt͡seːl,schnitzel,Schnitzel,-2.2605026,0.7974449396133423,0.6266505718231201,loan
+394,English-German,apophenia,Apophänie,apophenia*,ɑːpoːfæːniːə,apophenia,Apophänie,-7.202418300000001,0.5484304428100586,0.7059496641159058,loan
+395,English-German,boom,bummen,bum,bʊmən,boom,bummen,-4.552987,0.8085035085678101,0.5830926895141602,loan
+396,English-German,Steffensmeier,Steffensmeier,ˈstɛfɪnsmaɪər,ʃtɛfənsmaiɐ,Steffensmeier,Steffensmeier,-2.6204946,0.25515931844711304,0.29438722133636475,loan
+397,English-German,allele,Allel,əˈlɛli,aleːl,allele,allele,-2.6279445,0.8002256751060486,0.4503630697727203,loan
+398,English-German,Petter,Ludewig,ˈpɛtər,luːdeːviːk,Petter,Ludewig,-5.560097,0.7813042998313904,0.6276601552963257,loan
+399,English-German,Betzold,Betzold,ˈbɛtzoʊld,beːt͡sɔlt,Betzold,Betzold,-2.3935244,0.8120396137237549,0.7328431606292725,loan
+400,English-German,arginine,Arginin,arginine*,aʀɡiːniːn,arginine,arginine,-3.1047559,0.5131869912147522,0.6867529153823853,loan
+401,English-German,Gerhardt,Gerhardt,ˈgərhɑrt,ɡəʀhaʀt,Gerhardt,Gerhardt,-1.493396,0.8623524308204651,0.7571895122528076,loan
+402,English-German,dulcian,Dulzian,dulcian*,dʊlt͡siːɑːn,dulcian,Dulzian,-4.214117,0.7793852090835571,0.7818216681480408,loan
+403,English-German,Katzenklavier,Katzenklavier,katzenklavier*,kɑːt͡səŋklɑːfiːʀ,cat piano,cat piano,-3.9403672,0.8126549124717712,0.4789876341819763,loan
+404,English-German,aufeis,Aufeis,aufeis*,aufais,on ice,On ice,-1.8160735000000001,0.8040354251861572,0.6444805860519409,loan
+405,English-German,Trabant,Trabant,trabant*,tʀɑːbant,Trabant,Trabant,-1.257871,0.8486435413360596,0.8315665721893309,loan
+406,English-German,frikadellen,Frikadellen,frikadellen*,fʀiːkɑːdɛlən,meatballs,meatballs,-3.407656,0.8692418336868286,0.7384552359580994,loan
+407,English-German,autological,autologisch,autological*,autoːloːɡiːʃ,autological,autological,-5.538997,0.7582709789276123,0.7423874139785767,loan
+408,English-German,Künstlerroman,Künstlerroman,künstlerroman*,kʏnstləʀʀoːmɑːn,artist novel,artist novel,-11.062756,0.8452874422073364,0.8004147410392761,loan
+409,English-German,Kloth,Kloth,klɑθ,kloːt,Kloth,Kloth,-3.5174232000000005,0.7160290479660034,0.6505488157272339,loan
+410,English-German,Uecker,Uecker,ˈʊkər,uːɛkɐ,Uecker,Uecker,-4.603346,0.7893032431602478,0.7003698945045471,loan
+411,English-German,Siebold,Siebold,ˈsiˌboʊld,ziːbɔlt,Siebold,Siebold,-2.3982894,0.896774172782898,0.7256690859794617,loan
+412,English-German,grammatischer Wechsel,grammatischer Wechsel,grammatischer* ˈwɛksəl,kʀamɑːtiːʃəʀ vɛkseːl,grammatical change,grammatical change,-27.657365999999996,0.6161081194877625,0.7103986740112305,loan
+413,English-German,Neuendorf,Neuendorf,ˈnuəndɔrf,noːyːəndɔʀf,Neuendorf,Neuendorf,-4.2804055,0.9999997615814208,1.0,loan
+414,English-German,Roloff,Roloff,ˈrɑlɔf,ʀoːlɔf,Roloff,Roloff,-0.96015,0.8154277801513672,0.6918215751647949,loan
+415,English-German,Berggruen,Berggrün,berggruen*,bəʀɡkʀyːn,Berggruen,Berggrün,-2.5544564999999997,0.6737542152404785,0.7024418711662292,loan
+416,English-German,zwischenschach,Zwischenschach,zwischenschach*,t͡sviːʃənʃɑːx,intermediate,intermediate check,-8.819606,0.8416520357131958,0.7249236702919006,loan
+417,English-German,alpenstocker,alpenstöcker,alpenstocker*,alpənstœkɐ,alpenstocker,alpenstöcker,-1.6215565,0.8891195058822632,0.5955010056495667,loan
+418,English-German,Stieglitz,Stieglitz,ˈstiglɪts,ʃtiːɛkliːt͡s,Stieglitz,Stieglitz,-7.3771960000000005,0.5175045132637024,0.5860505700111389,loan
+419,English-German,Klabautermann,Klabautermann,klabautermann*,klɑːbautəʀman,kobalin man,kobalin man,-1.3261566999999999,0.7035010457038879,0.7076472640037537,loan
+420,English-German,gneiss,Gneis,naɪs,knais,gneiss,Gneiss,-4.6740949999999994,0.8243526220321655,0.7819539308547974,loan
+421,English-German,homoeopath,Homöopath,homoeopath*,hoːmøːpɑːt,homoeopath,Homöopath,-2.8629436000000004,0.8414187431335449,0.6955808401107788,loan
+422,English-German,singspiel,Singspiel,singspiel*,zɪŋspiːl,singing game,singspiel,-4.374497,0.8553875088691711,0.5792106986045837,loan
+423,English-German,Joachimsthaler,Joachimsthaler,joachimsthaler*,joːɑːxɪmstɑːlɐ,Joachimsthaler,Joachimsthaler,-3.2863413999999995,0.8594944477081299,0.8980684876441956,loan
+424,English-German,enzyme,Enzym,ˈɛnˌzaɪm,ənt͡syːm,enzyme,Enzymes,-2.5773314999999997,0.849025309085846,0.6623958945274353,loan
+425,English-German,kummel,Kümmel,kummel*,kʏmeːl,chamomile,Caraway seeds,-1.0948597,0.8396844267845154,0.8543981909751892,loan
+426,English-German,Basel-Landschaft,Basel-Landschaft,basel-landschaft*,bɑːseːl-lant͡ʃaft,Basel countryside,Basel countryside,-5.2523885,0.6866952776908875,0.5009914636611938,loan
+427,English-German,Krause,Krause,krɔs,kʀausə,frill,frill,-3.5113722999999997,0.9999997615814208,1.0,loan
+428,English-German,neoteny,Neotenie,niˈɑtəni,neːoːtəniːə,neoteny,Neoteny,-5.203456,0.8549166917800903,0.7451916337013245,loan
+429,English-German,folklorism,Folklorismus,folklorism*,fɔlkloːʀɪsmuːs,folklorism,folklorism,-5.511701599999999,0.7530969381332397,0.8408794403076172,loan
+430,English-German,Löwchen,Löwchen,löwchen*,lœvxən,Lowchen,Lowchen,-1.2489563999999997,0.6580918431282043,0.5607268810272217,loan
+431,English-German,Speth,Speth,spɛθ,ʃpeːt,Speth,Speth,-2.014303,0.4711921215057373,0.6889346241950989,loan
+432,English-German,Knaus,Knaus,nɔz,knaus,Knaus,Knaus,-1.9319351999999999,0.7698947191238403,0.7024555206298828,loan
+433,English-German,sprachbund,Sprachbund,sprachbund*,ʃpʀaxbʊnt,Sprachbund,Sprachbund,-3.2921525999999997,0.8529956340789795,0.6207544207572937,loan
+434,English-German,Brecheisen,Brecheisen,ˈbrɛkaɪsən,pʀeːxaisən,crowbar,crowbar,-4.420074,0.9999995827674866,1.0,loan
+435,English-German,Sieh,Sieh,si,ziː,see,see,-1.227401,0.999999701976776,1.0,loan
+436,English-German,Spiegelman,Spiegelmann,ˈspigəlmən,ʃpiːɡɛlman,Spiegelman,,-2.1113205,0.7746155261993408,0.7038792967796326,loan
+437,English-German,stauchwall,Stauchwall,stauchwall*,ʃtaʊxval,stauchwall,Stauchwall,-3.2387216,0.7653569579124451,0.6466846466064453,loan
+438,English-German,Römertopf,Römertopf,römertopf*,ʀøːməʀtoːp͡f,Römertopf,Römertopf,-2.9832103,0.829451858997345,0.6604829430580139,loan
+439,English-German,biandry,Biandrie,biandry*,biːantʀiːə,biandry,Biandrie,-5.0688934,0.8687919378280641,0.7955746650695801,loan
+440,English-German,Mittelstaedt,Mittelstädt,ˈmɪtɪlstɛt,mɪtɛlstæːt,Mittelstaedt,middle town,-1.79358,0.8068289756774902,0.6534222364425659,loan
+441,English-German,Arklitten,Arklitten,arklitten*,aʀklɪtən,Arklitten,Arklitten,-3.3260012000000003,0.6949095129966736,0.5466920733451843,loan
+442,English-German,Seck,Seck,sɛk,zɛk,Seck,Seck,-2.0965974,0.5708016157150269,0.7992144227027893,loan
+443,English-German,basset horn,Bassetthorn,ˈbæsɪt hɔrn,basɛthɔʀn,basset horn,Bassetthorn,-2.8301342000000003,0.8525932431221008,0.7493787407875061,loan
+444,English-German,ur-continent,Urkontinent,ur-continent*,ʊʀkɔntiːnənt,ur-continent,Urkontinent,-4.5649752999999995,0.901470422744751,0.7397245764732361,loan
+445,English-German,Menschanschauung,Menschanschauung,menschanschauung*,mənʃanʃauʊŋk,human view,human view,-13.509962,0.7874891757965088,0.6842800974845886,loan
+446,English-German,thalweg,Thalweg,thalweg*,talveːk,thalweg,Thalweg,-5.777042400000001,0.8300479650497437,0.6301013231277466,loan
+447,English-German,Engelken,Engelken,ˈɛŋgɪlkən,ənɡɛlkən,angels,angels,-7.0120735,0.855068564414978,0.6381688117980957,loan
+448,English-German,triskeles,Triskeles,triskeles*,tʀɪskeːleːs,triskeles,Triskeles,-3.8288982000000003,0.7960988283157349,0.710114061832428,loan
+449,English-German,Eckey,Eckey,eckey*,ɛkai,Eckey,Eckey,-2.7427049,0.7667052745819092,0.6652369499206543,loan
+450,English-German,bergshrund,Bergschrund,bergshrund*,bəʀɡʃʀʊnt,bergschrund,Bergschrund,-4.6125207,0.910353422164917,0.663878321647644,loan
+451,English-German,gegenion,gegen,gegenion*,ɡeːɡən,counterion,against,-2.7307782000000005,0.6648853421211243,0.6018919944763184,loan
+452,English-German,Platte,Platte,plæt,platə,Platte,Platte,-2.4444613,0.6019053459167479,0.6519266963005066,loan
+453,English-German,Christlieb,Christlieb,ˈkrɪˌstlib,xʀɪstliːp,Christlieb,Christlieb,-1.2648658000000002,0.9264976978302002,0.6991271376609802,loan
+454,English-German,lederhosen,Lederhose,lederhosen*,leːdəʀhoːsə,lederhosen,leather pants,-2.1624223999999996,0.853184163570404,0.5742517113685608,loan
+455,English-German,Lechtenberg,Lechtenberg,ˈlɛktənbərg,lɛxtənbəʀk,Lechtenberg,Lechtenberg,-2.9565587000000004,0.733392596244812,0.7334663271903992,loan
+456,English-German,Frauenfeld,Frauenfeld,frauenfeld*,fʀauənfɛlt,Frauenfeld,Frauenfeld,-3.0477366000000004,0.475723534822464,0.7217456102371216,loan
+457,English-German,phylogenesis,Phylogenese,phylogenesis*,fyːloːɡəneːsə,phylogenesis,Phylogenese,-2.1833975,0.7951987385749817,0.6726157069206238,loan
+458,English-German,cytosine,Cytosin,cytosine*,kyːtoːsiːn,cytosine,Cytosin,-2.9463274,0.8167538642883301,0.6293378472328186,loan
+459,English-German,Anschluss,Anschluss,ˈɑnʃlus,anʃlʊs,connection,connection,-4.8999120000000005,0.6834393739700317,0.7962413430213928,loan
+460,English-German,Schraufnagel,Schraufnagel,ʃˈraʊfnəgəl,ʃʀaʊfnɑːɡeːl,screw nail,screw nail,-1.9295584,0.8439834713935852,0.7803072333335876,loan
+461,English-German,homosexual,Homosexual,ˌhoʊmoʊˈsɛkʃuəl,hoːmoːsɛksuːɑːl,homosexual,Homosexual,-6.4360685,0.6858539581298828,0.5821347832679749,loan
+462,English-German,Kaiserslautern,Kaiserslautern,kaiserslautern*,kaisəʀslautəʀn,Kaiserslautern,Kaiserslautern,-3.3478968,0.7911926507949829,0.57492595911026,loan
+463,English-German,Dost,Dost,dɑst,dɔst,Dost,Dost,-2.2455453999999997,0.5042397379875183,0.671101450920105,loan
+464,English-German,Brennecke,Brennecke,ˈbrɛnɪk,pʀənnɛkə,Brennecke,Brennecke,-8.591426,0.7955830693244934,0.6318304538726807,loan
+465,English-German,Umwelt,Umwelt,umwelt*,ʊmvɛlt,environment,environment,-3.5354300000000003,0.5833242535591125,0.7421185374259949,loan
+466,English-German,ergotamine,Ergotamin,ergotamine*,əʀɡoːtɑːmiːn,ergotamine,Ergotamine,-1.0733982,0.6371262669563293,0.7895610928535461,loan
+467,English-German,vagile,vagil,vagile*,fɑːɡiːl,vagile,vagil,-2.034533,0.8157457113265991,0.6436150670051575,loan
+468,English-German,hexenmeister,Hexenmeister,hexenmeister*,hɛksənmaɪstɐ,Sorcerer,Sorcerer,-6.508148,0.8359882831573486,0.6750255227088928,loan
+469,English-German,Eichholz,Eiche,ˈaɪkhoʊlz,aixə,Oak wood,Oak,-4.069914,0.8672952651977539,0.7627817392349243,loan
+470,English-German,Kauth,Kauth,kɔθ,kaut,Hot,Hot,-1.2616236,0.8829112052917479,0.5603039264678955,loan
+471,English-German,Sen,Sen,sɛn,zən,Sen,Sen,-2.22915,0.768682062625885,0.7295437455177307,loan
+472,English-German,allopathy,Allopathie,allopathy*,aloːpɑːtiːə,allopathy,Allopathie,-2.1454582,0.7807684540748596,0.5921408534049988,loan
+473,English-German,spiel,Spiel,spil,ʃpiːl,spiel,Spiel,-1.3763735000000001,0.8941759467124939,0.5746801495552063,loan
+474,English-German,Hiester,Hiester,ˈhaɪɪstər,hɪstɐ,Hiester,Hiester,-3.4949657999999997,0.8671274185180664,0.6880009770393372,loan
+475,English-German,Jost,Jost,ʤɑst,jɔst,Jost,Jost,-3.5598165999999996,0.5212480425834656,0.5503643155097961,loan
+476,English-German,Sick,Sick,sɪk,zɪk,Sick,Sick,-1.9435042000000002,0.8017710447311401,0.6003302931785583,loan
+477,English-German,Antifa,Antifa,antifa*,antiːfɑː,Antifa,Antifa,-3.7120218,0.8678514361381531,0.7221582531929016,loan
+478,English-German,meerschaum,Meerschaum,meerschaum*,mɛʀʃaum,meerschaum,sea ​​foam,-4.766614,0.8478292226791382,0.7922213077545166,loan
+479,English-German,biotin,Biotin,ˈbaɪətən,biːoːtiːn,biotin,Biotin,-2.3522923,0.8135822415351868,0.7395798563957214,loan
+480,Romanian-Hungarian,Horlacea,Hortlaka,horlat͡ʃea,hortlɒkɒ,Horlacea,Hortlaka,-2.9616252999999997,0.8789319396018982,0.7884231805801392,loan
+481,Romanian-Hungarian,vig,vég,viɡ,veːɡ,vig,end,-0.9633603000000001,0.7553691267967224,0.5505271553993225,loan
+482,Romanian-Hungarian,Rugănești,Rugon,ruɡəneʃti,ruɡon,Ruganesti,Rougon,-9.897549,0.7741826772689819,0.7579774856567383,loan
+483,Romanian-Hungarian,târnaț,tornác,tɨrnat͡s,tornaːt͡s,belabour,porch,-2.4368958,0.8557518124580383,0.6921467781066895,loan
+484,Romanian-Hungarian,Verșești,Veres,verʃeʃti,vɛrɛʃ,Verşeşti,Veres,-3.5646431000000005,0.8074712753295898,0.684886634349823,loan
+485,Romanian-Hungarian,pârcălab,porkoláb,pɨrkəlab,porkolaːb,Parcalab,tips,-3.5764225,0.9092742800712584,0.8015832901000977,loan
+486,Romanian-Hungarian,Starchiojd,kövesd,starkioʒd,køvɛʃd,Starchiojd,follow,-6.924394,0.8572708368301392,0.6948137283325195,loan
+487,Romanian-Hungarian,Chileni,Kilyén,kileni,kijeːn,Chileni,Kilyén,-4.7559633,0.8524838089942932,0.6809539794921875,loan
+488,Romanian-Hungarian,cetlui,csatolni,t͡ʃetlui,t͡ʃɒtolni,bind,to attach,-7.5769915999999995,0.853593647480011,0.6158972382545471,loan
+489,Romanian-Hungarian,Feneș,Fényes,feneʃ,feːɲɛʃ,Feneş,Bright,-1.2644188,0.8082818984985352,0.6630077362060547,loan
+490,Romanian-Hungarian,Otelec,Ótelek,otelek,oːtɛlɛk,The calf,Old food,-4.454407700000001,0.879787266254425,0.8055250644683838,loan
+491,Romanian-Hungarian,Forăști,Forró,forəʃti,forːoː,Forasti,Hot,-6.925331,0.8184154629707336,0.7032023668289185,loan
+492,Romanian-Hungarian,lacăt,lakat,lakət,lɒkɒt,lock,elbow,-1.5788834999999999,0.8788613677024841,0.631796658039093,loan
+493,Romanian-Hungarian,Beregsău Mic,Berekszó,bereɡsəu mik,bɛrɛksoː,,Inquiry,-2.4848745,0.8977170586585999,0.6321003437042236,loan
+494,Romanian-Hungarian,Grințieș,gerinces,ɡrint͡sieʃ,ɡɛrint͡sɛʃ,Grinţieş,vertebrate,-4.031986,0.777328372001648,0.6252378225326538,loan
+495,Romanian-Hungarian,Chiriș,Kőris,kiriʃ,køːriʃ,Chiriș,Ash,-1.454137,0.5044871568679811,0.7780656814575195,loan
+496,Romanian-Hungarian,firiz,fürész,firiz,fyreːs,Firoz,saw,-3.8038409,0.6885920763015747,0.5761270523071289,loan
+497,Romanian-Hungarian,Virismort,Vörösmart,virismort,vørøʃmɒrt,Virismort,Red March,-5.2415233,0.8781636953353882,0.6199422478675842,loan
+498,Romanian-Hungarian,Frențiu,Ferenc,frent͡siu,fɛrɛnt͡s,Frenţiu,Ferenc,-1.5464118999999998,0.906211256980896,0.6396282911300659,loan
+499,Romanian-Hungarian,sudui,szidni,sudui,sidni,Far away,scold,-2.262073,0.8777680397033691,0.6251266598701477,loan
+500,Romanian-Hungarian,Moacșa,Maksa,moakʃa,mɒkʃɒ,Moacșa,Pay,-6.829703299999999,0.36132752895355225,0.6366585493087769,loan
+501,Romanian-Hungarian,Cuzdrioara,Kozárvár,kuzdrioara,kozaːrvaːr,Cuzdrioara,Kozárvár,-6.162171,0.8418595194816589,0.6389977335929871,loan
+502,Romanian-Hungarian,Orosfaia,Oroszfája,orosfaia,orosfaːjɒ,Orosfaia,His lioness,-4.5479503,0.9034345746040344,0.6824358105659485,loan
+503,Romanian-Hungarian,Toboș,Dobos,toboʃ,doboʃ,Toboș,Drummer,-1.3652921,0.6998576521873474,0.4672095775604248,loan
+504,Romanian-Hungarian,Cerghid,Cserked,t͡ʃerɡid,t͡ʃɛrkɛd,Cerghid,Circling,-2.642492,0.6765608787536621,0.5878269672393799,loan
+505,Romanian-Hungarian,Palota,Palota,palota,pɒlotɒ,Vote,Vote,-1.2585677,0.6950452327728271,0.6585431694984436,loan
+506,Romanian-Hungarian,matahală,mátoha,matahalə,maːtohɒ,bugbear,cool,-3.5312972,0.8593601584434509,0.6780216097831726,loan
+507,Romanian-Hungarian,Vașcău,Vaskoh,vaʃkəu,vɒʃkoh,Vaşcău,Vaskoh,-2.1393400000000002,0.9188425540924072,0.5112516283988953,loan
+508,Romanian-Hungarian,arțag,harcag,art͡saɡ,hɒrt͡sɒɡ,arțag,harcag,-6.7273684000000005,0.8194869756698608,0.4935021102428436,loan
+509,Romanian-Hungarian,Prod,Pród,prod,proːd,Prod,Pród,-1.355602,0.8358914256095886,0.756364107131958,loan
+510,Romanian-Hungarian,Nicula,Mikola,nikula,mikolɒ,Nicula,Mikola,-4.2014947,0.923607051372528,0.6199673414230347,loan
+511,Romanian-Hungarian,Ferenț,Ferenc,ferent͡s,fɛrɛnt͡s,Ferenț,Ferenc,-2.78852,0.7314439415931702,0.6266512870788574,loan
+512,Romanian-Hungarian,țel,cél,t͡sel,t͡seːl,goal,Target,-1.1161549,0.7947322726249695,0.5658300518989563,loan
+513,Romanian-Hungarian,berc,berek,berk,bɛrɛk,cradle,themselves,-2.149693,0.9242358207702636,0.6325008273124695,loan
+514,Romanian-Hungarian,chinez,kenéz,kinez,kɛneːz,Chinese,anointed,-1.3856667999999999,0.8605846166610718,0.7473503947257996,loan
+515,Romanian-Hungarian,Orțișoara,Orczyvár,ort͡siʃoara,ort͡szivaːr,Ortisoara,Orczyvár,-3.4304639999999997,0.7826379537582397,0.5542315244674683,loan
+516,Romanian-Hungarian,foișor,folyosó,foiʃor,fojoʃoː,pavilion,corridor,-7.933160000000001,0.8460485935211182,0.6126282811164856,loan
+517,Romanian-Hungarian,Ileș,Illés,ileʃ,ilːeːʃ,Ileș,Elijah,-0.9365059000000001,0.7664089798927307,0.8091145157814026,loan
+518,Romanian-Hungarian,Muncaciu,Munkácsy,munkat͡ʃiu,munkaːt͡ʃi,Work,Munkácsy,-3.1230922000000003,0.6919324398040771,0.43445733189582825,loan
+519,Romanian-Hungarian,Băgara,Bogár,bəɡara,boɡaːr,thrust,Beetle,-1.0054688,0.8238609433174133,0.6390612721443176,loan
+520,Romanian-Hungarian,Chintelnic,Kentelke,kintelnik,kɛntɛlkɛ,Chintelnic,Kentelke,-0.88777333,0.6692302227020264,0.5696516633033752,loan
+521,Romanian-Hungarian,Boldijar,Boldizsár,boldiʒar,boldiʒaːr,Boldeijer,Boldizsár,-2.1198366,0.90485417842865,0.7009860873222351,loan
+522,Romanian-Hungarian,Căptălan,Káptalan,kəptəlan,kaːptɒlɒn,Butterbur,Chapter,-3.2024703,0.8376633524894714,0.6022348403930664,loan
+523,Romanian-Hungarian,Seleși,Szélesi,seleʃi,seːlɛʃi,Seles,Wide,-2.4723968999999997,0.7032644748687744,0.622398316860199,loan
+524,Romanian-Hungarian,Micloșoara,Miklósvár,mikloʃoara,mikloːʃvaːr,Micloşoara,Miklósvár,-7.5560206999999995,0.7156999707221985,0.6654697060585022,loan
+525,Romanian-Hungarian,Sălsig,Szélszeg,səlsiɡ,seːlsɛɡ,Salsig,Edge,-1.4051336,0.8279698491096497,0.6944172978401184,loan
+526,Romanian-Hungarian,Cubulcut,Köbölkút,kubulkut,købølkuːt,Cubulcut,Cube well,-1.7829442,0.8233181834220886,0.6247068643569946,loan
+527,Romanian-Hungarian,țintirim,cinterem,t͡sintirim,t͡sintɛrɛm,we aim,cine,-5.8378983,0.7743995785713196,0.689103901386261,loan
+528,Romanian-Hungarian,Măcicășești,Macskás,mət͡ʃikəʃeʃti,mɒt͡ʃkaːʃ,Măcicăşeşti,Cat,-3.0685189999999998,0.3266589939594269,0.4619555175304413,loan
+529,Romanian-Hungarian,Derșida,Derzsida,derʃida,dɛrʒidɒ,Derşida,Dersida,-2.3357728,0.8376889824867249,0.5493239760398865,loan
+530,Romanian-Hungarian,Sărăuad,Szarvad,sərəuad,sɒrvɒd,Kissing,Deer,-1.4389085,0.9373084902763368,0.7818241119384766,loan
+531,Romanian-Hungarian,Țengheler,Cengellér,t͡senɡeler,t͡sɛnɡɛlːeːr,Țengheler,Cengellér,-5.9225388,0.8013914823532104,0.615149736404419,loan
+532,Romanian-Hungarian,Roua,Rava,roua,rɒvɒ,Dew,Rava,-2.1414072999999996,0.7954031229019165,0.549232542514801,loan
+533,Romanian-Hungarian,Hațeg,Hátszeg,hat͡seɡ,haːtsɛɡ,Haţeg,Back nail,-3.8724828000000002,0.8205025196075441,0.6206162571907043,loan
+534,Romanian-Hungarian,Jdioara,Zsidóvár,ʒdioara,ʒidoːvaːr,Jdioara,Jewish castle,-2.3156787999999997,0.8564587235450745,0.7153807282447815,loan
+535,Romanian-Hungarian,hibă,hiba,hibə,hibɒ,glitch,fault,-2.0018682,0.8289749622344971,0.6037574410438538,loan
+536,Romanian-Hungarian,Andrid,Endréd,andrid,ɛndreːd,Android,Endred,-3.2039936,0.8939771056175232,0.5932821035385132,loan
+537,Romanian-Hungarian,Oaș,Avas,oaʃ,ɒvɒʃ,Oas,Avas,-2.88823,0.8050488233566284,0.6584789156913757,loan
+538,Romanian-Hungarian,Nandra,Nándor,nandra,naːndor,Nandra,Nándor,-2.2702727000000005,0.6963540315628052,0.6106181144714355,loan
+539,Polish-French,konwergencja,convergence,kɔnvɛrɡɛnt͡sja,kɔ̃vɛʀʒɑ̃s,convergence,convergence,-4.030106,0.9030397534370422,0.5988139510154724,loan
+540,Polish-French,kwestionować,questionner,kfɛstjɔnɔvat͡ɕ,kɛssjɔnəʀ,question,to question,-3.7697453000000003,0.6536751985549927,0.6352081894874573,loan
+541,Polish-French,karmel,caramel,karmɛl,kaʀaməl,caramel,caramel,-3.1296873,0.8632940649986267,0.7711106538772583,loan
+542,Polish-French,aneroid,anéroïde,anɛrɔjt,aneʀoid,aneroid,aneroid,-4.0191464,0.9081220626831056,0.7297747731208801,loan
+543,Polish-French,aluzja,allusion,aluzja,alysjɔ̃,allusion,allusion,-3.9497802,0.8296096920967102,0.4739902317523956,loan
+544,Polish-French,ekwipować,équiper,ɛkfipɔvat͡ɕ,ekipəʀ,equip,equip,-0.7037708,0.883571445941925,0.5443143248558044,loan
+545,Polish-French,afta,aphte,afta,aft,capable,casualties,-1.3926485,0.8767159581184387,0.75236576795578,loan
+546,Polish-French,polonez,danse polonaise,pɔlɔnɛs,dɑ̃sə pɔlɔnɛz,Polish,polish dance,-16.720232,0.7928113341331482,0.6639278531074524,loan
+547,Polish-French,ekwiwalent,équivalent,ɛkfivalɛnt,ekivalɑ̃,equivalent,equivalent,-6.835399000000001,0.7566403150558472,0.5660192966461182,loan
+548,Polish-French,apel,appel,apɛl,apəl,call,appel,-2.1384914,0.8617586493492126,0.7482293248176575,loan
+549,Polish-French,propozycja,proposition,prɔpɔzɨt͡sja,pʀɔpɔzisjɔ̃,proposal,proposition,-2.048684,0.7270085215568542,0.6131541728973389,loan
+550,Polish-French,pęseta,pincette,pɛ̃sɛta,pɛ̃sɛt,pęseta,tweezers,-0.82649785,0.8551480770111084,0.6346766352653503,loan
+551,Polish-French,irytacja,irritation,irɨtat͡sja,iʀʀitasjɔ̃,irritation,irritation,-2.5897918,0.6356946229934692,0.5195640325546265,loan
+552,Polish-French,pąs,ponceau,pɔ̃s,pɔ̃so,crimson,culvert,-1.9554042,0.833145260810852,0.6422306299209595,loan
+553,Polish-French,kropierz,croupière,krɔpjɛʂ,kʀupjə̀ʀ,sprinkle,croupier,-2.410269,0.7395271062850952,0.7809368968009949,loan
+554,Polish-French,alienacja,aliénation,aljɛnat͡sja,aljenasjɔ̃,alienation,alienation,-0.7829778000000001,0.7081317305564879,0.5911329984664917,loan
+555,Polish-French,hala,halle,xala,al,hala,halle,-5.8813825,0.7976313233375549,0.8108232617378235,loan
+556,Polish-French,dubler,doblier,dublɛr,dɔbljəʀ,dubler,doblier,-4.350349,0.9085177183151244,0.7612987756729126,loan
+557,Polish-French,anchois,anchoia,anxɔjs,ɑ̃ʃwaja,anchovy,anchoia,-3.6770678,0.9352566599845886,0.7573909163475037,loan
+558,Polish-French,patrol,patrouille,patrɔl,patʀujl,patrol,patrol,-2.0066441999999998,0.3729902505874634,0.8438720107078552,loan
+559,Polish-French,dyżur,de jour,dɨʐur,də ʒuʀ,duty,by day,-2.2540631,0.7731675505638123,0.6232081055641174,loan
+560,Polish-French,apanaże,apanage,apanaʐɛ,apanaʒ,appanages,prerogative,-2.2559937999999997,0.6340453624725342,0.546009361743927,loan
+561,Polish-French,blagier,blagueur,blaɡʲɛr,blaɡɥœʀ,blissier,joker,-2.4214408,0.9268727302551271,0.7185918688774109,loan
+562,Polish-French,kompania,compagnie,kɔmpaɲa,kɔ̃paɲi,company,compagnie,-2.5706813,0.8300849795341492,0.7971935272216797,loan
+563,Polish-French,fleksja,flexion,flɛksja,flɛksjɔ̃,flex,flexion,-2.3425498,0.8642255067825317,0.5323536396026611,loan
+564,Polish-French,genialny,génial,ɡɛɲalnɨ,ʒenjal,brilliant,awesome,-5.421389,0.8855924606323242,0.656659722328186,loan
+565,Polish-French,omlet,omelette,ɔmlɛt,ɔməlɛt,omelette,omelette,-2.928186,0.8950175046920776,0.7814937233924866,loan
+566,Polish-French,gala,gala,ɡala,ɡala,gala,gala,-3.1229215,0.999999463558197,1.0,loan
+567,Polish-French,dewolaj,de volaille,dɛvɔlaj,də vɔlel,dewolaj,Poultry,-2.4807923,0.8659291863441467,0.4588294923305512,loan
+568,Polish-French,bagnet,baïonnette,baɡnɛt,baiɔnɛt,bayonet,bayonet,-4.709662000000001,0.8275458216667175,0.7368597388267517,loan
+569,Polish-French,cykl,cycle,t͡sɨkl,sikl,cycle,cycle,-1.5889886999999998,0.6909549236297607,0.8075171113014221,loan
+570,Polish-French,systematyczny,systématique,sɨstɛmatɨt͡ʂnɨ,sistematik,systematic,systematic,-3.6282160000000006,0.808005154132843,0.6088220477104187,loan
+571,Polish-French,mastektomia,mastectomie,mastɛktɔmja,mastɛktɔmi,mastectomy,mastectomy,-4.4166965,0.9557276368141174,0.8903682231903076,loan
+572,Polish-French,antrepryza,entreprise,antrɛprɨza,ɑ̃tʀɛpʀiz,contractor,business,-3.6523561,0.5457550287246704,0.644923210144043,loan
+573,Polish-French,sceptyk,sceptique,st͡sɛptɨk,sɛptik,skeptic,skeptical,-4.645246,0.8647743463516235,0.888449490070343,loan
+574,Polish-French,aerodynamika,aérodynamique,aɛrɔdɨnamika,aeʀɔdinamik,aerodynamics,aerodynamic,-5.176334,0.8912190794944763,0.6617673635482788,loan
+575,Polish-French,ekstrawagancki,extravagant,ɛkstravaɡant͡skʲi,ɛkstʀavaɡɑ̃,extravagant,extravagant,-9.899543,0.9128329157829284,0.8281026482582092,loan
+576,Polish-French,jury,ajurie,jurɨ,aʒyʀi,jury,ajurie,-8.526717,0.4082968235015869,0.6915305852890015,loan
+577,Polish-French,predyspozycja,prédisposition,prɛdɨspɔzɨt͡sja,pʀedispɔzisjɔ̃,predisposition,predisposition,-1.2356846000000001,0.8239149451255798,0.6505640745162964,loan
+578,Polish-French,bibliofil,bibliophile,bibljɔfil,bibljɔfil,bibliophile,bibliophile,-1.5398898,0.948150873184204,0.7624329328536987,loan
+579,Polish-French,animacja,animation,aɲimat͡sja,animasjɔ̃,animation,animation,-0.5092367999999999,0.6007140874862671,0.591741681098938,loan
+580,Polish-French,profilaktyka,prophylactique,prɔfilaktɨka,pʀɔfilaktik,prevention,prophylactic,-2.356146,0.8391481041908264,0.5876356959342957,loan
+581,Polish-French,anestetyk,anesthésique,anɛstɛtɨk,anɛstezik,anesthetic,anesthetic,-8.899564,0.9034050107002258,0.6454052329063416,loan
+582,Polish-French,halucynacja,hallucination,xalut͡sɨnat͡sja,alyzinasjɔ̃,hallucination,hallucination,-9.078252,0.8428682088851929,0.584906280040741,loan
+583,Polish-French,hazard,hasart,xazart,azaʀ,hazard,hasart,-1.5324861,0.7153877019882202,0.8108855485916138,loan
+584,Polish-French,plener,en plein air,plɛnɛr,ən pləin ɛʀ,outdoor,en plein air,-20.073717000000002,0.8207429647445679,0.6980719566345215,loan
+585,Polish-French,satyr,satyre,satɨr,satiʀ,satyr,Satyr,-0.8515798000000001,0.8973603844642639,0.6189257502555847,loan
+586,Polish-French,autarkizm,autarcisme,aftarkʲizm,otaʀsism,autarkizm,self-sufficiency,-4.864755000000001,0.9477431774139404,0.8727802038192749,loan
+587,Polish-French,bakarat,baccara,bakarat,bakkaʀa,Bakrat,baccarat,-5.043028,0.8945358991622925,0.7640835046768188,loan
+588,Polish-French,arszenik,arsenic,arʂɛɲik,aʀsənik,arsenic,arsenic,-2.0879698,0.7891939282417297,0.6282487511634827,loan
+589,Polish-French,wolontariat,volontariat,vɔlɔntarjat,vɔlɔ̃taʀja,volunteering,volunteering,-4.4991727,0.9026673436164856,0.8046844005584717,loan
+590,Polish-French,oksydacja,oxydation,ɔksɨdat͡sja,ɔɡzidasjɔ̃,oxidation,oxidation,-2.439809,0.8820344805717468,0.5355495810508728,loan
+591,Polish-French,angelizm,angélisme,anɡɛlizm,ɑ̃ʒelism,angelism,angelism,-1.6162564,0.9137695431709291,0.6887337565422058,loan
+592,Polish-French,szamot,chamotte,ʂamɔt,ʃamɔt,fireclay,chamotte,-0.36470187,0.8651084303855896,0.5633001923561096,loan
+593,Polish-French,asfalt,asphalte,asfalt,asfalt,asphalt,asphalt,-0.8097816,0.7511257529258728,0.6283206343650818,loan
+594,Polish-French,styl,style,stɨl,stil,style,style,-2.6337667000000002,0.7596959471702576,0.8888748288154602,loan
+595,Polish-French,indywidualizacja,individualisation,indɨvidualizat͡sja,ɛ̃dividɥalizasjɔ̃,individualization,individualization,-20.8291,0.8359352946281433,0.5592077970504761,loan
+596,Polish-French,echolalia,écholalie,ɛxɔlalja,eʃɔlali,echolalia,echolalia,-3.2327828,0.9251245856285096,0.8035405874252319,loan
+597,Polish-French,kryptonim,cryptonyme,krɨptɔɲim,kʀiptɔnim,code name,cryptonyme,-2.7136521,0.9341593980789183,0.7973636388778687,loan
+598,Indonesian-Dutch,beredel,breidel,bərədəl,prɛjɪdɛl,beredel,breidel,-4.7143426,0.8740547299385071,0.8550001978874207,loan
+599,Indonesian-Dutch,puisi,poëzie,puisi,puː̈ziːeː,poetry,poetry,-10.6600275,0.8547708988189697,0.8152204751968384,loan
+600,Indonesian-Dutch,internasional,internationaal,intərnasional,ɪntɛrnaːtɪoːnaːl,international,international,-5.7404155999999995,0.8949345350265503,0.7107369899749756,loan
+601,Indonesian-Dutch,prestisius,prestigieus,prəstisius,prɛstiːɣiːʏs,prestigious,prestigious,-1.9021778999999999,0.8651908040046692,0.6979501247406006,loan
+602,Indonesian-Dutch,begandering,vergadering,bəɡandəriŋ,vɛrɣaːdeːrɪnx,change,meeting,-6.9897029999999996,0.6379443407058716,0.7056930065155029,loan
+603,Indonesian-Dutch,ateret,achteruit,atərət,ɑxteːrœɥt,ateret,backwards,-1.3551228000000002,0.5065993666648865,0.6170355677604675,loan
+604,Indonesian-Dutch,abiturien,abituriënt,abituriən,aːbiːtyːriː̈nt,high school,apprentice,-2.86488,0.9461299180984496,0.6201506853103638,loan
+605,Indonesian-Dutch,adhesi,adhesie,adhəsi,aːteːsiːeː,adhesion,adhesion,-2.9515007,0.9056335687637328,0.6507495045661926,loan
+606,Indonesian-Dutch,asimilasi,assimilatie,asimilasi,ɑssiːmɪlaːtiːeː,assimilation,assimilation,-3.8375980000000003,0.8951439261436462,0.7497233748435974,loan
+607,Indonesian-Dutch,anfal,aanval,anfal,aːnvɑl,anfal,attack,-0.773506,0.7311393022537231,0.5385196805000305,loan
+608,Indonesian-Dutch,dobel,dubbel,dobəl,dʏpbɛl,double,double,-2.9485137000000003,0.685560405254364,0.6899475455284119,loan
+609,Indonesian-Dutch,es,est,əs,ɛst,es,is,-1.7961346999999999,0.8440921902656555,0.6064831018447876,loan
+610,Indonesian-Dutch,klerek,klerk,klərək,klɛrk,klerek,klerk,-5.935120599999999,0.8350954055786133,0.7894445061683655,loan
+611,Indonesian-Dutch,koefisien,coëfficiënt,koəfisiən,cuː̈ffiːsiː̈nt,coefficient,coefficient,-4.19475,0.8676466345787048,0.5452319979667664,loan
+612,Indonesian-Dutch,bisnis,business,bisnis,byːsiːnɛss,business,business,-9.0738,0.8289358019828796,0.7820357084274292,loan
+613,Indonesian-Dutch,Afganistan,Afghanistan,afɡanistan,ɑfxhaːnɪstɑn,Afghanistan,Afghanistan,-9.449067,0.8464546203613281,0.8825667500495911,loan
+614,Indonesian-Dutch,perkedel,frikadel,pərkədəl,friːkaːdɛl,cakes,frikadel,-3.4884421999999997,0.9535399079322816,0.7113274335861206,loan
+615,Indonesian-Dutch,autobiografis,autobiografisch,autobioɡrafis,awʏtoːbɪɔxraːfɪs,autobiography,autobiographical,-15.583460999999998,0.911569893360138,0.8007332086563109,loan
+616,Indonesian-Dutch,agen,agent,aɡən,aːɣɛnt,agen,agent,-3.253739,0.6130128502845764,0.6106234192848206,loan
+617,Indonesian-Dutch,Albania,Albanië,albania,ɑlbaːniː̈,Albania,Albania,-5.712107700000001,0.7877479195594788,0.8075387477874756,loan
+618,Indonesian-Dutch,anarkistis,anarchistich,anarkistis,aːnɑrxɪstɪx,anarchistic,anarchistich,-1.6550211,0.925022542476654,0.5996780395507812,loan
+619,Indonesian-Dutch,ide,idee,idə,iːdeːeː,ide,idea,-1.7555283,0.7636700868606567,0.736928403377533,loan
+620,Indonesian-Dutch,sengkel,schenkel,səŋkəl,sxɛnkɛl,sengkel,leg,-6.3204720000000005,0.9289207458496094,0.6411879658699036,loan
+621,Indonesian-Dutch,krisantemum,chrysanthemum,krisantəmum,xrjsɑnteːmʏm,chrysanthemum,chrysanthemum,-7.491423599999999,0.8330731987953186,0.7121462225914001,loan
+622,Indonesian-Dutch,pelopor,voorloper,pəlopor,voːrloːpɛr,pioneer,forerunner,-2.2079678,0.8718546628952026,0.6830178499221802,loan
+623,Indonesian-Dutch,fungsionaris,functionaris,fuŋsionaris,fʏnctɪoːnaːrɪs,functionary,officer,-3.8142845999999997,0.8988239169120789,0.8089221119880676,loan
+624,Indonesian-Dutch,sifon,chiffon,sifon,xɪffɔn,chiffon,chiffon,-4.114457,0.8371567726135254,0.8332584500312805,loan
+625,Indonesian-Dutch,kres,kruis,krəs,krœɥs,end,cross,-1.623371,0.8186010122299194,0.6835117936134338,loan
+626,Indonesian-Dutch,heregistrasi,herregistratie,hərəɡistrasi,hɛrreːɣɪstraːtiːeː,registration,re-registration,-1.4985662,0.913191556930542,0.643818199634552,loan
+627,Romanian-French,antisclavagist,antiesclavagiste,antisklavad͡ʒist,ɑ̃sjɛsklavaʒist,antisclavagist,antiesclavagiste,-6.1815553,0.9290528297424316,0.8179042339324951,loan
+628,Romanian-French,dramatiza,dramatiser,dramatiza,dʀamatizəʀ,dramatize,dramatize,-3.1476789000000003,0.93369060754776,0.8229215145111084,loan
+629,Romanian-French,cartă,charte,kartə,ʃaʀt,charter,charter,-1.6610460999999999,0.8377775549888611,0.7388637661933899,loan
+630,Romanian-French,translucid,translucide,translut͡ʃid,tʀɑ̃slyzid,translucent,translucent,-1.7183112,0.961751401424408,0.8819016814231873,loan
+631,Romanian-French,electroencefalogramă,électro-encéphalogramme,elektroent͡ʃefaloɡramə,elɛktʀɔ-ɑ̃sefalɔɡʀɑm,electroencephalogram,electroencephalogram,-29.093553999999997,0.9100641012191772,0.7526100873947144,loan
+632,Romanian-French,tinctorial,tinctorial,tinktorial,tɛ̃ktɔʀjal,tinctorial,tinctorial,-1.7275572,1.0,0.9999998211860656,loan
+633,Romanian-French,imemorial,immémorial,imemorial,ɛmemɔʀjal,immemorial,immemorial,-2.344268,0.9396941065788268,0.8591669797897339,loan
+634,Romanian-French,dig,diguer,diɡ,diɡʀ,dig,diguer,-1.7256032,0.9185982346534728,0.6955605745315552,loan
+635,Romanian-French,eustil,eustyle,eustil,œstil,eustil,eustyle,-2.9157189999999997,0.9427089691162108,0.6431616544723511,loan
+636,Romanian-French,nitronatrit,nitronatrite,nitronatrit,nitʀɔnatʀit,nitronatrit,nitrons,-5.547935,0.9653723239898682,0.815316379070282,loan
+637,Romanian-French,xerofag,xérophage,kserofaɡ,ɡzeʀɔfaʒ,xerophage,xérophage,-1.9386907,0.8861576318740845,0.7680203914642334,loan
+638,Romanian-French,gera,gérer,d͡ʒera,ʒeʀəʀ,gera,manage,-1.2906898,0.8237819671630859,0.6520729064941406,loan
+639,Romanian-French,insalubru,insalubre,insalubru,ɛ̃salybʀ,unhealthy,unhealthy,-3.6210504,0.9273825287818908,0.8692553043365479,loan
+640,Romanian-French,paralelipipedic,parallélepipédique,paralelipipedik,paʀaleləpipedik,paralelipipedic,parallelepipedic,-9.505815,0.9628224968910216,0.7230741381645203,loan
+641,Romanian-French,abietacee,abiétacée,abietat͡ʃee,abjetaze,abietacee,abietaceous,-2.8376908,0.9167320132255554,0.7433120608329773,loan
+642,Romanian-French,cistoscopie,cystoscopie,t͡ʃistoskopie,sistɔskɔpi,cystoscopy,cystoscopie,-2.4007466,0.9028621315956116,0.7177456617355347,loan
+643,Romanian-French,alarma,alarmer,alarma,alaʀməʀ,alarm,alarms,-4.1629486,0.9243773818016052,0.8462094068527222,loan
+644,Romanian-French,hamac,hamac,hamak,amak,hammock,hammock,-3.0750365,1.0,1.0,loan
+645,Romanian-French,institut,īnstitūtum,institut,īnstitȳtœ̃,institut,institute,-8.572716999999999,0.7275227308273315,0.6030588746070862,loan
+646,Romanian-French,homeomorfism,homéomorphisme,homeomorfism,ɔmeɔmɔʀfism,homeomorfism,homeomorphism,-2.458757,0.9115378856658936,0.7915924191474915,loan
+647,Romanian-French,meliorativ,mélioratif,meliorativ,meljɔʀatif,reclamation,ameliorative,-3.191133,0.5775997042655945,0.6589520573616028,loan
+648,Romanian-French,încastelură,encastelure,ɨnkastelurə,ɑ̃kastəlyʀ,castle,recessed,-2.7270417,0.8641593456268309,0.6063118577003479,loan
+649,Romanian-French,palisandru,palissandre,palisandru,palisɑ̃dʀ,rosewood,rosewood,-1.4073876,0.8792757987976074,0.7760378122329712,loan
+650,Romanian-French,handbal,handball,handbal,ɑ̃dbal,handball,handball,-5.937276,0.8699065446853638,0.7652979493141174,loan
+651,Romanian-French,ananas,ananas,ananas,anana,pineapple,pineapple,-1.6826067999999998,0.8657494783401489,0.4977419674396515,loan
+652,Romanian-French,uzurpa,usurper,uzurpa,yzyʀpəʀ,usurp,usurper,-1.6475389,0.8977004885673523,0.7041310667991638,loan
+653,Romanian-French,completiv,complétive,kompletiv,kɔ̃pletiv,completiv,complementary,-2.6601305,0.8484253287315369,0.6673669219017029,loan
+654,Romanian-French,artificial,artificiel,artifit͡ʃial,aʀtifisjəl,artificial,artificial,-2.2752395,0.8152982592582703,0.7030109167098999,loan
+655,Romanian-French,pahimeningită,pachyméningite,pahimenind͡ʒitə,paʃimenɛ̃ʒit,pachymenitis,pachymeningitis,-5.962133000000001,0.9801968932151794,0.870894193649292,loan
+656,Romanian-French,clovnerie,clownerie,klovnerie,klɔwnəʀi,clownery,clowning,-1.5669433000000001,0.8831378817558289,0.731124222278595,loan
+657,Romanian-French,araucan,araucan,araukan,aʀokɑ̃,araucan,araucan,-3.1697802999999998,0.3517894148826599,0.6325179934501648,loan
+658,Romanian-French,calificabil,qualifiable,kalifikabil,kalifjabl,qualified,qualifiable,-2.0713077,0.9353827238082886,0.8695067763328552,loan
+659,Romanian-French,arhitectură,architecture,arhitekturə,aʀʃitɛktyʀ,architecture,architecture,-1.1948464,0.6267837285995483,0.8433641195297241,loan
+660,Romanian-French,meningocel,méningocèle,meninɡot͡ʃel,menɛ̃ɡɔzə̀l,meningocele,meningocele,-2.275532,0.9022338390350342,0.4512296915054321,loan
+661,Romanian-French,ajur,ajour,aʒur,aʒuʀ,destruction,up to date,-3.0204551,0.2709818184375763,0.7046964168548584,loan
+662,Romanian-French,stres,destrecier,stres,dɛstʀɛsjəʀ,stress,unshrink,-19.95405,0.8612373471260071,0.5679659843444824,loan
+663,Romanian-French,irecuzabil,irrécusable,irekuzabil,iʀʀekyzabl,irrecusable,irrefutable,-11.785331,0.787326455116272,0.7011013031005859,loan
+664,Romanian-French,encefal,encéphale,ent͡ʃefal,ɑ̃sefal,encephalitis,brain,-1.6233758,0.8597154021263123,0.6887122392654419,loan
+665,Romanian-French,ablepsie,ablépsie,ablepsie,ablepsi,ablepsie,ablepsy,-1.8080138,0.8786638379096985,0.8233203887939453,loan
+666,Romanian-French,aglutina,agglutiner,aɡlutina,aɡɡlytinəʀ,agglutinate,agglutiner,-9.669628999999999,0.8311347961425781,0.6370865106582642,loan
+667,Romanian-French,rechiziționa,réquisitionner,rekizit͡siona,ʀekizisjɔnəʀ,requisition,requisition,-1.478752,0.8293940424919128,0.5377505421638489,loan
+668,Romanian-French,asociaționism,associationnisme,asot͡ʃiat͡sionism,asɔsjasjɔnism,associationism,associationism,-1.6723621,0.9296915531158448,0.7058426141738892,loan
+669,Romanian-French,triploid,triploid,triploid,tʀiplwa,triploid,triploid,-2.1682575,0.8760678768157959,0.5598188042640686,loan
+670,Romanian-French,batistă,batiste,batistə,batist,handkerchief,batiste,-1.3488225,0.7358057498931885,0.7264962792396545,loan
+671,Romanian-French,apertură,aperture,aperturə,apɛʀtyʀ,aperture,aperture,-1.5978078000000002,0.8514081835746765,0.6394403576850891,loan
+672,Romanian-French,incarna,incarner,inkarna,ɛ̃kaʀnəʀ,embodies,embody,-3.1923163,0.9198755025863647,0.6177887916564941,loan
+673,Romanian-French,ascomicetă,ascomycète,askomit͡ʃetə,askɔmizə̀t,ascomycete,ascomycète,-1.7987616000000002,0.7303768992424011,0.5217123627662659,loan
+674,Romanian-French,parhelic,parhélique,parhelik,paʀelik,parhelic,parhelic,-2.3558745,0.8555607199668884,0.6289713382720947,loan
+675,Romanian-French,sincronie,synchronie,sinkronie,sɛ̃ʃʀɔni,synchrony,synchrony,-4.343195400000001,0.6853964328765869,0.5498458743095398,loan
+676,Romanian-French,iacobin,jacobin,iakobin,ʒakɔbɛ̃,jacobin,jacobin,-4.3666253,0.9163688421249391,0.6337371468544006,loan
+677,Romanian-French,ebraic,hébraïque,ebraik,ebʀaik,Hebrew,Hebrew,-2.4338737,0.7865884304046631,0.6298910975456238,loan
+678,Romanian-French,cardioscleroză,cardiosclérose,kardiosklerozə,kaʀdjɔskleʀɔz,cardiosclerosis,cardiosclérose,-2.4397502,0.7439439296722412,0.5683802366256714,loan
+679,Romanian-French,adoptiv,adoptif,adoptiv,adɔptif,adoptive,adoptive,-2.2083802,0.8860146999359131,0.7630059123039246,loan
+680,Romanian-French,calvados,calvados,kalvados,kalvado,calvados,calvados,-1.8278397000000002,0.9298520684242249,0.8831050992012024,loan
+681,Romanian-French,intradermic,intradermique,intradermik,ɛ̃tʀadɛʀmik,intradermic,intradermal,-1.8306712,0.6994913816452026,0.5912463068962097,loan
+682,Romanian-French,torid,torride,torid,tɔʀʀid,break,torrid,-2.3346062,0.8614000678062439,0.7221750020980835,loan
+683,Romanian-French,eructație,éructation,eruktat͡sie,eʀyktasjɔ̃,unearthedie,éructation,-2.6154401000000003,0.9238628149032592,0.7885668277740479,loan

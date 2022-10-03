@@ -1,0 +1,172 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,plain Levenshtein,DNN_logits,MBERT_cos_sim,XLM_cos_sim,label
+0,Hindi-Persian,मज़बूत,بت,məzbuːt,bt,strong,Idol,6,-0.645088,0.8462371230125427,0.669671356678009,random
+1,Hindi-Persian,चीख़,شیخ,t͡ʃiːx,ʃjx,squeak,Sheikh,4,2.1181102000000003,0.7606593370437622,0.5374264717102051,hard_negative
+2,Hindi-Persian,मरम्मत,محبت,mərmmət,mhbt,Repairs,Love,6,-1.5403695,0.923071026802063,0.5220528244972229,random
+3,Hindi-Persian,बुत-कदा,بتکده,butə-kədaː,btkdh,fetishly,بتکده,7,4.7555879999999995,0.8669489026069641,0.5879263877868652,hard_negative
+4,Hindi-Persian,जायदाद,چایدان,d͡ʒaːjdaːd,t͡ʃɒjdɒn,Property,Chaidan,6,1.533195,0.837788999080658,0.6734185814857483,hard_negative
+5,Hindi-Persian,पैदाइश,پروانگی,pæːdaːiʃ,prvɒŋj,birth,پروانگی,7,-0.1821475,0.8248793482780457,0.6768795251846313,random
+6,Hindi-Persian,गहन,غیور,ɡəɦən,ɣjvr,intense,غیور,4,2.9142227000000003,0.5681226849555969,0.6318235397338867,synonym
+7,Hindi-Persian,मौजूदा,موجود,mɔːd͡ʒuːdaː,mvd͡ʒvd,current,Available,6,-0.19167197,0.8148410320281982,0.6564236283302307,synonym
+8,English-French,Timid,Timide,ˈtɪmɪd,timid,Timid,Shy,1,0.20394988,0.959847629070282,0.8997281789779663,synonym
+9,English-French,fourbe,fourbi,fourbe*,fuʀbi,deceitful,Forbe,1,0.15427019,0.9696709513664246,0.8205695748329163,hard_negative
+10,English-French,Sane,Sain,seɪn,sɛ̃,Sane,I got it,2,1.5518728000000002,0.7522354125976562,0.7067000269889832,synonym
+11,English-French,Bas,basse,bas*,bas,Bas,basse,3,1.3654838,0.4869588613510132,0.6515874266624451,hard_negative
+12,English-French,Reject,Rejeter,ˈriʤɛkt,ʀəʒɛtəʀ,Reject,To reject,3,-1.2116723,0.7707658410072327,0.7836650609970093,synonym
+13,English-French,Lemaire,Lemar,ləˈmɛr,ləmaʀ,The mayor,Lemar,2,2.4977317,0.9549031257629396,0.8181195855140686,hard_negative
+14,English-French,Marie,Nérac,mərˈi,neʀak,Marie,Nerac,4,1.6590322,0.780380129814148,0.4497427344322205,random
+15,English-French,cham,chyme,ʧæm,ʃim,cham,chyme,2,-1.4079534,0.7998460531234741,0.6511907577514648,hard_negative
+16,English-French,Valor,Valeur,ˈvælər,valœʀ,Valor,Value,2,0.54752797,0.87540203332901,0.7151747941970825,synonym
+17,English-French,transitory,transitoire,ˈtrænzəˌtɔri,tʀɑ̃sitwaʀ,transitory,transient,2,-1.7251401999999998,0.7453462481498718,0.9018698930740356,synonym
+18,English-French,eminent,éminent,ˈɛmənənt,eminɑ̃,eminent,prominent,1,-2.0734107,0.8253447413444519,0.8159325122833252,synonym
+19,English-French,balladine,baladeuse,balladine*,baladœz,balladine,hand lamp,4,0.26397118,0.9429089426994324,0.8521633744239807,hard_negative
+20,English-French,louis,louise,luɪs,lwiz,louis,louise,1,-0.8650144000000001,0.8597062230110168,0.7658762335777283,hard_negative
+21,English-French,Blanchette,blochet,blənˈʃɛt,blɔʃɛ,Blanchette,block,5,1.9293958999999998,0.8638829588890076,0.6906879544258118,hard_negative
+22,English-French,Risky,Risqué,ˈrɪski,ʀiske,Risky,Risqué,3,0.71142197,0.6452107429504395,0.7929720878601074,synonym
+23,English-French,harness,harnais,ˈhɑrnɪs,aʀnɛ,harness,harnais,2,-1.7769240000000002,0.7744335532188416,0.8176289796829224,synonym
+24,English-French,ensuite,annuité,ensuite*,ɑnɥite,ensuite,annuity,3,-0.42269809999999997,1.0,1.0,hard_negative
+25,English-French,radioactive,rétroactif,ˌreɪdioʊˈæktɪv,ʀetʀɔaktif,radioactive,retroactive,5,5.783308,0.8690796494483948,0.6039803624153137,hard_negative
+26,English-French,carnet,carnage,carnet*,kaʀnaʒ,notebook,carnage,3,-0.18478535,0.8804039359092712,0.6932398676872253,hard_negative
+27,Finnish-Swedish,tahti,knapp,tɑɦti,knɐp,pace,knapp,5,2.0315924,0.7878487706184387,0.5146453976631165,random
+28,Finnish-Swedish,klemmari,krämare,klemmɑri,krɛːmɑːreː,clamp,creamer,4,2.2861407000000002,0.9048829078674316,0.6774519681930542,hard_negative
+29,Finnish-Swedish,suutari,sotare,suːtɑri,suːtɑːreː,cobbler,chimney sweep,3,1.4845291,0.9077154994010924,0.8198367953300476,hard_negative
+30,Finnish-Swedish,luntta,lönt,lunttɑ,lœnt,away,paid,3,1.8332130000000002,0.7987995147705078,0.6780920624732971,hard_negative
+31,Finnish-Swedish,ruljanssi,rojalism,ruljɑnssi,ruːjɑːlɪsm,rigmarole,rojalism,5,3.131307,0.8720539212226868,0.6476661562919617,hard_negative
+32,Finnish-Swedish,bönde,bonde,bønde,bɔndeː,in the way,valley,1,-0.258268,0.8254149556159973,0.6132447123527527,hard_negative
+33,Finnish-Swedish,falski,puls,fɑlski,pɵls,falski,puls,4,2.354593,0.8742197751998901,0.5301315784454346,random
+34,Finnish-Swedish,aarpora,erfara,ɑːrporɑ,ɛrfɑːrɑː,Arpara,experience,4,0.45952636,0.4354117214679718,0.5066313147544861,hard_negative
+35,Finnish-Swedish,Suru,Sorg,suru,sɔrɡ,do,Care,2,-0.19364299,0.906561553478241,0.5163906812667847,synonym
+36,Finnish-Swedish,niitti,nätt,niːtti,nɛt,rivet,pretty,3,4.7463655,0.8621049523353577,0.5757157802581787,random
+37,Finnish-Swedish,elementti,elementär,elementti,eːleːmɛntɛːr,element,elemental,2,-0.52542704,0.8544353246688843,0.5542718768119812,hard_negative
+38,Finnish-Swedish,tärpätti,serpentin,tærpætti,sɛrpɛntiːn,turpentine,serpentine,5,1.4803492,0.8759943246841431,0.5716248750686646,hard_negative
+39,Finnish-Swedish,silli,sil,silli,siːl,herring,sil,2,-1.632193,0.8447175025939941,0.4865915775299072,hard_negative
+40,Finnish-Swedish,absurdia,absurd,ɑpsurdiɑ,ɐbsɵrd,absurdia,absurd,2,2.9241933999999996,0.7548749446868896,0.7385468482971191,synonym
+41,Kazakh-Russian,полковник,церковник,polkovnijk,t͡serkovnik,colonel,cleric,3,2.880535,0.5359013080596924,0.5954171419143677,hard_negative
+42,Kazakh-Russian,глобус,крокус,ɡlobws,krokus,globe,crocus,3,1.0596281,0.8695029020309448,0.6215991973876953,hard_negative
+43,Kazakh-Russian,сейф,сейд,sjejf,sʲejd,safe,seid,1,0.55369216,0.8757917881011963,0.5140123963356018,hard_negative
+44,Kazakh-Russian,моль,боль,molь,bolʲ,mole,pain,1,-0.60792553,0.6430829167366028,0.6592040657997131,hard_negative
+45,Kazakh-Russian,балкон,калкан,bɑlkon,kalkan,a balcony,shield,2,0.2005337,0.9110680222511292,0.6839911937713623,hard_negative
+46,Kazakh-Russian,хаос,хаус,χɑos,xaus,chaos,house,1,1.0095749,0.6659833192825317,0.5782732963562012,hard_negative
+47,Kazakh-Russian,механизм,метоним,mjeχɑnijzm,mʲetonim,mechanism,metonym,3,1.7842641,0.885777473449707,0.6436692476272583,hard_negative
+48,Kazakh-Russian,сапонин,топоним,sɑponijn,toponim,saponin,toponym,3,0.8130214,0.5389519929885864,0.6871970891952515,hard_negative
+49,Kazakh-Russian,семиотика,семантика,sjemijotijkɑ,sʲemantʲika,semiotics,semantics,2,3.2516289,0.8491268754005432,0.525415301322937,hard_negative
+50,Kazakh-Russian,эмиссия,эмесскій,emijssijjɑ,emʲesskіj,emission,emesky,4,1.3913256999999999,0.6365405321121216,0.6817304491996765,hard_negative
+51,Kazakh-Russian,торий,церий,torijj,t͡serʲij,thorium,cerium,2,0.52162987,0.827616810798645,0.6593599915504456,hard_negative
+52,Kazakh-Russian,материализм,материалист,mɑtjerijɑlijzm,matʲerʲialʲist,materialism,materialist,2,3.6534202000000007,0.913280725479126,0.7164140939712524,hard_negative
+53,Azerbaijani-Arabic,ümmət,عِبَادَة,ymmæt,ʕِbَaːdَt,ummah,worship,8,2.3486828999999996,0.7831677198410034,0.6769831776618958,random
+54,Azerbaijani-Arabic,böhran,مَخْلُوق,bœhrɑn,mَxْlُuːq,crisis,creature,8,-0.54320425,0.7090563178062439,0.7600012421607971,random
+55,Azerbaijani-Arabic,əhl,أهل,æhl,aٔhl,folks,people,3,0.68036574,0.7163494229316711,0.5139408707618713,hard_negative
+56,Azerbaijani-Arabic,Mübahisə,مناظرة,mybɑhɪsæ,mnaːðˤrt,Argument,debate,8,0.89856243,0.8174946308135986,0.6661655902862549,synonym
+57,Azerbaijani-Arabic,ehsan,إحسان,ehsɑn,aٕħsaːn,ehsan,Ihsan,5,-0.98138285,0.3229699730873108,0.5083466172218323,hard_negative
+58,Azerbaijani-Arabic,Sabit,ثابت,sɑbɪt,θaːbt,Stable,Proven,5,1.2263541999999998,0.7271563410758972,0.5111956000328064,synonym
+59,Azerbaijani-Arabic,Müharibə,منافسة,myhɑrɪbæ,mnaːfst,War,competition,8,1.2113173000000002,0.7073705792427063,0.720881998538971,synonym
+60,Azerbaijani-Arabic,hüquq,حُكْمًا,hyɡuɡ,ħُkْmًaː,law,verdict,7,1.7574246,0.8737155199050903,0.4977351725101471,random
+61,Azerbaijani-Arabic,adi,عَادَة,ɑdɪ,ʕَaːdَt,adi,Usually,6,4.370331299999999,0.8018018007278442,0.6645721793174744,random
+62,Azerbaijani-Arabic,mədə,مَرْحُوم‎,mædæ,mَrْħُuːm‎,stomach,dead,9,-2.2379862999999998,0.8118290305137634,0.6194660067558289,random
+63,Azerbaijani-Arabic,məğlub,نُقْصَان,mæɣlub,nُqْsˤَaːn,defeated,decrease,8,0.96208334,0.8368123173713684,0.5371959209442139,random
+64,Azerbaijani-Arabic,həvəs,حماس,hævæs,ħmaːs,enthusiasm,agitation,5,3.4487972,0.7747222185134888,0.5391173362731934,synonym
+65,Azerbaijani-Arabic,intiqam,اِحْتِمَال,ɪntɪɡɑm,aِħْtِmَaːl,revenge,Prospect,10,-0.20878597,0.8327531218528748,0.5876181721687317,random
+66,Azerbaijani-Arabic,təəssüb,تحاسب,tææssyb,tħaːsb,prejudice,Accounting,7,1.8500695,0.7866208553314209,0.6562199592590332,hard_negative
+67,Azerbaijani-Arabic,tarix,طريخ,tɑrɪx,tˤriːx,history,tarikh,5,0.97460306,0.6816762685775757,0.5303992033004761,hard_negative
+68,Azerbaijani-Arabic,Fəlakət,ضائقة,fælɑkæt,dˤaːiːٔqt,Disaster,hardship,7,1.0744538000000001,0.8462859988212585,0.650732159614563,synonym
+69,Chinese-English,三味治,number,sanweiʈ͡ʂɻ̩,ˈnəmbər,Osamu Mimi,number,6,2.3078258,0.42510169744491577,0.6764051914215088,random
+70,Chinese-English,諾貝爾,no biggie,nuopeiɻ̩,noʊ ˈbɪgi,Nobel,no biggie,9,2.5541142999999997,0.7912618517875671,0.4747094213962555,hard_negative
+71,Chinese-English,吖丁啶,Africa,atiŋtiŋ,ˈæfrɪkɑ,azetidine,Africa,6,2.9937797,0.438288539648056,0.6514876484870911,random
+72,Chinese-English,奎寧,Colombo,kʰueiniŋ,kəˈləmboʊ,Quinine,Colombo,7,0.6846295,0.5439468026161194,0.5924787521362305,random
+73,Chinese-English,愛德華,Gibraltar,aitexua,ʤɪˈbrɔltər,Edward,Gibraltar,9,-0.22765937,0.6991977691650391,0.6586377620697021,random
+74,Chinese-English,普渡,morpholine,pʰutu,morpholine*,Purdue,morpholine,10,2.0410323,0.7787542939186096,0.6977061629295349,random
+75,Chinese-English,邁克爾,marker,maikʰeɻ̩,ˈmɑrkər,Michael,marker,6,2.632818,0.475678026676178,0.5474835038185121,random
+76,Chinese-English,死板的,Stubborn,sipanti,ˈstəbərn,boring,Stubborn,8,0.93692005,0.7249613404273987,0.5958331227302551,synonym
+77,Chinese-English,洛杉磯,Liberia,luoʂant͡ɕi,ˌlaɪˈbɪˌriə,Los Angeles,Liberia,7,0.104622036,0.8479709625244141,0.6052906513214111,random
+78,Chinese-English,恶毒的,Idleness,etuti,ˈaɪdəlnəs,poisonous,Idleness,8,2.2257736,0.6278942823410034,0.4583913683891296,synonym
+79,Chinese-English,沙拉,Cera,ʂala,ˈsɛrə,salad,Cera,4,-0.2575904,0.7601091265678406,0.6124574542045593,hard_negative
+80,Chinese-English,阿司帕坦,Arthur,esipʰatʰan,ˈɑrθər,aspartame,Arthur,6,2.8044825,0.4854822158813477,0.671030580997467,random
+81,Chinese-English,疏散,scattered,ʂusan,ˈskætərd,evacuation,scattered,9,0.24438314,0.5910694599151611,0.6711965203285217,synonym
+82,Chinese-English,盧安達,setter,luanta,ˈsɛtər,Luanda,setter,6,0.34522173,0.7752919793128967,0.4848356544971466,random
+83,Chinese-English,卡林頓,chloroform,t͡ɕʰialintun,ˈklɔrəˌfɔrm,Carrington,chloroform,10,1.5412451,0.6664441227912903,0.6922523379325867,random
+84,Chinese-English,喹唑啉,salsa,kʰueit͡suolin,ˈsɑlsə,Quinazoline,salsa,5,0.2923318,0.5869391560554504,0.63510662317276,random
+85,Chinese-English,德司,Tame,tesi,teɪm,Desi,Tame,4,-0.13235934,0.8372938632965088,0.7650277614593506,hard_negative
+86,Chinese-English,斯卡,thiazine,sit͡ɕʰia,thiazine*,Ska,thiazine,8,2.6650727,0.6923831105232239,0.6887009739875793,random
+87,Chinese-English,愉快,cheerful,jukʰuai,ˈʧɪrfəl,joy,cheerful,8,-0.119028755,0.6484781503677368,0.4991387128829956,synonym
+88,German-French,Charme,carme,xaʀmə,kaʀm,Charm,carme,2,0.8124677,0.8622173070907593,0.6994128823280334,hard_negative
+89,German-French,Menagerie,menacer,mənɑːɡəʀiːə,mənazəʀ,Menagerie,to menace,4,3.7183587999999994,0.7873247861862183,0.6094056367874146,hard_negative
+90,German-French,Militär,bilitère,miːliːtæːʀ,bilitə̀ʀ,Military,bile,3,-1.2958045,0.8725484609603882,0.4989208281040192,hard_negative
+91,German-French,Tarot,barote,tɑːʀoːt,baʀɔt,Tarot,barote,2,-1.6662848000000001,0.866064727306366,0.6876261830329895,hard_negative
+92,German-French,Exposee,exposer,ɛkspoːseːə,ɛkspɔzəʀ,Exposee,expose,2,-0.79379416,0.7864528298377991,0.5562358498573303,hard_negative
+93,German-French,Robe,housse,ʀoːbə,us,Robe,cover,4,0.5557479999999999,0.7862568497657776,0.5910463929176331,random
+94,German-French,Kombinieren,Combiner,kɔmbiːniːʀən,kɔ̃binəʀ,Combine,Combiner,4,0.2735504,0.7953112125396729,0.605939507484436,synonym
+95,English-German,Meagre,Mager,meagre*,mɑːɡɐ,Meagre,Thin,3,0.4148089,0.9213099479675292,0.8386736512184143,synonym
+96,English-German,Meager,Mager,ˈmigər,mɑːɡɐ,Meager,Thin,1,1.1909303999999998,0.7789850234985352,0.7996289730072021,synonym
+97,English-German,Wise,Weise,waɪz,vaisə,Wise,Weise,1,-1.1683933000000002,0.9999998211860656,1.0,synonym
+98,English-German,Blume,Bluhm,blum,pluːm,Blume,flowers,2,2.6641232999999995,0.9999997615814208,1.0,hard_negative
+99,English-German,purine,Turiner,purine*,tuːʀiːnɐ,purine,Turinese,2,3.914172,0.4947524666786194,0.6610351800918579,hard_negative
+100,English-German,Piltz,Pils,pɪlts,pɪls,Piltz,Pils,2,-0.47667068,0.8809697031974792,0.6578623652458191,hard_negative
+101,English-German,Dittmann,Sitzmann,ˈdɪtmən,zɪt͡sman,Dittmann,seat man,2,2.1853877999999995,0.8159186244010925,0.584528923034668,hard_negative
+102,English-German,Bank,Bunker,bæŋk,bʊŋkɐ,Bank,Bunker,3,1.7705741999999998,0.8999686241149902,0.6132382154464722,hard_negative
+103,English-German,Lehnen,Linnen,ˈlɛnən,lɪnən,Lean,Linen,2,-0.06585562,0.9999995231628418,1.0,hard_negative
+104,English-German,Buchmann,Putzmann,ˈbəkmən,pʊt͡sman,bookman,cleaning man,3,0.9755891999999999,0.78493332862854,0.8975720405578613,hard_negative
+105,English-German,Hanni,Hanne,ˈhæni,hanə,Hanni,Hanne,1,-2.934525,0.5981485843658447,0.7265858054161072,hard_negative
+106,English-German,App,Jupp,æp,jʊp,App,Jupp,2,-0.1765354,0.6884608268737793,0.4314708411693573,hard_negative
+107,English-German,Brem,Pfriem,brɛm,p͡fʀiːm,brake,Pfrie,3,2.6912917999999997,0.8616760969161987,0.619112491607666,hard_negative
+108,English-German,Olmütz,Illmitz,olmütz*,ɪlmiːt͡s,Olomouc,Illmitz,3,1.334376,0.4789142906665802,0.8254262208938599,hard_negative
+109,English-German,Frail,Fragil,freɪl,fʀɑːɡiːl,Frail,Fragile,1,-2.026178,0.6259679794311523,0.5941491723060608,synonym
+110,English-German,Yantis,janz,ˈjæntɪs,jant͡s,Yantis,janz,4,3.153074,0.7331117987632751,0.7487905621528625,hard_negative
+111,English-German,Hallig,heylig,hallig*,hailiːk,Hallig,helix,3,2.2502584,0.8710569143295288,0.6874085068702698,hard_negative
+112,Romanian-Hungarian,Remeș,rémes,remeʃ,reːmɛʃ,Remes,terrible,3,2.2863986,0.7720413804054259,0.6630206704139711,hard_negative
+113,Romanian-Hungarian,Sântimreu,Szentírás,sɨntimreu,sɛntiːraːʃ,Szentimre,Scripture,6,0.8899521999999999,0.8740856647491455,0.7035332322120667,hard_negative
+114,Romanian-Hungarian,Cheșereu,kesereg,keʃereu,kɛʃɛrɛɡ,Cheshereu,bitter,4,0.14007592,0.8017554283142091,0.673214316368103,hard_negative
+115,Romanian-Hungarian,Atia,Ajtony,atia,ɒjtoɲ,Atia,Ajtony,4,-0.7814343,0.8605184555053711,0.6417600512504578,random
+116,Romanian-Hungarian,taier,tenyér,taier,tɛɲeːr,taier,palm,4,1.2009233,0.8778725266456604,0.5825901031494141,hard_negative
+117,Romanian-Hungarian,Leț,léc,let͡s,leːt͡s,LET,léc,3,2.7522642999999998,0.7040444612503052,0.6905101537704468,hard_negative
+118,Romanian-Hungarian,Asău,áru,asəu,aːru,Asau,goods,3,0.2957594,0.8855266571044922,0.6686163544654846,hard_negative
+119,Romanian-Hungarian,Luduș,lédús,luduʃ,leːduːʃ,Ludus,juicy,4,-0.57664305,0.8227984309196472,0.7924771904945374,hard_negative
+120,Romanian-Hungarian,bântui,Tóth,bɨntui,toːth,haunt,Tóth,5,-0.028405625,0.9017691612243652,0.6305219531059265,random
+121,Romanian-Hungarian,Bod,bon,bod,bon,Bod,bon,2,-0.7434854000000001,0.7689672708511353,0.6717487573623657,hard_negative
+122,Romanian-Hungarian,cizmă,Kozma,t͡ʃizmə,kozmɒ,boot,Cosmos,3,0.52384526,0.9026000499725342,0.6434786915779114,hard_negative
+123,Romanian-Hungarian,boglar,bognár,boɡlar,boɡnaːr,gardens,bognár,2,0.05293897,0.8490583896636963,0.7019813656806946,hard_negative
+124,Romanian-Hungarian,beseadă,petárda,beseadə,pɛtaːrdɒ,beseadă,petard,5,0.72809505,0.7847691178321838,0.7778559327125549,hard_negative
+125,Romanian-Hungarian,Andor,indul,andor,indul,Andor,starts,3,-0.88947594,0.7672560811042786,0.7214582562446594,hard_negative
+126,Romanian-Hungarian,șold,Hold,ʃold,hold,hip,Hold,1,-2.0078168,0.8310940861701965,0.6033936142921448,hard_negative
+127,Romanian-Hungarian,Bocsig,pékség,boksiɡ,peːkʃeːɡ,Sorry,bakery,4,-0.63409543,0.7003227472305298,0.7802486419677734,hard_negative
+128,Romanian-Hungarian,Forău,forog,forəu,foroɡ,Forau,spins,3,0.5570440999999999,0.8417499661445618,0.6312897205352783,hard_negative
+129,Romanian-Hungarian,Apața,apáca,apat͡sa,ɒpaːt͡sɒ,To stain,nun,3,4.113503,0.8604266047477722,0.5124772787094116,hard_negative
+130,Romanian-Hungarian,Figa,fika,fiɡa,fikɒ,Pussy,coffee,2,-1.8342416000000001,0.8005872964859009,0.4840461909770966,hard_negative
+131,Polish-French,waran,Varane,varan,vaʀan,waran,Early,2,0.24777502,0.8509134650230408,0.5942942500114441,hard_negative
+132,Polish-French,kretyn,crétine,krɛtɨn,kʀetin,cretin,moron,4,-1.0043744000000001,0.7883267998695374,0.7359723448753357,hard_negative
+133,Polish-French,bilion,bilieux,biljɔn,biljœ,billion,bilious,3,1.0912153999999998,0.9336917996406556,0.7339577078819275,hard_negative
+134,Polish-French,bordo,bordeau,bɔrdɔ,bɔʀdo,edge,burgundy,3,0.34083363,0.8380122780799866,0.6383482217788696,hard_negative
+135,Polish-French,limuzyna,limousin,limuzɨna,limuzɛ̃,limousine,limousin,4,5.4058127,0.820087730884552,0.6743999123573303,hard_negative
+136,Polish-French,filtr,filtré,filtr,filtʀe,filter,filtered,1,-2.8914454,0.8060364723205566,0.7920303940773009,hard_negative
+137,Polish-French,Baza,Base,baza,baz,The base,Base,2,-0.04177602,0.8572684526443481,0.6266712546348572,synonym
+138,Polish-French,aplikacja,applicage,aplikat͡sja,aplikaʒ,app,applicage,5,0.8439633,0.8158517479896545,0.5993069410324097,hard_negative
+139,Polish-French,tors,thyrse,tɔrs,tiʀs,tors,thyrse,3,-0.031816933,0.7267169356346129,0.6473810076713562,hard_negative
+140,Polish-French,Szopen,lopin,ʂɔpɛn,lɔpɛ̃,Soap,lopin,3,-0.22986847,0.9322115778923036,0.7037323117256165,hard_negative
+141,Polish-French,Cenzura,Censure,t͡sɛnzura,sɑ̃syʀ,Censorship,Censure,2,2.3489047999999997,0.8524566888809204,0.5907303094863892,synonym
+142,Polish-French,imitacja,ondulation,imitat͡sja,ɔ̃dylasjɔ̃,imitation,ripple,9,4.233581,0.7372406721115112,0.6024672389030457,random
+143,Polish-French,menuet,menuise,mɛnuɛt,mənɥiz,minuet,carpentry,3,-1.268377,0.9088417887687684,0.8395766615867615,hard_negative
+144,Polish-French,oryginał,orangeade,ɔrɨɡʲinaw,ɔʀɑ̃ʒəad,original,orangeade,6,0.27010113,0.7823580503463745,0.5549539923667908,random
+145,Polish-French,wariant,Varane,varjant,vaʀan,variant,Early,3,-0.4214405,0.8079701066017151,0.6839166879653931,hard_negative
+146,Polish-French,reżyser,réciter,rɛʐɨsɛr,ʀezitəʀ,director,recite,4,3.69909,0.4934727847576141,0.7485638856887817,hard_negative
+147,Polish-French,antraks,anorak,antraks,anɔʀak,anthrax,anorak,2,-0.23575643,0.9329422116279602,0.7389196753501892,hard_negative
+148,Polish-French,kontekst,conteste,kɔntɛkst,kɔ̃tɛst,context,dispute,3,-0.035589058,0.8742659687995911,0.6960002779960632,hard_negative
+149,Polish-French,camembert,ciné-parc,t͡samɛmbɛrt,sine-paʀk,camembert,Cine Park,7,0.8635239,0.9014869332313538,0.7165356874465942,hard_negative
+150,Polish-French,azot,isoète,azɔt,izɔ̀t,azote,quillwort,4,1.9119643,0.8168205022811891,0.7033453583717346,hard_negative
+151,Polish-French,bemar,bombe,bɛmar,bɔ̃b,bemar,bomb,3,-0.0087661855,0.8139669895172119,0.7551475167274475,random
+152,Indonesian-Dutch,soang,soa,soaŋ,sɔaː,goose,soa,2,-2.0615857,0.8466449975967407,0.6715047359466553,hard_negative
+153,Indonesian-Dutch,arena,arent,arəna,aːrɛnt,arena,arent,1,-2.328382,0.8248124122619629,0.5496686697006226,hard_negative
+154,Indonesian-Dutch,ekonomi,oekonomie,əkonomi,uːɛkoːnɔmiːeː,economy,oekonomie,2,-3.103987,0.909418523311615,0.73296719789505,hard_negative
+155,Indonesian-Dutch,variasi,farmacie,fariasi,fɑrmaːsiːeː,variation,pharmacy,4,1.8567816000000001,0.8276621699333191,0.6549975275993347,hard_negative
+156,Indonesian-Dutch,sal,cel,sal,sɛl,sal,the,2,-1.8420874,0.7760437726974487,0.8135709166526794,hard_negative
+157,Indonesian-Dutch,les,las,ləs,lɑs,the,las,1,-3.3951227999999993,0.9282134175300598,0.7944481372833252,hard_negative
+158,Indonesian-Dutch,Les samurai,Les samoerai,ləs samurai,lɛs saːmuːɛrɑjiː,The samurai,The samoerai,2,-0.021940183,0.906230628490448,0.9014310240745544,synonym
+159,Indonesian-Dutch,baut,boud,baut,bɑwt,builds,boud,2,2.5713975,0.8511199355125427,0.7180772423744202,hard_negative
+160,Indonesian-Dutch,kor,koer,kor,kuːr,kor,dog,1,-0.6420463000000001,0.7218553423881531,0.7136781811714172,hard_negative
+161,Romanian-French,Cenzură,Censure,t͡ʃenzurə,sɑ̃syʀ,Censorship,Censure,2,-0.010821778,0.8962223529815674,0.612396240234375,synonym
+162,Romanian-French,Deprimat,Déprimé,deprimat,depʀime,depressing,Depressed,3,-1.1252981000000002,0.8574533462524414,0.653408408164978,synonym
+163,Romanian-French,croat,Créole,kroat,kʀeɔl,croat,Creole,4,0.8183831,0.8053609132766724,0.6710069179534912,hard_negative
+164,Romanian-French,recupera,récupérer,rekupera,ʀekypeʀəʀ,recover,retrieve,4,7.118819,0.8414981365203857,0.7435225844383241,synonym
+165,Romanian-French,atebrină,azétine,atebrinə,azetin,athebrine,azetine,5,1.8567091,0.8373973965644836,0.5940108895301819,hard_negative
+166,Romanian-French,consacra,consacrer,konsakra,kɔ̃sakʀəʀ,dedicated,devote,2,-0.35653558,0.8085728883743286,0.6274169087409973,synonym
+167,Romanian-French,Circula,Circuler,t͡ʃirkula,siʀkyləʀ,flow,Circulate,2,0.5625119000000001,0.8834587931632996,0.5891411900520325,synonym
+168,Romanian-French,busculadă,bousculer,buskuladə,buskyləʀ,melee,hustle,4,0.15703388,0.675259530544281,0.6682228446006775,hard_negative
+169,Romanian-French,Condoleanţe,Condoléances,kondoleant͡se,kɔ̃dɔleɑ̃s,condolence,Condolences,3,4.3973135999999995,0.7425146698951721,0.7821596264839172,synonym
+170,Romanian-French,Stearpă,Stérile,stearpə,steʀil,Barren,Sterile,5,1.0143495999999999,0.9026398062705994,0.7179773449897766,synonym

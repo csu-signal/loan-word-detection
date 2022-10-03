@@ -1,0 +1,68 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,plain Levenshtein,DNN_logits,MBERT_cos_sim,XLM_cos_sim,label
+0,All_languages,फ़ारसी,فارسی,faːrsiː,fɒrsj,Persian,Persian,6,-2.0293365000000003,0.7346298098564148,0.7216348052024841,loan
+1,All_languages,ख़ामोशी,خاموشی,xaːmoʃiː,xɒmvʃj,silence,Silence,7,-1.4685705,0.8849494457244873,0.6115123629570007,loan
+2,All_languages,बुत-ख़ाना,بت‌خانه,butə-xaːnaː,bt‌xɒnh,fetish,بت‌خانه,9,-6.3435206,0.806609034538269,0.5976358652114868,loan
+3,All_languages,gutter rabbit,lapin de gouttière,ˈgətər ˈræbɪt,lapin də ɡutjə̀ʀ,gutter rabbit,gutter rabbit,16,-12.2811985,0.7565322518348694,0.7578791975975037,loan
+4,All_languages,questionnaire,questionnaire,kˌwɛsʧəˈnɛr,kɛssjɔnɛʀ,questionnaire,questionnaire,0,-5.871508,1.0000001192092896,1.0,loan
+5,All_languages,agglutination,agglutination,agglutination*,aɡɡlytinasjɔ̃,agglutination,agglutination,0,-7.950378,1.0,0.9999998211860656,loan
+6,All_languages,bouts-rimés,bout,bouts-rimés*,bu,bouts-rimés,bout,7,-1.302533,0.9999998807907104,1.0,loan
+7,All_languages,mirabelle plum,mirabelle,ˈmɪrəˌbɛl pləm,miʀabɛl,mirabelle plum,mirabelle plum,5,-4.894803,0.9999998807907104,1.0,loan
+8,All_languages,cineast,cinéaste,cineast*,sineast,cinematographer,filmmaker,2,-7.0251589999999995,0.8574144244194031,0.6544440388679504,loan
+9,All_languages,defrock,défroquer,defrock*,defʀɔkəʀ,defrock,defroquer,5,-2.7925155,0.9999998211860656,1.0,loan
+10,All_languages,punt,pointe,pənt,pɔɛ̃t,punt,pointe,3,-4.127607,0.9999998211860656,1.0,loan
+11,All_languages,currant,raisin de Corinthe,currant*,ʀɛzin də kɔʀɛ̃t,currant,currant,15,4.2267364999999995,0.6620801687240601,0.7275553941726685,loan
+12,All_languages,existentialism,existentialisme,existentialism*,əɡzistɑ̃sjalism,existentialism,existentialism,1,-7.1406206999999995,0.8436160683631897,0.7331877350807191,loan
+13,All_languages,ammunition,amunition,ˌæmjəˈnɪʃən,amynisjɔ̃,ammunition,ammunition,1,-6.683244,0.7078131437301636,0.5722674131393433,loan
+14,All_languages,Finström,Finström,finstrøm,fɪnstrøːm,Finström,Finström,0,-5.983973000000001,1.0,1.0,loan
+15,All_languages,nuotti,not,nuotti,nuːt,note,not,3,-5.4501777,0.64284747838974,0.6356131434440613,loan
+16,All_languages,teoreettinen,teoretisk,teoreːttinen,teːuːreːtɪɧ,theoretical,theoretically,5,-22.533564000000002,0.8924422860145569,0.7946763038635254,loan
+17,All_languages,məlumat,مَعْلُومَات,mælumɑt,mَʕْlُuːmَaːt,information,information,11,-3.3902028,0.7499223351478577,0.3767365515232086,loan
+18,All_languages,müxtəlif,مُخْتَلِف,myxtælɪf,mُxْtَlِf,different,Different,9,-6.734444,0.8051608204841614,0.4811850190162658,loan
+19,All_languages,mücərrəd,مُجَرَّد,myd͡ʒærræd,mُd͡ʒَrَّd,abstract,merely,8,-0.043149777,0.7538981437683105,0.7446186542510986,loan
+20,All_languages,iflic,إِْفْلاج,ɪflɪd͡ʒ,aِْٕfْlaːd͡ʒ,paralysis,flac,8,-6.574635499999999,0.6747239828109741,0.5903485417366028,loan
+21,All_languages,səhra,صَحْرَاء,sæhrɑ,sˤَħْrَaːʔ,desert,desert,8,-2.2095034,0.7726735472679138,0.6670122742652893,loan
+22,All_languages,faciə,فَاجِعَة‎,fɑd͡ʒɪæ,fَaːd͡ʒِʕَt‎,tragedy,calamity,9,-2.056618,0.8259506225585938,0.5243683457374573,loan
+23,All_languages,məcmuə,مَجْمُوعَة,mæd͡ʒmuæ,mَd͡ʒْmُuːʕَt,collection,Collection,10,0.45238903,0.7742772102355957,0.5496413111686707,loan
+24,All_languages,şöbə,شُعْبَة,ʃœbæ,ʃُʕْbَt,department,Section,7,-2.6766237999999998,0.6563752293586731,0.647412121295929,loan
+25,All_languages,istiqlal,اِسْتِقْلَال,ɪstɪɡlɑl,aِsْtِqْlَaːl,independence,independence,12,0.079163544,0.7290484309196472,0.4815976619720459,loan
+26,All_languages,班戟,pancake,pant͡ɕi,ˈpænˌkeɪk,Crepe,pancake,7,-10.893291,0.7338744401931763,0.6795012354850769,loan
+27,All_languages,番斯,face,fansi,feɪs,Fans,face,4,-5.1562220000000005,0.6542901992797852,0.6062052845954895,loan
+28,All_languages,魯米諾,luminol,luminuo,ˌlumɪˈnɔl,Lumino,luminol,7,-3.7741606,0.6869871020317078,0.6118122935295105,loan
+29,All_languages,咕喱,coolie,kuli,coolie*,jelly,coolie,6,-7.781884,0.801767110824585,0.6681591272354126,loan
+30,All_languages,布朗,Brown,pulaŋ,braʊn,Brown,Brown,5,-5.220428,0.6491965055465698,0.6744872331619263,loan
+31,All_languages,計順,Quezon City,t͡ɕiʂun,quezon* ˈsɪti,Queson,Quezon City,11,-3.8286808,0.8394280076026917,0.6689888834953308,loan
+32,All_languages,打call,Pinyin,tat͡sʰall,pinyin*,call,Pinyin,6,-9.797011999999999,0.627106785774231,0.7231343984603882,loan
+33,All_languages,捷克斯洛伐克,Czechoslovakia,t͡ɕiekʰesiluofakʰe,ˌʧɛkəsloʊˈvɑkiə,Czechoslovakia,Czechoslovakia,14,-19.928442,0.5921190977096558,0.6261252760887146,loan
+34,All_languages,富拉,Fula,fula,fula*,Fula,Fula,4,-4.6879983,0.92708420753479,0.590178906917572,loan
+35,All_languages,康利,Conley,kʰaŋli,ˈkɑnli,Conley,Conley,6,-1.7628468000000002,0.5988199710845947,0.6357670426368713,loan
+36,All_languages,Automatismus,automatisme,autoːmɑːtɪsmuːs,otɔmatism,automatism,automatism,3,-7.4590807,0.9516229629516602,0.7546820044517517,loan
+37,All_languages,Bauxit,bauxite,baʊksiːt,boɡzit,Bauxite,bauxite,2,-6.1509337,0.8983688354492188,0.7584596872329712,loan
+38,All_languages,Schärpe,écharpe,ʃæːʀpə,eʃaʀp,sash,scarf,2,-7.992733,0.8015193939208984,0.8170634508132935,loan
+39,All_languages,Varieté,(théâtre des) variétés,fɑːʀiːteː́,(teatʀə dəs) vaʀjete,Vaudeville,(theater of) varieties,17,-42.79837,0.849518895149231,0.4653137922286987,loan
+40,All_languages,bower,*būraz,baʊər,*buː̄ʀɑːt͡s,bower,* beer,5,-4.327224299999999,0.729591965675354,0.6361114382743835,loan
+41,All_languages,ipsissimosity,Ipsissimosität,ipsissimosity*,ɪpsɪsiːmoːsiːtæːt,the very best of,ipsissimosity,3,-11.672486,0.8788528442382812,0.8433107733726501,loan
+42,All_languages,Dreimorengesetz,Dreimorengesetz,dreimorengesetz*,tʀaimoːʀənɡeːseːt͡s,law of three mores,law of three mores,0,-9.46829,1.0,1.0,loan
+43,All_languages,phylogenetic,phylogenetisch,phylogenetic*,fyːloːɡəneːtiːʃ,phylogenetic,phylogenetic,2,-5.7446150000000005,0.6393928527832031,0.82845538854599,loan
+44,All_languages,zeitgeist,Zeitgeist,tˈsaɪtˌgaɪst,t͡saɪtɡaɪst,zeitgeist,Zeitgeist,1,-10.138233,1.0,1.0,loan
+45,All_languages,mangelwurzel,Mangold,mangelwurzel*,mɑːŋɔlt,mangelwurzel,Mangold,8,-15.810797,1.0,1.0,loan
+46,All_languages,Cormeniș,Ködmönös,kormeniʃ,kødmønøʃ,Cormeniș,Foggy,6,-1.6333567,0.7391875386238098,0.7226646542549133,loan
+47,All_languages,Ghida,Déda,ɡida,deːdɒ,Guide,Deda,3,-5.5061154000000005,0.7007115483283997,0.7486283779144287,loan
+48,All_languages,Micfalău,Mikóújfalu,mikfaləu,mikoːuːjfɒlu,Micfalau,Mikóújfalu,5,-6.6978279999999994,0.8735827207565308,0.6674681305885315,loan
+49,All_languages,Spermezeu,Ispánmező,spermezeu,iʃpaːnmɛzøː,Spermezeu,Ispan field,6,-9.5170555,0.84767085313797,0.6368432641029358,loan
+50,All_languages,urlui,örölni,urlui,ørølni,rough-grind,to grind,3,-6.905367999999999,0.9120127558708192,0.7297436594963074,loan
+51,All_languages,Gălăuțaș,Galócás,ɡələut͡saʃ,ɡɒloːt͡saːʃ,Gălăuţaş,Galócás,6,-7.762384,0.8817924857139587,0.4989315867424011,loan
+52,All_languages,Aruncuta,Aranykút,arunkuta,ɒrɒɲkuːt,Aruncuta,Golden well,5,-6.7717149999999995,0.8831570148468018,0.7014010548591614,loan
+53,All_languages,șindrilă,zsindely,ʃindrilə,ʒindɛj,shingle,shingle,5,-4.796243,0.9367634654045104,0.7907325029373169,loan
+54,All_languages,Hăghig,Hídvég,həɡiɡ,hiːdveːɡ,Haghig,End of bridge,4,-6.555839,0.8871484994888306,0.6485844850540161,loan
+55,All_languages,Cheresig,Körösszeg,keresiɡ,kørøsːɛɡ,Cheresig,Subtotal,7,-1.4503077,0.8272185921669006,0.7271830439567566,loan
+56,All_languages,sygnalizacja,signalisation,sɨɡnalizat͡sja,siɲalizasjɔ̃,signaling,signage,6,-4.284313,0.746561586856842,0.4801240265369415,loan
+57,All_languages,nuworysz,nouveau riche,nuvɔrɨʂ,nuvəo ʀiʃ,nouveau riche,nouveau riche,10,-5.782009599999999,0.8017603158950806,0.5123026371002197,loan
+58,All_languages,inaugurować,inaugurer,inavɡurɔvat͡ɕ,inoɡʀəʀ,inaugurate,inaugurate,4,-4.8567157,0.8952819705009459,0.7402790784835815,loan
+59,All_languages,szansonista,chançon,ʂansɔɲista,ʃɑ̃sɔ̃,chance player,song,7,-3.1064897,0.8040724992752075,0.7031848430633545,loan
+60,All_languages,parkiet,perroquet,parkʲɛt,pɛʀʀɔkɛ,parquet,parrot,5,-2.6960397,0.6791881322860718,0.7617150545120239,loan
+61,All_languages,emat,mat,əmat,mɑt,buy,mat,1,-12.008075,0.8384290337562561,0.6085380911827087,loan
+62,All_languages,peron,perron,pəron,pɛrrɔn,peron,perron,1,-5.7594213,0.8729761242866516,0.9000793099403381,loan
+63,All_languages,defisiensi,deficiëntie,dəfisiənsi,deːfiːsiː̈ntiːeː,deficiency,deficiency,4,-3.5577769999999997,0.9144666194915771,0.7366440892219543,loan
+64,All_languages,klapertar,klapper,klapərtar,klɑppɛr,klapertart,claps,4,-5.2310038,0.9189978241920472,0.7006134986877441,loan
+65,All_languages,planctonic,planctonique,planktonik,plɑ̃ktɔnik,planctonic,planktonic,3,-4.4952583,0.899397611618042,0.9324987530708312,loan
+66,All_languages,sugestibilitate,suggestibilité,sud͡ʒestibilitate,syɡʒɛstibilite,suggestibility,suggestibility,4,-5.4982553,0.927815854549408,0.6826162338256836,loan
