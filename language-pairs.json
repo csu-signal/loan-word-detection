@@ -63,7 +63,6 @@
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Kazakh_terms_borrowed_from_Russian",
         "loan-frac" : ".1"
     },
-    
     "Azerbaijani-Arabic" : {
         "target" :  {
             "name" : "Azerbaijani",
@@ -96,7 +95,6 @@
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Chinese_terms_borrowed_from_English",
         "loan-frac" : ".1"
     },
-    
     "German-French" : {
         "target" :  {
             "name" : "German",
@@ -177,8 +175,7 @@
         "wiki": "https://en.m.wiktionary.org/wiki/Category:Indonesian_terms_borrowed_from_Dutch",
         "loan-frac": ".4"
     },
-    
-       "Romanian-French" : {
+    "Romanian-French" : {
         "target" :  {
             "name" : "Romanian",
             "epi" : "ron-Latn",
@@ -194,6 +191,4 @@
         "wiki" : "https://en.m.wiktionary.org/wiki/Category:Romanian_terms_borrowed_from_French",
         "loan-frac" : ".3"
     }
-    
-    
 }
