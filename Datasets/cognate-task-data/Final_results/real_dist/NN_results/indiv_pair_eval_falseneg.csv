@@ -1,0 +1,15 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,plain Levenshtein,DNN_logits,label
+0,Assamese-Bengali,সাগৰ,হাওর,xagɔɹɔ,haor,sea,Haor,0.8333333333333334,0.4,0.2458333333333333,0.2833333333333333,2.8,0.2666666666666666,3,-10.546869,loan
+1,Assamese-Bengali,মৈৰা,ময়ূর,mɔɪɹa,me̯ur,Myra,Peacock,0.8,0.4,0.2791666666666667,0.3166666666666666,3.15,0.3,4,-5.745011,loan
+2,Assamese-Bengali,কুকুৰা,কুঁকড়া,kukuɹa,kũkɔɽa,chicken,Curly,0.5,0.1666666666666666,0.0625,0.0763888888888889,0.9583333333333334,0.0625,3,-9.900139,loan
+3,Assamese-Bengali,সকলো,হগল,xɔkɔlʊ,hɔɡɔlɔ,everything,Huggle,0.5,0.1666666666666666,0.0347222222222222,0.0347222222222222,0.625,0.0347222222222222,3,-0.05363156,loan
+4,Assamese-Bengali,কাহ,কহা,kaɦ,kɔha,cough,Say,0.75,0.25,0.2760416666666667,0.3020833333333333,2.3125,0.3020833333333333,2,-4.7384763,loan
+5,Bengali-Assamese,হাওর,সাগৰ,haor,xagɔɹɔ,Haor,sea,0.8333333333333334,0.4,0.2458333333333333,0.2833333333333333,2.8,0.2666666666666666,3,-9.17531,loan
+6,Bengali-Assamese,কুঁকড়া,কুকুৰা,kũkɔɽa,kukuɹa,Curly,chicken,0.5,0.1666666666666666,0.0625,0.0763888888888889,0.9583333333333334,0.0625,3,-10.781737,loan
+7,Bengali-Assamese,ঘোড়া,ঘোঁৰা,ɡ̤oɽa,gʱʊ̃ɹa,Horses,horse,0.8333333333333334,0.25,0.3072916666666667,0.3541666666666667,3.125,0.3333333333333333,2,-0.017962888,loan
+8,Bengali-Assamese,হমান,সমান,hɔman̪,xɔman,Haman,Equal,0.3333333333333333,0.2,0.0333333333333333,0.0333333333333333,0.65,0.0333333333333333,1,-6.8109493,loan
+9,Bengali-Assamese,হগল,সকলো,hɔɡɔlɔ,xɔkɔlʊ,Huggle,everything,0.5,0.1666666666666666,0.0347222222222222,0.0347222222222222,0.625,0.0347222222222222,3,0.54819477,loan
+10,Bengali-Assamese,ময়ূর,মৈৰা,me̯ur,mɔɪɹa,Peacock,Myra,0.8,0.4,0.2791666666666667,0.3166666666666666,3.15,0.3,4,-11.889809,loan
+11,Bengali-Assamese,ব্যাঘ্র,বাঘ,bd͡zaɡ̤rɔ,bagʱ,Tiger,Tiger,0.7777777777777778,0.6666666666666666,0.5902777777777778,0.6666666666666666,4.833333333333333,0.6666666666666666,4,-11.539066,loan
+12,Bengali-Assamese,সোমবার,সোমবাৰ,ʃombar,xʊmbaɹ,Monday,monday,0.5,0.1666666666666666,0.0659722222222222,0.0833333333333333,0.9791666666666666,0.0659722222222222,1,-0.9134393,loan
+13,Bengali-Assamese,টেহা,টাকা,teha,taka,Teha,Money,0.5,0.25,0.0520833333333333,0.0520833333333333,1.125,0.0520833333333333,2,-0.11322841,loan

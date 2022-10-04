@@ -1,0 +1,57 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,label
+0,Assamese-Bengali,মূলা,মউল,mula,mulɔ,Radish,Mool,0.25,0.0,0.0416666666666666,0.0416666666666666,0.4375,0.0416666666666666,hard_negative
+1,Assamese-Bengali,টাকা,ডাকা,taka,ɖaka,Money,Call,0.25,0.0,0.0208333333333333,0.0208333333333333,0.1875,0.0208333333333333,hard_negative
+2,Assamese-Bengali,পুলি,পুড়ি,puli,puɽi,Seedlings,Puri,0.25,0.0,0.0416666666666666,0.0625,0.5,0.0416666666666666,hard_negative
+3,Assamese-Bengali,কম্বল,কমলা,kɔmɔlɔ,kɔmɔla,Blanket,Orange,0.1666666666666666,0.0,0.0277777777777777,0.0277777777777777,0.2916666666666667,0.0277777777777777,hard_negative
+4,Assamese-Bengali,পাণ,পান,pan,pan̪,Pan,Drink,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+5,Assamese-Bengali,কুটুম,কুসুম,kutum,kuʃum,Family,Kusum,0.2,0.0,0.025,0.025,0.35,0.025,hard_negative
+6,Assamese-Bengali,বান,পাণ,ban,pan,The flood,Pan,0.3333333333333333,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+7,Assamese-Bengali,মুঠ,মুত,mutʰ,mut̪,total,Mut,0.25,0.0,0.0277777777777777,0.0277777777777777,0.1666666666666666,0.0277777777777777,hard_negative
+8,Assamese-Bengali,কালি,খালি,kali,kʰali,yesterday,Empty,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+9,Assamese-Bengali,ধনিয়া,দরিয়া,dʰɔnija,d̪ɔrie̯a,Coriander,The sea,0.5,0.1666666666666666,0.0555555555555555,0.0763888888888888,0.6458333333333334,0.0555555555555555,hard_negative
+10,Assamese-Bengali,মাখি,মাখা,makʰi,makʰa,Flies,Coated,0.2,0.0,0.0208333333333333,0.0208333333333333,0.25,0.0208333333333333,hard_negative
+11,Assamese-Bengali,মিঠা,মিতা,mitʰa,mit̪a,sweet,Mita,0.2,0.0,0.0208333333333333,0.0208333333333333,0.125,0.0208333333333333,hard_negative
+12,Assamese-Bengali,বাট,বাত,bat,bat̪,The road,Arthritis,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+13,Assamese-Bengali,মুঠা,মুতা,mutʰa,mut̪a,A handful,Muta,0.2,0.0,0.0208333333333333,0.0208333333333333,0.125,0.0208333333333333,hard_negative
+14,Assamese-Bengali,সহা,কহা,xɔɦa,kɔɦa,Saha,Say,0.25,0.0,0.0104166666666666,0.0104166666666666,0.25,0.0104166666666666,hard_negative
+15,Assamese-Bengali,কবি,কফি,kɔbi,kɔɸi,Poet,Coffee,0.25,0.0,0.0260416666666666,0.03125,0.34375,0.0260416666666666,hard_negative
+16,Assamese-Bengali,মূত,মুত,mut,mut̪,Urine,Mut,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+17,Assamese-Bengali,কল,কওল,kɔlɔ,kolɔ,Call,Coal,0.25,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+18,Assamese-Bengali,কি,কই,ki,ki,What?,Where?,0.0,0.0,0.0,0.0,0.0,0.0,hard_negative
+19,Assamese-Bengali,যুদ্ধ,বুদ্ধ,zuddʰɔ,bud̪d̪ʱɔ,War,Buddha,0.5,0.2,0.0541666666666666,0.0583333333333333,0.575,0.0541666666666666,hard_negative
+20,Assamese-Bengali,কবি,কবে,kɔbi,kɔbe,Poet,When,0.25,0.0,0.0104166666666666,0.0104166666666666,0.125,0.0104166666666666,hard_negative
+21,Assamese-Bengali,চাকা,টাকা,saka,ʈaka,The wheel,Money,0.25,0.0,0.0208333333333333,0.0208333333333333,0.375,0.0208333333333333,hard_negative
+22,Assamese-Bengali,চলা,টলা,sɔla,ʈɔla,To walk,Shake,0.25,0.0,0.0208333333333333,0.0208333333333333,0.375,0.0208333333333333,hard_negative
+23,Bengali-Assamese,লাখ,লিখ,lakʰ,likʰ,Millions,Write,0.25,0.0,0.0277777777777777,0.0277777777777777,0.3333333333333333,0.0277777777777777,hard_negative
+24,Bengali-Assamese,সাঁকো,আঁক,ʃãko,ãkɔ,Sanko,Draw,0.5,0.3333333333333333,0.2395833333333333,0.2604166666666667,1.875,0.2604166666666667,hard_negative
+25,Bengali-Assamese,পাণ,বান,pan,ban,Pan,The flood,0.3333333333333333,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+26,Bengali-Assamese,পোলা,পলা,pola,pɔla,Pola,Escape,0.25,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+27,Bengali-Assamese,ভাই,বাই,bʱai,bai,Brother,Bye,0.25,0.0,0.0,0.0,0.0,0.0,hard_negative
+28,Bengali-Assamese,উপত্যকা,ফটকা,upɔt̪d͡zɔka,pʰɔtɔka,Valley,Firecrackers,0.5454545454545454,0.25,0.2369791666666666,0.2604166666666667,1.875,0.2604166666666667,hard_negative
+29,Bengali-Assamese,কলা,কোলা,kɔla,kʊla,Banana,Cola,0.25,0.0,0.0104166666666666,0.0104166666666666,0.125,0.0104166666666666,hard_negative
+30,Bengali-Assamese,গম,কম,ɡɔmɔ,kɔmɔ,Wheat,Less,0.25,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+31,Bengali-Assamese,জানা,টানা,d͡ʑan̪a,tana,To know,Pull,0.5714285714285714,0.25,0.0625,0.0625,0.5625,0.0625,hard_negative
+32,Bengali-Assamese,কুঁকড়া,কুকুহা,kũkɔɽa,kukuɦa,Curly,Cuckoo,0.5,0.1666666666666666,0.0520833333333333,0.0694444444444444,0.5625,0.0520833333333333,hard_negative
+33,Bengali-Assamese,পাখা,পাখি,pakʰa,pakʰi,Fan,Birds,0.2,0.0,0.0208333333333333,0.0208333333333333,0.25,0.0208333333333333,hard_negative
+34,Bengali-Assamese,বোন,বন,bon̪,bɔnɔ,Sister,Forest,0.5,0.25,0.2447916666666666,0.2708333333333333,1.9375,0.2708333333333333,hard_negative
+35,Bengali-Assamese,বাউল,বাউলা,baulɔ,baula,Bowl,Baula,0.2,0.0,0.0333333333333333,0.0333333333333333,0.35,0.0333333333333333,hard_negative
+36,Bengali-Assamese,কহা,খহা,kɔɦa,kʰɔɦa,Say,Eat,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+37,Bengali-Assamese,মুখ,মাখ,mukʰ,makʰ,Face,Makh,0.25,0.0,0.0694444444444444,0.0694444444444444,0.8333333333333334,0.0694444444444444,hard_negative
+38,Bengali-Assamese,পাখ,পাক,pakʰ,pak,Wings,Pak,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+39,Bengali-Assamese,অবতার,অটা,obt̪ar,ɔta,Avatar,Ata,0.6666666666666666,0.4,0.3625,0.4166666666666667,3.0,0.4166666666666667,hard_negative
+40,Bengali-Assamese,মাতা,মাঠা,mat̪a,matʰa,Mother,Matha,0.2,0.0,0.0208333333333333,0.0208333333333333,0.125,0.0208333333333333,hard_negative
+41,Bengali-Assamese,ফল,পল,ɸɔlɔ,pɔlɔ,Fruit,Paul,0.25,0.0,0.015625,0.0208333333333333,0.28125,0.015625,hard_negative
+42,Bengali-Assamese,কেলা,কলা,kela,kɔla,The banana,Banana,0.25,0.0,0.03125,0.03125,0.3125,0.03125,hard_negative
+43,Bengali-Assamese,পিতা,পিটা,pit̪a,pita,Father,Beaten,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+44,Bengali-Assamese,বিলাই,বিলাতী,bilai,bilati,distribute,English,0.1666666666666666,0.1666666666666666,0.1527777777777777,0.1666666666666666,1.2083333333333333,0.1666666666666666,hard_negative
+45,Bengali-Assamese,বেল,বল,belɔ,bɔlɔ,Bell,Tell me,0.25,0.0,0.03125,0.03125,0.3125,0.03125,hard_negative
+46,Bengali-Assamese,আগুন,আপোন,aɡun̪,apʊn,Fire,Your own,0.6,0.25,0.0833333333333333,0.0833333333333333,0.8125,0.0833333333333333,hard_negative
+47,Bengali-Assamese,হাত,হাট,ɦat̪,ɦat,Hand,Hat,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+48,Bengali-Assamese,টাকা,চাকা,ʈaka,saka,Money,The wheel,0.25,0.0,0.0208333333333333,0.0208333333333333,0.375,0.0208333333333333,hard_negative
+49,Bengali-Assamese,বাল,বালু,balɔ,balu,Baal,Sand,0.25,0.0,0.03125,0.03125,0.3125,0.03125,hard_negative
+50,Bengali-Assamese,জন্তু,ধনু,d͡ʑɔn̪t̪u,dʰɔnu,Animals,Sagittarius,0.5555555555555556,0.4,0.2333333333333333,0.25,1.9,0.25,hard_negative
+51,Bengali-Assamese,উপন্যাস,উজনি,upn̪æʃ,uzni,Novel,The south,0.6666666666666666,0.4,0.2458333333333333,0.2666666666666666,2.175,0.2625,hard_negative
+52,Bengali-Assamese,হগল,নকল,ɦɔɡɔlɔ,nɔkɔlɔ,Huggle,Duplicate,0.3333333333333333,0.1666666666666666,0.0381944444444444,0.0416666666666666,0.4791666666666667,0.0381944444444444,hard_negative
+53,Bengali-Assamese,কালি,খালী,kali,kʰali,yesterday,empty,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+54,Bengali-Assamese,দাঁত,আঁট,d̪ãt̪ɔ,ãtɔ,Teeth,Tight,0.5,0.3333333333333333,0.2395833333333333,0.2604166666666667,1.875,0.2604166666666667,hard_negative
+55,Bengali-Assamese,উট,উদং,uʈɔ,udɔŋ,The camel,Naked,0.5,0.25,0.2447916666666666,0.2708333333333333,2.0,0.2708333333333333,hard_negative

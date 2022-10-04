@@ -1,0 +1,34 @@
+{
+    "Assamese-Sanskrit" : {
+        "target" :  {
+            "name" : "Assamese",
+            "epi" : "asm-Beng",
+            "gtrans" : "as",
+            "unicode" : "Bengali"
+        },
+        "source" :  {
+            "name" : "Bengali",
+            "epi" : "san-Deva",
+            "gtrans" : "sa",
+            "unicode" : "Devanagari"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Assamese_terms_borrowed_from_Sanskrit",
+        "loan-frac" : ".5"
+    },
+    "Bengali-Sanskrit" : {
+        "target" :  {
+            "name" : "Bengali",
+            "epi" : "ben-Beng",
+            "gtrans" : "bn",
+            "unicode" : "Bengali"
+        },
+        "source" :  {
+            "name" : "Bengali",
+            "epi" : "san-Deva",
+            "gtrans" : "sa",
+            "unicode" : "Devanagari"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Bengali_terms_borrowed_from_Sanskrit",
+        "loan-frac" : ".5"
+    }
+}

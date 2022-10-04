@@ -1,0 +1,4 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,plain Levenshtein,DNN_logits,label
+0,Assamese-Bengali,বলিয়া,বাউল,bɔlija,baulɔ,Saying,Bowl,0.8333333333333334,0.1666666666666666,0.2673611111111111,0.2847222222222222,2.7291666666666665,0.28125,5,5.0430336,loan
+1,Bengali-Assamese,ভইষ,মৈহ,b̤iʂ,mɔɪɦ,Fear,Maih,1.0,0.75,0.3020833333333333,0.3333333333333333,3.28125,0.328125,3,-5.0073195,loan
+2,Bengali-Assamese,বাউল,বলিয়া,baulɔ,bɔlija,Bowl,Saying,0.8333333333333334,0.1666666666666666,0.2673611111111111,0.2847222222222222,2.7291666666666665,0.28125,5,4.9944515,loan

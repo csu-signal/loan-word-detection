@@ -1,0 +1,5 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,plain Levenshtein,DNN_logits,label
+0,Assamese-Bengali,কাহ,কাক,kaɦ,kak,cough,The crow,0.3333333333333333,0.3333333333333333,0.0694444444444444,0.0694444444444444,1.4166666666666667,0.0694444444444444,1,0.06320294,hard_negative
+1,Assamese-Bengali,ধোঁৱা,ধোঁয়া,dʰʊ̃wa,d̪̤õe̯a,smoke,Smoke,0.7142857142857143,0.25,0.0833333333333333,0.09375,0.84375,0.0833333333333333,2,0.10412598,synonym
+2,Assamese-Bengali,অগ্নি,আগুন,ɔgni,aɡun̪,Fire,Fire,0.8,0.5,0.3697916666666666,0.3958333333333333,3.78125,0.390625,3,-0.0018116832,synonym
+3,Assamese-Bengali,কাণ,কর্ণ,kan,kɔrnɔ,ear,Ears,0.6,0.4,0.3791666666666667,0.4333333333333334,3.25,0.4333333333333334,2,-0.027082443,synonym

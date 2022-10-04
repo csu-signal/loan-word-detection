@@ -1,0 +1,29 @@
+::vowel:: = ɐ|aː|ɪ|iː|ʊ|uː|e|ɐːi̯|o|ɔ|ɐːu̯|r̩
+::consonant:: = k|kʰ|ɡ|ɡʱ|ŋ|tɕ|tɕʰ|dʑ|dʑʱ|ɲ|ʈ|ʈʰ|ɖ|ɖʰ|ɳ|t|tʰ|d|dʱ|n|p|pʰ|b|bʱ|m|j|r|l|v|ɕ|ʂ|s|ɦ|q|x|ɣ|z|ʒ|f|ɽ|ɽ̤
+
+% ɐ -> 0 / VC_#
+ɐ -> 0 / (::vowel::)(::consonant::) _ #
+
+% ɐ -> 0 / _V
+ɐ -> 0 / _ (::vowel::)
+
+% <ons> -> 0
+<ons> -> 0 / _
+
+% ː -> 0 / ɐV_
+ː -> 0 / ɐ(a|i|u|æ|ɔ) _
+
+% ː -> ̃ː
+(?P<sw1>ː)(?P<sw2>̃) -> 0 / _
+
+% ɐ -> 0 / VC_CV
+ɐ -> 0 / (::vowel::)N?(::consonant::) _ (?=(::consonant::)(::vowel::))
+
+% Viraama
+ə् -> 0 / _
+
+% Homorganic nasal
+N -> m / _ (p|pʰ|b|b̤|m)
+N -> ŋ / _ (k|kʰ|ɡ|ɡ̤|ŋ)
+N -> ɲ / _ (tɕ|tɕʰ|dʑ|dʑʱ|ɲ)
+N -> n / _

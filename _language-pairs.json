@@ -1,0 +1,51 @@
+{
+    "Hindi-Persian" : {
+        "target" :  {
+            "name" : "Hindi",
+            "epi" : "hin-Deva",
+            "gtrans" : "hi",
+            "unicode" : "Devanagari"
+        },
+        "source" : {
+            "name" : "Persian",
+            "epi" : "fas-Arab",
+            "gtrans" : "fa",
+            "unicode" : "Arabic"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Hindi_terms_borrowed_from_Persian",
+        "loan-frac" : ".3"
+    },
+    "English-French" : {
+        "target" :  {
+            "name" : "English",
+            "epi" : "eng-Latn",
+            "gtrans" : "en",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "French",
+            "epi" : "fra-Latn",
+            "gtrans" : "fr",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:English_terms_borrowed_from_French",
+        "loan-frac" : ".3"
+    },
+    "Finnish-Swedish" : {
+        "target" :  {
+            "name" : "Finnish",
+            "epi" : "fin-Latn",
+            "gtrans" : "fi",
+            "unicode" : "Latin"
+        },
+        "source" : {
+            "name" : "Swedish",
+            "epi" : "swe-Latn",
+            "gtrans" : "sw",
+            "unicode" : "Latin"
+        },
+        "wiki" : "https://en.m.wiktionary.org/wiki/Category:Finnish_terms_borrowed_from_Swedish",
+        "loan-frac" : ".1"
+    }
+}
+

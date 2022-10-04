@@ -1,0 +1,5 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,plain Levenshtein,DNN_logits,label
+0,Assamese-Bengali,নদী,নবী,nɔdi,n̪ɔbi,The river,Prophet,0.4,0.25,0.0364583333333333,0.0416666666666666,0.34375,0.0364583333333333,1,3.3436332,hard_negative
+1,Assamese-Bengali,বাজ,বাট,baz,bat,Lightning,The road,0.3333333333333333,0.0,0.0277777777777777,0.0277777777777777,0.4166666666666667,0.0277777777777777,1,-2.892941,hard_negative
+2,Assamese-Bengali,পুহ,পুত,puɦ,put̪,Puh,Put,0.5,0.3333333333333333,0.0763888888888888,0.0833333333333333,1.4583333333333333,0.0763888888888888,1,-2.705121,hard_negative
+3,Bengali-Assamese,চান,চাকি,t͡ɕan̪,saki,Want,Candles,0.8333333333333334,0.75,0.3541666666666667,0.3854166666666666,3.71875,0.3802083333333333,2,-2.3763685,random

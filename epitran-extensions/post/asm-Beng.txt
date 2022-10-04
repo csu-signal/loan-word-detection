@@ -1,0 +1,20 @@
+::consonant:: = k|kʰ|ɡ|gʱ|ŋ|ɦ|s|z|n|x|t|tʰ|d|dʰ|ɹ|l|p|pʰ|b|bʰ|m|w|ɽ|ɹɦ|j|t̪
+::vowel:: = ɔ|a|i|u|ɽi|ɽiː|li|liː|ɛ|ɔɪ|ʊ|ɔʊ
+
+% Hoshonto
+V্ -> 0 / _
+
+% Bishorgo
+ঃ -> ː / (::consonant::) _ .
+ঃ -> ɦ / _ #
+
+% ɔ -> 0 / _V
+V -> 0 / _ (::vowel::)
+
+% ɔ -> 0 /VC+_#
+V -> 0 / (::vowel::)(::consonant::) _ #
+
+% ɔ -> 0 /VC_CV
+V -> 0 / (::vowel::)(::consonant::) _ (::consonant::)(::vowel::)
+
+V -> ɔ / _

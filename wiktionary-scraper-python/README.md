@@ -2,12 +2,12 @@
 
 ## how to run
 
-* add the language pairs to be scraped in the links.json file. Following is an example of a valid json where we look for Persian terms that are borrowed into Hindi: 
+* add the language pairs to be scraped in the language-pairs.json file. Following is an example of a valid json where we look for Persian terms that are borrowed into Hindi: 
     * {
     "Hindi-Persian" : "https://en.m.wiktionary.org/wiki/Category:Hindi_terms_borrowed_from_Persian"
     }
 
-* run the scraper notebook as it is. The result file will contain the word in language 1 e.g hindi, the word borrowed from language 2, the IPAs as how the word is pronounced in language 1. 
+* run the scraper notebook as it is. The result file will contain the word in language 1 e.g hindi, the word borrowed from language 2. 
 
 ## possible issues
 

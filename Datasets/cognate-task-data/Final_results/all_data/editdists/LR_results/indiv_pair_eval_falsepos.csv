@@ -1,0 +1,47 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,plain Levenshtein,label
+0,Assamese-Bengali,হাল,কাল,ɦal,kalɔ,Hello,Tomorrow,0.5,0.5,0.2760416666666667,0.3020833333333333,2.875,0.3020833333333333,1,hard_negative
+1,Assamese-Bengali,ভাল,খাল,bʰal,kʰalɔ,Good,Canal,0.4,0.5,0.2760416666666667,0.3020833333333333,2.375,0.3020833333333333,1,hard_negative
+2,Assamese-Bengali,বাল,বালক,bal,balɔkɔ,Baal,Boy,0.5,0.5,0.4479166666666667,0.5,3.625,0.5,1,synonym
+3,Assamese-Bengali,বাজে,বা,bazɛ,ba,Bad,Or,0.5,0.5,0.453125,0.5,3.625,0.5,2,hard_negative
+4,Assamese-Bengali,বাল,বালি,bal,bali,Baal,Sand,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,1,hard_negative
+5,Assamese-Bengali,কাহ,কাহই,kaɦ,kaɦi,cough,Anyway,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,1,hard_negative
+6,Assamese-Bengali,উট,জল,ut,d͡ʑɔlɔ,The camel,Water,1.0,0.75,0.5260416666666666,0.5729166666666667,4.875,0.5729166666666667,2,random
+7,Assamese-Bengali,বাজ,বা,baz,ba,Lightning,Or,0.3333333333333333,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+8,Assamese-Bengali,পাতা,পাত,pata,pat̪,Leaves,leaves,0.25,0.25,0.234375,0.2604166666666667,1.875,0.2604166666666667,1,synonym
+9,Assamese-Bengali,গুহা,গুফা,guɦa,ɡuɸa,Cave,Cave,0.5,0.5,0.2708333333333333,0.3020833333333333,2.65625,0.296875,1,synonym
+10,Assamese-Bengali,কলা,একলা,kɔla,ekɔla,Banana,Alone,0.2,0.2,0.1791666666666666,0.2,1.45,0.2,1,hard_negative
+11,Assamese-Bengali,গম,অগম,gɔmɔ,oɡɔmɔ,Wheat,Incomprehensible,0.4,0.4,0.3583333333333333,0.4,2.9,0.4,1,hard_negative
+12,Assamese-Bengali,জল,উদ,zɔlɔ,ud̪,Water,Ud,1.0,0.75,0.5260416666666666,0.5729166666666667,4.875,0.5729166666666667,2,synonym
+13,Assamese-Bengali,গুহা,গুফা,guɦa,ɡuɸa,Cave,Cave,0.5,0.5,0.2708333333333333,0.3020833333333333,2.65625,0.296875,1,synonym
+14,Assamese-Bengali,কৃষ্ণ,অকৃষ্ণ,kɽixnɔ,okɽiʃnɔ,Krishna,Akrishna,0.2857142857142857,0.2857142857142857,0.1488095238095238,0.1666666666666666,1.2678571428571428,0.1636904761904762,1,hard_negative
+15,Assamese-Bengali,মাছ,মা,mas,ma,Fish,Mom,0.3333333333333333,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+16,Assamese-Bengali,গু,মু,gu,mu,Gu,Mu,0.5,0.5,0.4479166666666667,0.5,3.625,0.5,1,hard_negative
+17,Assamese-Bengali,নাম,ইনাম,nam,in̪am,Name,Reward,0.4,0.25,0.234375,0.2604166666666667,1.875,0.2604166666666667,1,hard_negative
+18,Assamese-Bengali,গলা,কলা,gɔla,kɔla,Throat,Banana,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,1,hard_negative
+19,Assamese-Bengali,কল,কে,kɔlɔ,ke,Call,Who,0.75,0.5,0.484375,0.53125,3.9375,0.53125,1,synonym
+20,Assamese-Bengali,কল,অকল,kɔlɔ,okɔlɔ,Call,Alone,0.2,0.2,0.1791666666666666,0.2,1.45,0.2,1,hard_negative
+21,Assamese-Bengali,আম,আমি,am,ami,Mango,I,0.3333333333333333,0.3333333333333333,0.2986111111111111,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+22,Assamese-Bengali,পুষ্প,পুষ্পক,puxpɔ,puʃpɔkɔ,Flowers,Flower,0.4285714285714285,0.4285714285714285,0.2767857142857143,0.3095238095238096,2.3035714285714284,0.306547619047619,1,synonym
+23,Assamese-Bengali,মাজ,মা,maz,ma,middle,Mom,0.3333333333333333,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+24,Bengali-Assamese,টাং,গাং,ʈaŋ,gaŋ,Tang,Gang,0.3333333333333333,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+25,Bengali-Assamese,বহুত,বহঁত,bɔɦut̪,bɔɦɔ̃tɔ,lot,A lot,0.4285714285714285,0.1666666666666666,0.1840277777777778,0.2013888888888888,1.5416666666666667,0.2013888888888888,1,hard_negative
+26,Bengali-Assamese,রাং,গাং,raŋ,gaŋ,Rang,Gang,0.3333333333333333,0.3333333333333333,0.2777777777777778,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+27,Bengali-Assamese,কে,কল,ke,kɔlɔ,Who,Call,0.75,0.5,0.484375,0.53125,3.9375,0.53125,1,synonym
+28,Bengali-Assamese,আম,আমি,am,ami,Mango,I,0.3333333333333333,0.3333333333333333,0.2986111111111111,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+29,Bengali-Assamese,বালক,বাল,balɔkɔ,bal,Boy,Baal,0.5,0.5,0.4479166666666667,0.5,3.625,0.5,1,synonym
+30,Bengali-Assamese,অনুবাদ,অনুবাদক,on̪ubad̪,ɔnubadɔkɔ,Translation,Translator,0.5555555555555556,0.3333333333333333,0.3125,0.3472222222222222,2.5,0.3472222222222222,1,hard_negative
+31,Bengali-Assamese,পাত,পাতা,pat̪,pata,leaves,Leaves,0.25,0.25,0.234375,0.2604166666666667,1.875,0.2604166666666667,1,synonym
+32,Bengali-Assamese,একলা,কলা,ekɔla,kɔla,Alone,Banana,0.2,0.2,0.1791666666666666,0.2,1.45,0.2,1,hard_negative
+33,Bengali-Assamese,সহা,অহা,ʃɔɦa,ɔɦa,Saha,Come on,0.25,0.25,0.2291666666666666,0.25,1.8125,0.25,1,hard_negative
+34,Bengali-Assamese,বোন,বন,bon̪,bɔnɔ,Sister,Forest,0.5,0.25,0.2447916666666666,0.2708333333333333,1.9375,0.2708333333333333,1,hard_negative
+35,Bengali-Assamese,গুফা,গুহা,ɡuɸa,guɦa,Cave,Cave,0.5,0.5,0.2708333333333333,0.3020833333333333,2.65625,0.296875,1,synonym
+36,Bengali-Assamese,পাখ,পাখি,pakʰ,pakʰi,Wings,Birds,0.2,0.25,0.2239583333333333,0.25,1.8125,0.25,1,hard_negative
+37,Bengali-Assamese,ধুমা,ঘুমা,d̪ʱuma,gʱuma,Smoke,Sleep,0.3333333333333333,0.25,0.2291666666666666,0.25,1.8125,0.25,1,hard_negative
+38,Bengali-Assamese,ভাই,ঘাই,bʱai,gʱai,Brother,Main,0.25,0.3333333333333333,0.2986111111111111,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+39,Bengali-Assamese,পুষ্পক,পুষ্প,puʃpɔkɔ,puxpɔ,Flower,Flowers,0.4285714285714285,0.4285714285714285,0.2767857142857143,0.3095238095238096,2.3035714285714284,0.306547619047619,1,synonym
+40,Bengali-Assamese,বা,আবা,ba,aba,Or,Dad,0.3333333333333333,0.3333333333333333,0.2986111111111111,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+41,Bengali-Assamese,বান,বাঘ,ban̪,bagʱ,The flood,Tiger,0.5,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,random
+42,Bengali-Assamese,গুফা,গুহা,ɡuɸa,guɦa,Cave,Cave,0.5,0.5,0.2708333333333333,0.3020833333333333,2.65625,0.296875,1,synonym
+43,Bengali-Assamese,আট,আগ,aʈɔ,agɔ,Eight,Forward,0.3333333333333333,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative
+44,Bengali-Assamese,তামা,ঘামা,t̪ama,gʱama,Copper,Sweat,0.4,0.25,0.2291666666666666,0.25,1.8125,0.25,1,hard_negative
+45,Bengali-Assamese,লাউ,গাউ,lau,gau,Lau,Cow,0.3333333333333333,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,1,hard_negative

@@ -1,0 +1,64 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,label
+0,All languages,কালি,অকালী,kali,okali,yesterday,Premature,0.2,0.2,0.1791666666666666,0.2,1.45,0.2,hard_negative
+1,All languages,টাকা,ডাকা,taka,ɖaka,Money,Call,0.25,0.0,0.0208333333333333,0.0208333333333333,0.1875,0.0208333333333333,hard_negative
+2,All languages,হামি,আমি,ɦami,ami,Hami,I,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+3,All languages,বাল,বালি,bal,bali,Baal,Sand,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+4,All languages,কাহ,কাহই,kaɦ,kaɦi,cough,Anyway,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+5,All languages,আঁক,পাঁক,ãkɔ,pãkɔ,Draw,Mud,0.25,0.3333333333333333,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+6,All languages,চাকি,বাকি,saki,baki,Candles,The rest,0.25,0.25,0.046875,0.0520833333333333,0.59375,0.046875,hard_negative
+7,All languages,কম্বল,কমলা,kɔmɔlɔ,kɔmɔla,Blanket,Orange,0.1666666666666666,0.0,0.0277777777777777,0.0277777777777777,0.2916666666666667,0.0277777777777777,hard_negative
+8,All languages,পাণ,পান,pan,pan̪,Pan,Drink,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+9,All languages,কুটুম,কুসুম,kutum,kuʃum,Family,Kusum,0.2,0.0,0.025,0.025,0.35,0.025,hard_negative
+10,All languages,মুঠ,মুত,mutʰ,mut̪,total,Mut,0.25,0.0,0.0277777777777777,0.0277777777777777,0.1666666666666666,0.0277777777777777,hard_negative
+11,All languages,পাতা,পাত,pata,pat̪,Leaves,leaves,0.25,0.25,0.234375,0.2604166666666667,1.875,0.2604166666666667,synonym
+12,All languages,জল,ফল,zɔlɔ,ɸɔlɔ,Water,Fruit,0.25,0.25,0.0416666666666666,0.0520833333333333,0.375,0.0416666666666666,hard_negative
+13,All languages,কালি,খালি,kali,kʰali,yesterday,Empty,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+14,All languages,মাখি,মাখা,makʰi,makʰa,Flies,Coated,0.2,0.0,0.0208333333333333,0.0208333333333333,0.25,0.0208333333333333,hard_negative
+15,All languages,মিঠা,মিতা,mitʰa,mit̪a,sweet,Mita,0.2,0.0,0.0208333333333333,0.0208333333333333,0.125,0.0208333333333333,hard_negative
+16,All languages,কলা,একলা,kɔla,ekɔla,Banana,Alone,0.2,0.2,0.1791666666666666,0.2,1.45,0.2,hard_negative
+17,All languages,বাট,বাত,bat,bat̪,The road,Arthritis,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+18,All languages,মুঠা,মুতা,mutʰa,mut̪a,A handful,Muta,0.2,0.0,0.0208333333333333,0.0208333333333333,0.125,0.0208333333333333,hard_negative
+19,All languages,লাখ,আখ,lakʰ,akʰ,Millions,Sugarcane,0.25,0.3333333333333333,0.3055555555555555,0.3333333333333333,2.4166666666666665,0.3333333333333333,hard_negative
+20,All languages,মূত,মুত,mut,mut̪,Urine,Mut,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+21,All languages,কল,কওল,kɔlɔ,kolɔ,Call,Coal,0.25,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+22,All languages,কি,কই,ki,ki,What?,Where?,0.0,0.0,0.0,0.0,0.0,0.0,hard_negative
+23,All languages,মাই,মাটি,mai,maʈi,My,Soil,0.25,0.25,0.2291666666666666,0.25,1.8125,0.25,hard_negative
+24,All languages,খানা,খাড়া,kʰana,kʰaɽa,Food,Steep,0.2,0.25,0.0520833333333333,0.0729166666666666,0.75,0.0520833333333333,hard_negative
+25,All languages,কৃষ্ণ,অকৃষ্ণ,kɽixnɔ,okɽiʃnɔ,Krishna,Akrishna,0.2857142857142857,0.2857142857142857,0.1488095238095238,0.1666666666666666,1.2678571428571428,0.1636904761904762,hard_negative
+26,All languages,কবি,কবে,kɔbi,kɔbe,Poet,When,0.25,0.0,0.0104166666666666,0.0104166666666666,0.125,0.0104166666666666,hard_negative
+27,All languages,পাতা,পাকা,pata,paka,Leaves,Ripe,0.25,0.25,0.046875,0.0520833333333333,0.53125,0.046875,hard_negative
+28,All languages,আমি,আমীর,ami,amir,I,Amir,0.25,0.25,0.2083333333333333,0.25,1.8125,0.25,hard_negative
+29,All languages,গলা,কলা,gɔla,kɔla,Throat,Banana,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+30,All languages,কল,অকল,kɔlɔ,okɔlɔ,Call,Alone,0.2,0.2,0.1791666666666666,0.2,1.45,0.2,hard_negative
+31,All languages,পানী,প্রাণী,pani,prani,water,Animals,0.2,0.2,0.1666666666666666,0.2,1.45,0.2,hard_negative
+32,All languages,টাকা,কাকা,ʈaka,kaka,Money,Uncle,0.25,0.25,0.0364583333333333,0.0416666666666666,0.40625,0.0364583333333333,hard_negative
+33,All languages,মিছা,মিঠা,mit͡ɕʰa,mitʰa,lie,sweet,0.2857142857142857,0.25,0.0416666666666666,0.0416666666666666,0.4375,0.0416666666666666,hard_negative
+34,All languages,আদা,আড্ডা,ad̪a,adda,Ginger,Chat,0.25,0.25,0.2395833333333333,0.2604166666666667,1.875,0.2604166666666667,hard_negative
+35,All languages,কাটা,কাকা,kaʈa,kaka,Cut,Uncle,0.25,0.25,0.0364583333333333,0.0416666666666666,0.40625,0.0364583333333333,hard_negative
+36,All languages,পোলা,পলা,pola,pɔla,Pola,Escape,0.25,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+37,All languages,ভাই,বাই,bʱai,bai,Brother,Bye,0.25,0.0,0.0,0.0,0.0,0.0,hard_negative
+38,All languages,আমি,আম্মী,ami,ammi,I,Mom,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+39,All languages,পাণ,পানী,pan,pani,Pan,water,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+40,All languages,কলা,কোলা,kɔla,kʊla,Banana,Cola,0.25,0.0,0.0104166666666666,0.0104166666666666,0.125,0.0104166666666666,hard_negative
+41,All languages,কবি,কটি,kɔbi,kɔti,Poet,Waist,0.25,0.25,0.0364583333333333,0.0416666666666666,0.34375,0.0364583333333333,hard_negative
+42,All languages,পাত,পাতা,pat̪,pata,leaves,Leaves,0.25,0.25,0.234375,0.2604166666666667,1.875,0.2604166666666667,synonym
+43,All languages,গম,কম,ɡɔmɔ,kɔmɔ,Wheat,Less,0.25,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+44,All languages,একলা,কলা,ekɔla,kɔla,Alone,Banana,0.2,0.2,0.1791666666666666,0.2,1.45,0.2,hard_negative
+45,All languages,সহা,অহা,ʃɔɦa,ɔɦa,Saha,Come on,0.25,0.25,0.2291666666666666,0.25,1.8125,0.25,hard_negative
+46,All languages,পাখা,পাখি,pakʰa,pakʰi,Fan,Birds,0.2,0.0,0.0208333333333333,0.0208333333333333,0.25,0.0208333333333333,hard_negative
+47,All languages,বাউল,বাউলা,baulɔ,baula,Bowl,Baula,0.2,0.0,0.0333333333333333,0.0333333333333333,0.35,0.0333333333333333,hard_negative
+48,All languages,কহা,খহা,kɔɦa,kʰɔɦa,Say,Eat,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+49,All languages,পাখ,পাক,pakʰ,pak,Wings,Pak,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+50,All languages,মাতা,মাঠা,mat̪a,matʰa,Mother,Matha,0.2,0.0,0.0208333333333333,0.0208333333333333,0.125,0.0208333333333333,hard_negative
+51,All languages,পাখ,পাখি,pakʰ,pakʰi,Wings,Birds,0.2,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+52,All languages,পিতা,পিটা,pit̪a,pita,Father,Beaten,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+53,All languages,মাত,মাটি,mat̪,mati,The voice,Soil,0.25,0.25,0.234375,0.2604166666666667,1.875,0.2604166666666667,hard_negative
+54,All languages,ভাই,ঘাই,bʱai,gʱai,Brother,Main,0.25,0.3333333333333333,0.2986111111111111,0.3333333333333333,2.4166666666666665,0.3333333333333333,hard_negative
+55,All languages,বিলাই,বিলাতী,bilai,bilati,distribute,English,0.1666666666666666,0.1666666666666666,0.1527777777777777,0.1666666666666666,1.2083333333333333,0.1666666666666666,hard_negative
+56,All languages,বেঁকা,বকা,bẽka,bɔka,curved,Gossip,0.25,0.25,0.0416666666666666,0.0416666666666666,0.4375,0.0416666666666666,hard_negative
+57,All languages,পাখি,আখি,pakʰi,akʰi,Birds,Eyes,0.2,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+58,All languages,হাত,হাট,ɦat̪,ɦat,Hand,Hat,0.25,0.0,0.0138888888888888,0.0138888888888888,0.0833333333333333,0.0138888888888888,hard_negative
+59,All languages,হামি,আমি,ɦami,ami,Hami,I,0.25,0.25,0.2239583333333333,0.25,1.8125,0.25,hard_negative
+60,All languages,কালি,খালী,kali,kʰali,yesterday,empty,0.2,0.0,0.0104166666666666,0.0104166666666666,0.0625,0.0104166666666666,hard_negative
+61,All languages,বাল,বাল্য,balɔ,balzɔ,Baal,Childhood,0.2,0.2,0.1833333333333333,0.2,1.45,0.2,hard_negative
+62,All languages,কহা,কঢ়া,kɔɦa,kɔɹɦa,Say,strong,0.2,0.2,0.1833333333333333,0.2,1.45,0.2,hard_negative

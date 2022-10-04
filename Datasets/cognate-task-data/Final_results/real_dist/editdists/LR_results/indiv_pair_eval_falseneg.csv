@@ -1,0 +1,14 @@
+,language_pair,loan_word,original_word,loan_word_epitran,original_word_epitran,loan_english,original_english,Fast Levenshtein Distance Div Maxlen,Dolgo Prime Distance Div Maxlen,Feature Edit Distance Div Maxlen,Hamming Feature Distance Div Maxlen,Weighted Feature Distance Div Maxlen,Partial Hamming Feature Distance Div Maxlen,plain Levenshtein,DNN_logits,label
+0,Assamese-Bengali,চাঁদ,চান,sãdɔ,t͡ɕan̪,The moon,Want,1.0,1.0,0.3177083333333333,0.34375,3.3125,0.34375,2,-2.374471,loan
+1,Assamese-Bengali,মৈৰা,ময়ূর,mɔɪɹa,me̯ur,Myra,Peacock,0.8,0.4,0.2791666666666667,0.3166666666666666,3.15,0.3,4,-5.2119665,loan
+2,Assamese-Bengali,জিকা,ঝিঙা,zika,d͡ʑ̤iŋa,Zika,Shrimp,0.7142857142857143,0.5,0.09375,0.09375,1.4375,0.09375,2,-1.3920515,loan
+3,Assamese-Bengali,বাঘ,ব্যাঘ্র,bagʱ,bæɡ̤rɔ,Tiger,Tiger,0.8333333333333334,0.6,0.525,0.6,4.35,0.6,4,-5.5522547,loan
+4,Assamese-Bengali,সাগৰ,হাওর,xagɔɹɔ,haor,sea,Haor,0.8333333333333334,0.4,0.2458333333333333,0.2833333333333333,2.8,0.2666666666666666,3,-8.128155,loan
+5,Assamese-Bengali,কুকুৰ,কুকুর,kukuɹ,kukur,dog,Dogs,0.2,0.0,0.0333333333333333,0.05,0.7,0.0333333333333333,1,-8.611261,loan
+6,Assamese-Bengali,কুকুৰা,কুঁকড়া,kukuɹa,kũkɔɽa,chicken,Curly,0.5,0.1666666666666666,0.0625,0.0763888888888889,0.9583333333333334,0.0625,3,-16.456886,loan
+7,Bengali-Assamese,ব্যাঘ্র,বাঘ,bæɡ̤rɔ,bagʱ,Tiger,Tiger,0.8333333333333334,0.6,0.525,0.6,4.35,0.6,4,-3.683405,loan
+8,Bengali-Assamese,হগল,সকলো,hɔɡɔlɔ,xɔkɔlʊ,Huggle,everything,0.5,0.1666666666666666,0.0347222222222222,0.0347222222222222,0.625,0.0347222222222222,3,-9.739006,loan
+9,Bengali-Assamese,চান,চাঁদ,t͡ɕan̪,sãdɔ,Want,The moon,1.0,1.0,0.3177083333333333,0.34375,3.3125,0.34375,2,-8.861584,loan
+10,Bengali-Assamese,কুঁকড়া,কুকুৰা,kũkɔɽa,kukuɹa,Curly,chicken,0.5,0.1666666666666666,0.0625,0.0763888888888889,0.9583333333333334,0.0625,3,-8.7468815,loan
+11,Bengali-Assamese,হাওর,সাগৰ,haor,xagɔɹɔ,Haor,sea,0.8333333333333334,0.4,0.2458333333333333,0.2833333333333333,2.8,0.2666666666666666,3,-11.43874,loan
+12,Bengali-Assamese,ময়ূর,মৈৰা,me̯ur,mɔɪɹa,Peacock,Myra,0.8,0.4,0.2791666666666667,0.3166666666666666,3.15,0.3,4,-7.5277653,loan

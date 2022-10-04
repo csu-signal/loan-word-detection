@@ -1,0 +1,11 @@
+,all_language_evaluate,train_evaluate_pair,language_pair,class,precision,recall,f1_score,support,acc
+0,True,False,All languages,0,0.79,0.83,0.81,63.0,
+1,True,False,All languages,1,0.83,0.79,0.81,66.0,0.81
+2,False,False,Assamese-Bengali,0,0.78,0.78,0.78,32.0,
+3,False,False,Assamese-Bengali,1,0.79,0.79,0.79,33.0,0.78
+4,False,False,Bengali-Assamese,0,0.79,0.87,0.83,31.0,
+5,False,False,Bengali-Assamese,1,0.87,0.79,0.83,33.0,0.83
+6,False,True,Assamese-Bengali,0,0.78,0.78,0.78,32.0,
+7,False,True,Assamese-Bengali,1,0.79,0.79,0.79,33.0,0.78
+8,False,True,Bengali-Assamese,0,0.82,0.87,0.84,31.0,
+9,False,True,Bengali-Assamese,1,0.87,0.82,0.84,33.0,0.84
