@@ -1,6 +1,8 @@
 # loan-word-detection
 Paper: A Generalized Method for Automated Multilingual Loanword Detection
+
 Authors: Abhijnan Nath, Sina Mahdipour Saravani, Ibrahim Khebour, Sheikh Mannan, Zihui Li, and Nikhil Krishnaswamy
+
 Published at COLING 2022
 
 * `supported_languages.txt` lists the languages our system currently supports in principle.  We have evaluated on English-French, English-German, Indonesian-Dutch, Polish-French, Romanian-French, Kazakh-Russian, Persian-Arabic, Romanian-Hungarian, German-French, Hindi-Persian, Finnish-Swedish, Azerbaijani-Arabic, Mandarin-English, Hungarian-German, German-Italian, and Catalan-Arabic.
